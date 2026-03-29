@@ -1,5 +1,5 @@
 plane = {
-	icon = 19
+	icon = 9
 	
 	type = land
 	sprite = Plane
@@ -14,8 +14,7 @@ plane = {
 	default_organisation = 30
 	maximum_speed = 5.00
 	weighted_value = 10.0
-
-
+	
 	#Building Costs
 	build_time = 120
 	build_cost = {
@@ -34,7 +33,6 @@ plane = {
 		fuel = 0.4				#10
 	}							#31.2
 	
-
 	#Land Abilties
 	reconnaissance = 6
 	attack = 5

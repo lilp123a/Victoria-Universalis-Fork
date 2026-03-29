@@ -1,10 +1,11 @@
 engineer = {
-	icon = 16
+	icon = 7
 	
 	type = land
 	sprite = Engineer
 	active = no
 	unit_type = special
+	
 	#Core Abilities
 	priority = 15
 	max_strength = 3
@@ -12,8 +13,7 @@ engineer = {
 	maximum_speed = 5.00
 	weighted_value = 3.0
 	floating_flag = no
-
-
+	
 	#Building Costs
 	build_time = 120
 	build_cost = {
@@ -30,7 +30,6 @@ engineer = {
 		explosives = 0.15		#3
 	}							#5.84
 	
-
 	#Land Abilties
 	reconnaissance = 0
 	attack = 3
@@ -39,5 +38,4 @@ engineer = {
 	support = 1
 	maneuver = 1
 	siege = 1
-
 }

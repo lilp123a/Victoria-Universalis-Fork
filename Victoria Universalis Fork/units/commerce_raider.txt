@@ -1,5 +1,7 @@
 commerce_raider = {
-	icon = 8
+	# "Torpedo Boat"
+	
+	icon = 13
 	naval_icon = 5
 	
 	type = naval
@@ -19,8 +21,7 @@ commerce_raider = {
 	maximum_speed = 10
 	weighted_value = 5.0
 	can_build_overseas = yes
-
-
+	
 	#Building Costs
 	build_time = 360
 	build_cost = {
@@ -45,4 +46,3 @@ commerce_raider = {
 	fire_range = 0.3
 	torpedo_attack = 0.5
 }
-

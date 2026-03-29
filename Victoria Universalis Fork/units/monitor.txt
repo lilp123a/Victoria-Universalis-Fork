@@ -1,5 +1,7 @@
 monitor = {
-	icon = 10
+	# "Submarine Flotilla"
+	
+	icon = 14
 	naval_icon = 7
 	
 	type = naval
@@ -19,8 +21,7 @@ monitor = {
 	maximum_speed = 14
 	weighted_value = 5.0
 	can_build_overseas = yes
-
-
+	
 	#Building Costs
 	build_time = 360
 	build_cost = {
@@ -47,4 +48,3 @@ monitor = {
 	torpedo_attack = 10
 	evasion = 0.35
 }
-

@@ -1,5 +1,5 @@
 tank = {
-	icon = 20
+	icon = 8
 	
 	type = land
 	sprite = Tank
@@ -14,8 +14,7 @@ tank = {
 	default_organisation = 30
 	maximum_speed = 4.00
 	weighted_value = 10.0
-
-
+	
 	#Building Costs
 	build_time = 120
 	build_cost = {
@@ -33,7 +32,6 @@ tank = {
 		fuel = 0.4				#10
 	}							#38.12
 	
-
 	#Land Abilties
 	reconnaissance = 0
 	attack = 24
@@ -42,5 +40,4 @@ tank = {
 	support = 0.25
 	maneuver = 1
 	siege = 3
-	
 }

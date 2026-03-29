@@ -1,5 +1,5 @@
 cruiser = {
-	icon = 11
+	icon = 15
 	naval_icon = 8
 	
 	type = naval
@@ -10,7 +10,7 @@ cruiser = {
 	move_sound = steam_move
 	select_sound = steam_selected
 	colonial_points = 20
-
+	
 	#Core Abilities
 	priority = 12
 	max_strength = 100
@@ -19,8 +19,7 @@ cruiser = {
 	weighted_value = 8.0
 	floating_flag = yes
 	can_build_overseas = yes
-
-
+	
 	#Building Costs
 	build_time = 360
 	build_cost = {

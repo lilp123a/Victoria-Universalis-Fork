@@ -1,5 +1,5 @@
 cuirassier = {
-	icon = 13
+	icon = 20
 	
 	type = land
 	sprite = Artillery
@@ -12,15 +12,13 @@ cuirassier = {
 	#sprite_mount_attach_node = Saddle_Node
 	floating_flag = yes
 	
-	
 	#Core Abilities
 	priority = 20
 	max_strength = 3
 	default_organisation = 30
 	maximum_speed = 4.00
 	weighted_value = 3.0
-
-
+	
 	#Building Costs
 	build_time = 120
 	build_cost = {
@@ -34,7 +32,6 @@ cuirassier = {
 		canned_food = 0.1		#0.8
 	}							#5.6
 	
-
 	#Land Abilties
 	reconnaissance = 0
 	attack = 1
@@ -42,5 +39,4 @@ cuirassier = {
 	discipline = 1.0
 	support = 2
 	maneuver = 1
-	
 }

@@ -10,15 +10,14 @@ cavalry = {
 	#Avatar
 	sprite_mount = GenericMount
 	sprite_mount_attach_node = Saddle_Node
-
+	
 	#Core Abilities
 	priority = 25
 	max_strength = 3
 	default_organisation = 25
 	maximum_speed = 6.00
 	weighted_value = 4.0
-
-
+	
 	#Building Costs
 	build_time = 45
 	build_cost = {
@@ -31,7 +30,6 @@ cavalry = {
 		wool = 0.1			#0.16
 	}						#1.08
 	
-
 	#Land Abilties
 	reconnaissance = 1
 	attack = 3
@@ -39,5 +37,4 @@ cavalry = {
 	discipline = 1.0
 	support = 0.0
 	maneuver = 5
-	
 }

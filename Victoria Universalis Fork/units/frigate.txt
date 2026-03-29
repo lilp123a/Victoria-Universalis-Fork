@@ -1,5 +1,5 @@
 frigate = {
-	icon = 5
+	icon = 12
 	naval_icon = 2
 	
 	sail = yes
@@ -18,7 +18,7 @@ frigate = {
 	maximum_speed = 8
 	weighted_value = 2.0
 	can_build_overseas = yes
-
+	
 	#Building Costs
 	build_time = 240
 	build_cost = {
@@ -41,4 +41,3 @@ frigate = {
 	fire_range = 0.1
 	evasion = 0
 }
-

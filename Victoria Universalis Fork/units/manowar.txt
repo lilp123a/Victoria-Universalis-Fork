@@ -1,6 +1,7 @@
 manowar = {
-	icon = 4
+	icon = 16
 	naval_icon = 1
+	
 	sail = yes
 	
 	type = naval
@@ -9,7 +10,7 @@ manowar = {
 	capital = yes
 	floating_flag = yes
 	colonial_points = 5
-
+	
 	#Core Abilities
 	priority = 25
 	max_strength = 100
@@ -17,8 +18,7 @@ manowar = {
 	maximum_speed = 5
 	weighted_value = 3.0
 	can_build_overseas = yes
-
-
+	
 	#Building Costs
 	build_time = 240
 	build_cost = {
@@ -41,4 +41,3 @@ manowar = {
 	fire_range = 0.3
 	evasion = 0
 }
-

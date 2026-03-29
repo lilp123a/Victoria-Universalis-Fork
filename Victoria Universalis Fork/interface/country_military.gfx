@@ -72,15 +72,12 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\military_bg.dds"
 	}
 	
-	#unit folders.
+	### Unit Folders
+	
+	# Army
 	spriteType = {
 		name = "GFX_unit_folder_army_0_irregular"
 		texturefile = "gfx\\interface\\unit_folder_army_0_irregular.dds"
-		noOfFrames = 2
-	}
-	spriteType = {
-		name = "GFX_unit_folder_army_1_infantry"
-		texturefile = "gfx\\interface\\unit_folder_army_1_infantry.dds"
 		noOfFrames = 2
 	}
 	spriteType = {
@@ -89,13 +86,8 @@ spriteTypes = {
 		noOfFrames = 2
 	}
 	spriteType = {
-		name = "GFX_unit_folder_army_3_artillery"
-		texturefile = "gfx\\interface\\unit_folder_army_3_artillery.dds"
-		noOfFrames = 2
-	}
-	spriteType = {
-		name = "GFX_unit_folder_army_4_engineer"
-		texturefile = "gfx\\interface\\unit_folder_army_4_engineer.dds"
+		name = "GFX_unit_folder_army_1_infantry"
+		texturefile = "gfx\\interface\\unit_folder_army_1_infantry.dds"
 		noOfFrames = 2
 	}
 	spriteType = {
@@ -104,18 +96,18 @@ spriteTypes = {
 		noOfFrames = 2
 	}
 	spriteType = {
-		name = "GFX_unit_folder_army_6_dragoon"
-		texturefile = "gfx\\interface\\unit_folder_army_6_dragoon.dds"
-		noOfFrames = 2
-	}
-	spriteType = {
-		name = "GFX_unit_folder_army_7_cuirassier"
-		texturefile = "gfx\\interface\\unit_folder_army_7_cuirassier.dds"
+		name = "GFX_unit_folder_army_3_artillery"
+		texturefile = "gfx\\interface\\unit_folder_army_3_artillery.dds"
 		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_unit_folder_army_8_hussar"
 		texturefile = "gfx\\interface\\unit_folder_army_8_hussar.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_unit_folder_army_4_engineer"
+		texturefile = "gfx\\interface\\unit_folder_army_4_engineer.dds"
 		noOfFrames = 2
 	}
 	spriteType = {
@@ -128,24 +120,23 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\unit_folder_army_10_plane.dds"
 		noOfFrames = 2
 	}
+	
+	# Unavailable
 	spriteType = {
-		name = "GFX_unit_folder_army_11_horse_artillery"
-		texturefile = "gfx\\interface\\unit_folder_army_11_horse_artillery.dds"
+		name = "GFX_unit_folder_army_6_dragoon"
+		texturefile = "gfx\\interface\\unit_folder_army_6_dragoon.dds"
 		noOfFrames = 2
 	}
+	spriteType = {
+		name = "GFX_unit_folder_army_7_cuirassier"
+		texturefile = "gfx\\interface\\unit_folder_army_7_cuirassier.dds"
+		noOfFrames = 2
+	}
+	
+	# Navy
 	spriteType = {
 		name = "GFX_unit_folder_navy_0_clipper_transport"
 		texturefile = "gfx\\interface\\unit_folder_navy_0_clipper_transport.dds"
-		noOfFrames = 2
-	}
-	spriteType = {
-		name = "GFX_unit_folder_navy_1_frigate"
-		texturefile = "gfx\\interface\\unit_folder_navy_1_frigate.dds"
-		noOfFrames = 2
-	}
-	spriteType = {
-		name = "GFX_unit_folder_navy_2_manowar"
-		texturefile = "gfx\\interface\\unit_folder_navy_2_manowar.dds"
 		noOfFrames = 2
 	}
 	spriteType = {
@@ -154,13 +145,13 @@ spriteTypes = {
 		noOfFrames = 2
 	}
 	spriteType = {
-		name = "GFX_unit_folder_navy_4_commerce_raider"
-		texturefile = "gfx\\interface\\unit_folder_navy_4_commerce_raider.dds"
+		name = "GFX_unit_folder_navy_1_frigate"
+		texturefile = "gfx\\interface\\unit_folder_navy_1_frigate.dds"
 		noOfFrames = 2
 	}
 	spriteType = {
-		name = "GFX_unit_folder_navy_5_ironclad"
-		texturefile = "gfx\\interface\\unit_folder_navy_5_ironclad.dds"
+		name = "GFX_unit_folder_navy_4_commerce_raider"
+		texturefile = "gfx\\interface\\unit_folder_navy_4_commerce_raider.dds"
 		noOfFrames = 2
 	}
 	spriteType = {
@@ -174,8 +165,13 @@ spriteTypes = {
 		noOfFrames = 2
 	}
 	spriteType = {
-		name = "GFX_unit_folder_navy_8_dreadnought"
-		texturefile = "gfx\\interface\\unit_folder_navy_8_dreadnought.dds"
+		name = "GFX_unit_folder_navy_2_manowar"
+		texturefile = "gfx\\interface\\unit_folder_navy_2_manowar.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_unit_folder_navy_5_ironclad"
+		texturefile = "gfx\\interface\\unit_folder_navy_5_ironclad.dds"
 		noOfFrames = 2
 	}
 	spriteType = {
@@ -184,8 +180,8 @@ spriteTypes = {
 		noOfFrames = 2
 	}
 	spriteType = {
-		name = "GFX_unit_folder_navy_10_carrier"
-		texturefile = "gfx\\interface\\unit_folder_navy_10_carrier.dds"
+		name = "GFX_unit_folder_navy_8_dreadnought"
+		texturefile = "gfx\\interface\\unit_folder_navy_8_dreadnought.dds"
 		noOfFrames = 2
 	}
 	

@@ -1,5 +1,5 @@
 hussar = {
-	icon = 15
+	icon = 6
 	
 	type = land
 	sprite = Hussar
@@ -18,8 +18,7 @@ hussar = {
 	default_organisation = 30
 	maximum_speed = 6.00
 	weighted_value = 7.0
-
-
+	
 	#Building Costs
 	build_time = 120
 	build_cost = {
@@ -34,7 +33,6 @@ hussar = {
 		grain = 0.4				#0.92
 	}							#3.6
 	
-
 	#Land Abilties
 	reconnaissance = 2
 	attack = 3
@@ -42,5 +40,4 @@ hussar = {
 	discipline = 1.0
 	support = 0.0
 	maneuver = 5
-	
 }

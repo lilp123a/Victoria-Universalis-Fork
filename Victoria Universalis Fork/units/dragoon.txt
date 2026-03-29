@@ -1,5 +1,5 @@
 dragoon = {
-	icon = 14
+	icon = 21
 	
 	type = land
 	sprite = Dragoon
@@ -18,8 +18,7 @@ dragoon = {
 	default_organisation = 30
 	maximum_speed = 6.00
 	weighted_value = 6.0
-
-
+	
 	#Building Costs
 	build_time = 120
 	build_cost = {
@@ -35,7 +34,6 @@ dragoon = {
 		grain = 0.4				#0.92
 	}							#4.56
 	
-
 	#Land Abilties
 	reconnaissance = 1
 	attack = 5
@@ -43,5 +41,4 @@ dragoon = {
 	discipline = 1.0
 	support = 0.0
 	maneuver = 5
-	
 }

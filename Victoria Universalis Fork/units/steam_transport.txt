@@ -1,5 +1,5 @@
 steam_transport = {
-	icon = 7
+	icon = 11
 	naval_icon = 4
 	
 	type = naval
@@ -11,7 +11,7 @@ steam_transport = {
 	select_sound = steam_selected
 	floating_flag = yes
 	colonial_points = 2
-
+	
 	#Core Abilities
 	priority = 10
 	max_strength = 100
@@ -19,7 +19,7 @@ steam_transport = {
 	maximum_speed = 10
 	weighted_value = 4.0
 	can_build_overseas = yes
-
+	
 	#Building Costs
 	build_time = 150
 	build_cost = {
@@ -40,4 +40,3 @@ steam_transport = {
 	fire_range = 0
 	evasion = 0
 }
-

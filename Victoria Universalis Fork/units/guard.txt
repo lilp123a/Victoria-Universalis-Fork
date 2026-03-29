@@ -1,5 +1,5 @@
 guard = {
-	icon = 18
+	icon = 4
 	
 	type = land
 	sprite = Guard
@@ -7,15 +7,14 @@ guard = {
 	unit_type = infantry
 	#primary_culture = yes
 	floating_flag = no
-
+	
 	#Core Abilities
 	priority = 18
 	max_strength = 3
 	default_organisation = 30
 	maximum_speed = 4.00
 	weighted_value = 9.0
-
-
+	
 	#Building Costs
 	build_time = 90
 	build_cost = {
@@ -31,7 +30,6 @@ guard = {
 		canned_food = 0.25		#2
 	}							#10
 	
-
 	#Land Abilties
 	reconnaissance = 0
 	attack = 9

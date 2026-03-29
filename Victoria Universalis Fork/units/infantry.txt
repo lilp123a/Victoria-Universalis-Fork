@@ -1,5 +1,5 @@
 infantry = {
-	icon = 1
+	icon = 3
 	
 	type = land
 	sprite = Infantry
@@ -13,8 +13,7 @@ infantry = {
 	default_organisation = 30
 	maximum_speed = 4.00
 	weighted_value = 2.0
-
-
+	
 	#Building Costs
 	build_time = 90
 	build_cost = {
@@ -27,9 +26,8 @@ infantry = {
 		small_arms = 0.08		#1.44
 		ammunition = 0.09		#1.26
 		canned_food = 0.08		#0.64
-	}							#3.35
+	}							#3.35	
 	
-
 	#Land Abilties
 	reconnaissance = 0
 	attack = 4

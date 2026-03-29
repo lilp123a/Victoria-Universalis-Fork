@@ -1,5 +1,5 @@
 battleship = {
-	icon = 21
+	icon = 18
 	naval_icon = 10
 	
 	type = naval
@@ -19,8 +19,7 @@ battleship = {
 	maximum_speed = 9
 	weighted_value = 50.0
 	can_build_overseas = yes
-
-
+	
 	#Building Costs
 	build_time = 900
 	build_cost = {

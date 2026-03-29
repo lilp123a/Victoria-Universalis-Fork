@@ -1,13 +1,16 @@
-#naval_doctrine
+######################
+### NAVAL DOCTRINE ###
+######################
+
 post_nelsonian_thought = {
 	area = naval_doctrine
 	year = 1836
 	cost = 3600
 	unciv_military = yes
+	
 	activate_building = naval_base
 	colonial_points = 100
-
-
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -94,15 +97,15 @@ post_nelsonian_thought = {
 		}
 	}
 }
+
 battleship_column_doctrine = {
 	area = naval_doctrine
 	year = 1836
 	cost = 7200
 	unciv_military = yes
+	
 	max_naval_base = 1
-	#colonial_points = 200 #no free lunch!
-
-
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -189,12 +192,15 @@ battleship_column_doctrine = {
 		}
 	}
 }
+
 raider_group_doctrine = {
 	area = naval_doctrine
 	year = 1855
 	cost = 10800
 	unciv_military = yes
+	
 	max_naval_base = 1
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -281,12 +287,15 @@ raider_group_doctrine = {
 		}
 	}
 }
+
 blue_and_brown_water_schools = {
 	area = naval_doctrine
 	year = 1875
 	cost = 14400
 	unciv_military = yes
+	
 	max_naval_base = 1
+	
 	ai_chance = {
 		modifier = {
 			factor = 10
@@ -379,8 +388,9 @@ high_sea_battle_fleet = {
 	year = 1895
 	cost = 18000
 	unciv_military = yes
+	
 	max_naval_base = 1
-
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -467,12 +477,15 @@ high_sea_battle_fleet = {
 		}
 	}
 }
+
 early_modern_naval_doctrine = {
 	area = naval_doctrine
 	year = 1910
 	cost = 21600
 	unciv_military = yes
+	
 	max_naval_base = 1
+	
 	ai_chance = {
 		modifier = {
 			factor = 10
@@ -559,12 +572,15 @@ early_modern_naval_doctrine = {
 		}
 	}
 }
+
 modern_naval_doctrine = {
 	area = naval_doctrine
 	year = 1920
 	cost = 21600
 	unciv_military = yes
+	
 	max_naval_base = 1
+	
 	ai_chance = {
 		modifier = {
 			factor = 10
@@ -652,14 +668,18 @@ modern_naval_doctrine = {
 	}
 }
 
+#########################
+### SHIP CONSTRUCTION ###
+#########################
 
-#ship_construction
 clipper_design = {
 	area = ship_construction
 	year = 1836
 	cost = 3600
 	unciv_military = yes
+	
 	activate_building = clipper_shipyard
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -695,7 +715,7 @@ clipper_design = {
 			factor = 1.05
 			tech_school = naval_tech_school
 		}
-		# Valuable for major producers of fish (+50% output invention)
+		# Valuable for major producers of fish (+10% output invention)
 		modifier = {
 			factor = 1.03
 			big_producer = fish
@@ -753,12 +773,15 @@ clipper_design = {
 		}
 	}
 }
+
 steamers = {
 	area = ship_construction
 	year = 1836
 	cost = 7200
 	unciv_military = yes
-	activate_building = steamer_shipyard 
+	
+	activate_building = steamer_shipyard
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -794,7 +817,7 @@ steamers = {
 			factor = 1.05
 			tech_school = naval_tech_school
 		}
-		# Valuable for major producers of fish (+50% output invention)
+		# Valuable for major producers of fish (+10% output invention)
 		modifier = {
 			factor = 1.03
 			big_producer = fish
@@ -852,11 +875,13 @@ steamers = {
 		}
 	}
 }
+
 iron_steamers = {
 	area = ship_construction
 	year = 1855
 	cost = 10800
 	unciv_military = yes
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -945,11 +970,13 @@ iron_steamers = {
 		}
 	}
 }
+
 steel_steamers = {
 	area = ship_construction
 	year = 1880
 	cost = 14400
 	unciv_military = yes
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -1038,11 +1065,13 @@ steel_steamers = {
 		}
 	}
 }
+
 steam_turbine_ships = {
 	area = ship_construction
 	year = 1900
 	cost = 18000
 	unciv_military = yes
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -1131,12 +1160,17 @@ steam_turbine_ships = {
 		}
 	}
 }
+
 oil_driven_ships = {
 	area = ship_construction
 	year = 1910
 	cost = 21600
 	unciv_military = yes
-	navy_base = { maximum_speed = 2 } 
+	
+	navy_base = {
+		maximum_speed = 2
+	}
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -1225,11 +1259,13 @@ oil_driven_ships = {
 		}
 	}
 }
+
 aircraft_carriers = {
 	area = ship_construction
 	year = 1920
 	cost = 21600
 	unciv_military = yes
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -1319,16 +1355,21 @@ aircraft_carriers = {
 	}
 }
 
-#naval_engineering
+#########################
+### NAVAL ENGINEERING ###
+#########################
+
 naval_design_bureaus = {
 	area = naval_engineering
 	year = 1836
 	cost = 3600
+	unciv_military = yes
+	
 	navy_base = {
 		build_time = -10
 		maximum_speed = 2
 	}
-	unciv_military = yes
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -1356,12 +1397,17 @@ naval_design_bureaus = {
 		}
 	}
 }
+
 fire_control_systems = {
 	area = naval_engineering
 	year = 1836
 	cost = 7200
 	unciv_military = yes
-	navy_base = { build_time = -10 }
+	
+	navy_base = {
+		build_time = -10
+	}
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -1395,8 +1441,15 @@ weapon_platforms = {
 	year = 1865
 	cost = 10800
 	unciv_military = yes
-	navy_base = { build_time = -10 }
-	commerce_raider = { build_time = -40 }
+	
+	navy_base = {
+		build_time = -10
+	}
+	
+	commerce_raider = {
+		build_time = -40
+	}
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -1424,13 +1477,21 @@ weapon_platforms = {
 		}
 	}
 }
+
 main_armament = {
 	area = naval_engineering
 	year = 1880
 	cost = 14400
 	unciv_military = yes
-	navy_base = { build_time = -10 }
-	ironclad = { build_time = -40 }
+	
+	navy_base = {
+		build_time = -10
+	}
+	
+	ironclad = {
+		build_time = -40
+	}
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -1458,14 +1519,25 @@ main_armament = {
 		}
 	}
 }
+
 advanced_naval_design = {
 	area = naval_engineering
 	year = 1900
 	cost = 18000
 	unciv_military = yes
-	navy_base = { build_time = -10 }
-	cruiser = { build_time = -40 }
-	battleship = { build_time = -180 }
+	
+	navy_base = {
+		build_time = -10
+	}
+	
+	cruiser = {
+		build_time = -40
+	}
+	
+	battleship = {
+		build_time = -180
+	}
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -1493,16 +1565,25 @@ advanced_naval_design = {
 		}
 	}
 }
+
 early_modern_naval_design = {
 	area = naval_engineering
 	year = 1910
 	cost = 21600
 	unciv_military = yes
-	navy_base = { build_time = -10 }
-	cruiser = { build_time = -40 }
+	
+	navy_base = {
+		build_time = -10
+	}
+	
+	cruiser = {
+		build_time = -40
+	}
+	
 	dreadnought = {
 		build_time = -360
 	}
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -1530,17 +1611,26 @@ early_modern_naval_design = {
 		}
 	}
 }
+
 modern_naval_design = {
 	area = naval_engineering
 	year = 1920
 	cost = 21600
 	unciv_military = yes
-	navy_base = { build_time = -10 }
-	monitor = { build_time = -40 }
+	
+	navy_base = {
+		build_time = -10
+	}
+	
+	monitor = {
+		build_time = -40
+	}
+	
 	carrier = {
 		build_time = -360
 		hull = 5
 	}
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -1569,12 +1659,16 @@ modern_naval_design = {
 	}
 }
 
-#naval_science
+#####################
+### NAVAL SCIENCE ###
+#####################
+
 alphabetic_flag_signaling = {
 	area = naval_science
 	year = 1836
 	cost = 3600
 	unciv_military = yes
+	
 	supply_range = 0.10
 	
 	ai_chance = {
@@ -1604,11 +1698,13 @@ alphabetic_flag_signaling = {
 		}
 	}
 }
+
 naval_plans = {
 	area = naval_science
 	year = 1836
 	cost = 7200
 	unciv_military = yes
+	
 	supply_range = 0.10
 	
 	ai_chance = {
@@ -1638,11 +1734,13 @@ naval_plans = {
 		}
 	}
 }
+
 naval_statistics = {
 	area = naval_science
 	year = 1836
 	cost = 10800
 	unciv_military = yes
+	
 	supply_range = 0.10
 
 	ai_chance = {
@@ -1672,11 +1770,13 @@ naval_statistics = {
 		}
 	}
 }
+
 naval_logistics = {
 	area = naval_science
 	year = 1870
 	cost = 14400
 	unciv_military = yes
+	
 	supply_range = 0.10
 
 	ai_chance = {
@@ -1706,12 +1806,15 @@ naval_logistics = {
 		}
 	}
 }
+
 naval_directionism = {
 	area = naval_science
 	year = 1900
 	cost = 18000
 	unciv_military = yes
+	
 	supply_range = 0.10
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -1739,11 +1842,13 @@ naval_directionism = {
 		}
 	}
 }
+
 naval_integration = {
 	area = naval_science
 	year = 1910
 	cost = 21600
 	unciv_military = yes
+	
 	supply_range = 0.10
 
 	ai_chance = {
@@ -1773,11 +1878,13 @@ naval_integration = {
 		}
 	}
 }
+
 naval_aviation = {
 	area = naval_science
 	year = 1920
 	cost = 21600
 	unciv_military = yes
+	
 	supply_range = 0.10
 
 	ai_chance = {
@@ -1808,16 +1915,20 @@ naval_aviation = {
 	}
 }
 
+########################
+### NAVAL LEADERSHIP ###
+########################
 
-#naval_leadership
 the_command_principle = {
 	area = naval_leadership
 	year = 1836
 	cost = 3600
 	unciv_military = yes
+	
 	navy_base = {
 		default_organisation = 5
 	}
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -1845,14 +1956,17 @@ the_command_principle = {
 		}
 	}
 }
+
 naval_professionalism = {
 	area = naval_leadership
 	year = 1836
 	cost = 7200
 	unciv_military = yes
+	
 	navy_base = {
 		default_organisation = 5
 	}
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -1880,14 +1994,17 @@ naval_professionalism = {
 		}
 	}
 }
+
 naval_decision_making = {
 	area = naval_leadership
 	year = 1850
 	cost = 10800
 	unciv_military = yes
+	
 	navy_base = {
 		default_organisation = 5
 	}
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -1915,14 +2032,17 @@ naval_decision_making = {
 		}
 	}
 }
+
 naval_risk_management = {
 	area = naval_leadership
 	year = 1870
 	cost = 14400
 	unciv_military = yes
+	
 	navy_base = {
 		default_organisation = 5
 	}
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -1950,14 +2070,17 @@ naval_risk_management = {
 		}
 	}
 }
+
 naval_nco_training = {
 	area = naval_leadership
 	year = 1900
 	cost = 18000
 	unciv_military = yes
+	
 	navy_base = {
 		default_organisation = 5
 	}
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -1985,14 +2108,17 @@ naval_nco_training = {
 		}
 	}
 }
+
 early_modern_naval_training = {
 	area = naval_leadership
 	year = 1910
 	cost = 21600
 	unciv_military = yes
+	
 	navy_base = {
 		default_organisation = 5
 	}
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -2020,14 +2146,17 @@ early_modern_naval_training = {
 		}
 	}
 }
+
 modern_naval_training = {
 	area = naval_leadership
 	year = 1920
 	cost = 21600
 	unciv_military = yes
+	
 	navy_base = {
 		default_organisation = 5
 	}
+	
 	ai_chance = {
 		factor = 1
 		modifier = {

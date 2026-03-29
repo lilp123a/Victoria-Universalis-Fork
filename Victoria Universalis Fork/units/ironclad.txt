@@ -1,5 +1,5 @@
 ironclad = {
-	icon = 9
+	icon = 17
 	naval_icon = 6
 	
 	type = naval
@@ -11,16 +11,14 @@ ironclad = {
 	active = no
 	floating_flag = yes
 	colonial_points = 16
-
-
+	
 	#Core Abilities
 	priority = 35
 	max_strength = 100
 	default_organisation = 40
 	maximum_speed = 6
 	weighted_value = 6.0
-
-
+	
 	#Building Costs
 	build_time = 360
 	build_cost = {	
@@ -45,4 +43,3 @@ ironclad = {
 	fire_range = 0.4
 	evasion = 0
 }
-
