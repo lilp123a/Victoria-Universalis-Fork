@@ -657,13 +657,14 @@ factory_automation_infrastructure = {
 	limit = { mechanized_manufacturing = 1 }
 	chance = {
 		base = 2
-		modifier = {
-			factor = 2
-			invention = scientific_management
-		}
+		
 		modifier = {
 			factor = 2
 			invention = control_theory
+		}
+		modifier = {
+			factor = 2
+			scientific_management = 1
 		}
 	}
 	effect = {

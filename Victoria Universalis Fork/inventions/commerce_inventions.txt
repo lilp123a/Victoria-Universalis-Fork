@@ -490,6 +490,14 @@ qng_mil_nerf = {
 			attack = -2
 			defence = -2
 		}
+		artillery = {
+			attack = -0.5
+			defence = -0.5
+		}
+		hussar = {
+			attack = -1
+			defence = -1
+		}
 		irregular = {
 			attack = -1
 			defence = -1
@@ -497,26 +505,6 @@ qng_mil_nerf = {
 		cavalry = {
 			attack = -1.5
 			defence = -0.4
-		}
-		dragoon = {
-			attack = -2
-			defence = -0.5
-		}
-		hussar = {
-			attack = -1
-			defence = -1
-		}
-		cuirassier = {
-			attack = -0.3
-			defence = -0.3
-		}
-		artillery = {
-			attack = -0.5
-			defence = -0.5
-		}
-		horse_artillery = {
-			attack = -0.3
-			defence = -0.3
 		}
 	}
 }
