@@ -1,9 +1,13 @@
-#stock_exchange
+######################
+### STOCK EXCHANGE ###
+######################
+
 multitude_of_financial_instruments = {
 	limit = { stock_exchange = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			nationalvalue = nv_liberty
@@ -13,15 +17,18 @@ multitude_of_financial_instruments = {
 			trade_policy = free_trade
 		}
 	}
+	
 	effect = {
 		tax_eff = 1
 	}
 }
+
 insurance_companies = {
 	limit = { stock_exchange = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -31,15 +38,18 @@ insurance_companies = {
 			slavery = no_slavery
 		}
 	}
+	
 	effect = {
 		tax_eff = 1 
 	}
 }
+
 regulated_buying_and_selling_of_stocks = {
 	limit = { stock_exchange = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -49,16 +59,22 @@ regulated_buying_and_selling_of_stocks = {
 			economic_policy = state_capitalism
 		}
 	}
+	
 	effect = {
 		tax_eff = 1 
 	}
 }
-#business_banks
+
+######################
+### BUSINESS BANKS ###
+######################
+
 liquidation_of_assets = {
 	limit = { business_banks = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			economic_policy = laissez_faire
@@ -68,15 +84,18 @@ liquidation_of_assets = {
 			trade_policy = protectionism
 		}
 	}
+	
 	effect = {
 		factory_cost = -0.01
 	}
 }
+
 capital_for_investors = {
 	limit = { business_banks = 1 }
-	news = no
+	
 	chance = {
-		base= 2
+		base = 2
+		
 		modifier = {
 			factor = 3
 			economic_policy = interventionism
@@ -86,15 +105,18 @@ capital_for_investors = {
 			ruling_party_ideology = conservative
 		}
 	}
+	
 	effect = {
 		factory_cost = -0.01 
 	}
 }
+
 distribution_channels = {
 	limit = { business_banks = 1 }
-	news = no
+	
 	chance = {
 		base = 4
+		
 		modifier = {
 			factor = 2
 			ruling_party_ideology = liberal
@@ -104,17 +126,23 @@ distribution_channels = {
 			economic_policy = laissez_faire
 		}
 	}
+	
 	effect = {
 		factory_cost = -0.01
 		farm_RGO_eff = 0.1
 	}
 }
-#investment_banks
+
+########################
+### INVESTMENT BANKS ###
+########################
+
 industrial_rnd_investments = {
 	limit = { investment_banks = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 1
 			economic_policy = state_capitalism
@@ -124,15 +152,18 @@ industrial_rnd_investments = {
 			trade_policy = protectionism
 		}
 	}
+	
 	effect = {
 		factory_cost = -0.01
 	}
 }
+
 industrial_production_investments = {
 	limit = { investment_banks = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = state_capitalism
@@ -142,15 +173,18 @@ industrial_production_investments = {
 			trade_policy = free_trade
 		}
 	}
+	
 	effect = {
 		factory_cost = -0.01
 	}
 }
+
 industrial_distribution_investments = {
 	limit = { investment_banks = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = state_capitalism
@@ -160,16 +194,22 @@ industrial_distribution_investments = {
 			ruling_party_ideology = liberal
 		}
 	}
+	
 	effect = {
 		tax_eff = 1 
 	}
 }
-#bank_inspection_board
+
+#############################
+### BANK INSPECTION BOARD ###
+#############################
+
 private_bank_monitoring = {
 	limit = { bank_inspection_board = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 1
 			economic_policy = interventionism
@@ -183,16 +223,22 @@ private_bank_monitoring = {
 			nationalvalue = nv_order
 		}
 	}
+	
 	effect = {
 		tax_eff = 1 
 	}
 }
-#mutual_funds
+
+####################
+### MUTUAL FUNDS ###
+####################
+
 buying_on_margin = {
 	limit = { mutual_funds = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			ruling_party_ideology = liberal
@@ -202,15 +248,18 @@ buying_on_margin = {
 			nationalvalue = nv_liberty
 		}
 	}
+	
 	effect = {
 		factory_cost = -0.1
 	}
 }
+
 derivatives = {
 	limit = { mutual_funds = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			ruling_party_ideology = liberal
@@ -220,16 +269,22 @@ derivatives = {
 			nationalvalue = nv_liberty
 		}
 	}
+	
 	effect = {
 		tax_eff = 1
 	}
 }
-#modern_financial_institutions
+
+#####################################
+### MODERN FINANCIAL INSTITUTIONS ###
+#####################################
+
 venture_capital = {
 	limit = { modern_financial_institutions = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			ruling_party_ideology = liberal
@@ -243,15 +298,18 @@ venture_capital = {
 			nationalvalue = nv_liberty
 		}
 	}
+	
 	effect = {
 		factory_cost = -0.1
 	}
 }
+
 money_markets = {
 	limit = { modern_financial_institutions = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			ruling_party_ideology = liberal
@@ -265,16 +323,22 @@ money_markets = {
 			nationalvalue = nv_liberty
 		}
 	}
+	
 	effect = {
 		tax_eff = 1
 	}
 }
-#no_standard
+
+###########################
+### OFFICIAL CURRENCIES ###
+###########################
+
 silver_standard = {
 	limit = { no_standard = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 1
 			nationalvalue = nv_equality
@@ -284,16 +348,22 @@ silver_standard = {
 			economic_policy = interventionism
 		}
 	}
+	
 	effect = {
 		tax_eff = 4
 	}
 }
-#ad_hoc_money_bill_printing
+
+##################################
+### AD-HOC MONEY BILL PRINTING ###
+##################################
+
 decimal_monetary_system = {
 	limit = { ad_hoc_money_bill_printing = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			nationalvalue = nv_order
@@ -303,16 +373,22 @@ decimal_monetary_system = {
 			economic_policy = interventionism
 		}
 	}
+	
 	effect = {
 		tax_eff = 3 
 	}
 }
-#private_bank_money_bill_printing
+
+########################################
+### PRIVATE BANK MONEY BILL PRINTING ###
+########################################
+
 double_standard = {
 	limit = { private_bank_money_bill_printing = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			invention = silver_standard
@@ -322,15 +398,18 @@ double_standard = {
 			average_consciousness = 3
 		}
 	}
+	
 	effect = {
 		tax_eff = 2 
 	}
 }
+
 fixed_intramonetary_exchange_rates = {
 	limit = { private_bank_money_bill_printing = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			average_consciousness = 2
@@ -340,16 +419,22 @@ fixed_intramonetary_exchange_rates = {
 			economic_policy = planned_economy
 		}
 	}
+	
 	effect = {
 		tax_eff = 1 
 	}
 }
-#central_bank_money_bill_printing
+
+########################################
+### CENTRAL BANK MONEY BILL PRINTING ###
+########################################
+
 gold_standard = {
 	limit = { central_bank_money_bill_printing = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			invention = double_standard
@@ -359,16 +444,22 @@ gold_standard = {
 			economic_policy = laissez_faire
 		}
 	}
+	
 	effect = {
 		tax_eff = 2
 	}
 }
-#modern_central_bank_system
+
+##################################
+### MODERN CENTRAL BANK SYSTEM ###
+##################################
+
 state_bond_monetary_mechanism = {
 	limit = { modern_central_bank_system = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			nationalvalue = nv_order
@@ -378,16 +469,22 @@ state_bond_monetary_mechanism = {
 			economic_policy = interventionism
 		}
 	}
+	
 	effect = {
 		tax_eff = 2
 	}
 }
-#market_determined_exchange_rates
+
+########################################
+### MARKET-DETERMINED EXCHANGE RATES ###
+########################################
+
 international_monetary_exchange_rates = {
 	limit = { market_determined_exchange_rates = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			invention = fixed_intramonetary_exchange_rates
@@ -401,15 +498,18 @@ international_monetary_exchange_rates = {
 			is_greater_power = yes
 		}
 	}
+	
 	effect = {
 		tax_eff = 1 
 	}
 }
+
 market_behaviour_monitoring = {
 	limit = { market_determined_exchange_rates = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			nationalvalue = nv_order
@@ -419,16 +519,22 @@ market_behaviour_monitoring = {
 			ruling_party_ideology = socialist
 		}
 	}
+	
 	effect = {
 		tax_eff = 1 
 	}
 }
-#fiat_based_monetary_system
+
+############################
+### FIAT MONETARY SYSTEM ###
+############################
+
 interest_inflation_weapon = {
 	limit = { fiat_based_monetary_system = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			invention = international_monetary_exchange_rates
@@ -442,15 +548,18 @@ interest_inflation_weapon = {
 			trade_policy = protectionism
 		}
 	}
+	
 	effect = {
 		tax_eff = 1
 	}
 }
+
 hyperinflation = {
 	limit = { fiat_based_monetary_system = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 1
 			economic_policy = laissez_faire
@@ -460,14 +569,19 @@ hyperinflation = {
 			war_exhaustion = 4
 		}
 	}
+	
 	effect = {
 		factory_cost = 0.06
 	}
 }
-#eary_classical_theory
+
+###########################################
+### EARLY CLASSICAL THEORY AND CRITIQUE ###
+###########################################
+
 PS_unlocked = {
 	limit = { early_classical_theory_and_critique = 1 }
-	news = no
+	
 	chance = {
 		base = 100	
 	}
@@ -476,11 +590,14 @@ PS_unlocked = {
 		max_farmland = 49
 	}
 }
+
 qng_mil_nerf = {
 	limit = { early_classical_theory_and_critique = 1 }
+	
 	chance = {
 		base = 0
 	}
+	
 	effect = {
 		infantry = {
 			attack = -2
@@ -508,12 +625,13 @@ qng_mil_nerf = {
 		}
 	}
 }
+
 clr_qng_mil_nerf = {
-	limit = {
-		early_classical_theory_and_critique = 1
-	}
+	limit = { early_classical_theory_and_critique = 1 }
+	
 	chance = {
 		base = 0
+		
 		modifier = {
 			factor = 100
 			invention = qng_mil_nerf
@@ -526,54 +644,90 @@ clr_qng_mil_nerf = {
 			}
 		}
 	}
+	
 	effect = {
-		lose_invention = qng_mil_nerf
+		infantry = {
+			attack = 2
+			defence = 2
+		}
+		guard = {
+			attack = 2
+			defence = 2
+		}
+		artillery = {
+			attack = 0.5
+			defence = 0.5
+		}
+		hussar = {
+			attack = 1
+			defence = 1
+		}
+		irregular = {
+			attack = 1
+			defence = 1
+		}
+		cavalry = {
+			attack = 1.5
+			defence = 0.4
+		}
 	}
 }
+
 military_hospitals_idea_invention = {
 	limit = {
 		early_classical_theory_and_critique = 1
 		has_country_flag = military_hospitals_idea
 	}
+	
 	chance = {
 		base = 0
+		
 		modifier = {
 			factor = 100
 			has_country_flag = military_hospitals_idea
 		}
 	}
+	
 	effect = {
 		soldier_to_pop_loss = 0.1
 	}
 }
+
 reinforce_rate_idea_invention = {
 	limit = {
 		early_classical_theory_and_critique = 1
 		has_country_flag = reinforce_rate_idea
 	}
+	
 	chance = {
 		base = 0
+		
 		modifier = {
 			factor = 100
 			has_country_flag = reinforce_rate_idea
 		}
 	}
+	
 	effect = {
 		reinforce_rate = 0.1
 	}
 }
+
 consumer_goods_idea = {
 	limit = {
 		early_classical_theory_and_critique = 1
 		has_country_flag = consumer_goods_idea
 	}
+	
 	chance = {
 		base = 0
+		
 		modifier = {
 			factor = 100
 			has_country_flag = consumer_goods_idea
 		}
 	}
+	
 	effect = {
 		factory_goods_output = {
 			canned_food = 0.05
@@ -598,18 +752,22 @@ consumer_goods_idea = {
 		}
 	}
 }
+
 industrial_goods_idea = {
 	limit = {
 		early_classical_theory_and_critique = 1
 		has_country_flag = industrial_goods_idea
 	}
+	
 	chance = {
 		base = 0
+		
 		modifier = {
 			factor = 100
 			has_country_flag = industrial_goods_idea
 		}
 	}
+	
 	effect = {
 		factory_goods_output = {
 			ammunition = 0.05
@@ -630,12 +788,17 @@ industrial_goods_idea = {
 		}
 	}
 }
-#late_classical_theory
+
+#############################
+### LATE CLASSICAL THEORY ###
+#############################
+
 john_elliot_cairnes = {
 	limit = { late_classical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			nationalvalue = nv_liberty
@@ -645,15 +808,18 @@ john_elliot_cairnes = {
 			trade_unions = all_trade_unions
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 robert_torrens = {
 	limit = { late_classical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = state_capitalism
@@ -663,15 +829,18 @@ robert_torrens = {
 			ruling_party_ideology = liberal
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1
 	}
 }
+
 john_stuart_mill = {
 	limit = { late_classical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			nationalvalue = nv_equality
@@ -681,16 +850,22 @@ john_stuart_mill = {
 			ruling_party_ideology = liberal
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
-#collectivist_theory
+
+###########################
+### COLLECTIVIST THEORY ###
+###########################
+
 pierre_joseph_proudhon = {
 	limit = { collectivist_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			nationalvalue = nv_equality
@@ -700,15 +875,18 @@ pierre_joseph_proudhon = {
 			ruling_party_ideology = socialist
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1  
 	}
 }
+
 karl_marx = {
 	limit = { collectivist_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			ruling_party_ideology = communist
@@ -722,15 +900,18 @@ karl_marx = {
 			economic_policy = planned_economy
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 friedrich_engels = {
 	limit = { collectivist_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			invention = karl_marx
@@ -740,15 +921,18 @@ friedrich_engels = {
 			economic_policy = planned_economy
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 eduard_bernstein = {
 	limit = { collectivist_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			invention = friedrich_engels
@@ -766,15 +950,18 @@ eduard_bernstein = {
 			nationalvalue = nv_order
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 sidney_webb = {
 	limit = { collectivist_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 1
 			invention = friedrich_engels
@@ -790,15 +977,18 @@ sidney_webb = {
 			economic_policy = state_capitalism
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 karl_kautsky = {
 	limit = { collectivist_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			invention = friedrich_engels
@@ -812,15 +1002,18 @@ karl_kautsky = {
 			economic_policy = state_capitalism
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 jean_jaures = {
 	limit = { collectivist_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 1
 			economic_policy = planned_economy
@@ -830,16 +1023,22 @@ jean_jaures = {
 			ruling_party_ideology = socialist
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
-#the_historical_theory
+
+#############################
+### THE HISTORICAL THEORY ###
+#############################
+
 friedrich_list = {
 	limit = { the_historical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			nationalvalue = nv_order
@@ -849,15 +1048,18 @@ friedrich_list = {
 			economic_policy = state_capitalism
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 wilhelm_roscher = {
 	limit = { the_historical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = state_capitalism
@@ -867,15 +1069,18 @@ wilhelm_roscher = {
 			nationalvalue = nv_order
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 bruno_hildebrand = {
 	limit = { the_historical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -885,15 +1090,18 @@ bruno_hildebrand = {
 			religious_policy = pluralism
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 karl_knies = {
 	limit = { the_historical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			nationalvalue = nv_order
@@ -903,15 +1111,18 @@ karl_knies = {
 			ruling_party_ideology = conservative
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 gustav_von_schmoller = {
 	limit = { the_historical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -921,15 +1132,18 @@ gustav_von_schmoller = {
 			prestige = 30
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1  
 	}
 }
+
 adolph_wagner = {
 	limit = { the_historical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			average_consciousness = 2
@@ -939,15 +1153,18 @@ adolph_wagner = {
 			nationalvalue = nv_order
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 william_cunningham = {
 	limit = { the_historical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			is_greater_power = yes
@@ -957,16 +1174,22 @@ william_cunningham = {
 			nationalvalue = nv_liberty
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
-#neoclassical_theory
+
+###########################
+### NEOCLASSICAL THEORY ###
+###########################
+
 johann_heinrich_von_thunen = {
 	limit = { neoclassical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			ruling_party_ideology = conservative
@@ -976,15 +1199,18 @@ johann_heinrich_von_thunen = {
 			economic_policy = interventionism
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 leon_walras = {
 	limit = { neoclassical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = planned_economy
@@ -994,15 +1220,18 @@ leon_walras = {
 			nationalvalue = nv_equality
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 stanley_jevons = {
 	limit = { neoclassical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1012,15 +1241,18 @@ stanley_jevons = {
 			nationalvalue = nv_order
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 carl_menger = {
 	limit = { neoclassical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			economic_policy = laissez_faire
@@ -1030,15 +1262,18 @@ carl_menger = {
 			nationalvalue = nv_liberty
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 thorstein_veblen = {
 	limit = { neoclassical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			average_consciousness = 4
@@ -1048,15 +1283,18 @@ thorstein_veblen = {
 			economic_policy = state_capitalism
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 alfred_marshall = {
 	limit = { neoclassical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			economic_policy = laissez_faire
@@ -1066,15 +1304,18 @@ alfred_marshall = {
 			nationalvalue = nv_liberty
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 augustin_cournot = {
 	limit = { neoclassical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			average_consciousness = 3
@@ -1084,15 +1325,18 @@ augustin_cournot = {
 			nationalvalue = nv_equality
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 jules_dupuit = {
 	limit = { neoclassical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1102,15 +1346,18 @@ jules_dupuit = {
 			average_consciousness = 3
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 vilfredo_pareto = {
 	limit = { neoclassical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1120,15 +1367,18 @@ vilfredo_pareto = {
 			ruling_party_ideology = liberal
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 knut_wicksell = {
 	limit = { neoclassical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -1138,15 +1388,18 @@ knut_wicksell = {
 			nationalvalue = nv_liberty
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 irving_fischer = {
 	limit = { neoclassical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			trade_policy = protectionism
@@ -1156,13 +1409,15 @@ irving_fischer = {
 			economic_policy = interventionism
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 joseph_schumpeter = {
 	limit = { neoclassical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
 		modifier = {
@@ -1174,15 +1429,18 @@ joseph_schumpeter = {
 			trade_policy = free_trade
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 eugen_von_bohm_bawerk = {
 	limit = { neoclassical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			economic_policy = laissez_faire
@@ -1192,16 +1450,22 @@ eugen_von_bohm_bawerk = {
 			trade_policy = free_trade
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
-#keynesian_economics
+
+###########################
+### KEYNESIAN ECONOMICS ###
+###########################
+
 john_maynard_keynes = {
 	limit = { keynesian_economics = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			NOT = {
@@ -1213,15 +1477,18 @@ john_maynard_keynes = {
 			economic_policy = state_capitalism
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 richard_kahn = {
 	limit = { keynesian_economics = 1 }
-	news = no
+	
 	chance = {
 		base = 3
+		
 		modifier = {
 			factor = 3
 			invention = john_maynard_keynes
@@ -1231,15 +1498,18 @@ richard_kahn = {
 			economic_policy = interventionism
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 james_meade = {
 	limit = { keynesian_economics = 1 }
-	news = no
+	
 	chance = {
 		base = 3
+		
 		modifier = {
 			factor = 3
 			invention = john_maynard_keynes
@@ -1249,16 +1519,22 @@ james_meade = {
 			economic_policy = interventionism
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
-#neoliberal_theory
+
+#########################
+### NEOLIBERAL THEORY ###
+#########################
+
 ludwig_von_mises = {
 	limit = { neoliberal_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 0
+		
 		modifier = {
 			factor = 10
 			economic_policy = laissez_faire
@@ -1272,15 +1548,18 @@ ludwig_von_mises = {
 			prestige = 10
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 friedrich_hayek = {
 	limit = { neoliberal_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 5
 			economic_policy = laissez_faire
@@ -1290,15 +1569,18 @@ friedrich_hayek = {
 			ruling_party_ideology = liberal
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
+
 james_buchanan = {
 	limit = { neoliberal_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			trade_policy = free_trade
@@ -1308,24 +1590,30 @@ james_buchanan = {
 			ruling_party_ideology = liberal
 		}
 	}
+	
 	effect = {
 		permanent_prestige = 1 
 	}
 }
-#market_structure
+
+############################
+### MARKET FUNCTIONALITY ###
+############################
+
 polypoly_structure = {
-	news = no
 	limit = { 
 		market_structure = 1 
 		NOT = {
-				OR = {
-					invention = oligopoly_structure
-					invention = monopoly_structure
-				}
-		}	
+			OR = {
+				invention = oligopoly_structure
+				invention = monopoly_structure
+			}
+		}
 	}
+	
 	chance = {
 		base = 0
+		
 		modifier = {
 			factor = 4
 			economic_policy = laissez_faire
@@ -1335,23 +1623,26 @@ polypoly_structure = {
 			ruling_party_ideology = liberal
 		}
 	}
+	
 	effect = {
 		factory_input = -0.02
 	}
 }
+
 oligopoly_structure = {
-	news = no
 	limit = { 
-		market_structure = 1 
+		market_structure = 1
 		NOT = {
 			OR = {
 				invention = polypoly_structure
 				invention = monopoly_structure
 			}
-		}		
+		}
 	}
+	
 	chance = {
 		base = 0
+		
 		modifier = {
 			factor = 4
 			ruling_party_ideology = conservative
@@ -1361,23 +1652,26 @@ oligopoly_structure = {
 			economic_policy = interventionism
 		}
 	}
+	
 	effect = {
 		factory_output = 0.02
 	}
 }
+
 monopoly_structure = {
-	news = no
 	limit = { 
-		market_structure = 1 
+		market_structure = 1
 		NOT = {
 			OR = {
 				invention = polypoly_structure
 				invention = oligopoly_structure
 			}
-		}	
+		}
 	}
+	
 	chance = {
 		base = 0
+		
 		modifier = {
 			factor = 4
 			ruling_party_ideology = reactionary
@@ -1387,16 +1681,22 @@ monopoly_structure = {
 			economic_policy = state_capitalism
 		}
 	}
+	
 	effect = {
 		factory_throughput = 0.05
 	}
 }
-#business_regulations
+
+############################
+### BUSINESS REGULATIONS ###
+############################
+
 limited_partnership_company = {
 	limit = { business_regulations = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -1406,15 +1706,18 @@ limited_partnership_company = {
 			is_greater_power = yes
 		}
 	}
+	
 	effect = {
 		factory_cost = -0.05
 	}
 }
+
 patent = {
 	limit = { business_regulations = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			nationalvalue = nv_order
@@ -1428,15 +1731,18 @@ patent = {
 			ruling_party_ideology = liberal
 		}
 	}
+	
 	effect = {
 		tax_eff = 1 
 	}
 }
+
 trademark = {
 	limit = { business_regulations = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1450,16 +1756,22 @@ trademark = {
 			prestige = 10
 		}
 	}
+	
 	effect = {
 		tax_eff = 1 
 	}
 }
-#market_regulations
+
+##########################
+### MARKET REGULATIONS ###
+##########################
+
 anti_trust_laws = {
 	limit = { market_regulations = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = state_capitalism
@@ -1473,15 +1785,18 @@ anti_trust_laws = {
 			nationalvalue = nv_equality
 		}
 	}
+	
 	effect = {
 		tax_eff = 1 
 	}
 }
+
 financial_regulations = {
 	limit = { market_regulations = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1491,15 +1806,18 @@ financial_regulations = {
 			trade_policy = protectionism
 		}
 	}
+	
 	effect = {
 		tax_eff = 1 
 	}
 }
+
 banking_regulations = {
 	limit = { market_regulations = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1509,16 +1827,22 @@ banking_regulations = {
 			ruling_party_ideology = socialist
 		}
 	}
+	
 	effect = {
 		tax_eff = 1 
 	}
 }
-#economic_responsibility
+
+###############################
+### ECONOMIC RESPONSIBILITY ###
+###############################
+
 working_board_of_directors = {
 	limit = { economic_responsibility = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			ruling_party_ideology = liberal
@@ -1528,14 +1852,17 @@ working_board_of_directors = {
 			economic_policy = laissez_faire
 		}
 	}
+	
 	effect = {
 	}
 }
+
 bankruptcy_proceedings = {
 	limit = { economic_responsibility = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1545,15 +1872,18 @@ bankruptcy_proceedings = {
 			ruling_party_ideology = liberal
 		}
 	}
+	
 	effect = {
 		factory_cost = -0.02
 	}
 }
+
 annual_report_proceedings = {
 	limit = { economic_responsibility = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1563,16 +1893,22 @@ annual_report_proceedings = {
 			ruling_party_ideology = conservative
 		}
 	}
+	
 	effect = {
 		factory_cost = -0.01
 	}
 }
-#government_interventionism
+
+##################################
+### GOVERNMENT INTERVENTIONISM ###
+##################################
+
 centralized_economic_planning = {
 	limit = { government_interventionism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = state_capitalism
@@ -1582,14 +1918,17 @@ centralized_economic_planning = {
 			economic_policy = planned_economy
 		}
 	}
+	
 	effect = {
 	}
 }
+
 autarky = {
 	limit = { government_interventionism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			economic_policy = planned_economy
@@ -1598,21 +1937,23 @@ autarky = {
 			factor = 2
 			ruling_party_ideology = socialist
 		}
-		#modifier = {
-		#	factor = 100
-		#	stupidity = yes
-		#}
 	}
+	
 	effect = {
 		loan_interest = -0.005
 	}
 }
-#monetarism
+
+##################
+### MONETARISM ###
+##################
+
 priming_the_pump_ = {
 	limit = { monetarism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1622,15 +1963,18 @@ priming_the_pump_ = {
 			ruling_party_ideology = socialist
 		}
 	}
+	
 	effect = {
 		loan_interest = -0.01
 	}
 }
+
 mixed_economy = {
 	limit = { monetarism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1640,15 +1984,21 @@ mixed_economy = {
 			ruling_party_ideology = liberal
 		}
 	}
+	
 	effect = {
 	}
 }
-#organized_factories
+
+###########################
+### ORGANISED FACTORIES ###
+###########################
+
 work_classification = {
 	limit = { organized_factories = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -1658,15 +2008,18 @@ work_classification = {
 			ruling_party_ideology = liberal
 		}
 	}
+	
 	effect = {
 		factory_output = 0.01
 	}
 }
+
 work_specialization = {
 	limit = { organized_factories = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			invention = work_classification
@@ -1680,15 +2033,18 @@ work_specialization = {
 			trade_policy = free_trade
 		}
 	}
+	
 	effect = {
 		factory_output = 0.01
 	}
 }
+
 work_control_and_hierarchy = {
 	limit = { organized_factories = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			invention = work_specialization
@@ -1702,16 +2058,22 @@ work_control_and_hierarchy = {
 			trade_policy = free_trade
 		}
 	}
+	
 	effect = {
 		factory_output = 0.01
 	}
 }
-#scientific_management
+
+#############################
+### SCIENTIFIC MANAGEMENT ###
+#############################
+
 sequence_planning = {
 	limit = { scientific_management = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1721,15 +2083,18 @@ sequence_planning = {
 			ruling_party_ideology = conservative
 		}
 	}
+	
 	effect = {
 		factory_output = 0.01
 	}
 }
+
 inventory_planning = {
 	limit = { scientific_management = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -1739,15 +2104,18 @@ inventory_planning = {
 			trade_policy = free_trade
 		}
 	}
+	
 	effect = {
 		factory_output = 0.01
 	}
 }
+
 quality_assurance_procedure = {
 	limit = { scientific_management = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -1757,16 +2125,22 @@ quality_assurance_procedure = {
 			average_consciousness = 4
 		}
 	}
+	
 	effect = {
 		factory_output = 0.01
 	}
 }
-#time_saving_measures
+
+############################
+### TIME-SAVING MEASURES ###
+############################
+
 time_studies = {
 	limit = { time_saving_measures = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = state_capitalism
@@ -1776,15 +2150,18 @@ time_studies = {
 			ruling_party_ideology = socialist
 		}
 	}
+	
 	effect = {
 		factory_output = 0.01
 	}
 }
+
 time_clock = {
 	limit = { time_saving_measures = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -1794,15 +2171,18 @@ time_clock = {
 			average_consciousness = 2
 		}
 	}
+	
 	effect = {
 		factory_output = 0.01
 	}
 }
+
 lighting = {
 	limit = { time_saving_measures = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 4
 			electricity = 1
@@ -1812,16 +2192,22 @@ lighting = {
 			economic_policy = laissez_faire
 		}
 	}
+	
 	effect = {
 		factory_output = 0.01
 	}
 }
-#management_strategy
+
+###########################
+### MANAGEMENT STRATEGY ###
+###########################
+
 old_style_family_business = {
 	limit = { management_strategy = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = interventionism
@@ -1833,15 +2219,18 @@ old_style_family_business = {
 			}
 		}
 	}
+	
 	effect = {
 		factory_output = 0.01
 	}
 }
+
 anynomous_investor_business = {
 	limit = { management_strategy = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			average_consciousness = 3
@@ -1851,15 +2240,18 @@ anynomous_investor_business = {
 			economic_policy = state_capitalism
 		}
 	}
+	
 	effect = {
 		factory_output = 0.01
 	}
 }
+
 marketized_smallholder_business = {
 	limit = { management_strategy = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			trade_policy = free_trade
@@ -1869,16 +2261,22 @@ marketized_smallholder_business = {
 			ruling_party_ideology = liberal
 		}
 	}
+	
 	effect = {
 		factory_output = 0.01
 	}
 }
-#organizational_development
+
+##################################
+### ORGANISATIONAL DEVELOPMENT ###
+##################################
+
 i_scientific_management = {
 	limit = { organizational_development = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -1888,15 +2286,18 @@ i_scientific_management = {
 			average_consciousness = 3
 		}
 	}
+	
 	effect = {
 		factory_output = 0.01
 	}
 }
+
 human_resource_development = {
 	limit = { organizational_development = 1 }
-	news = no
+	
 	chance = {
 		base = 3
+		
 		modifier = {
 			factor = 2
 			average_consciousness = 3
@@ -1906,15 +2307,18 @@ human_resource_development = {
 			trade_unions = all_trade_unions
 		}
 	}
+	
 	effect = {
 		factory_output = 0.01
 	}
 }
+
 supply_chain_management = {
 	limit = { organizational_development = 1 }
-	news = no
+	
 	chance = {
 		base = 3
+		
 		modifier = {
 			factor = 2
 			OR = {
@@ -1927,16 +2331,22 @@ supply_chain_management = {
 			average_consciousness = 3
 		}
 	}
+	
 	effect = {
 		factory_output = 0.01
 	}
 }
-#modern_business_management
+
+##################################
+### MODERN BUSINESS MANAGEMENT ###
+##################################
+
 lean_enterprise = {
 	limit = { modern_business_management = 1 }
-	news = no
+	
 	chance = {
 		base = 3
+		
 		modifier = {
 			factor = 3
 			economic_policy = laissez_faire
@@ -1950,15 +2360,18 @@ lean_enterprise = {
 			average_consciousness = 3
 		}
 	}
+	
 	effect = {
 		factory_input = -0.01
 	}
 }
+
 just_in_time_manufacturing = {
 	limit = { modern_business_management = 1 }
-	news = no
+	
 	chance = {
 		base = 3
+		
 		modifier = {
 			factor = 2
 			economic_policy = laissez_faire
@@ -1972,6 +2385,7 @@ just_in_time_manufacturing = {
 			average_consciousness = 3
 		}
 	}
+	
 	effect = {
 		factory_input = -0.01
 	}

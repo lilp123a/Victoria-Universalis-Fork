@@ -1,11 +1,14 @@
-#financial_institutions
+##############################
+### FINANCIAL INSTITUTIONS ###
+##############################
+
 private_banks = {
 	area = financial_institutions
 	year = 1836
 	cost = 3600
-
-	activate_building = cement_factory 
+	
 	tax_eff = 5
+	activate_building = cement_factory 
 	
 	ai_chance = {
 		factor = 3
@@ -19,6 +22,7 @@ private_banks = {
 		}
 	}
 }
+
 stock_exchange = {
 	area = financial_institutions
 	year = 1836
@@ -38,6 +42,7 @@ stock_exchange = {
 		}
 	}
 }
+
 business_banks = {
 	area = financial_institutions
 	year = 1850
@@ -57,12 +62,14 @@ business_banks = {
 		}
 	}
 }
+
 investment_banks = {
 	area = financial_institutions
 	year = 1870
 	cost = 14400
 
 	tax_eff = 2
+	
 	ai_chance = {
 		factor = 3
 		modifier = {
@@ -75,12 +82,14 @@ investment_banks = {
 		}
 	}
 }
+
 bank_inspection_board = {
 	area = financial_institutions
 	year = 1890
 	cost = 18000
 
 	tax_eff = 1
+	
 	ai_chance = {
 		factor = 1.1
 		modifier = {
@@ -105,12 +114,14 @@ bank_inspection_board = {
 		}		
 	}
 }
+
 mutual_funds = {
 	area = financial_institutions
 	year = 1900
 	cost = 21600
 
 	tax_eff = 1
+	
 	ai_chance = {
 		factor = 1.1
 		modifier = {
@@ -127,12 +138,14 @@ mutual_funds = {
 		}
 	}
 }
+
 modern_financial_institutions = {
 	area = financial_institutions
 	year = 1910
 	cost = 21600
 
 	tax_eff = 1
+	
 	ai_chance = {
 		factor = 1.1
 		modifier = {
@@ -150,14 +163,17 @@ modern_financial_institutions = {
 	}
 }
 
+#######################
+### MONETARY SYSTEM ###
+#######################
 
-#monetary_system
 no_standard = {
 	area = monetary_system
 	year = 1836
 	cost = 3600
 
 	administrative_efficiency = 0.05
+	
 	ai_chance = {
 		factor = 3
 		modifier = {
@@ -166,12 +182,14 @@ no_standard = {
 		}
 	}
 }
+
 ad_hoc_money_bill_printing = {
 	area = monetary_system
 	year = 1836
 	cost = 7200
 	
 	administrative_efficiency = 0.05
+	
 	ai_chance = {
 		factor = 3
 		modifier = {
@@ -191,13 +209,15 @@ ad_hoc_money_bill_printing = {
 			tech_school = commerce_tech_school
 		}
 	}
-}  
+}
+
 private_bank_money_bill_printing = {
 	area = monetary_system
 	year = 1836
 	cost = 10800
 
 	administrative_efficiency = 0.05
+	
 	ai_chance = {
 		factor = 1.1
 		modifier = {
@@ -214,12 +234,14 @@ private_bank_money_bill_printing = {
 		}
 	}
 }
+
 central_bank_money_bill_printing = {
 	area = monetary_system
 	year = 1850
 	cost = 14400
 
 	administrative_efficiency = 0.05
+	
 	ai_chance = {
 		factor = 1.1
 		modifier = {
@@ -236,12 +258,14 @@ central_bank_money_bill_printing = {
 		}
 	}
 }
+
 modern_central_bank_system = {
 	area = monetary_system
 	year = 1870
 	cost = 18000
 
 	administrative_efficiency = 0.05
+	
 	ai_chance = {
 		factor = 1.1
 		modifier = {
@@ -266,13 +290,14 @@ modern_central_bank_system = {
 		}
 	}
 }
+
 market_determined_exchange_rates = {
 	area = monetary_system
 	year = 1890
 	cost = 21600
-
-
+	
 	administrative_efficiency = 0.05
+	
 	ai_chance = {
 		factor = 1.1
 		modifier = {
@@ -289,12 +314,14 @@ market_determined_exchange_rates = {
 		}
 	}
 }
+
 fiat_based_monetary_system = {
 	area = monetary_system
 	year = 1910
 	cost = 21600
 
 	administrative_efficiency = 0.05
+	
 	ai_chance = {
 		factor = 1.1
 		modifier = {
@@ -312,8 +339,10 @@ fiat_based_monetary_system = {
 	}
 }
 
+#####################################
+### ECONOMIC THOUGHT AND CRITIQUE ###
+#####################################
 
-#economic_thought_and_critique
 early_classical_theory_and_critique = {
 	area = economic_thought_and_critique
 	year = 1836
@@ -325,6 +354,7 @@ early_classical_theory_and_critique = {
 		factor = 0.5
 	}
 }
+
 late_classical_theory = {
 	area = economic_thought_and_critique
 	year = 1836
@@ -332,6 +362,7 @@ late_classical_theory = {
 
 	farm_RGO_eff = 0.1
 	mine_rgo_eff = 0.1
+	
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -356,6 +387,7 @@ late_classical_theory = {
 		}
 	}
 }
+
 collectivist_theory = {
 	area = economic_thought_and_critique
 	year = 1850
@@ -363,6 +395,7 @@ collectivist_theory = {
 
 	farm_RGO_eff = 0.1
 	mine_rgo_eff = 0.1
+	
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -387,6 +420,7 @@ collectivist_theory = {
 		}		
 	}
 }
+
 the_historical_theory = {
 	area = economic_thought_and_critique
 	year = 1865
@@ -394,6 +428,7 @@ the_historical_theory = {
 
 	farm_RGO_eff = 0.1
 	mine_rgo_eff = 0.1
+	
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -418,6 +453,7 @@ the_historical_theory = {
 		}		
 	}
 }
+
 neoclassical_theory = {
 	area = economic_thought_and_critique
 	year = 1880
@@ -425,6 +461,7 @@ neoclassical_theory = {
 
 	farm_RGO_eff = 0.1
 	mine_rgo_eff = 0.1
+	
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -449,6 +486,7 @@ neoclassical_theory = {
 		}		
 	}
 }
+
 keynesian_economics = {
 	area = economic_thought_and_critique
 	year = 1895
@@ -456,6 +494,7 @@ keynesian_economics = {
 
 	farm_RGO_eff = 0.1
 	mine_rgo_eff = 0.1
+	
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -480,6 +519,7 @@ keynesian_economics = {
 		}		
 	}
 }
+
 neoliberal_theory = {
 	area = economic_thought_and_critique
 	year = 1910
@@ -487,6 +527,7 @@ neoliberal_theory = {
 
 	farm_RGO_eff = 0.1
 	mine_rgo_eff = 0.1
+	
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -512,19 +553,21 @@ neoliberal_theory = {
 	}
 }
 
+############################
+### MARKET FUNCTIONALITY ###
+############################
 
-#market_functionality
 freedom_of_trade = {
 	area = market_functionality
 	year = 1836
 	cost = 3600
-
-
-	activate_building = luxury_clothes_factory  
-
+	
 	influence = 0.1
 	farm_rgo_eff = 0.1
 	mine_rgo_eff = 0.1
+	
+	activate_building = luxury_clothes_factory  
+	
 	ai_chance = {
 		factor = 2
 		modifier = {
@@ -537,14 +580,16 @@ freedom_of_trade = {
 		}
 	}
 }
+
 market_structure = {
 	area = market_functionality
 	year = 1836
 	cost = 7200
-
+	
 	influence = 0.1
 	farm_rgo_eff = 0.1
 	mine_rgo_eff = 0.1
+	
 	ai_chance = {
 		factor = 2
 		modifier = {
@@ -567,16 +612,17 @@ market_structure = {
 			factor = 1.02
 			tech_school = commerce_tech_school
 		}
-	}	
-
+	}
 }
+
 business_regulations = {
 	area = market_functionality
 	year = 1836
 	cost = 10800
-
+	
 	influence = 0.2
 	farm_rgo_eff = 0.1
+	
 	ai_chance = {
 		factor = 2
 		modifier = {
@@ -595,15 +641,16 @@ business_regulations = {
 			factor = 1.02
 			tech_school = commerce_tech_school
 		}
-	}	
-	
+	}
 }
+
 market_regulations = {
 	area = market_functionality
 	year = 1850
 	cost = 14400
-
+	
 	influence = 0.2
+	
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -622,15 +669,16 @@ market_regulations = {
 			factor = 1.02
 			tech_school = commerce_tech_school
 		}
-	}	
-	
+	}
 }
+
 economic_responsibility = {
 	area = market_functionality
 	year = 1870
 	cost = 18000
-
+	
 	influence = 0.2
+	
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -649,15 +697,16 @@ economic_responsibility = {
 			factor = 1.02
 			tech_school = commerce_tech_school
 		}
-	}	
-	
+	}
 }
+
 government_interventionism = {
 	area = market_functionality
 	year = 1890
 	cost = 21600
-
+	
 	influence = 0.2
+	
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -678,12 +727,14 @@ government_interventionism = {
 		}
 	}	
 }
+
 monetarism = {
 	area = market_functionality
 	year = 1900
 	cost = 21600
-
+	
 	influence = 0.2
+	
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -705,14 +756,19 @@ monetarism = {
 	}	
 }
 
+####################
+### ORGANISATION ###
+####################
 
-#tech_organization
 guild_based_production = {
 	area = tech_organization
 	year = 1836
 	cost = 3600
-	activate_building = canned_food_factory 
+	
 	factory_input = -0.02
+	
+	activate_building = canned_food_factory 
+	
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -741,13 +797,15 @@ guild_based_production = {
 		}
 	}	
 }
+
 organized_factories = {
 	area = tech_organization
 	year = 1836
 	cost = 7200
-
+	
 	factory_input = -0.02
-		ai_chance = {
+	
+	ai_chance = {
 		factor = 1.05
 		modifier = {
 			factor = 1.2
@@ -779,12 +837,14 @@ organized_factories = {
 		}
 	}	
 }
+
 scientific_management = {
 	area = tech_organization
 	year = 1836
 	cost = 10800
-
+	
 	factory_input = -0.02
+	
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -817,12 +877,14 @@ scientific_management = {
 		}
 	}	
 }
+
 time_saving_measures = {
 	area = tech_organization
 	year = 1850
 	cost = 14400
-
+	
 	factory_input = -0.02
+	
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -843,12 +905,14 @@ time_saving_measures = {
 		}
 	}	
 }
+
 management_strategy = {
 	area = tech_organization
 	year = 1870
 	cost = 18000
-
+	
 	factory_input = -0.02
+	
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -869,12 +933,14 @@ management_strategy = {
 		}
 	}	
 }
+
 organizational_development = {
 	area = tech_organization
 	year = 1900
 	cost = 21600
-
+	
 	factory_input = -0.02
+	
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -895,12 +961,14 @@ organizational_development = {
 		}
 	}	
 }
+
 modern_business_management = {
 	area = tech_organization
 	year = 1920
 	cost = 21600
-
+	
 	factory_output = 0.02
+	
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -921,5 +989,3 @@ modern_business_management = {
 		}
 	}
 }
-
-
