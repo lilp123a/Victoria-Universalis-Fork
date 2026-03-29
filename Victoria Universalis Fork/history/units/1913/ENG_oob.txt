@@ -2283,7 +2283,7 @@ army = {
 	}
 	regiment = {
 		name= "1st Cavalry Brigade"
-		type = dragoon
+		type = hussar
 		home = 273
 	}
 
@@ -2295,7 +2295,7 @@ army = {
 
 	regiment = {
 		name= "3rd Cavalry Brigade"
-		type = dragoon
+		type = hussar
 		home = 258
 	}
 
@@ -2307,37 +2307,37 @@ army = {
 
 	regiment = {
 		name= "5th Cavalry Brigade"
-		type = dragoon
+		type = hussar
 		home = 270
 	}
 
 	regiment = {
 		name= "D Battery, Royal Horse Artillery"
-		type = horse_artillery
+		type = artillery
 		home = 297
 	}
 
 	regiment = {
 		name= "E Battery, Royal Horse Artillery"
-		type = horse_artillery
+		type = artillery
 		home = 283
 	}
 
 	regiment = {
 		name= "I Battery, Royal Horse Artillery"
-		type = horse_artillery
+		type = artillery
 		home = 297
 	}
 
 	regiment = {
 		name= "L Battery, Royal Horse Artillery"
-		type = horse_artillery
+		type = artillery
 		home = 283
 	}
 
 	regiment = {
 		name= "J Battery, Royal Horse Artillery"
-		type = horse_artillery
+		type = artillery
 		home = 301
 	}
 }
@@ -2486,7 +2486,7 @@ army = {
 
 	regiment = {
 		name= "3rd Dragoon Guards"
-		type = dragoon
+		type = hussar
 		home = 297
 	}
 

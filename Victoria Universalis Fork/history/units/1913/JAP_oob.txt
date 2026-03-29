@@ -956,7 +956,7 @@ army = {
 	}
 	regiment = {
 		name= "5. Special Operations Regiment"
-		type = dragoon
+		type = hussar
 		home = 1638
 	}
 	regiment = {
@@ -1280,7 +1280,7 @@ army = {
 	}
 	regiment = {
 		name= "13. Rapid Response Regiment"
-		type = dragoon
+		type = hussar
 		home = 1661
 	}
 	regiment = {

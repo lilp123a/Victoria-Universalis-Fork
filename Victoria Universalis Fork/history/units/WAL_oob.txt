@@ -37,13 +37,13 @@ army = {
 
 	regiment = {
 		name= "1st Wallachia Cavalry"
-		type = dragoon
+		type = hussar
 		home = 666
 	}
 
 	regiment = {
 		name= "1st Wallachia Artillery"
-		type = cuirassier
+		type = artillery
 		home = 665
 	}		
 

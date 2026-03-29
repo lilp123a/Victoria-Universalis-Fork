@@ -51,7 +51,7 @@ army = {
 
 	regiment = {
 		name= "4. Zuavi Pontifici"
-		type = cuirassier
+		type = artillery
 		home = 751
 	}
 }

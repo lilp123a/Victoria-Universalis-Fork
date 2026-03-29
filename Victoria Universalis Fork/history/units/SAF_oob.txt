@@ -28,13 +28,13 @@ army = {
 
 	regiment = {
 		name= "Cape Town Cavalry"
-		type = dragoon
+		type = hussar
 		home = 2087
 	}
 
 	regiment = {
 		name= "Cape Town Artillery"
-		type = cuirassier
+		type = artillery
 		home = 2087
 	}
 

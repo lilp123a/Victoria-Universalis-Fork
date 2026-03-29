@@ -957,7 +957,7 @@ army = {
 	}
 	regiment = {
 		name= "5e Brigade de Dragons"
-		type = dragoon
+		type = hussar
 		home = 402
 	}
 }
@@ -1410,7 +1410,7 @@ army = {
 	}
 	regiment = {
 		name= "16e Brigade de Dragons"
-		type = dragoon
+		type = hussar
 		home = 442
 	}
 }
@@ -1525,7 +1525,7 @@ army = {
 	}
 	regiment = {
 		name= "11e Brigade de Dragons"
-		type = dragoon
+		type = hussar
 		home = 1705
 	}
 }
@@ -1586,7 +1586,7 @@ army = {
 	}
 	regiment = {
 		name= "2e Brigade de Dragons"
-		type = dragoon
+		type = hussar
 		home = 418
 	}
 }
@@ -1640,7 +1640,7 @@ army = {
 	}
 	regiment = {
 		name= "12e Brigade de Dragons"
-		type = dragoon
+		type = hussar
 		home = 465
 	}
 }
@@ -1748,7 +1748,7 @@ army = {
 	}
 	regiment = {
 		name= "4e Brigade de Dragons"
-		type = dragoon
+		type = hussar
 		home = 417
 	}
 }
@@ -1802,7 +1802,7 @@ army = {
 	}
 	regiment = {
 		name= "7e Brigade de Dragons"
-		type = dragoon
+		type = hussar
 		home = 441
 	}
 }
@@ -1856,7 +1856,7 @@ army = {
 	}
 	regiment = {
 		name= "6e Brigade de Dragons"
-		type = dragoon
+		type = hussar
 		home = 470
 	}
 }
@@ -1910,7 +1910,7 @@ army = {
 	}
 	regiment = {
 		name= "1er Brigade de Dragons"
-		type = dragoon
+		type = hussar
 		home = 434
 	}
 }

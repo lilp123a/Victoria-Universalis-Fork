@@ -123,7 +123,7 @@ army = {
 
 	regiment = {
 		name= "2.Carabinieri Reali"
-		type = dragoon
+		type = hussar
 		home = 472
 	}
 }

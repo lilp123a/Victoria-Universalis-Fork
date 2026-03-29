@@ -130,13 +130,13 @@ army = {
 	location = 1745
 	regiment = {
 		name= "1.1 Artillery"
-		type = cuirassier
+		type = artillery
 		home = 1745
 	}
 
 	regiment = {
 		name= "1.1 Sipahis"
-		type = dragoon
+		type = hussar
 		home = 1745
 	}
 
@@ -160,7 +160,7 @@ army = {
 
 	regiment = {
 		name= "2.1 Artillery"
-		type = cuirassier
+		type = artillery
 		home = 1750
 	}
 
@@ -172,13 +172,13 @@ army = {
 
 	regiment = {
 		name= "3.1 Artillery"
-		type = cuirassier
+		type = artillery
 		home = 1747
 	}
 	
 	regiment = {
 		name= "4.1 Artillery"
-		type = cuirassier
+		type = artillery
 		home = 1751
 	}
 	

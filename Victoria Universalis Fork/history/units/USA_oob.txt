@@ -155,19 +155,19 @@ army = {
 	location = 199
 	regiment = {
 		name= "1st Cavalry Regiment"
-		type = dragoon
+		type = hussar
 		home = 223
 	}
 
 	regiment = {
 		name= "2nd Cavalry Regiment"
-		type = dragoon
+		type = hussar
 		home = 241
 	}
 
 	regiment = {
 		name= "3rd Cavalry Regiment"
-		type = dragoon
+		type = hussar
 		home = 205
 	}
 
@@ -196,7 +196,7 @@ army = {
 
 	regiment = {
 		name= "1st Regiment of Artillery"
-		type = cuirassier
+		type = artillery
 		home = 195
 	}
 
@@ -225,7 +225,7 @@ army = {
 
 	regiment = {
 		name= "2nd Regiment of Artillery"
-		type = cuirassier
+		type = artillery
 		home = 234
 	}
 

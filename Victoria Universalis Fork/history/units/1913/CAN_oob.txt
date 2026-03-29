@@ -225,7 +225,7 @@ army = {
 	}
 	regiment = {
 		name= "Royal Canadian Dragoons"
-		type = dragoon
+		type = hussar
 		home = 46
 	}
 }

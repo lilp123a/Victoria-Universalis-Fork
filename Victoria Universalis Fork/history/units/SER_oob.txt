@@ -45,13 +45,13 @@ army = {
 
 	regiment = {
 		name= "1st Serbian Cavalry"
-		type = dragoon
+		type = hussar
 		home = 796
 	}
 	
 	regiment = {
 		name= "1st Serbian Artillery"
-		type = cuirassier
+		type = artillery
 		home = 796
 	}		
 		

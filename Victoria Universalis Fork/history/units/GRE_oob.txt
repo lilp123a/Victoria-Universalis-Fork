@@ -71,37 +71,37 @@ army = {
 	
 	regiment = {
 		name= "1st Greek Cavalry"
-		type = dragoon
+		type = hussar
 		home = 837
 	}
 	
 	regiment = {
 		name= "1st Greek Artillery"
-		type = cuirassier
+		type = artillery
 		home = 845
 	}
 	
 	regiment = {
 		name= "2nd Greek Artillery"
-		type = cuirassier
+		type = artillery
 		home = 842
 	}
 	
 	regiment = {
 		name= "3rd Greek Artillery"
-		type = cuirassier
+		type = artillery
 		home = 841
 	}
 
 	regiment = {
 		name= "4th Greek Artillery"
-		type = cuirassier
+		type = artillery
 		home = 840
 	}
 
 	regiment = {
 		name= "5th Greek Artillery"
-		type = cuirassier
+		type = artillery
 		home = 836
 	}		
 }

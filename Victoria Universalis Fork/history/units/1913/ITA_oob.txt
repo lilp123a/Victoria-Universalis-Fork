@@ -786,7 +786,7 @@ army = {
 	}
 	regiment = {
 		name= "4th Cavalry Regiment of Genova"
-		type = dragoon
+		type = hussar
 		home = 753
 	}
 }

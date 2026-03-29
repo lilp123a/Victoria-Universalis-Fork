@@ -226,13 +226,13 @@ army = {
 
 	regiment = {
 		name= "1. Panjabi Artillery"
-		type = cuirassier
+		type = artillery
 		home = 1234
 	}
 
 	regiment = {
 		name= "2. Panjabi Artillery"
-		type = cuirassier
+		type = artillery
 		home = 1234
 	}
 

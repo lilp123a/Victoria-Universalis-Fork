@@ -67,7 +67,7 @@ army = {
 
 	regiment = {
 		name= "1er Brigade d'Artillerie"
-		type = cuirassier
+		type = artillery
 		home = 392 #Liege
 	}
 
@@ -124,7 +124,7 @@ army = {
 	location = 395 #Namur
 	regiment = {
 		name= "1er Brigade de Cavalerie"
-		type = dragoon
+		type = hussar
 		home = 387 #Brussels
 	}
 
@@ -136,7 +136,7 @@ army = {
 
 	regiment = {
 		name= "3e Cavalerie Brigade"
-		type = cuirassier
+		type = artillery
 		home = 391 #Hasselt
 	}
 

@@ -196,7 +196,7 @@ army = {
 
 	regiment = {
 		name= "4e Regiment de Chasseurs à Cheval"
-		type = dragoon
+		type = hussar
 		home = 395
 	}
 }
@@ -308,7 +308,7 @@ army = {
 	
 	regiment = {
 		name= "1re Regiment de Chasseurs à Pied"
-		type = dragoon
+		type = hussar
 		home = 398
 	}
 }
@@ -342,7 +342,7 @@ army = {
 	
 	regiment = {
 		name= "1re Regiment de Chasseurs à Cheval"
-		type = dragoon
+		type = hussar
 		home = 1989
 	}
 }

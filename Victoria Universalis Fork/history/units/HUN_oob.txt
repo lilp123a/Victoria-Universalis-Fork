@@ -89,7 +89,7 @@ army = {
 
 	regiment = {
 		name= "1.1. Tüzérezred"
-		type = cuirassier
+		type = artillery
 		home = 640
 	}
 }

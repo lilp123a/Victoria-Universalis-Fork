@@ -656,12 +656,12 @@ army = {
 	}
 	regiment = {
 		name= "1-ya Brigada 1-ya Gvardeiskaya Kavaleriiskaya"
-		type = dragoon
+		type = hussar
 		home = 994
 	}
 	regiment = {
 		name= "2-ya Brigada 1-ya Gvardeiskaya Kavaleriiskaya"
-		type = dragoon
+		type = hussar
 		home = 994
 	}
 	regiment = {

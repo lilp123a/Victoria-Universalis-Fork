@@ -131,7 +131,7 @@ army = {
 
 	regiment = {
 		name= "Norrlands Dragonregemente"
-		type = dragoon
+		type = hussar
 		home = 317
 	}
 

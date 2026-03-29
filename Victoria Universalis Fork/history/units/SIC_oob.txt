@@ -83,13 +83,13 @@ army = {
 
 	regiment = {
 		name= "4. Fanteria di Linea"
-		type = cuirassier
+		type = artillery
 		home = 2567
 	}
 
 	regiment = {
 		name= "1. Cavalleria di Linea"
-		type = dragoon
+		type = hussar
 		home = 754
 	}
 
@@ -148,7 +148,7 @@ army = {
 
 	regiment = {
 		name= "4. Truppe Svizzere"
-		type = cuirassier
+		type = artillery
 		home = 763
 	}
 

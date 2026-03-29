@@ -101,7 +101,7 @@ army = {
 	}
 	regiment = {
 		name= "New Zealand Mounted Rifles Brigade"
-		type = dragoon
+		type = hussar
 		home = 2511
 	}
 	regiment = {

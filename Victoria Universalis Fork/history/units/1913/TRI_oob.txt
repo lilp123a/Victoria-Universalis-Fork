@@ -83,13 +83,13 @@ army = {
 
 	regiment = {
 		name= "Desert Horsemen"
-		type = dragoon
+		type = hussar
 		home = 1741
 	}
 	
 	regiment = {
 		name= "Desert Horsemen"
-		type = dragoon
+		type = hussar
 		home = 1740
 	}
 	

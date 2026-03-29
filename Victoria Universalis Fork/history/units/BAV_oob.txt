@@ -67,7 +67,7 @@ army = {
 
 	regiment = {
 		name= "4. Kgl. Bayer. Infanteriebrigade"
-		type = cuirassier
+		type = artillery
 		home = 601
 	}
 

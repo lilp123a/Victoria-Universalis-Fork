@@ -33,7 +33,7 @@ army = {
 
 	regiment = {
 		name= "Quebec Artillery Regiment"
-		type = cuirassier
+		type = artillery
 		home = 65
 	}
 

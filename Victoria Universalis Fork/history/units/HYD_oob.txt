@@ -49,7 +49,7 @@ army = {
 
 	regiment = {
 		name= "4.Hyderabad Contingent"
-		type = cuirassier
+		type = artillery
 		home = 1283
 	}
 

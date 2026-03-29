@@ -451,7 +451,7 @@ army = {
 
 	regiment = {
 		name= "The Royal Dragoons (1st Dragoons)"
-		type = dragoon
+		type = hussar
 		home = 294
 	}
 
@@ -487,19 +487,19 @@ army = {
 
 	regiment = {
 		name= "2nd Regiment Royal Artillery"
-		type = cuirassier
+		type = artillery
 		home = 295
 	}
 	
 	regiment = {
 		name= "8th Regiment Royal Artillery"
-		type = cuirassier
+		type = artillery
 		home = 298
 	}
 	
 	regiment = {
 		name= "9th Regiment Royal Artillery"
-		type = cuirassier
+		type = artillery
 		home = 268
 	}
 	
@@ -633,25 +633,25 @@ army = {
 	
 	regiment = {
 		name= "1st Regiment Royal Artillery"
-		type = cuirassier
+		type = artillery
 		home = 262
 	}
 	
 	regiment = {
 		name= "3rd Regiment Royal Artillery"
-		type = cuirassier
+		type = artillery
 		home = 292
 	}
 	
 	regiment = {
 		name= "6th Regiment Royal Artillery"
-		type = cuirassier
+		type = artillery
 		home = 302
 	}
 	
 	regiment = {
 		name= "7th Regiment Royal Artillery"
-		type = cuirassier
+		type = artillery
 		home = 303
 	}
 
@@ -675,7 +675,7 @@ army = {
 
 	regiment = {
 		name= "10th Regiment Royal Artillery"
-		type = cuirassier
+		type = artillery
 		home = 285
 	}
 		
@@ -738,12 +738,12 @@ army = {
     }
     regiment = {
         name = "4th Regiment Royal Artillery"
-        type = cuirassier
+        type = artillery
         home = 259
     }
     regiment = {
         name = "25th Regiment Royal Artillery"
-        type = cuirassier
+        type = artillery
         home = 258
     }
 }

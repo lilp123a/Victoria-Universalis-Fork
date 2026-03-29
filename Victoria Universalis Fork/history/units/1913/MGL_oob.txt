@@ -20,17 +20,17 @@ army = {
 	location = 1465
 	regiment = {
 		name= "1. Cavalry Battalion"
-		type = dragoon
+		type = hussar
 		home = 2679
 	}
 	regiment = {
 		name= "2. Cavalry Battalion"
-		type = dragoon
+		type = hussar
 		home = 2608
 	}
 	regiment = {
 		name= "3. Cavalry Battalion"
-		type = dragoon
+		type = hussar
 		home = 1468
 	}
 	regiment = {
@@ -45,27 +45,27 @@ army = {
 	}
 	regiment = {
 		name= "6. Cavalry Battalion"
-		type = horse_artillery
+		type = artillery
 		home = 1466
 	}
 	regiment = {
 		name= "7. Cavalry Battalion"
-		type = horse_artillery
+		type = artillery
 		home = 2207
 	}
 	regiment = {
 		name= "8. Cavalry Battalion"
-		type = horse_artillery
+		type = artillery
 		home = 1467
 	}
 	regiment = {
 		name= "9. Cavalry Battalion"
-		type = horse_artillery
+		type = artillery
 		home = 1465
 	}
 	regiment = {
 		name= "10. Cavalry Battalion"
-		type = horse_artillery
+		type = artillery
 		home = 1465
 	}
 }

@@ -180,7 +180,7 @@ army = {
 
 	regiment = {
 		name= "1. Granaderos del Rey"
-		type = dragoon
+		type = hussar
 		home = 498
 	}
 
@@ -209,7 +209,7 @@ army = {
 
 	regiment = {
 		name= "1. Brigada de Artillería"
-		type = cuirassier
+		type = artillery
 		home = 476
 	}
 	

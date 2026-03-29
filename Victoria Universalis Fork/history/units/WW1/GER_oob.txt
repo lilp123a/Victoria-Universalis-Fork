@@ -1207,7 +1207,7 @@ army = {
 	}
 	regiment = {
 		name= "3rd Horse Grenadier Regiment"
-		type = dragoon
+		type = hussar
 		home = 563
 	}
 	regiment = {
@@ -1771,7 +1771,7 @@ army = {
 	}
 	regiment = {
 		name= "12th Dragoon Regiment"
-		type = dragoon
+		type = hussar
 		home = 684
 	}
 }
@@ -1957,7 +1957,7 @@ army = {
 	}
 	regiment = {
 		name= "5th Horse Jäger Regiment"
-		type = dragoon
+		type = hussar
 		home = 587
 	}
 }
@@ -2019,7 +2019,7 @@ army = {
 	}
 	regiment = {
 		name= "3rd Dragoon Regiment"
-		type = dragoon
+		type = hussar
 		home = 553
 	}
 }
@@ -2328,7 +2328,7 @@ army = {
 	}
 	regiment = {
 		name= "11th Dragoon Regiment"
-		type = dragoon
+		type = hussar
 		home = 696
 	}
 }
@@ -2389,7 +2389,7 @@ army = {
 	}
 	regiment = {
 		name= "7th Dragoon Regiment"
-		type = dragoon
+		type = hussar
 		home = 565
 	}
 }
@@ -2822,7 +2822,7 @@ army = {
 	}
 	regiment = {
 		name= "2nd Reserve Dragoon Regiment"
-		type = dragoon
+		type = hussar
 		home = 699
 	}
 }
@@ -2884,7 +2884,7 @@ army = {
 	}
 	regiment = {
 		name= "1st Reserve Dragoon Regiment"
-		type = dragoon
+		type = hussar
 		home = 599
 	}
 }

@@ -270,7 +270,7 @@ army = {
 
 	regiment = {
 		name= "3.3ème Division d'Infanterie"
-		type = cuirassier
+		type = artillery
 		home = 399
 	}
 }
@@ -282,13 +282,13 @@ army = {
 
 	regiment = {
 		name= "1.Cavalerie de la Garde"
-		type = dragoon
+		type = hussar
 		home = 458
 	}
 
 	regiment = {
 		name= "2.Cavalerie de la Garde"
-		type = dragoon
+		type = hussar
 		home = 420
 	}
 
@@ -400,19 +400,19 @@ army = {
 	location = 1704
 	regiment = {
 		name= "1.1ère Division de cavalerie"
-		type = dragoon
+		type = hussar
 		home = 422
 	}
 
 	regiment = {
 		name= "2.1ère Division de cavalerie"
-		type = dragoon
+		type = hussar
 		home = 436
 	}
 
 	regiment = {
 		name= "3.1ère Division de cavalerie"
-		type = dragoon
+		type = hussar
 		home = 421
 	}
 
@@ -447,7 +447,7 @@ army = {
 
 	regiment = {
 		name= "2.9ème Division d'Infanterie"
-		type = cuirassier
+		type = artillery
 		home = 470
 	}
 
@@ -459,7 +459,7 @@ army = {
 
 	regiment = {
 		name= "1.2ème Division de cavalerie"
-		type = dragoon
+		type = hussar
 		home = 462
 	}
 

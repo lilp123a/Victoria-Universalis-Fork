@@ -34,7 +34,7 @@ army = {
 	
 	regiment = {
 		name = "Burleson's Command"
-		type = cuirassier
+		type = artillery
 		home = 137
 	}
 	

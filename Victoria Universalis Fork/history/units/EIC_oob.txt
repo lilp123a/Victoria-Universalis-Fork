@@ -54,19 +54,19 @@ army = {
 
 	regiment = {
 		name= "1st Bengal Native Artillery"
-		type = cuirassier
+		type = artillery
 		home = 1252
 	}
 
 	regiment = {
 		name= "2nd Bengal Native Artillery"
-		type = cuirassier
+		type = artillery
 		home = 1253
 	}
 
 	regiment = {
 		name= "3rd Bengal Native Artillery"
-		type = cuirassier
+		type = artillery
 		home = 1257
 	}
 
@@ -112,19 +112,19 @@ army = {
 
 	regiment = {
 		name= "1st Bombay Native Artillery"
-		type = cuirassier
+		type = artillery
 		home = 1316
 	}
 
 	regiment = {
 		name= "2nd Bombay Native Artillery"
-		type = cuirassier
+		type = artillery
 		home = 1302
 	}
 
 	regiment = {
 		name= "3rd Bombay Native Artillery"
-		type = cuirassier
+		type = artillery
 		home = 1317
 	}
 }
@@ -170,7 +170,7 @@ army = {
 
 	regiment = {
 		name= "1st Madras Native Artillery"
-		type = cuirassier
+		type = artillery
 		home = 1305
 	}
 }

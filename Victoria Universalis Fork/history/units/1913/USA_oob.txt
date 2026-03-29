@@ -1106,13 +1106,13 @@ army = {
 	location = 137
 	regiment = {
 		name= "1st Cavalry Brigade"
-		type = dragoon
+		type = hussar
 		home = 137
 	}
 
 	regiment = {
 		name= "2nd Cavarly Brigade"
-		type = dragoon
+		type = hussar
 		home = 137
 	}
 	}

@@ -94,7 +94,7 @@ army = {
 
 	regiment = {
 		name= "5. Brigada de Artilharia"
-		type = cuirassier
+		type = artillery
 		home = 521
 	}
 

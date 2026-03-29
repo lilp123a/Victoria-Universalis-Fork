@@ -604,7 +604,7 @@ army = {
 	}
 	regiment = {
 		name= "10. Dragonerregiment"
-		type = dragoon
+		type = hussar
 		home = 704
 	}
 	regiment = {
@@ -690,7 +690,7 @@ army = {
 	}
 	regiment = {
 		name= "11. Dragonerregiment"
-		type = dragoon
+		type = hussar
 		home = 647
 	}
 	regiment = {
@@ -1131,7 +1131,7 @@ army = {
 	}
 	regiment = {
 		name= "13. Dragonerregiment"
-		type = dragoon
+		type = hussar
 		home = 625
 	}
 	regiment = {
@@ -1334,12 +1334,12 @@ army = {
 	}
 	regiment = {
 		name= "9. Dragonerregiment"
-		type = dragoon
+		type = hussar
 		home = 950
 	}
 	regiment = {
 		name= "15. Dragonerregiment"
-		type = dragoon
+		type = hussar
 		home = 651
 	}
 	regiment = {
@@ -1567,12 +1567,12 @@ army = {
 	}
 	regiment = {
 		name= "6. Dragonerregiment"
-		type = dragoon
+		type = hussar
 		home = 735
 	}
 	regiment = {
 		name= "6. Schützen Dragonerregiment"
-		type = dragoon
+		type = hussar
 		home = 617
 	}
 	regiment = {
@@ -1780,7 +1780,7 @@ army = {
 	}
 	regiment = {
 		name= "14. Reserveschwadron Dragonerregiment"
-		type = dragoon
+		type = hussar
 		home = 642
 	}
 	regiment = {
@@ -1861,12 +1861,12 @@ army = {
 	}
 	regiment = {
 		name= "10. Reserveschwadron Dragonerregiment"
-		type = dragoon
+		type = hussar
 		home = 661
 	}
 	regiment = {
 		name= "5. Reserveschwadron Husarenregiment"
-		type = dragoon
+		type = hussar
 		home = 951
 	}
 	regiment = {

@@ -426,7 +426,7 @@ army = {
 
 	regiment = {
 		name= "I. Artilleriebrigade"
-		type = cuirassier
+		type = artillery
 		home = 584
 	}
 
@@ -479,7 +479,7 @@ army = {
 
 	regiment = {
 		name= "II. Artilleriebrigade"
-		type = cuirassier
+		type = artillery
 		home = 685
 	}
 
@@ -532,7 +532,7 @@ army = {
 
 	regiment = {
 		name= "III. Artilleriebrigade"
-		type = cuirassier
+		type = artillery
 		home = 698
 	}
 
@@ -579,7 +579,7 @@ army = {
 
 	regiment = {
 		name= "IV. Artilleriebrigade"
-		type = cuirassier
+		type = artillery
 		home = 578
 	}
 
@@ -654,43 +654,43 @@ army = {
 
 	regiment = {
 		name= "IV. Kavalleriebrigade"
-		type = dragoon
+		type = hussar
 		home = 681
 	}
 
 	regiment = {
 		name= "V. Kavalleriebrigade"
-		type = dragoon
+		type = hussar
 		home = 550
 	}
 
 	regiment = {
 		name= "VI. Kavalleriebrigade"
-		type = dragoon
+		type = hussar
 		home = 551
 	}
 
 	regiment = {
 		name= "VII. Kavalleriebrigade"
-		type = dragoon
+		type = hussar
 		home = 699
 	}
 
 	regiment = {
 		name= "VIII. Kavalleriebrigade"
-		type = cuirassier
+		type = artillery
 		home = 699
 	}
 
 	regiment = {
 		name= "IX. Kavalleriebrigade"
-		type = cuirassier
+		type = artillery
 		home = 700
 	}
 
 	regiment = {
 		name= "X. Kavalleriebrigade"
-		type = cuirassier
+		type = artillery
 		home = 692
 	}
 }
@@ -707,13 +707,13 @@ army = {
 	
 	regiment = {
 		name= "XI. Kavalleriebrigade"
-		type = dragoon
+		type = hussar
 		home = 701
 	}
 
 	regiment = {
 		name = "V. Artilleriebrigade"
-		type = cuirassier
+		type = artillery
 		home = 701
 	}
 }
