@@ -23,8 +23,8 @@ artillery = {
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		artillery = 0.32		#9.6
-		canned_food = 0.2		#1.6
+		artillery = 0.24		#9.6
+		canned_food = 0.15		#1.6
 	}							#11.2
 	
 	#Land Abilties
