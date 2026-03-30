@@ -1,9 +1,13 @@
-#romanticism
+###################
+### ROMANTICISM ###
+###################
+
 romanticist_literature = {
 	limit = { romanticism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			average_consciousness = 3
@@ -20,16 +24,19 @@ romanticist_literature = {
 			}
 		}
 	}
+	
 	effect = {
 		shared_prestige = 10
 		permanent_prestige = 1
 	}
 }
+
 romanticist_art = {
 	limit = { romanticism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			average_consciousness = 3
@@ -46,16 +53,19 @@ romanticist_art = {
 			}
 		}
 	}
+	
 	effect = {
 		shared_prestige = 10 
 		permanent_prestige = 1
 	}
 }
+
 romanticist_music = {
 	limit = { romanticism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			is_greater_power = no
@@ -72,17 +82,23 @@ romanticist_music = {
 			}
 		}
 	}
+	
 	effect = {
 		shared_prestige = 10 
 		permanent_prestige = 1
 	}
 }
-#realism
+
+###############
+### REALISM ###
+###############
+
 realist_literature = {
 	limit = { realism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			is_greater_power = no
@@ -99,16 +115,19 @@ realist_literature = {
 			}
 		}
 	}
+	
 	effect = {
 		shared_prestige = 15 
 		permanent_prestige = 1.5
 	}
 }
+
 realist_art = {
 	limit = { realism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			average_consciousness = 3
@@ -125,16 +144,19 @@ realist_art = {
 			}
 		}
 	}
+	
 	effect = {
 		shared_prestige = 15
 		permanent_prestige = 1.5
 	}
 }
+
 realist_music = {
 	limit = { realism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = -2
 			OR = {
@@ -152,12 +174,17 @@ realist_music = {
 		permanent_prestige = 1.5
 	}
 }
-#impressionism
+
+#####################
+### IMPRESSIONISM ###
+#####################
+
 impressionist_literature = {
 	limit = { impressionism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = -2
 			OR = {
@@ -170,16 +197,19 @@ impressionist_literature = {
 			positivism = 1
 		}
 	}
+	
 	effect = {
 		shared_prestige = 20
 		permanent_prestige = 2
 	}
 }
+
 impressionist_art = {
 	limit = { impressionism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = -2
 			OR = {
@@ -192,16 +222,19 @@ impressionist_art = {
 			ideological_thought = 1
 		}
 	}
+	
 	effect = {
 		shared_prestige = 20
 		permanent_prestige = 2
 	}
 }
+
 impressionist_music = {
 	limit = { impressionism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = -2
 			OR = {
@@ -214,17 +247,23 @@ impressionist_music = {
 			empiricism = 1
 		}
 	}
+	
 	effect = {
 		shared_prestige = 20
 		permanent_prestige = 2
 	}
 }
-#expressionism
+
+#####################
+### EXPRESSIONISM ###
+#####################
+
 expressionist_literature = {
 	limit = { expressionism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = -2
 			OR = {
@@ -236,18 +275,20 @@ expressionist_literature = {
 			factor = 2
 			experimental_psychology = 1
 		}
-			
 	}
+	
 	effect = {
 		shared_prestige = 30
 		permanent_prestige = 3
 	}
 }
+
 expressionist_art = {
 	limit = { expressionism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = -2
 			OR = {
@@ -260,16 +301,19 @@ expressionist_art = {
 			nationalism_n_imperialism = 1
 		}
 	}
+	
 	effect = {
 		shared_prestige = 30
 		permanent_prestige = 3
 	}
 }
+
 expressionist_music = {
 	limit = { expressionism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = -2
 			OR = {
@@ -282,17 +326,23 @@ expressionist_music = {
 			phenomenology_n_hermeneutic = 1
 		}
 	}
+	
 	effect = {
 		shared_prestige = 30
 		permanent_prestige = 3
 	}
 }
-#mass_culture_n_the_avant_garde
+
+######################################
+### MASS CULTURE & THE AVANT-GARDE ###
+######################################
+
 avantgarde_literature = {
 	limit = { mass_culture_n_the_avant_garde = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = -2
 			OR = {
@@ -305,16 +355,19 @@ avantgarde_literature = {
 			anti__rationalism = 1
 		}
 	}
+	
 	effect = {
 		shared_prestige = 40
 		permanent_prestige = 4
 	}
 }
+
 avantgarde_art = {
 	limit = { mass_culture_n_the_avant_garde = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = -2
 			OR = {
@@ -327,16 +380,19 @@ avantgarde_art = {
 			social_alienation = 1
 		}
 	}
+	
 	effect = {
 		shared_prestige = 40
 		permanent_prestige = 4
 	}
 }
+
 avantgarde_music = {
 	limit = { mass_culture_n_the_avant_garde = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = -2
 			OR = {
@@ -349,16 +405,19 @@ avantgarde_music = {
 			invention = jazz
 		}
 	}
+	
 	effect = {
 		shared_prestige = 40
 		permanent_prestige = 4
 	}
 }
+
 jazz = {
 	limit = { mass_culture_n_the_avant_garde = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			great_war_experience = 1
@@ -368,16 +427,19 @@ jazz = {
 			invention = biased_multiculturalism
 		}
 	}
+	
 	effect = {
 		shared_prestige = 40
 		permanent_prestige = 4
 	}
 }
+
 socialist_realism = {
 	limit = { mass_culture_n_the_avant_garde = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			government = proletarian_dictatorship
@@ -387,17 +449,23 @@ socialist_realism = {
 			ruling_party_ideology = socialist
 		}
 	}
+	
 	effect = {
 		shared_prestige = 40
 		permanent_prestige = 4
 	}
 }
-#modernism
+
+#################
+### MODERNISM ###
+#################
+
 modern_design = {
 	limit = { modernism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			social_science = 1
@@ -407,16 +475,19 @@ modern_design = {
 			invention = sociology
 		}
 	}
+	
 	effect = {
 		shared_prestige = 100
 		permanent_prestige = 10
 	}
 }
+
 surrealism = {
 	limit = { modernism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			anti__rationalism = 1
@@ -426,16 +497,19 @@ surrealism = {
 			invention = dogma_of_violence
 		}
 	}
+	
 	effect = {
 		shared_prestige = 100
 		permanent_prestige = 10
 	}
 }
+
 futurism = {
 	limit = { modernism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			invention = stainless_steel
@@ -445,17 +519,23 @@ futurism = {
 			synthetic_polymers = 1
 		}
 	}
+	
 	effect = {
 		shared_prestige = 100
 		permanent_prestige = 10
 	}
 }
-#idealism
+
+################
+### IDEALISM ###
+################
+
 neokantian_idealism = {
 	limit = { idealism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			ideological_thought = 1
@@ -465,16 +545,19 @@ neokantian_idealism = {
 			functionalism = 1
 		}
 	}
+	
 	effect = {
 		shared_prestige = 5
 		permanent_prestige = 0.5
 	}
 }
+
 hegelian_idealism = {
 	limit = { idealism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			romanticism = 1
@@ -484,17 +567,23 @@ hegelian_idealism = {
 			phenomenalism = 1
 		}
 	}
+	
 	effect = {
 		shared_prestige = 5
 		permanent_prestige = 0.5
 	}
 }
-#empiricism
+
+##################
+### EMPIRICISM ###
+##################
+
 pragmatism = {
 	limit = { empiricism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			realism = 1
@@ -504,16 +593,19 @@ pragmatism = {
 			positivism = 1
 		}
 	}
+	
 	effect = {
 		shared_prestige = 10
 		permanent_prestige = 1
 	}
 }
+
 i_empiricism = {
 	limit = { empiricism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			phenomenalism = 1
@@ -523,17 +615,23 @@ i_empiricism = {
 			scientific_management = 1
 		}
 	}
+	
 	effect = {
 		shared_prestige = 10
 		permanent_prestige = 1
 	}
 }
-#analytic_philosophy
+
+###########################
+### ANALYTIC PHILOSOPHY ###
+###########################
+
 i_analytic_philosophy = {
 	limit = { analytic_philosophy = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			impressionism = 1
@@ -547,16 +645,19 @@ i_analytic_philosophy = {
 			plurality = 5
 		}
 	}
+	
 	effect = {
 		shared_prestige = 15
 		permanent_prestige = 1.5
 	}
 }
+
 modern_logics = {
 	limit = { analytic_philosophy = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			functionalism = 1
@@ -566,16 +667,19 @@ modern_logics = {
 			state_n_government = 1
 		}
 	}
+	
 	effect = {
 		shared_prestige = 15
 		permanent_prestige = 1.5
 	}
 }
+
 logical_positivism = {
 	limit = { analytic_philosophy = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			impressionism = 1
@@ -585,17 +689,23 @@ logical_positivism = {
 			biologism = 1
 		}
 	}
+	
 	effect = {
 		shared_prestige = 15
 		permanent_prestige = 1.5
 	}
 }
-#phenomenology_n_hermeneutic
+
+###################################
+### PHENOMENOLOGY & HERMENEUTIC ###
+###################################
+
 phenomenology = {
 	limit = { phenomenology_n_hermeneutic = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			invention = expressionist_literature
@@ -605,16 +715,19 @@ phenomenology = {
 			social_science = 1
 		}
 	}
+	
 	effect = {
 		shared_prestige = 20
 		permanent_prestige = 2
 	}
 }
+
 hermeneutics = {
 	limit = { phenomenology_n_hermeneutic = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			social_science = 1
@@ -624,17 +737,23 @@ hermeneutics = {
 			invention = darwinism
 		}
 	}
+	
 	effect = {
 		shared_prestige = 20
 		permanent_prestige = 2
 	}
 }
-#anti__rationalism
+
+########################
+### ANTI-RATIONALISM ###
+########################
+
 existentialism = {
 	limit = { anti__rationalism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			invention = expressionist_literature
@@ -644,32 +763,41 @@ existentialism = {
 			invention = dogma_of_violence
 		}
 	}
+	
 	effect = {
 		shared_prestige = 25
 		permanent_prestige = 2.5
 	}
 }
+
 nihilism_and_the_will = {
 	limit = { anti__rationalism = 1 }
-	news = no
+	
 	chance = {
 		base = 3
+		
 		modifier = {
 			factor = 3
 			invention = social_anthropology
 		}
 	}
+	
 	effect = {
 		shared_prestige = 25
 		permanent_prestige = 2.5
 	}
 }
-#quantum_mechanics
+
+#########################
+### QUANTUM MECHANICS ###
+#########################
+
 quantum_theory = {
 	limit = { quantum_mechanics = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			average_consciousness = 5
@@ -679,46 +807,61 @@ quantum_theory = {
 			invention = phenomenology
 		}
 	}
+	
 	effect = {
 		shared_prestige = 50
 		permanent_prestige = 5
 	}
 }
-#biologism
+
+#################
+### BIOLOGISM ###
+#################
+
 darwinism = {
 	limit = { biologism = 1 }
-	news = no
+	
 	chance = {
 		base = 5
+		
 		modifier = {
 			factor = 2
 			impressionism = 1
 		}
 	}
+	
 	effect = {
 		education_efficiency = 0.1
 	}
 }
+
 social_darwinism = {
 	limit = { biologism = 1 }
-	news = no
+	
 	chance = {
 		base = 3
+		
 		modifier = {
 			factor = 3
 			invention = darwinism
 		}
 	}
+	
 	effect = {
 		war_exhaustion = -0.05
 	}
 }
-#social_science
+
+######################
+### SOCIAL SCIENCE ###
+######################
+
 sociology = {
 	limit = { social_science = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			analytic_philosophy = 1
@@ -728,13 +871,18 @@ sociology = {
 			scientific_management = 1
 		}
 	}
-	effect = { plurality = 0.05 }
+	
+	effect = {
+		plurality = 0.05
+	}
 }
+
 social_psychology = {
 	limit = { social_science = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			experimental_psychology = 1
@@ -744,13 +892,18 @@ social_psychology = {
 			behaviorism = 1
 		}
 	}
-	effect = { plurality = 0.05 }
+	
+	effect = {
+		plurality = 0.05
+	}
 }
+
 political_science = {
 	limit = { social_science = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			revolution_n_counterrevolution = 1
@@ -760,13 +913,18 @@ political_science = {
 			naval_directionism = 1
 		}
 	}
-	effect = { plurality = 0.05 }
+	
+	effect = {
+		plurality = 0.05
+	}
 }
+
 social_anthropology = {
 	limit = { social_science = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			invention = darwinism
@@ -776,17 +934,23 @@ social_anthropology = {
 			assembly_line = 1
 		}
 	}
+	
 	effect = {
 		plurality = 0.05
-		colonial_prestige = 0.1 
+		colonial_prestige = 0.1
 	}
 }
-#social_alienation
+
+######################
+### INTERPRETIVISM ###
+######################
+
 the_revolt_of_the_masses = {
 	limit = { social_alienation = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			revolution_n_counterrevolution = 1
@@ -796,17 +960,24 @@ the_revolt_of_the_masses = {
 			great_war_experience = 1
 		}
 	}
+	
 	effect = {
 		war_exhaustion = -0.25
 	}
+	
 	core_pop_consciousness_modifier = 0.01
 }
-#critical_theory
+
+#######################
+### CRITICAL THEORY ###
+#######################
+
 postcolonialism = {
 	limit = { critical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			ruling_party_ideology = liberal
@@ -820,18 +991,22 @@ postcolonialism = {
 			average_consciousness = 3
 		}
 	}
+	
 	effect = {
 		seperatism = 0.1
 		shared_prestige = 50
 		permanent_prestige = 5
 	}
+	
 	core_pop_consciousness_modifier = 0.01
 }
+
 feminism = {
 	limit = { critical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			ruling_party_ideology = liberal
@@ -845,18 +1020,22 @@ feminism = {
 			average_consciousness = 3
 		}
 	}
+	
 	effect = {
 		seperatism = 0.1
 		shared_prestige = 50
 		permanent_prestige = 5
 	}
+	
 	core_pop_consciousness_modifier = 0.01
 }
+
 critical_race_theory = {
 	limit = { critical_theory = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			ruling_party_ideology = liberal
@@ -870,19 +1049,26 @@ critical_race_theory = {
 			average_consciousness = 3
 		}
 	}
+	
 	effect = {
 		seperatism = 0.1
 		shared_prestige = 50
 		permanent_prestige = 5
 	}
+	
 	core_pop_consciousness_modifier = 0.01
 }
-#the rights of man - called enlightenment_thought in files...
+
+#########################
+### THE RIGHTS OF MAN ###
+#########################
+
 paternalism = {
 	limit = { enlightenment_thought = 1 }
-	news = no
+	
 	chance = {
 		base = 1
+		
 		modifier = {
 			factor = 2
 			NOT = { average_consciousness = 3.0 }
@@ -892,13 +1078,16 @@ paternalism = {
 			vote_franschise = landed_voting
 		}
 	}
+	
 	org_regain = 0.05
 }
+
 rationalism = {
 	limit = { enlightenment_thought = 1 }
-	news = no
+	
 	chance = {
 		base = 3
+		
 		modifier = {
 			factor = 2
 			literacy = 0.5
@@ -908,17 +1097,23 @@ rationalism = {
 			average_consciousness = 1
 		}
 	}
+	
 	effect = {
 		plurality = 0.2
 		suppression_points_modifier = -0.05
 	}
 }
-#ideological_thought
+
+###########################
+### IDEOLOGICAL THOUGHT ###
+###########################
+
 authoritarianism = {
 	limit = { ideological_thought = 1 }
-	news = no
+	
 	chance = {
 		base = 0
+		
 		modifier = {
 			factor = 5
 			OR = {
@@ -930,14 +1125,17 @@ authoritarianism = {
 				}
 		}
 	}
+	
 	core_pop_consciousness_modifier = -0.02
 	core_pop_militancy_modifier = -0.01
 }
+
 secularization = {
 	limit = { ideological_thought = 1 }
-	news = no
+	
 	chance = {
 		base = 10
+		
 		modifier = {
 			factor = 5
 			nationalvalue = nv_equality
@@ -950,16 +1148,19 @@ secularization = {
 			}
 		}
 	}
+	
 	effect = {
 		plurality = 0.2
 		suppression_points_modifier = -0.05
 	}
 }
+
 social_conscience = {
 	limit = { ideological_thought = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			nationalvalue = nv_equality
@@ -969,6 +1170,7 @@ social_conscience = {
 			average_consciousness = 2
 		}
 	}
+	
 	effect = {
 		plurality = 0.1
 		political_reform_desire = 0.1
@@ -976,12 +1178,16 @@ social_conscience = {
 	}
 }
 
-#state_n_government
+##########################
+### STATE & GOVERNMENT ###
+##########################
+
 populism_vs._establishment = {
 	limit = { state_n_government = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			average_consciousness = 3
@@ -991,15 +1197,17 @@ populism_vs._establishment = {
 			nationalvalue = nv_order
 		}
 	}
+	
 	political_reform_desire = 0.05
 	social_reform_desire = 0.05
-
 }
+
 clericalism_vs._anticlericalism = {
 	limit = { state_n_government = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			NOT = {
@@ -1011,15 +1219,18 @@ clericalism_vs._anticlericalism = {
 			average_militancy = 3
 		}
 	}
+	
 	effect = {
 		plurality = 0.05
 	}
 }
+
 meritocracy_vs._aristocracy = {
 	limit = { state_n_government = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 1
 			literacy = 0.4
@@ -1029,61 +1240,21 @@ meritocracy_vs._aristocracy = {
 			nationalvalue = nv_liberty
 		}
 	}
+	
 	effect = {
 		plurality = 0.05 
 	}
 }
-#nationalism_n_imperialism
-biased_multiculturalism = {
-	limit = { nationalism_n_imperialism = 1 }
-	news = no
-	chance = {
-		base = 2
-		modifier = {
-			factor = 1
-			ruling_party_ideology = reactionary
-		}
-		modifier = {
-			factor = 2
-			ruling_party_ideology = conservative
-		}
-		modifier = {
-			factor = 1
-			nationalvalue = nv_order
-		}
-	}
-	effect = {
-		colonial_migration = 0.05
-		plurality = 0.05
-	}
-}
-manifest_destiny = {
-	limit = { nationalism_n_imperialism = 1 }
-	news = no
-	chance = {
-		base = 2
-		modifier = {
-			factor = 3
-			nationalvalue = nv_liberty
-		}
-		modifier = {
-			factor = 2
-			ruling_party_ideology = liberal
-		}
-	}
-	effect = {
-		war_exhaustion = -0.15
-		morale = 0.1
-	}
-}
+
 mission_to_civilize = {
 	limit = { 
 		year = 1850 
 		state_n_government = 1
 	}
-	news = no
+	
 	chance = {
 		base = 0
+		
 		modifier = {
 			factor = 25
 			nationalism_n_imperialism = 1
@@ -1109,17 +1280,72 @@ mission_to_civilize = {
 			}
 		}
 	}
+	
 	effect = {
 		colonial_prestige = 0.1
 		diplomatic_points = 0.2
 		colonial_life_rating = -10 
 	}
 }
-separatism = {
+
+#################################
+### NATIONALISM & IMPERIALISM ###
+#################################
+
+biased_multiculturalism = {
 	limit = { nationalism_n_imperialism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
+		modifier = {
+			factor = 1
+			ruling_party_ideology = reactionary
+		}
+		modifier = {
+			factor = 2
+			ruling_party_ideology = conservative
+		}
+		modifier = {
+			factor = 1
+			nationalvalue = nv_order
+		}
+	}
+	
+	effect = {
+		colonial_migration = 0.05
+		plurality = 0.05
+	}
+}
+
+manifest_destiny = {
+	limit = { nationalism_n_imperialism = 1 }
+	
+	chance = {
+		base = 2
+		
+		modifier = {
+			factor = 3
+			nationalvalue = nv_liberty
+		}
+		modifier = {
+			factor = 2
+			ruling_party_ideology = liberal
+		}
+	}
+	
+	effect = {
+		war_exhaustion = -0.15
+		morale = 0.1
+	}
+}
+
+separatism = {
+	limit = { nationalism_n_imperialism = 1 }
+	
+	chance = {
+		base = 2
+		
 		modifier = {
 			factor = 2
 			average_militancy = 3
@@ -1129,8 +1355,10 @@ separatism = {
 			average_consciousness = 2
 		}
 	}
+	
 	effect = {
 		seperatism = 0.5
+		
 		rebel_org_gain = {
 			faction = nationalist_rebels 
 			value = 0.33
@@ -1138,12 +1366,16 @@ separatism = {
 	}
 }
 
-#revolution_n_counterrevolution
+######################################
+### REVOLUTION & COUNTERREVOLUTION ###
+######################################
+
 dogma_of_violence = {
 	limit = { revolution_n_counterrevolution = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			average_consciousness = 3
@@ -1153,15 +1385,18 @@ dogma_of_violence = {
 			nationalvalue = nv_order
 		}
 	}
+	
 	effect = {
 		enable_crime = anarchic_bomb_throwers
 	}
 }
+
 terrorism = {
 	limit = { revolution_n_counterrevolution = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			ruling_party_ideology = socialist
@@ -1178,15 +1413,18 @@ terrorism = {
 			nationalvalue = nv_liberty
 		}
 	}
+	
 	effect = {
 		enable_crime = terrorist_cells 
 	}
 }
+
 nostalgic_romanticism = {
 	limit = { revolution_n_counterrevolution = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			average_consciousness = 2
@@ -1196,6 +1434,7 @@ nostalgic_romanticism = {
 			is_greater_power = yes
 		}
 	}
+	
 	effect = {
 		war_exhaustion = -0.15
 		rebel_org_gain = {
@@ -1204,11 +1443,13 @@ nostalgic_romanticism = {
 		}
 	}
 }
+
 vangaurd_party = {
 	limit = { revolution_n_counterrevolution = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 1
 			ruling_party_ideology = socialist
@@ -1218,6 +1459,7 @@ vangaurd_party = {
 			ruling_party_ideology = communist
 		}
 	}
+	
 	effect = {
 		rebel_org_gain = {
 			faction = communist_rebels
@@ -1225,12 +1467,17 @@ vangaurd_party = {
 		}
 	}
 }
-#mass_politics
+
+#####################
+### MASS POLITICS ###
+#####################
+
 expansionism = {
 	limit = { mass_politics = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 3
 			average_consciousness = 3
@@ -1240,14 +1487,17 @@ expansionism = {
 			nationalvalue = nv_order
 		}
 	}
+	
 	effect = {
 	}
 }
+
 the_doctrine_of_fascism = {
 	limit = { mass_politics = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			ruling_party_ideology = fascist
@@ -1261,6 +1511,7 @@ the_doctrine_of_fascism = {
 			average_militancy = 4
 		}
 	}
+	
 	effect = {
 		rebel_org_gain = {
 			faction = fascist_rebels
@@ -1268,12 +1519,17 @@ the_doctrine_of_fascism = {
 		}
 	}
 }
-#behaviorism
+
+####################
+### BEHAVIOURISM ###
+####################
+
 mass_advertising = {
 	limit = { behaviorism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 7
 			nationalvalue = nv_liberty
@@ -1287,16 +1543,19 @@ mass_advertising = {
 			government = hms_government
 		}
 	}
+	
 	effect = {
 		education_efficiency = 0.25
 		suppression_points_modifier = -0.05
 	}
 }
+
 the_talkies = {
 	limit = { behaviorism = 1 }
-	news = no
+	
 	chance = {
 		base = 2
+		
 		modifier = {
 			factor = 2
 			nationalvalue = nv_liberty
@@ -1306,10 +1565,12 @@ the_talkies = {
 			average_consciousness = 3
 		}
 	}
+	
 	effect = {
 		shared_prestige = 50
 		permanent_prestige = 5
 		suppression_points_modifier = -0.05
 	}
+	
 	core_pop_consciousness_modifier = 0.01
 }

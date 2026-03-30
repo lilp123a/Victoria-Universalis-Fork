@@ -7,8 +7,9 @@ private_banks = {
 	year = 1836
 	cost = 3600
 	
-	tax_eff = 5
 	activate_building = cement_factory 
+	
+	tax_eff = 5
 	
 	ai_chance = {
 		factor = 3
@@ -562,11 +563,11 @@ freedom_of_trade = {
 	year = 1836
 	cost = 3600
 	
+	activate_building = luxury_clothes_factory
+	
 	influence = 0.1
 	farm_rgo_eff = 0.1
 	mine_rgo_eff = 0.1
-	
-	activate_building = luxury_clothes_factory  
 	
 	ai_chance = {
 		factor = 2
@@ -765,9 +766,9 @@ guild_based_production = {
 	year = 1836
 	cost = 3600
 	
-	factory_input = -0.02
-	
 	activate_building = canned_food_factory 
+	
+	factory_input = -0.02
 	
 	ai_chance = {
 		factor = 1.05
