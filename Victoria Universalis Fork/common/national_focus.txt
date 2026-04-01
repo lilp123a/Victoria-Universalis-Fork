@@ -2,11 +2,19 @@ rail_focus = {
 	encourage_rail = {
 		icon = 2
 		
+		limit = {
+			ai = no
+		}
+		
 		railroads = 0.5 # Capitalists 50% more likely to choose railroads
 	}
 	
 	immigration = {
 		icon = 3
+		
+		limit = {
+			ai = no
+		}
 		
 		immigrant_attract = 2 # Increases attactiveness to immigrants by 200%
 	}
@@ -16,6 +24,7 @@ rail_focus = {
 		
 		limit = {
 			is_core = THIS
+			
 			THIS = {
 				is_greater_power = no
 			}
@@ -567,6 +576,7 @@ production_focus = {
 		icon = 16
 		
 		limit = {
+			ai = no
 			year = 1880
 		}
 		
@@ -579,6 +589,7 @@ production_focus = {
 		icon = 17
 		
 		limit = {
+			ai = no
 			year = 1880
 		}
 		
@@ -590,6 +601,10 @@ production_focus = {
 	chemical_focus = {
 		icon = 18
 		
+		limit = {
+			ai = no
+		}
+		
 		sulphur = 100
 		oil = 100
 		rubber = 100
@@ -600,7 +615,8 @@ production_focus = {
 	shipping_focus = {
 		icon = 19
 		
-		limit = { 
+		limit = {
+			ai = no
 			state_scope = { any_owned_province = { port = yes } }
 		}
 		
@@ -611,6 +627,10 @@ production_focus = {
 	textile_focus = {
 		icon = 20
 		
+		limit = {
+			ai = no
+		}
+		
 		dye = 100
 		fabric = 100
 		regular_clothes = 100
@@ -619,6 +639,10 @@ production_focus = {
 	
 	wood_focus = {
 		icon = 21
+		
+		limit = {
+			ai = no
+		}
 		
 		lumber = 75
 		paper = 75
@@ -629,6 +653,10 @@ production_focus = {
 	basic_industry_focus = {
 		icon = 22
 		
+		limit = {
+			ai = no
+		}
+		
 		steel = 100
 		cement = 75
 		machine_parts = 100
@@ -636,6 +664,10 @@ production_focus = {
 	
 	armaments_focus =  {
 		icon = 23
+		
+		limit = {
+			ai = no
+		}
 		
 		artillery = 100
 		small_arms = 100
@@ -646,6 +678,10 @@ production_focus = {
 	consumer_focus =  {
 		icon = 32
 		
+		limit = {
+			ai = no
+		}
+		
 		glass = 75
 		canned_food = 100
 		cigarettes = 75
@@ -654,6 +690,10 @@ production_focus = {
 	
 	beverages_focus =  {
 		icon = 24
+		
+		limit = {
+			ai = no
+		}
 		
 		liquor = 100
 		wine = 100
