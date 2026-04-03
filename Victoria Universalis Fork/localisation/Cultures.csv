@@ -1,7 +1,6 @@
 germanic;Germanic;x
 north_german;North German;x
 south_german;South German;x
-ashkenazi;Ashkenazi;x
 beneluxian;Benelux;x
 dutch;Dutch;x
 flemish;Flemish;x
@@ -20,7 +19,6 @@ irish;Irish;x
 italian;Italian;x
 north_italian;North Italian;x
 south_italian;South Italian;x
-maltese;Maltese;x
 iberian;Iberian;x
 spanish;Spanish;x
 portuguese;Portuguese;x
@@ -56,7 +54,6 @@ levantine;Levantine;x
 greek;Greek;x
 georgian;Georgian;x
 armenian;Armenian;x
-sephardic;Sephardim;x
 turko_semitic;Turko-Semitic;x
 turkish;Turkish;x
 azerbaijani;Azeri;x
@@ -272,7 +269,10 @@ tonga;Tonga;x
 tswana;Tswana;x
 xhosa;Xhosa;x
 yao;Yao;x
-zulu;Zulul;x
+zulu;Zulu;x
+jewish_culture_group;Jewish;x
+ashkenazi;Ashkenazi;x
+sephardic;Sephardim;x
 bears;Bears;x
 polar_bears;Polar Bears;x
 illuminati;Illuminati;x

@@ -79,17 +79,11 @@
         religion = jewish
         size = 5103
     }
-
-    artisans = {
-        culture = maltese
-        religion = catholic
-        size = 685
-    }
-
+    
     artisans = {
         culture = south_italian
         religion = catholic
-        size = 685
+        size = 1370
     }
 }
 #Bizerte (268000/67000 POPS)

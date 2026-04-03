@@ -1,8 +1,8 @@
-color = { 57 105 49 }
-absolute_monarchy = { 50 90 40 }
-fascist_dictatorship = { 0 40 0 }
+color = { 57 105 80 }
+absolute_monarchy = { 57 105 80 }
+fascist_dictatorship = { 0 40 20 }
 presidential_dictatorship = { 100 120 90 }
-proletarian_dictatorship = { 200 10 10 }
+proletarian_dictatorship = { 175 35 35 }
 
 graphical_culture = RussianGC
 

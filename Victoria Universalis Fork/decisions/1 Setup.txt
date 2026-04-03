@@ -332,12 +332,6 @@ political_decisions = {
 				}
 				any_pop = {
 					limit = {
-						has_pop_culture = maltese
-					}
-					literacy = 0.17
-				}
-				any_pop = {
-					limit = {
 						OR = {
 							has_pop_culture = spanish
 							has_pop_culture = catalan

@@ -1,7 +1,5 @@
-color = { 255 230 230 }
-absolute_monarchy = { 194  123  47 }
-proletarian_dictatorship = { 199  67  44 }
-democracy = { 244  121  158 }
+color = { 220 220 220 }
+
 graphical_culture = JapaneseGC
 
 party = {

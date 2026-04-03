@@ -11127,7 +11127,6 @@ SIEGETHEM_BTN1;OK;x
 gtfo_UMN_desc;We've had a good run, but it's time to end our rulership of Minnesota: if you love something, let it go!;x
 requesting_cease_fire_desc;In order to prevent spamming, we cannot ask for another cease fire until this timer runs out.;x
 gtfo_SHA_title;Grant Shan Independence;x
-MLT_ADJ;Maltese;x
 NORMAL_WAR_TAKE_NAME_USA_MEX_MEX;$ORDER$American Invasion of Mexico;x
 ADDTOSPHERE_THEY_ACCEPT_6;*;x
 PROVINCE_VIEW_BUILD_ALL_TOOLTIP;(Click + CTRL to build in all provinces in state);x
