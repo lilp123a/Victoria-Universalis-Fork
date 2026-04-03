@@ -1,9 +1,17 @@
 sprite = 9
 color = { 189 57 36 }
 strata = poor
+
 unemployment = yes
 equivalent = farmers
 
+life_needs = {
+	cattle = 4.2
+	wool =  4.2
+	fish =  4.2
+	fruit =  8
+	grain =  14.4
+}
 
 everyday_needs = {
 	telephones = 0.4
@@ -20,15 +28,6 @@ everyday_needs = {
 	canned_food = 1.2
 	explosives = 1.6
 }
-
-life_needs = {
-	cattle = 4.2
-	wool =  4.2
-	fish =  4.2
-	fruit =  8
-	grain =  14.4
-}
-
 
 luxury_needs = {	
 	telephones = 0.8
@@ -47,7 +46,6 @@ luxury_needs = {
 	luxury_clothes = 0.16
 	luxury_furniture = 0.16
 }
-
 
 country_migration_target =
 {

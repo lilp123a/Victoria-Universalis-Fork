@@ -1,18 +1,13 @@
-#
 # Allowed variables 
-#
-# attack = + or - on dice roll in combat when attacking. (like skill in eu3)
-# defence = + or - on dice roll in combat. (like skill in eu3)
-# morale = % modifier on morale.
-# organisation = % bonus on org.
-# reconnaissance = % bonus on reconaissance.
+# attack = + or - on dice roll in combat when attacking
+# defence = + or - on dice roll in combat when defending
+# morale = % modifier on morale
+# organisation = % bonus on org
+# reconnaissance = % bonus on reconnaissance
 # speed = % bonus on movement
-# attrition = penalty on attrition. (negative is good)
-# experience = % bonus on experience gain.
-# reliability = mil gain or loss for pop associated.
-#
-
-
+# attrition = penalty on attrition (negative is good)
+# experience = % bonus on experience gain
+# reliability = mil gain or loss for pop associated
 
 personality = {
 	no_personality = {

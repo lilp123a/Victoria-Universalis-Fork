@@ -1,15 +1,10 @@
-# All global modifiers are here.  They are applied from certain game-features.
-#
-# Effects are fully scriptable here.
+# All global modifiers are here. They are applied from certain game-features
+# These names can NOT be removed or changed, as the code uses them
+# Effects are fully scriptable here
 
-
-#these names can NOT be removed or changes, as the code uses them....
-
-##########################################################################
-# Difficulty Modifiers
-##########################################################################
-
-
+############################
+### DIFFICULTY MODIFIERS ###
+############################
 
 very_easy_player = {
 	supply_consumption = -0.5
@@ -31,9 +26,6 @@ hard_player = {
 very_hard_player = {
 	supply_consumption = 1.0
 }
-
-
-
 
 very_easy_ai = {
 	land_organisation = -0.25
@@ -62,10 +54,9 @@ very_hard_ai = {
 	global_pop_militancy_modifier = -0.04
 }
 
-
-##########################################################################
-# Provincial Static Modifiers
-##########################################################################
+###################################
+### PROVINCIAL STATIC MODIFIERS ###
+###################################
 
 overseas = {
 }
@@ -91,15 +82,11 @@ land_province = {
 	supply_limit = 5				
 }
 
-
-
-blockaded = 
-{
+blockaded = {
 }
 
 no_adjacent_controlled = {
 }
-
 
 core = {
 }
@@ -114,37 +101,34 @@ occupied = {
 	immigrant_attract = -1
 }
 
-
-
 nationalism = {
 	pop_militancy_modifier = 0.005
 	pop_consciousness_modifier = 0.005
 }
 
 infrastructure = {
-	local_factory_throughput = 1		#each % of infra boost throughput 1%
-	local_rgo_output = 1			#each % of infra boost throughput 1%
+	local_factory_throughput = 1	# Each % of infra boosts throughput by 1%
+	local_rgo_output = 1			# Each % of infra boosts throughput by 1%
 	supply_limit = 4
 }
 
-
-##########################################################################
-# Global Static Modifiers
-##########################################################################
+###############################
+### GLOBAL STATIC MODIFIERS ###
+###############################
 
 base_values = {
 	supply_limit = 5
 }
 
 war = {
-	max_war_exhaustion = 100			#base max at war.
-	badboy = -0.05
+	max_war_exhaustion = 100
+	badboy = -0.15
 }
 
 peace = {
-	max_war_exhaustion = 50			#base max at peace.
+	max_war_exhaustion = 75
 	war_exhaustion = -1
-	badboy = -0.1
+	badboy = -0.15
 }
 
 disarming = {
@@ -157,11 +141,9 @@ war_exhaustion = {
 	cb_generation_speed_modifier = -0.02
 }
 
-
 badboy = {
 	global_pop_consciousness_modifier = 0.001
 }
-
 
 debt_default_to = {
 	import_cost = 0.01
@@ -194,7 +176,6 @@ civ_nation = {
 unciv_nation = {
 }
 
-
 average_literacy = {
 	research_points = 2
 	leadership = 2
@@ -205,15 +186,14 @@ plurality = {
 }
 
 generalised_debt_default = {
-	
 }
 
 total_occupation = {
-	war_exhaustion = 0.05				#increased by war exhaustion.
+	war_exhaustion = 0.05	# Increased by war exhaustion
 }
 
 total_blockaded = {
-	war_exhaustion = 0.2				#increased by war exhaustion.  
+	war_exhaustion = 0.2	# Increased by war exhaustion  
 }
 
 in_bankrupcy = {

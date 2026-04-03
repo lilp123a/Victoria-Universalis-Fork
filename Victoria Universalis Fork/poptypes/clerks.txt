@@ -1,23 +1,29 @@
-strata = middle
-research_points = 2
-research_optimum = 0.04
-
-rebel =
-{
-	infantry = 0.5
-	irregular = 0
-}
-
-
-factory = yes
-workplace_input = -0.1
-workplace_output = 0
 sprite = 5
-starter_share = 1.0
+color = { 240 240 240 }
+strata = middle
+
 unemployment = yes
 can_work_factory = yes
-color = { 240 240 240 }
+factory = yes
 
+research_points = 3
+research_optimum = 0.04
+
+workplace_input = -0.1
+workplace_output = 0.05
+starter_share = 1.0
+
+rebel = {
+	infantry = 1
+}
+
+life_needs = {
+	cattle = 3.2
+	wool =  3.2
+	fish =  3.2
+	fruit =  4.8
+	grain =  9.6
+}
 
 everyday_needs = {
 	fuel = 0.2
@@ -35,15 +41,6 @@ everyday_needs = {
 	canned_food = 0.8
 	paper = 1.2
 }
-
-life_needs = {
-	cattle = 3.2
-	wool =  3.2
-	fish =  3.2
-	fruit =  4.8
-	grain =  9.6
-}
-
 
 luxury_needs = {
 	fuel = 0.4
@@ -63,7 +60,6 @@ luxury_needs = {
 	luxury_clothes = 0.32
 	luxury_furniture = 0.32
 }
-
 
 country_migration_target =
 {

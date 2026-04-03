@@ -1,35 +1,38 @@
 sprite = 12
 color = { 136 136 136 }
 strata = middle
+
 state_capital_only = yes
 
-rebel =
-{
-	infantry = 0.5
-	irregular = 0
-}
-
 administrative_efficiency = yes
-
 tax_eff = 1.0
+
+rebel = {
+	infantry = 1
+}
 
 life_needs_income = {
 	type = administration
 	weight = 1
 }
 
-everyday_needs_income =
-{
+everyday_needs_income = {
 	type = administration
 	weight = 1
 }
 
-luxury_needs_income =
-{
+luxury_needs_income = {
 	type = reforms
 	weight = 1
 }
 
+life_needs = {
+	cattle = 0.8
+	wool =  0.8
+	fish =  0.8
+	fruit =  1.2
+	grain =  2.4
+}
 
 everyday_needs = {
 	fuel = 1.6
@@ -49,15 +52,6 @@ everyday_needs = {
 	paper = 3.2
 }
 
-life_needs = {
-	cattle = 0.8
-	wool =  0.8
-	fish =  0.8
-	fruit =  1.2
-	grain =  2.4
-}
-
-
 luxury_needs = {
 	fuel = 1
 	telephones = 5
@@ -75,8 +69,6 @@ luxury_needs = {
 	canned_food = 1.5
 	paper = 2
 }
-
-
 
 country_migration_target =
 {

@@ -1,19 +1,17 @@
 sprite = 7
 color = { 200 187 157 }
 strata = middle
-demote_migrant = yes
-can_be_recruited = yes
 
-rebel =
-{
-	cavalry = 0
-	artillery = 0.3
-	cuirassier = 0
-	dragoon = 0.05
-	guard = 0.1
-	hussar = 0.05
+state_capital_only = yes
+
+can_be_recruited = yes
+demote_migrant = yes
+
+rebel = {
 	infantry = 0.5
-	irregular = 0
+	guard = 0.1
+	artillery = 0.3
+	hussar = 0.1	
 }
 
 life_needs_income = {
@@ -26,12 +24,18 @@ everyday_needs_income = {
 	weight = 1
 }
 
-luxury_needs_income =
-{
+luxury_needs_income = {
 	type = reforms
 	weight = 1
 }
 
+life_needs = {
+	cattle = 0.8
+	wool =  0.8
+	fish =  0.8
+	fruit =  1.2
+	grain =  2.4
+}
 
 everyday_needs = {
 	fuel = 1
@@ -50,15 +54,6 @@ everyday_needs = {
 	canned_food = 0.8
 	ammunition = 0.8
 }
-
-life_needs = {
-	cattle = 0.8
-	wool =  0.8
-	fish =  0.8
-	fruit =  1.2
-	grain =  2.4
-}
-
 
 luxury_needs = {
 	fuel = 0.5

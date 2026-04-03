@@ -906,12 +906,17 @@ SOM_colonial_company;Dervish State;x
 SOM_colonial_company_ADJ;Dervish;x
 SOM_proletarian_dictatorship;Somali Democratic Republic;x
 SPA;Spain;x
+SPA_absolute_monarchy;Kingdom of Spain;x
+SPA_prussian_constitutionalism;Kingdom of Spain;x
+SPA_hms_government;Kingdom of Spain;x
+SPA_proletarian_dictatorship;Spanish Workers' Republic;x
 SPA_ADJ;Spanish;x
 SPC;Spain;x
-SPC_absolute_monarchy;Carlist Spain;x
-SPC_ADJ;Spanish;x
-SPC_hms_government;Carlist Spain;x
+SPC_absolute_monarchy;Kingdom of Spain;x
 SPC_prussian_constitutionalism;Carlist Spain;x
+SPC_hms_government;Carlist Spain;x
+SPC_proletarian_dictatorship;Spanish Workers' Republic;x
+SPC_ADJ;Spanish;x
 SRI;Sri Lanka;x
 SRI_absolute_monarchy;Ceylon;x
 SRI_absolute_monarchy_ADJ;Ceylonian;x

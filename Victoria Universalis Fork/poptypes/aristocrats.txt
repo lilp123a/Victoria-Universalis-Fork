@@ -1,21 +1,22 @@
 sprite = 1
 color = { 11 40 93 }
 strata = rich
+
 state_capital_only = yes
 
-
-rebel =
-{
-	cavalry = 0
-	artillery = 0.5
-	cuirassier = 0
-	dragoon = 0
+rebel = {
 	guard = 0.5
-	hussar = 0
-	infantry = 0
-	irregular = 0
+	artillery = 0.25
+	hussar = 0.25
 }
 
+life_needs = {
+	cattle = 0.8
+	wool =  0.8
+	fish =  0.8
+	fruit =  1.2
+	grain =  2.4
+}
 
 everyday_needs = {
 	paper = 5
@@ -30,15 +31,6 @@ everyday_needs = {
 	pharmaceuticals = 5
 }
 
-life_needs = {
-	cattle = 0.8
-	wool =  0.8
-	fish =  0.8
-	fruit =  1.2
-	grain =  2.4
-}
-
-
 luxury_needs = {
 	clipper_convoy = 2
 	telephones = 4
@@ -48,9 +40,7 @@ luxury_needs = {
 	fuel = 3
 }
 
-
-country_migration_target =
-{
+country_migration_target = {
 	factor = 1
 
 	modifier = {

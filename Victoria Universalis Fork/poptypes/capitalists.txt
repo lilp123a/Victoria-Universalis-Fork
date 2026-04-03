@@ -1,29 +1,30 @@
 sprite = 4
 color = { 18 129 10 }
 strata = rich
+
 state_capital_only = yes
+
+can_build = yes
 is_artisan = yes
 
-
-rebel =
-{
-	cavalry = 0
-	artillery = 0.5
-	cuirassier = 0
-	dragoon = 0
+rebel = {
 	guard = 0.5
-	hussar = 0
-	infantry = 0
-	irregular = 0
+	artillery = 0.25
+	hussar = 0.25
 }
-
 
 life_needs_income = {
 	type = administration
 	weight = 1
 }
 
-can_build = yes
+life_needs = {
+	cattle = 0.8
+	wool =  0.8
+	fish =  0.8
+	fruit =  1.2
+	grain =  2.4
+}
 
 everyday_needs = {
 	paper = 20
@@ -38,14 +39,6 @@ everyday_needs = {
 	pharmaceuticals = 20
 	regular_clothes = 20
 	furniture = 20
-}
-
-life_needs = {
-	cattle = 0.8
-	wool =  0.8
-	fish =  0.8
-	fruit =  1.2
-	grain =  2.4
 }
 
 luxury_needs = {
@@ -70,7 +63,6 @@ luxury_needs = {
 	fuel = 30
 }
 
-
 country_migration_target =
 {
 	factor = 0
@@ -81,42 +73,15 @@ migration_target =
 	factor = 0
 }
 
-promote_to =
-{
-	bureaucrats =
-	{
+promote_to = {
+	bureaucrats = {
 		factor = 0.01
 		modifier = {
 			factor = -100
 			NOT = { is_accepted_culture = yes }
 			NOT = { is_primary_culture = yes }
 		}
-#		group = {
-#			modifier = {
-#				factor = 2
-#				country = {
-#					total_pops = 17500000
-#				}
-#			}
-#			modifier = {
-#				factor = 2
-#				country = {
-#					total_pops = 30000000
-#				}
-#			}
-#			modifier = {
-#				factor = 4
-#				country = {
-#					total_pops = 60000000
-#				}
-#			}
-#			modifier = {
-#				factor = 8
-#				country = {
-#					total_pops = 150000000
-#				}
-#			}
-#		}
+		
 		group = {
 			modifier = {
 				factor = -4
@@ -283,6 +248,7 @@ promote_to =
 			}
 		}
 	}
+	
 	clerks = {
 		factor = 0.01
 		modifier = {
@@ -355,8 +321,8 @@ promote_to =
 			}
 		}
 	}
-	officers =
-	{
+	
+	officers = {
 		factor = 0.01
 		modifier = {
 			factor = -1
@@ -366,7 +332,7 @@ promote_to =
 			factor = -100
 			officers = 0.002
 		}		
-
+		
 		modifier = {
 			factor = 5
 			literacy = 0.5
@@ -386,8 +352,8 @@ promote_to =
 			}
 		}
 	}
-	clergymen =
-	{
+	
+	clergymen = {
 		factor = 0.01		
 		group = {
 			modifier = {
@@ -618,7 +584,6 @@ promote_to =
 		}
 	}
 }
-
 
 ideologies = {
 	

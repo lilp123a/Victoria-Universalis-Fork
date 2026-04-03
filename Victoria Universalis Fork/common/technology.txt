@@ -1,5 +1,5 @@
-# Do not change tags in here without changing every other reference to them.
-# If adding new technology, make sure they are uniquely named.
+# Do not change tags in here without changing every other reference to the
+# If adding new technology, make sure they are uniquely named
 
 folders = {
 	army_tech = 
@@ -10,7 +10,7 @@ folders = {
 		military_science
 		army_leadership
 	}
-
+	
 	navy_tech = {
 		naval_doctrine
 		ship_construction
@@ -42,17 +42,7 @@ folders = {
 		tech_infrastructure
 		chemistry_and_electricity
 	}
-	
-	
 }
-
-
-
-
-
-
-
-
 
 schools ={
 	traditional_academic = 
@@ -120,7 +110,7 @@ schools ={
 	prussian_tech_school = {
 		army_tech_research_bonus = 0.15
 		commerce_tech_research_bonus = 0
-		culture_tech_research_bonus = -0.05
+		culture_tech_research_bonus = 0
 		industry_tech_research_bonus = 0.10
 		navy_tech_research_bonus = -0.1
 		unciv_economic_modifier = -0.05

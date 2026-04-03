@@ -830,7 +830,7 @@ MIL_CONSTRUCTION_CANCEL_ALL;Cancel all constructions;x
 MIL_CONSTRUCTION_CANCEL_ALL_WARNING_TITLE;Cancel all constructions.;x
 MIL_CONSTRUCTION_CANCEL_ALL_WARNING_DESC;Are you sure, that you want to cancel all military constructions?;x
 IW_SUPPLY_COST;You need §Y$VAL$§W¤ every day to pay for supplies for this unit;x
-POP_SIZE_UNITVIEW;This soldier pop has §Y$VAL$§W people and can support §Y$ALLOWED$§W brigades. Currently it has §Y$CURRENT$§W brigades;x
+POP_SIZE_UNITVIEW;This soldier pop has §Y$VAL$§W people and can support §Y$ALLOWED$§W brigades. It currently has §Y$CURRENT$§W brigades;x
 MILITARY_LEADER_NAME_TOOLTIP;§Y$NAME$§W is in command of §Y$ARMY$§W in §Y$LOCATION$§W;x
 PRESTIGE_SCORE;Prestige: §Y$VAL$§W;x
 MOBILIZATION_PROGRESS_PAUSED;Mobilisation recruitment in §Y$PROV$§! will soon begin;x

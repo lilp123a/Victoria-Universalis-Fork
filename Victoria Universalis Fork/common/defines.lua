@@ -4,26 +4,26 @@ start_date = '1836.1.1',
 end_date = '1936.12.31',
 
 country = {
-	YEARS_OF_NATIONALISM 	= 20,   -- Years of Nationalism
-	MONTHS_UNTIL_BROKEN 		= 3,    -- OBSOLETE! (Months until rebel held capital results in broken country.)
+	YEARS_OF_NATIONALISM = 20,   -- Years of Nationalism
+	MONTHS_UNTIL_BROKEN = 3,    -- OBSOLETE! (Months until rebel held capital results in broken country.)
 	REBEL_ACCEPTANCE_MONTHS = 60,
 	BASE_COUNTRY_TAX_EFFICIENCY = 0.26, -- Basic efficiency for taxes without 'crats and tech
 	BASE_COUNTRY_ADMIN_EFFICIENCY = 0.2,
 	GOLD_TO_CASH_RATE = 1, -- Amount of money generated per gold unit
 	GOLD_TO_WORKER_PAY_RATE = 0.25, -- Multiplier for how much money gold pays to pops
 	GREAT_NATIONS_COUNT = 8,
-	GREATNESS_DAYS = 365, 	   -- how many days until country risks losing status as great nation
+	GREATNESS_DAYS = 365, -- how many days until country risks losing status as great nation
 	BADBOY_LIMIT = 25,
-	MAX_BUREAUCRACY_PERCENTAGE = 0.01, -- More than max percent bureaucrats of poplation will give no additional benefits
+	MAX_BUREAUCRACY_PERCENTAGE = 0.01, -- More than max percent bureaucrats of population will give no additional benefits
 	BUREAUCRACY_PERCENTAGE_INCREMENT = 0.001, -- For each social administrative reform level, this is added to MAX_BUREAUCRACY_PERCENTAGE
 	MIN_CRIMEFIGHT_PERCENT = 0,
 	MAX_CRIMEFIGHT_PERCENT = 1,
 	ADMIN_EFFICIENCY_CRIMEFIGHT_PERCENT = 0.5, -- Crimefight depends on both state admin eff. and admin spending, admin spending percent effect is set to (1-ADMIN_EFFICIENCY_CRIMEFIGHT_PERCENT)
 	CONSERVATIVE_INCREASE_AFTER_REFORM = 0.3, -- how many more conservatives in a upper house.
 	CAMPAIGN_EVENT_BASE_TIME = 80, -- Roughly twice per campaign
-	CAMPAIGN_EVENT_MIN_TIME = 21 ,-- never more often than 3 weeks between (NOT USED)
-	CAMPAIGN_EVENT_STATE_SCALE = -3,	-- every non-colonial state reduces by 3 days (NOT USED)
-	CAMPAIGN_DURATION = 6,	-- a campaign lasts these amount of months
+	CAMPAIGN_EVENT_MIN_TIME = 21, -- never more often than 3 weeks between (NOT USED)
+	CAMPAIGN_EVENT_STATE_SCALE = -3, -- every non-colonial state reduces by 3 days (NOT USED)
+	CAMPAIGN_DURATION = 6, -- a campaign lasts these amount of months
 	COLONIAL_RANK = 24, -- Minimum rank a nation must have to send colonists
 	COLONY_TO_STATE_PRESTIGE_GAIN = 3, -- Prestige gain when turning colony to state
 	COLONIAL_LIFERATING = 35,
@@ -35,7 +35,7 @@ country = {
 	NONCORE_TAX_PENALTY = -0.05, -- -5% for each non-core in state
 	BASE_TARIFF_EFFICIENCY = -0.5, -- baseline tariff efficiency
 	COLONY_FORMED_PRESTIGE = 0.5, -- prestige from founding a colony.
-	CREATED_CB_VALID_TIME = 24,  -- how many months 
+	CREATED_CB_VALID_TIME = 24, -- how many months 
 	LOYALTY_BOOST_ON_PARTY_WIN = 0.1,
 	MOVEMENT_RADICALISM_BASE = 0,
 	MOVEMENT_RADICALISM_PASSED_REFORM_EFFECT  = -1,
@@ -54,12 +54,12 @@ country = {
 	TECH_YEAR_SPAN = 120,
 	TECH_FACTOR_VASSAL = 0.8, -- cost reduction factor if overlord has research the tech
 	MAX_SUPPRESSION = 100,
-	PRESTIGE_HIT_ON_BREAK_COUNTRY = -0.20, -- percentage reduction when country gets taken by rebels
+	PRESTIGE_HIT_ON_BREAK_COUNTRY = -0.10, -- percentage reduction when country gets taken by rebels
 	MIN_MOBILIZE_LIMIT = 3,
 	POP_GROWTH_COUNTRY_CACHE_DAYS = 30, -- period of cached pop growth (used for player)
-	NEWSPAPER_PRINTING_FREQUENCY = 350, -- days frequency when the news attempt to be printed (may not print if not enough facts collected, and retry after another X days)
-	NEWSPAPER_TIMEOUT_PERIOD = 890, -- the max period for news that may be printed. The probability is decreased with time.
-	NEWSPAPER_MAX_TENSION = 750, -- when tension of printing gets this high, the newspaper will attempt to be printed immediately.
+	NEWSPAPER_PRINTING_FREQUENCY = 9999, -- days frequency when the news attempt to be printed (may not print if not enough facts collected, and retry after another X days)
+	NEWSPAPER_TIMEOUT_PERIOD = 9999, -- the max period for news that may be printed. The probability is decreased with time.
+	NEWSPAPER_MAX_TENSION = 9999, -- when tension of printing gets this high, the newspaper will attempt to be printed immediately.
 	NAVAL_BASE_SUPPLY_SCORE_BASE = 45, -- base value that is powered by level of naval base. Determines the naval supplying capabilities.
 	NAVAL_BASE_SUPPLY_SCORE_EMPTY = 40, -- min value for coastal provinces with no naval base.
 	NAVAL_BASE_NON_CORE_SUPPLY_SCORE = 1, -- modifier for supply score for naval bases that are not in core provinces.
@@ -94,9 +94,9 @@ country = {
 },
 
 economy = {
-	MAX_DAILY_RESEARCH		    = 200,
-	LOAN_BASE_INTEREST			= 0.01,
-	BANKRUPTCY_EXTERNAL_LOAN_YEARS	= 10,
+	MAX_DAILY_RESEARCH = 200,
+	LOAN_BASE_INTEREST = 0.01,
+	BANKRUPTCY_EXTERNAL_LOAN_YEARS = 10,
 	BANKRUPTCY_FACTOR = 0.2,
 	SHADOWY_FINANCIERS_MAX_LOAN_AMOUNT = 5000000,
 	MAX_LOAN_CAP_FROM_BANKS = 3, -- can loan max % of country tax base from single country
@@ -105,27 +105,27 @@ economy = {
 	GUNBOAT_FLEET_SIZE_FACTOR = 100,
 	PROVINCE_SIZE_DIVIDER = 50,
 	CAPITALIST_BUILD_FACTORY_STATE_EMPLOYMENT_PERCENT = 0.8, -- Capis don't build factories if less than this percent is employed in existing factories
-	GOODS_FOCUS_SWAP_CHANCE = 0, -- Percent increased chance that artisan wants to change goods independantly of how well he is doing presently
-	NUM_CLOSED_FACTORIES_PER_STATE_LASSIEZ_FAIRE = 1, -- Number of closed factories allowed per state under Lassiez Faire
-	MIN_NUM_FACTORIES_PER_STATE_BEFORE_DELETING_LASSIEZ_FAIRE = 2, -- Min number of factories per state before starting to delete under Lassiez Faire
-	BANKRUPCY_DURATION = 3, -- Years til a bancrupcy clears all loans
+	GOODS_FOCUS_SWAP_CHANCE = 0, -- Percent increased chance that artisan wants to change goods independently of how well he is doing presently
+	NUM_CLOSED_FACTORIES_PER_STATE_LASSIEZ_FAIRE = 1, -- Number of closed factories allowed per state under Laissez-Faire
+	MIN_NUM_FACTORIES_PER_STATE_BEFORE_DELETING_LASSIEZ_FAIRE = 2, -- Min number of factories per state before starting to delete under Laissez-Faire
+	BANKRUPCY_DURATION = 3, -- Years til a bankruptcy clears all loans
 	SECOND_RANK_BASE_SHARE_FACTOR = 1,
 	CIV_BASE_SHARE_FACTOR = 1,
 	UNCIV_BASE_SHARE_FACTOR = 1,
 	FACTORY_PAYCHECKS_LEFTOVER_FACTOR = 0.8, -- % of how much we pay to the pops and capitalists, from the leftovers.
-	MAX_FACTORY_MONEY_SAVE = 1000,	-- how much money is stored maximum in a factory.
+	MAX_FACTORY_MONEY_SAVE = 1000, -- how much money is stored maximum in a factory.
 	SMALL_DEBT_LIMIT = 10000,
 	FACTORY_UPGRADE_EMPLOYEE_FACTOR = 0.8, -- determines how close to the employee limit we need to be before "upgrade all" will upgrade/expand a given factory (1 = 100%).
-	RGO_SUPPLY_DEMAND_FACTOR_HIRE_HI = 0.15,	-- how fast pops are Hired when there is a high demand
+	RGO_SUPPLY_DEMAND_FACTOR_HIRE_HI = 0.15, -- how fast pops are Hired when there is a high demand
 	RGO_SUPPLY_DEMAND_FACTOR_HIRE_LO = 0.1,	-- how fast pops are Hired when there is a medium demand
-	RGO_SUPPLY_DEMAND_FACTOR_FIRE = 0.01,		-- how fast pops are Fired when there is a low demand
-	EMPLOYMENT_HIRE_LOWEST = 0.05,				-- we Hire pops no slower then x% of total required per day
-	EMPLOYMENT_FIRE_LOWEST = 0.01,				-- we Fire pops no slower then x% of total required per day
-	TRADE_CAP_LOW_LIMIT_LAND = 0.2, 				-- the lowest % the slider can go for land units
-	TRADE_CAP_LOW_LIMIT_NAVAL = 0.4, 			-- the lowest % the slider can go for naval units
-	TRADE_CAP_LOW_LIMIT_CONSTRUCTIONS = 0, 		-- the lowest % the slider can go for constructions
-	FACTORY_PURCHASE_MIN_FACTOR = 0.99,			-- the lowest % of its daily needs a factory will purchase
-	FACTORY_PURCHASE_DRAWDOWN_FACTOR = 0.2		-- the % a factory will reduce its input purchases each day if it did not sell all its goods (also used for scaling up production if all goods are sold)
+	RGO_SUPPLY_DEMAND_FACTOR_FIRE = 0.01, -- how fast pops are Fired when there is a low demand
+	EMPLOYMENT_HIRE_LOWEST = 0.05, -- we Hire pops no slower then x% of total required per day
+	EMPLOYMENT_FIRE_LOWEST = 0.01, -- we Fire pops no slower then x% of total required per day
+	TRADE_CAP_LOW_LIMIT_LAND = 0.2, -- the lowest % the slider can go for land units
+	TRADE_CAP_LOW_LIMIT_NAVAL = 0.4, -- the lowest % the slider can go for naval units
+	TRADE_CAP_LOW_LIMIT_CONSTRUCTIONS = 0, -- the lowest % the slider can go for constructions
+	FACTORY_PURCHASE_MIN_FACTOR = 0.99, -- the lowest % of its daily needs a factory will purchase
+	FACTORY_PURCHASE_DRAWDOWN_FACTOR = 0.2 -- the % a factory will reduce its input purchases each day if it did not sell all its goods (also used for scaling up production if all goods are sold)
 },
 
 military = {
@@ -150,9 +150,9 @@ military = {
 	LEADER_AGE_DEATH_FACTOR = 4, -- higher value means leaders live longer
 	LEADER_PRESTIGE_TO_MORALE_FACTOR = 0.5, -- f.ex. 100% of prestige = +10% morale
 	LEADER_PRESTIGE_TO_MAX_ORG_FACTOR = 0.5, -- f.ex. 100% of prestige = +10 max org
-	LEADER_TRANSFER_PENALTY_ON_COUNTRY_PRESTIGE = 0.05, -- country prestige penalty on unassign leader (f.ex if leader has 100% prestige, the country loose 4% of its prestige)
-	LEADER_PRESTIGE_LAND_GAIN =0.3, -- extra speed gain on prestige for land combat
-	LEADER_PRESTIGE_NAVAL_GAIN =0.3, -- extra speed gain on prestige for naval combat
+	LEADER_TRANSFER_PENALTY_ON_COUNTRY_PRESTIGE = 0, -- country prestige penalty on unassign leader (f.ex if leader has 100% prestige, the country loose 4% of its prestige)
+	LEADER_PRESTIGE_LAND_GAIN = 0.5, -- extra speed gain on prestige for land combat
+	LEADER_PRESTIGE_NAVAL_GAIN = 0.5, -- extra speed gain on prestige for naval combat
 	NAVAL_COMBAT_SEEKING_CHANCE = 0.5, -- base chance of picking a target (increased by leader reconaissance)
 	NAVAL_COMBAT_SEEKING_CHANCE_MIN = 0.1, -- low cap for chance of picking the target
 	NAVAL_COMBAT_SELF_DEFENCE_CHANCE = 2.0, -- scale up the chance of choosing the target that is already shooting at us.
@@ -251,7 +251,7 @@ diplomacy = {
 	PRESTIGE_INSTALL_COMMUNIST_GOV_TYPE_BASE = 2,
 	PRESTIGE_UNINSTALL_COMMUNIST_GOV_TYPE_BASE = 2,
 	PRESTIGE_COLONY_BASE = 2,
-		
+	
 	PRESTIGE_ADD_TO_SPHERE = 0.05,
 	PRESTIGE_RELEASE_PUPPET = 0.05,
 	PRESTIGE_MAKE_PUPPET = 0.05,
@@ -271,7 +271,7 @@ diplomacy = {
 	PRESTIGE_INSTALL_COMMUNIST_GOV_TYPE = 0.02,
 	PRESTIGE_UNINSTALL_COMMUNIST_GOV_TYPE = 0.02,
 	PRESTIGE_COLONY = 0.02,
-
+	
 	BREAKTRUCE_INFAMY_ADD_TO_SPHERE = 1,
 	BREAKTRUCE_INFAMY_RELEASE_PUPPET = 1,
 	BREAKTRUCE_INFAMY_MAKE_PUPPET = 1,
@@ -400,52 +400,52 @@ diplomacy = {
 	BANEMBASSY_DAYS = 365,
 	
 	DECLAREWAR_RELATION_ON_ACCEPT = -50,
-	DECLAREWAR_DIPLOMATIC_COST = 1,
+	DECLAREWAR_DIPLOMATIC_COST = 0,
 	
 	ADDWARGOAL_RELATION_ON_ACCEPT = 0,
-    ADDWARGOAL_DIPLOMATIC_COST = 1,
+    ADDWARGOAL_DIPLOMATIC_COST = 0,
 	ADD_UNJUSTIFIED_GOAL_BADBOY = 1,
 	
-	PEACE_RELATION_ON_ACCEPT = 5,
-	PEACE_RELATION_ON_DECLINE = -10,
-	PEACE_DIPLOMATIC_COST = 1,
-
+	PEACE_RELATION_ON_ACCEPT = 0,
+	PEACE_RELATION_ON_DECLINE = 0,
+	PEACE_DIPLOMATIC_COST = 0,
+	
 	ALLIANCE_RELATION_ON_ACCEPT = 50,
-	ALLIANCE_RELATION_ON_DECLINE = -50,
-	ALLIANCE_DIPLOMATIC_COST = 1,
-	CANCELALLIANCE_RELATION_ON_ACCEPT = -20,
-	CANCELALLIANCE_DIPLOMATIC_COST = 1,
-
-	CALLALLY_RELATION_ON_ACCEPT = 20,
-	CALLALLY_RELATION_ON_DECLINE = -20,
+	ALLIANCE_RELATION_ON_DECLINE = 0,
+	ALLIANCE_DIPLOMATIC_COST = 0,
+	CANCELALLIANCE_RELATION_ON_ACCEPT = -50,
+	CANCELALLIANCE_DIPLOMATIC_COST = 0,
+	
+	CALLALLY_RELATION_ON_ACCEPT = 0,
+	CALLALLY_RELATION_ON_DECLINE = 0,
 	CALLALLY_DIPLOMATIC_COST = 0,
-
-	ASKMILACCESS_RELATION_ON_ACCEPT = 30,
-	ASKMILACCESS_RELATION_ON_DECLINE = -10,
-	ASKMILACCESS_DIPLOMATIC_COST = 2,
+	
+	ASKMILACCESS_RELATION_ON_ACCEPT = 0,
+	ASKMILACCESS_RELATION_ON_DECLINE = 0,
+	ASKMILACCESS_DIPLOMATIC_COST = 0,
 	CANCELASKMILACCESS_RELATION_ON_ACCEPT = 0,
-	CANCELASKMILACCESS_DIPLOMATIC_COST = 1,
-
-	GIVEMILACCESS_RELATION_ON_ACCEPT = 10,
+	CANCELASKMILACCESS_DIPLOMATIC_COST = 0,
+	
+	GIVEMILACCESS_RELATION_ON_ACCEPT = 0,
 	GIVEMILACCESS_RELATION_ON_DECLINE = 0,
-	GIVEMILACCESS_DIPLOMATIC_COST = 1,
-	CANCELGIVEMILACCESS_RELATION_ON_ACCEPT = -10,
-	CANCELGIVEMILACCESS_DIPLOMATIC_COST = 1,
-
+	GIVEMILACCESS_DIPLOMATIC_COST = 0,
+	CANCELGIVEMILACCESS_RELATION_ON_ACCEPT = 0,
+	CANCELGIVEMILACCESS_DIPLOMATIC_COST = 0,
+	
 	WARSUBSIDY_RELATION_ON_ACCEPT = 20,
-	WARSUBSIDY_DIPLOMATIC_COST = 1,
+	WARSUBSIDY_DIPLOMATIC_COST = 0,
 	CANCELWARSUBSIDY_RELATION_ON_ACCEPT = 0,
 	CANCELWARSUBSIDY_DIPLOMATIC_COST = 0,
-
+	
 	DISCREDIT_RELATION_ON_ACCEPT = -5,
 	DISCREDIT_INFLUENCE_COST = 25,
-
+	
 	EXPELADVISORS_RELATION_ON_ACCEPT = -5,
 	EXPELADVISORS_INFLUENCE_COST = 50,
-
+	
 	CEASECOLONIZATION_RELATION_ON_ACCEPT = 20,
 	CEASECOLONIZATION_RELATION_ON_DECLINE = -20,
-	CEASECOLONIZATION_DIPLOMATIC_COST = 1,
+	CEASECOLONIZATION_DIPLOMATIC_COST = 0,
 	
 	BANEMBASSY_RELATION_ON_ACCEPT = -10,
 	BANEMBASSY_INFLUENCE_COST = 65,
@@ -453,26 +453,26 @@ diplomacy = {
 	INCREASERELATION_RELATION_ON_ACCEPT = 20,
 	INCREASERELATION_RELATION_ON_DECLINE = 0,
 	INCREASERELATION_DIPLOMATIC_COST = 2,
-
+	
 	DECREASERELATION_RELATION_ON_ACCEPT = -50,
 	DECREASERELATION_DIPLOMATIC_COST = 1,
-
-	ADDTOSPHERE_RELATION_ON_ACCEPT = 0,
+	
+	ADDTOSPHERE_RELATION_ON_ACCEPT = 20,
 	ADDTOSPHERE_INFLUENCE_COST = 100,
-
-	REMOVEFROMSPHERE_RELATION_ON_ACCEPT = -10,
+	
+	REMOVEFROMSPHERE_RELATION_ON_ACCEPT = 0,
 	REMOVEFROMSPHERE_INFLUENCE_COST = 100,
 	REMOVEFROMSPHERE_PRESTIGE_COST = 0, -- only applied if removing country is sphere leader
 	REMOVEFROMSPHERE_INFAMY_COST = 0, -- only applied if removing country is sphere leader
-
+	
 	INCREASEOPINION_RELATION_ON_ACCEPT = 20,
 	INCREASEOPINION_INFLUENCE_COST = 50,
-
+	
 	DECREASEOPINION_RELATION_ON_ACCEPT = -10,
 	DECREASEOPINION_INFLUENCE_COST = 50,
 	CEASECOLONIZATION_DIPLOMATIC_COST = 1,
 	
-	MAKE_CB_DIPLOMATIC_COST = 1,
+	MAKE_CB_DIPLOMATIC_COST = 0,
 	MAKE_CB_RELATION_ON_ACCEPT = 0,
 	
 	DISARMAMENT_ARMY_HIT = 0.5,
@@ -481,47 +481,25 @@ diplomacy = {
 	PRESTIGE_REDUCTION = 0.1, -- Base value + % of recipient's prestige
 	REPARATIONS_YEARS = 5,
 	
-	-- No longer used:
-	-- PO_CONCEDE_DEFEAT_PRESTIGE = 1,
-	-- PO_ANNEX_PRESTIGE = 1,
-	-- PO_DEMAND_STATE_PRESTIGE = 1,
-	-- PO_ADD_TO_SPHERE_PRESTIGE = 1,
-	-- PO_DISARMAMENT_PRESTIGE = 1,
-	-- PO_DESTROY_FORTS_PRESTIGE = 1,
-	-- PO_DESTROY_NAVAL_BASES_PRESTIGE = 1,
-	-- PO_REPARATIONS_PRESTIGE = 1,
-	-- PO_TRANSFER_PROVINCES_PRESTIGE = 1,
-	-- PO_REDUCE_PRESTIGE_PRESTIGE = 1,
-	-- PO_CONCEDE_DEFEAT_BADBOY = 1,
-	-- PO_ANNEX_BADBOY = 1,
-	-- PO_DEMAND_STATE_BADBOY = 1,
-	-- PO_ADD_TO_SPHERE_BADBOY = 1,
-	-- PO_DISARMAMENT_BADBOY = 1,
-	-- PO_DESTROY_FORTS_BADBOY = 1,
-	-- PO_DESTROY_NAVAL_BASES_BADBOY = 1,
-	-- PO_REPARATIONS_BADBOY = 1,
-	-- PO_TRANSFER_PROVINCES_BADBOY = 1,
-	-- PO_REDUCE_PRESTIGE_BADBOY = 1,
-	
 	MIN_WARSCORE_TO_INTERVENE = -1,
 	MIN_MONTHS_TO_INTERVENE = 0,
 	MAX_WARSCORE_FROM_BATTLES = 25,
 	
-	GUNBOAT_DIPLOMATIC_COST = 1,
-	GUNBOAT_RELATION_ON_ACCEPT = 1,
+	GUNBOAT_DIPLOMATIC_COST = 0,
+	GUNBOAT_RELATION_ON_ACCEPT = 0,
 	WARGOAL_JINGOISM_REQUIREMENT = 0,
-
+	
 	LIBERATE_STATE_RELATION_INCREASE = 50,
-	DISHONORED_CALLALLY_PRESTIGE_PENALTY = -3,
+	DISHONORED_CALLALLY_PRESTIGE_PENALTY = 0,
 	BASE_TRUCE_MONTHS = 0,
 	MAX_INFLUENCE = 100,
 	WARSUBSIDIES_PERCENT = 0.25, -- How many percent of imports you are going to pay each day(mil. constructions and mil. maintainence)
 	NEIGHBOUR_BONUS_INFLUENCE_PERCENT = 0.50, -- Bonus to neighbouring countries when influencing
 	SPHERE_NEIGHBOUR_BONUS_INFLUENCE_PERCENT = 0.2, -- Bonus to countries in your sphere neighbouring when influencing
-	OTHER_CONTINENT_BONUS_INFLUENCE_PERCENT = -0.50, -- Bonus to neighbouring countries when influencing
-	PUPPET_BONUS_INFLUENCE_PERCENT = 1.0, -- bonus if they are our puppet
+	OTHER_CONTINENT_BONUS_INFLUENCE_PERCENT = -0.50, -- Malus to different-continent countries when influencing
+	PUPPET_BONUS_INFLUENCE_PERCENT = 1.5, -- bonus if they are our puppet
 	
-	-- effects of manually releasing a nation
+	-- Effects of manually releasing a nation
 	RELEASE_NATION_PRESTIGE = 0,
 	RELEASE_NATION_INFAMY = -2,
 	
@@ -602,7 +580,7 @@ diplomacy = {
 	RANK_6_TENSION_DECAY = -0,
 	RANK_7_TENSION_DECAY = -0,
 	RANK_8_TENSION_DECAY = -0,
-
+	
 	TWS_FULFILLED_SPEED = 0.5, -- Ticking War Score grows up with this speed daily once CB is fulfilled
 	TWS_NOT_FULFILLED_SPEED = 0.5, -- Ticking War Score falls down when CB is not fulfilled (or after grace period)
 	TWS_GRACE_PERIOD_DAYS = 600, -- Ticking War Score delay before it starts falling down for not fulfilling CB.
@@ -614,19 +592,15 @@ diplomacy = {
 	LONE_BACKER_PRESTIGE_FACTOR = 0.05 -- prestige boost for being only defender backer in crisis
 },  
 
-
-
-
 pops = {
 	BASE_CLERGY_FOR_LITERACY = 0, 
 	MAX_CLERGY_FOR_LITERACY = 0.04, 
 	LITERACY_CHANGE_SPEED = 0.1,
-
-
+	
 	ASSIMILATION_SCALE = 0.004,
 	CONVERSION_SCALE = 0.01,
 	IMMIGRATION_SCALE = 0.004,
-
+	
 	PROMOTION_SCALE = 0.0012,
 	PROMOTION_ASSIMILATION_CHANCE = 1.0,
 	LUXURY_THRESHOLD = 500,
@@ -635,7 +609,7 @@ pops = {
 	MIN_LIFE_RATING_FOR_GROWTH = 30,
 	LIFE_RATING_GROWTH_BONUS = 0.0001,
 	LIFE_NEED_STARVATION_LIMIT = 0.5,
-
+	
 	MIL_LACK_EVERYDAY_NEED = 0.1,
 	MIL_HAS_EVERYDAY_NEED = -0.1,
 	MIL_HAS_LUXURY_NEED = -0.2,
@@ -646,7 +620,7 @@ pops = {
 	MIL_REFORM_IMPACT = 2,
 	MIL_WAR_EXHAUSTION = 0.005,
 	MIL_NON_ACCEPTED = 0.05,
-		
+	
 	CON_LITERACY = 0.05,
 	CON_LUXURY_GOODS = 0.05,
 	CON_POOR_CLERGY = 0,
@@ -655,7 +629,7 @@ pops = {
 	CON_COLONIAL_FACTOR = 0.5,
 	RULING_PARTY_HAPPY_CHANGE = -1,
 	RULING_PARTY_ANGRY_CHANGE = 2,
-
+	
 	PDEF_BASE_CON = 1000.0,			-- so half'ed effect.
 	
 	NATIONAL_FOCUS_DIVIDER = 10000.0,
@@ -667,12 +641,11 @@ pops = {
 	MIL_TO_JOIN_RISING = 8, -- Rebels over this will join a general rising
 	MIL_TO_AUTORISE = 9, -- Rebels over this rise no matter what
 	REDUCTION_AFTER_RISEING = 0.0, -- After a pop spawns a rebellion, its militancy will be reduced this much
-	REDUCTION_AFTER_DEFEAT = 7.0, -- After a rebellion is being defeated in combat, its pop militancy will be divided by this number.
-																-- (if value < 1.0, the MIL will be increased) (Beware! value must be > 0)
+	REDUCTION_AFTER_DEFEAT = 7.0, -- After a rebellion is being defeated in combat, its pop militancy will be divided by this number (if value < 1.0, the MIL will be increased) (Beware! value must be > 0)
 	
 	POP_TO_LEADERSHIP = 0.0001, -- how much leadership every 1000 officers gives each day.
 	ARTISAN_MIN_PRODUCTIVITY = 1, -- Minimum efficieny of an artisan
-	SLAVE_GROWTH_DIVISOR = 10, -- Slaves have N times lower growth
+	SLAVE_GROWTH_DIVISOR = 5, -- Slaves have N times lower growth
 	
 	MIL_HIT_FROM_CONQUEST = 4, -- how much militancy grows in a province if taken without being core.
 	LUXURY_CON_CHANGE = 0.1, -- con boost from over-buying luxuary goods
@@ -692,8 +665,7 @@ pops = {
 	LARGE_POPULATION_INFLUENCE_PENALTY_CHUNK = 250000,
 },
 
-ai =
-{
+ai = {
 	COLONY_WEIGHT = 5.0, -- ai weight for colonising
 	ADMINISTRATOR_WEIGHT = 10.0, -- ai weight for new bureaucrat
 	INDUSTRYWORKER_WEIGHT = 11.0, -- ai weight for new industry workers
@@ -735,8 +707,7 @@ ai =
 	MONTHS_BEFORE_DISBAND = 0, -- Months from start date before AI will disband armies/navies (to avoid disbands because of early economic turmoil)
 },
 
-graphics =
-{
+graphics = {
 	CITIES_SPRAWL_OFFSET = 2,
 	CITIES_SPRAWL_WIDTH = 52,
 	CITIES_SPRAWL_HEIGHT = 52,

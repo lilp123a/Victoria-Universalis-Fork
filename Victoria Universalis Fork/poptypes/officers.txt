@@ -1,20 +1,14 @@
 sprite = 2
 color = { 119 98 34 }
 strata = middle
+
 leadership = 3
-research_optimum = 0.002	#used for leadership as well.
+research_optimum = 0.002 # Used for leadership as well
 
-
-rebel =
-{
-	cavalry = 0
-	artillery = 0.5
-	cuirassier = 0
-	dragoon = 0
+rebel = {
 	guard = 0.5
-	hussar = 0
-	infantry = 0
-	irregular = 0
+	artillery = 0.25
+	hussar = 0.25
 }
 
 life_needs_income = {
@@ -30,6 +24,14 @@ everyday_needs_income = {
 luxury_needs_income = {
 	type = military
 	weight = 1.5
+}
+
+life_needs = {
+	cattle = 1.2
+	wool =  1.2
+	fish =  1.2
+	fruit =  2
+	grain =  3.6
 }
 
 everyday_needs = {
@@ -51,15 +53,6 @@ everyday_needs = {
 	ammunition = 1.5
 }
 
-life_needs = {
-	cattle = 1.2
-	wool =  1.2
-	fish =  1.2
-	fruit =  2
-	grain =  3.6
-}
-
-
 luxury_needs = {
 	fuel = 0.75
 	telephones = 3
@@ -78,7 +71,6 @@ luxury_needs = {
 	canned_food = 1.5
 	ammunition = 1.5
 }
-
 
 country_migration_target =
 {

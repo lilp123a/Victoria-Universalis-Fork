@@ -1,21 +1,23 @@
 sprite = 11
 color = { 127 3 3 }
+strata = poor
+
 is_artisan = yes
 max_size = 250000
 merge_max_size = 10000
 
-strata = poor
-rebel =
-{
+rebel = {
 	infantry = 0.5
 	irregular = 0.5
 }
 
-
-#life_needs_income = {
-#	type = administration
-#	weight = 1
-#}
+life_needs = {
+	cattle = 0.8
+	wool =  0.8
+	fish =  0.8
+	fruit =  1.2
+	grain =  2.4
+}
 
 everyday_needs = {
 	fuel = 0.05
@@ -32,15 +34,6 @@ everyday_needs = {
 	wine = 0.3
 	canned_food = 0.3
 }
-
-life_needs = {
-	cattle = 0.8
-	wool =  0.8
-	fish =  0.8
-	fruit =  1.2
-	grain =  2.4
-}
-
 
 luxury_needs = {	
 	fuel = 0.1
@@ -59,8 +52,6 @@ luxury_needs = {
 	luxury_clothes = 0.08
 	luxury_furniture = 0.08
 }
-
-
 
 country_migration_target =
 {

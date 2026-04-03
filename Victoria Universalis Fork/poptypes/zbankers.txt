@@ -1,6 +1,7 @@
 sprite = 14
 color = { 75 193 237 }
 strata = rich
+
 unemployment = yes
 
 life_needs_income = {
@@ -8,16 +9,8 @@ life_needs_income = {
 	weight = 1
 }
 
-rebel =
-{
-	cavalry = 0
-	artillery = 0.1
-	cuirassier = 0
-	dragoon = 0
-	guard = 0.3
-	hussar = 0
-	infantry = 0.6
-	irregular = 0
+rebel = {
+	irregular = 1
 }
 
 everyday_needs = {
@@ -52,34 +45,26 @@ everyday_needs = {
 }
 
 life_needs = {
-
 }
 
 
 luxury_needs = {
 }
 
-
-country_migration_target =
-{
+country_migration_target = {
 	factor = 0
 }
 
-migration_target =
-{
+migration_target = {
 	factor = 0
 }
 
-promote_to =
-{
+promote_to = {
 	factor = 0
 }
-
 
 ideologies = {
 }
 
-issues =
-{
-
+issues = {
 }

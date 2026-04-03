@@ -1,9 +1,17 @@
 sprite = 8
 color = { 75 193 237 }
 strata = poor
+
 unemployment = yes
 equivalent = labourers
 
+life_needs = {
+	cattle = 0.8
+	wool =  0.8
+	fish =  0.8
+	fruit =  1.2
+	grain =  2.4
+}
 
 everyday_needs = {
 	fuel = 0.05
@@ -21,15 +29,6 @@ everyday_needs = {
 	canned_food = 0.3
 	fertilizer = 0.4
 }
-
-life_needs = {
-	cattle = 0.8
-	wool =  0.8
-	fish =  0.8
-	fruit =  1.2
-	grain =  2.4
-}
-
 
 luxury_needs = {	
 	fuel = 0.1
