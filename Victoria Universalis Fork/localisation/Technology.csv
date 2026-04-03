@@ -1,0 +1,200 @@
+army_doctrine;Army Doctrine;x
+light_armament;Light Armament;x
+heavy_armament;Heavy Armament;x
+military_science;Military Science;x
+army_leadership;Army Leadership;x
+naval_doctrine;Naval Doctrine;x
+ship_construction;Construction and Propulsion;x
+naval_engineering;Naval Engineering;x
+naval_science;Naval Science;x
+naval_leadership;Naval Leadership;x
+financial_institutions;Financial Institutions;x
+monetary_system;Monetary System;x
+economic_thought_and_critique;Economic Thought and Critique;x
+market_functionality;Market Functionality;x
+tech_organization;Organisation;x
+aesthetics;Aesthetics;x
+philosophy;Philosophy;x
+social_thought;Social Thought;x
+political_thought;Political Thought;x
+psychology;Psychology;x
+tech_power;Power;x
+mechanization;Mechanisation;x
+metallurgy;Metallurgy;x
+tech_infrastructure;Infrastructure;x
+chemistry_and_electricity;Chemistry and Electricity;x
+post_napoleonic_thought;Post-Napoleonic Thought;x
+strategic_mobility;Strategic Mobility;x
+point_defense_system;Point Defence System;x
+deep_defense_system;Deep Defence System;x
+trench_systems;Trench Systems;x
+infiltration;Infiltration;x
+modern_army_doctrine;Modern Army Doctrine;x
+flintlock_rifles;Flintlock Rifles;x
+muzzle_loaded_rifles;Muzzle-loaded Rifles;x
+breech_loaded_rifles;Breech-loaded Rifles;x
+machine_guns;Machine Guns;x
+bolt_action_rifles;Bolt-action Rifles;x
+chemical_weapons;Chemical Weapons;x
+modern_divisional_structure;Modern Divisional Structure;x
+bronze_muzzle_loaded_artillery;Bronze Muzzle-loaded Artillery;x
+iron_muzzle_loaded_artillery;Iron Muzzle-loaded Artillery;x
+iron_breech_loaded_artillery;Iron Breech-loaded Artillery;x
+steel_breech_loaded_artillery;Steel Breech-loaded Artillery;x
+indirect_artillery_fire;Indirect Artillery Fire;x
+creeping_barrage;Creeping Barrage;x
+railway_gun;Railway Guns;x
+military_staff_system;Military Staff System;x
+military_plans;Military Plans;x
+military_statistics;Military Statistics;x
+military_logistics;Military Logistics;x
+aeronautics;Aeronautics;x
+barrel_experiments;Tank Experiments;x
+combined_arms_experiments;Combined Arms Experiments;x
+army_command_principle;The Command Principle;x
+army_professionalism;Army Professionalism;x
+army_decision_making;Army Decision Making;x
+army_risk_management;Army Risk Management;x
+army_nco_training;Army NCO Training;x
+great_war_experience;Great War Experience;x
+total_war_philosophy;Total War Philosophy;x
+post_nelsonian_thought;Post-Nelsonian Thought;x
+battleship_column_doctrine;Battleship Column Doctrine;x
+raider_group_doctrine;Raider Group Doctrine;x
+blue_and_brown_water_schools;Blue and Brown Water Schools;x
+high_sea_battle_fleet;High Sea Battle Fleet;x
+early_modern_naval_doctrine;Early Modern Naval Doctrine;x
+modern_naval_doctrine;Modern Naval Doctrine;x
+clipper_design;Clipper Design;x
+steamers;Paddle Steamers;x
+iron_steamers;Screw-propelled Steamers;x
+steel_steamers;Steel Steamers;x
+steam_turbine_ships;Steam Turbine Ships;x
+oil_driven_ships;Oil-driven Ships;x
+aircraft_carriers;Aircraft Carriers;x
+naval_design_bureaus;Naval Design Bureaus;x
+fire_control_systems;Fire Control Systems;x
+weapon_platforms;Weapon Platforms;x
+main_armament;Main Armament;x
+advanced_naval_design;Advanced Naval Design;x
+early_modern_naval_design;Early Modern Naval Design;x
+modern_naval_design;Modern Naval Design;x
+alphabetic_flag_signaling;Alphabetic Flag Signaling;x
+naval_plans;Naval Plans;x
+naval_statistics;Naval Statistics;x
+naval_logistics;Naval Logistics;x
+naval_directionism;Naval Directionism;x
+naval_integration;Naval Integration;x
+naval_aviation;Naval Aviation;x
+the_command_principle;The Command Principle;x
+naval_professionalism;Naval Professionalism;x
+naval_decision_making;Naval Decision Making;x
+naval_risk_management;Naval Risk Management;x
+naval_nco_training;Naval NCO Training;x
+early_modern_naval_training;Early Modern Naval Training;x
+modern_naval_training;Modern Naval Training;x
+private_banks;Private Banks;x
+stock_exchange;Stock Exchange;x
+business_banks;Business Banks;x
+investment_banks;Investment Banks;x
+bank_inspection_board;Bank Inspection Board;x
+mutual_funds;Mutual Funds;x
+modern_financial_institutions;Modern Financial Institutions;x
+no_standard;Official Currencies;x
+ad_hoc_money_bill_printing;Ad-hoc Money Printing;x
+private_bank_money_bill_printing;Private Bank Money Printing;x
+central_bank_money_bill_printing;Central Bank Money Printing;x
+modern_central_bank_system;Modern Central Bank System;x
+market_determined_exchange_rates;Market-determined Exchange Rates;x
+fiat_based_monetary_system;Fiat Monetary System;x
+early_classical_theory_and_critique;Early Classical Theory;x
+late_classical_theory;Late Classical Theory;x
+collectivist_theory;Collectivist Theory;x
+the_historical_theory;The Historical Theory;x
+neoclassical_theory;Neoclassical Theory;x
+keynesian_economics;Keynesian Economics;x
+neoliberal_theory;Neoliberal Theory;x
+freedom_of_trade;Freedom of Trade;x
+market_structure;Market Structure;x
+business_regulations;Business Regulations;x
+market_regulations;Market Regulations;x
+economic_responsibility;Economic Responsibility;x
+government_interventionism;Government Interventionism;x
+monetarism;Monetarism;x
+guild_based_production;Guild-based Production;x
+organized_factories;Organised Factories;x
+scientific_management;Scientific Management;x
+time_saving_measures;Time-saving Measures;x
+management_strategy;Management Strategy;x
+organizational_development;Organisational Development;x
+modern_business_management;Modern Business Management;x
+classicism_n_early_romanticism;Classicism & Early Romanticism;x
+romanticism;Romanticism;x
+realism;Realism;x
+impressionism;Impressionism;x
+expressionism;Expressionism;x
+mass_culture_n_the_avant_garde;Mass Culture & The Avant-Garde;x
+modernism;Modernism;x
+late_enlightenment_philosophy;Enlightenment Philosophy;x
+idealism;Idealism;x
+empiricism;Empiricism;
+analytic_philosophy;Analytic Philosophy;x
+phenomenology_n_hermeneutic;Phenomenology & Hermeneutics;x
+anti__rationalism;Anti-rationalism;x
+quantum_mechanics;Quantum Mechanics;x
+malthusian_thought;Malthusian Thought;x
+positivism;Positivism;x
+functionalism;Functionalism;x
+biologism;Biologism;x
+social_science;Social Science;x
+social_alienation;Interpretivism;x
+critical_theory;Critical Theory;x
+enlightenment_thought;The Rights of Man;x
+ideological_thought;Ideological Thought;x
+state_n_government;State & Government;x
+nationalism_n_imperialism;Nationalism & Imperialism;x
+revolution_n_counterrevolution;Revolution & Counter-revolution;x
+mass_politics;Mass Politics;x
+government_mobilization;Government Mobilisation;x
+introspectionism;Introspectionism;x
+associationism;Associationism;x
+phenomenalism;Phenomenalism;x
+experimental_psychology;Experimental Psychology;x
+psychoanalysis;Psychoanalysis;x
+behaviorism;Behaviourism;x
+humanistic_psychology;Humanistic Psychology;x
+water_wheel_power;Water-wheel Power;x
+practical_steam_engine;Practical Steam Engine;x
+high_n_low_pressure_steam_engines;High & Low Pressure Steam Engines;x
+steam_turbine;Steam Turbine;x
+combustion_engine;Combustion Engine;x
+electrical_power_generation;Electrical Power Generation;x
+modern_power_generation;Modern Power Generation;x
+industrial_revolution;Industrial Revolution;x
+mechanical_production;Mechanical Production;x
+interchangeable_parts;Interchangeable Parts;x
+semi_automatization;Semi-Automatisation;x
+assembly_line;Assembly Line;x
+shift_work;Shift Work;x
+mechanized_manufacturing;Mechanised Manufacturing;x
+mechanized_mining;Hot Blast;x
+clean_coal;Mechanised Mining;x
+cheap_iron;Regenerative Furnaces;x
+cheap_steel;Drilling & Blasting;x
+advanced_metallurgy;Open Hearth Furnace;x
+electric_furnace;Electric Arc Furnace;x
+modern_metallurgy;Modern Metallurgy;x
+experimental_railroad;Experimental Railroad;x
+early_railroad;Early Railroads;x
+iron_railroad;Iron Railroads;x
+steel_railroad;Steel Railroad;x
+integral_rail_system;Integral Rail System;x
+limited_access_roads;Limited-access Roads;x
+modern_infrastructure;Modern Infrastructure;x
+basic_chemistry;Basic Chemistry;x
+medicine;Medicine;x
+inorganic_chemistry;Inorganic Chemistry;x
+organic_chemistry;Organic Chemistry;x
+electricity;Electricity;x
+synthetic_polymers;Synthetic Polymers;x
+modern_chemistry;Modern Chemistry;x

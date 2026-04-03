@@ -1,0 +1,278 @@
+germanic;Germanic;x
+north_german;North German;x
+south_german;South German;x
+ashkenazi;Ashkenazi;x
+beneluxian;Benelux;x
+dutch;Dutch;x
+flemish;Flemish;x
+wallonian;Walloon;x
+pan_swiss;Swiss;x
+swiss;Swiss;x
+scandinavian;Scandinavian;x
+swedish;Swedish;x
+danish;Danish;x
+norwegian;Norwegian;x
+icelandic;Icelandic;x
+finnish;Finnish;x
+sami;Sami;x
+british;British;x
+irish;Irish;x
+italian;Italian;x
+north_italian;North Italian;x
+south_italian;South Italian;x
+maltese;Maltese;x
+iberian;Iberian;x
+spanish;Spanish;x
+portuguese;Portuguese;x
+catalan;Catalan;x
+basque;Basque;x
+french;French;x
+south_slavic;South Slavic;x
+croat;Croatian;x
+serb;Serbian;x
+bulgarian;Bulgarian;x
+albanian;Albanian;x
+slovene;Slovenian;x
+bosniak;Bosnian;x
+pan_romanian;Romanian;x
+romanian;Romanian;x
+hungarian_culture_group;Hungarian;x
+hungarian;Hungarian;x
+polish_culture_group;Polish-Lithuanian;x
+polish;Polish;x
+lithuanian;Lithuanian;x
+czecho_slovak_culture_group;Czechoslovak;x
+czech;Czech;x
+slovak;Slovak;x
+east_slavic;East Slavic;x
+russian;Russian;x
+byelorussian;Byelorussian;x
+ukrainian;Ukrainian;x
+ugrian;Ugrian;x
+baltic;Baltic;x
+latvian;Latvian;x
+estonian;Estonian;x
+levantine;Levantine;x
+greek;Greek;x
+georgian;Georgian;x
+armenian;Armenian;x
+sephardic;Sephardim;x
+turko_semitic;Turko-Semitic;x
+turkish;Turkish;x
+azerbaijani;Azeri;x
+north_caucasian;North Caucasian;x
+arab;Arab;x
+maghrebi;Maghrebi;x
+misri;Misri;x
+mashriqi;Mashriqi;x
+bedouin;Bedouin;x
+berber;Berber;x
+maures;Moor;x
+iranian_turanian;Iranian-Turanian;x
+persian;Persian;x
+uzbek;Uzbek;x
+kazak;Kazakh;x
+kirgiz;Kyrgyz;x
+tajik;Tajik;x
+uighur;Uighur;x
+pashtun;Pashtun;x
+baluchi;Baluchi;x
+hazara;Hazara;x
+turkmen;Turkmen;x
+kurdish;Kurdish;x
+tatar;Tatar;x
+central_asian;Central Asian;x
+mongol;Mongol;x
+siberian;Siberian;x
+yakut;Yakut;x
+tibetan;Tibetan;x
+south_asian;South Asian;x
+assamese;Assamese;x
+bengali;Bengali;x
+bihari;Bihari;x
+manipuri;Manipuri;x
+nepali;Nepali;x
+oriya;Oriya;x
+sinhala;Sinhala;x
+avadhi;Avadhi;x
+kanauji;Kanauji;x
+panjabi;Punjabi;x
+kashmiri;Kashmiri;x
+gujarati;Gujarati;x
+marathi;Marathi;x
+sindi;Sindi;x
+rajput;Rajput;x
+kannada;Kannada;x
+malayalam;Malayalam;x
+tamil;Tamil;x
+telegu;Telegu;x
+southeast_asian;Southeast Asian;x
+vietnamese;Vietnamese;x
+khmer;Khmer;x
+malay;Malay;x
+filipino;Filipino;x
+javan;Javan;x
+moluccan;Moluccan;x
+thai;Thai;x
+lao;Lao;x
+shan;Shan;x
+burmese;Burmese;x
+asian_minor;Asian Minor;x
+kachin;Kachin;x
+karen;Karen;x
+best_asian;Japanese-Korean;x
+japanese;Japanese;x
+korean;Korean;x
+ainu;Ainu;x
+east_asian;East Asian;x
+manchu;Manchu;x
+beifaren;Beifaren;x
+nanfaren;Nanfaren;x
+hakka;Hakka;x
+miao;Miao;x
+min;Min;x
+zhuang;Zhuang;x
+yi;Yi;x
+yue;Yue;x
+oceanic;Pacific Islander;x
+polynesian;Polynesian;x
+hawaiian;Hawaiian;x
+maori;Maori;x
+aborigine;Aborigine;x
+melanesian;Melanesian;x
+micronesian;Micronesian;x
+native_american;Native American;x
+zapotec;Zapotec;x
+mayan;Mayan;x
+nahua;Nahua;x
+tarascan;Tarascan;x
+quechua;Quechua;x
+guarani;Guarani;x
+aimara;Aimara;x
+amazonian;Amazonian;x
+patagonian;Patagonian;x
+guajiro;Guajiro;x
+tupinamba;Tupinamba;x
+metis;Metis;x
+dakota;Dakota;x
+cherokee;Cherokee;x
+pueblo;Pueblo;x
+inuit;Inuit;x
+cree;Cree;x
+navajo;Navajo;x
+native_american_minor;Native American Minor;x
+american_cultures;American;x
+yankee;Yankee;x
+dixie;Dixie;x
+texan;Texan;x
+neo_european_cultures;European Colonial;x
+boer;Boer;x
+australian;Australian;x
+anglo_canadian;Anglo-Canadian;x
+french_canadian;French-Canadian;x
+latin_american_cultures;Latin American;x
+mexican;Mexican;x
+central_american;Central American;x
+caribeno;Caribeno;x
+north_andean;North Andean;x
+south_andean;South Andean;x
+platinean;Platinean;x
+brazilian;Brazilian;x
+african_diaspora_cultures;African Diaspora;x
+afro_american;African-American;x
+afro_caribbean;Afro-Caribbean;x
+afro_caribeno;Afro-Caribeno;x
+afro_brazilian;Afro-Brazilian;x
+afro_antillean;Afro-Antillean;x
+kreol;Creole;x
+west_african;West African;x
+akan;Akan;x
+bambara;Bambara;x
+dyula;Dyula;x
+edo;Edo;x
+ewe;Ewe;x
+fon;Fon;x
+fulbe;Fulbe;x
+hausa;Hausa;x
+ibibio;Ibibio;x
+itsekari;Itsekari;x
+ibo;Ibo;x
+kru;Kru;x
+mande;Mande;x
+western_nigritic;Western Nigritic;x
+mossi;Mossi;x
+gur;Gur;x
+senufo;Senufo;x
+songhai;Songhai;x
+tiv;Tiv;x
+tuareg;Tuareg;x
+wolof;Wolof;x
+yoruba;Yoruba;x
+east_kwa;East Kwa;x
+central_african;Central African;x
+african_minor;African Minor;x
+bakongo;Bakongo;x
+baguirmi;Baguirmi;x
+fang;Fang;x
+kanuri;Kanuri;x
+kuba;Kuba;x
+luba;Luba;x
+lunda;Lunda;x
+lendu;Lendu;x
+kingwana;Kingwana;x
+chokwe;Chokwe;x
+kavongo;Kavongo;x
+mongo;Mongo;x
+sara;Sara;x
+teda;Teda;x
+ubangian;Ubangian;x
+forest_bantu;Forest Bantu;x
+south_forest_bantu;Southern Forest Bantu;x
+east_african;East African;x
+afar;Afar;x
+azande;Azande;x
+baganda;Baganda;x
+beja;Beja;x
+dinka;Dinka;x
+fur;Fur;x
+harari;Harari;x
+kefficho;Kefficho;x
+kikuyu;Kikuyu;x
+luo;Luo;x
+maasai;Maasai;x
+nuer;Nuer;x
+nuba;Nuba;x
+oromo;Oromo;x
+ruanda;Ruanda;x
+somali;Somali;x
+sudanese;Sudanese;x
+sukuma;Sukuma;x
+swahili;Swahili;x
+tigray;Tigray;x
+unyamwezi;Unyamwezi;x
+kilombero;Kilombero;x
+lacustrine_bantu;Lacustrine Bantu;x
+cushitic;Cushitic;x
+nilotic;Nilotic;x
+southern_african;Southern African;x
+chewa;Chewa;x
+nyasa;Nyasa;x
+herero;Herero;x
+khoisan;Khoisan;x
+lomwe;Lomwe;x
+makua;Makua;x
+malagasy;Malagasy;x
+nguni;Nguni;x
+southern_bantu;Southern Bantu;x
+ovimbundu;Ovimbundu;x
+sena;Sena;x
+shona;Shona;x
+sotho;Sotho;x
+tonga;Tonga;x
+tswana;Tswana;x
+xhosa;Xhosa;x
+yao;Yao;x
+zulu;Zulul;x
+bears;Bears;x
+polar_bears;Polar Bears;x
+illuminati;Illuminati;x

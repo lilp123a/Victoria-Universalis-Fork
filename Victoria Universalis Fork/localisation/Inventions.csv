@@ -1,0 +1,348 @@
+post_napoleonic_army_doctrine;Post-Napoleonic Army Doctrine;x
+hussar_activation;Cavalry;x
+signal_detachments;Signal Detachments;x
+field_fortifications;Field Fortifications;x
+elastic_defense_system;Elastic Defence System;x
+flexible_counterattacks;Flexible Counterattacks;x
+trench_systems;Trench Systems;x
+stormtrooper_training;Stormtrooper Training;x
+firepower_vs_mobility;Firepower vs. Mobility;x
+human_wave_vs_spearhead;Human Wave vs. Spearhead;x
+flintlock_rifle_armament;Flintlock Rifle Armament;x
+muzzle_loaded_rifle_armament;Muzzle-loaded Rifle Armament;x
+breech_loaded_rifle_armament;Breech-loaded Rifle Armament;x
+colonial_negotiations;Colonial Negotiations;x
+machine_gun_armament;Machine Gun Armament;x
+bolt_action_rifle_armament;Bolt-action Rifle Armament;x
+gas_attack_capability;Gas Attack Capability;x
+gas_defense_capability;Gas Defence Capability;x
+interwar_infantry;Interwar Infantry;x
+interwar_cavalry;Interwar Cavalry;x
+synchronized_heavy_support;Synchronised Heavy Support;x
+flexible_firepower;Flexible Firepower;x
+ammunition_area_effect_calculations;Ammunition Area Effect Calculations;x
+low_echelon_fire_support;Low-echelon Fire Support;x
+counter_battery_fire;Counter-battery Fire;x
+creeping_barrage;Creeping Barrage;x
+grand_battle_plan_vs_superior_firepower;Grand Battle Plan vs. Superior Firepower;x
+mob1;Levée en Masse / §G+2 Mob. Size§!;x
+telegraph_coordination;Telegraph Coordination;x
+mob2;Mobilisation Time Tables / §G+1 Mob. Size§!;x
+mob3;Personnel Category Tables / §G+1 Mob. Size§!;x
+mob4;Staff Command Support / §G+1 Mob. Size§!;x
+empirical_combat_efficiency_matrix;Empirical Combat Efficiency Matrix;x
+combat_loss_evaluation_schemata;Combat Loss Evaluation Schemata;x
+mob5;Railroad Transport Groups / §G+2 Mob. Size§!;x
+pre_planned_depot_systems;Pre-planned Depot Systems;x
+logistical_calculations;Logistical Calculations;x
+military_aviation;Military Aviation;x
+early_interwar_bombers;Early Interwar Bombers;x
+early_interwar_fighters;Early Interwar Fighters;x
+tank_experiments;Tank Experiments;x
+tank_exploits;Tank Exploits;x
+light_tank;Light Tanks;x
+medium_tank;Medium Tanks;x
+armoured_cars;Armoured Cars;x
+late_interwar_bombers;Late Interwar Bombers;x
+late_interwar_fighters;Late Interwar Fighters;x
+army_societal_status;Societal Status;x
+field_training;Field Training;x
+army_academic_training;Academic Training;x
+army_continuous_issuing_of_orders;Continuous Issuing of Orders;x
+army_delegated_power;Delegated Power;x
+army_alternative_plans;Alternative Plans;x
+saddle_orders;Saddle Orders;x
+army_literate_ncos;Literate NCOs;x
+nco_field_training;NCO Field Training;x
+army_nco_tactical_training;NCO Tactical Training;x
+army_independent_command;Independent Command;x
+army_wargames;Wargames;x
+building_station_shipyards;Building Station Shipyards;x
+steamer_transports;Steamer Transports;x
+steamer_automatic_construction_plants;Steamer Automatic Construction Plants;x
+mechanized_fishing_vessels;Mechanised Fishing Vessels;x
+ironclads;Ironclads;x
+torpedo_boats;Torpedo Boats;x
+submarines;Submarines;x
+pre_dreadnought;Pre-Dreadnoughts;x
+protected_cruisers;Protected Cruisers;x
+dreadnoughts;Dreadnoughts;x
+advanced_cruisers;Advanced Cruisers;x
+modern_cruisers;Modern Cruisers;x
+ocean_going_submarines;Oceangoing Submarines;x
+advanced_submarines;Advanced Submarines;x
+advanced_battleships;Advanced Battleships;x
+modern_battleships;Modern Battleships;x
+optical_rangefinders;Optical Rangefinders;x
+monitors;Monitors;x
+destroyers;Destroyers;x
+armour_piercing_projectiles;Armour-piercing Projectiles;x
+rifled_guns;Rifled Guns;x
+armoured_citadels;Armoured Citadels;x
+gun_hydraulics;Gun Hydraulics;x
+large_hull_form;Large Hull Form;x
+torpedo_gyroscope;Torpedo Gyroscope;x
+heavy_armour_plates;Heavy Armour Plates;x
+advanced_fire_control;Advanced Fire Control;x
+wireless;Wireless;x
+night_training;Night Training;x
+enemy_plotting_cards;Enemy Plotting Cards;x
+target_hit_profile_analysis;Target Hit Profile Analysis;x
+hit_evaluation_reports;Hit Evaluation Reports;x
+empirical_interdiction_reports;Empirical Interdiction Reports;x
+naval_strike_success_criterium;Naval Strike Success Criterium;x
+underway_refueling;Underway Refueling;x
+ammunition_conservation_system;Ammunition Conservation System;x
+radio_telegraphy;Radio Telegraphy;x
+war_gaming;Wargaming;x
+combined_arms_planning;Combined Arms Planning;x
+naval_aviation;Naval Aviation;x
+societal_status;Societal Status;x
+academic_training;Academic Training;x
+combat_station_training;Combat Station Training;x
+independent_command;Independent Command;x
+delegated_power;Delegated Power;x
+wargames;Wargames;x
+alternative_plans;Alternative Plans;x
+nco_combat_station_training;NCO Combat Station Training;x
+nco_tactical_training;NCO Tactical Training;x
+naval_exercises;Naval Exercises;x
+amphibious_warfare_training;Amphibious Warfare Training;x
+modern_naval_exercises;Modern Naval Exercises;x
+multitude_of_financial_instruments;Multitude of Financial Instruments;x
+insurance_companies;Insurance Companies;x
+regulated_buying_and_selling_of_stocks;Regulated Buying and Selling of Stocks;x
+liquidation_of_assets;Liquidation of Assets;x
+capital_for_investors;Capital for Investors;x
+distribution_channels;Distribution Channels;x
+industrial_rnd_investments;Industrial R&D Investments;x
+industrial_production_investments;Industrial Production Investments;x
+industrial_distribution_investments;Industrial Distribution Investments;x
+private_bank_monitoring;Private Bank Monitoring;x
+buying_on_margin;Buying on Margin;x
+derivatives;Derivatives;x
+venture_capital;Venture Capital;x
+money_markets;Money Markets;x
+silver_standard;Silver Standard;x
+decimal_monetary_system;Decimal Monetary System;x
+double_standard;Double Standard;x
+fixed_intramonetary_exchange_rates;Fixed Intramonetary Exchange Rates;x
+gold_standard;Gold Standard;x
+state_bond_monetary_mechanism;State Bond Monetary Mechanism;x
+international_monetary_exchange_rates;International Monetary Exchange Rates;x
+market_behaviour_monitoring;Market Behaviour Monitoring;x
+interest_inflation_weapon;Interest Inflation Weapon;x
+hyperinflation;Hyperinflation;x
+john_elliot_cairnes;John Elliot Cairnes;x
+robert_torrens;Robert Torrens;x
+john_stuart_mill;John Stuart Mill;x
+pierre_joseph_proudhon;Pierre Joseph Proudhon;x
+karl_marx;Karl Marx;x
+friedrich_engels;Friedrich Engels;x
+eduard_bernstein;Eduard Bernstein;x
+sidney_webb;Sidney Webb;x
+karl_kautsky;Karl Kautsky;x
+jean_jaures;Jean Jaures;x
+friedrich_list;Friedrich List;x
+wilhelm_roscher;Wilhelm Roscher;x
+bruno_hildebrand;Bruno Hildebrand;x
+karl_knies;Karl Knies;x
+gustav_von_schmoller;Gustav von Schmoller;x
+adolph_wagner;Adolph Wagner;x
+william_cunningham;William Cunningham;x
+johann_heinrich_von_thunen;Johann Heinrich von Thunen;x
+leon_walras;Leon Walras;x
+stanley_jevons;Stanley Jevons;x
+carl_menger;Carl Menger;x
+thorstein_veblen;Thorstein Veblen;x
+alfred_marshall;Alfred Marshall;x
+augustin_cournot;Augustin Cournot;x
+jules_dupuit;Jules Dupuit;x
+vilfredo_pareto;Vilfredo Pareto;x
+knut_wicksell;Knut Wicksell;x
+irving_fischer;Irving Fischer;x
+joseph_schumpeter;Joseph Schumpeter;x
+eugen_von_bohm_bawerk;Eugen von Böhm-Bawerk;x
+john_maynard_keynes;John Maynard Keynes;x
+richard_kahn;Richard Kahn;x
+james_meade;James Meade;x
+ludwig_von_mises;Ludwig von Mises;x
+friedrich_hayek;Friedrich Hayek;x
+james_buchanan;James Buchanan;x
+polypoly_structure;Polypoly Structure;x
+oligopoly_structure;Oligopoly Structure;x
+monopoly_structure;Monopoly Structure;x
+limited_partnership_company;Limited Partnership Company;x
+patent;Patent;x
+trademark;Trademark;x
+anti_trust_laws;Anti-trust Laws;x
+financial_regulations;Financial Regulations;x
+banking_regulations;Banking Regulations;x
+working_board_of_directors;Working Board of Directors;x
+bankruptcy_proceedings;Bankruptcy Proceedings;x
+annual_report_proceedings;Annual Report Proceedings;x
+centralized_economic_planning;Centralised Economic Planning;x
+autarky;Autarchy;x
+priming_the_pump_;Priming the Pump;x
+mixed_economy;Mixed Economy;x
+work_classification;Work Classification;x
+work_specialization;Work Specialisation;x
+work_control_and_hierarchy;Work Control and Hierarchy;x
+sequence_planning;Sequence Planning;x
+inventory_planning;Inventory Planning;x
+quality_assurance_procedure;Quality Assurance Procedure;x
+time_studies;Time Studies;x
+time_clock;Time Clock;x
+lighting;Lighting;x
+old_style_family_business;Old Style Family Business;x
+anynomous_investor_business;Anonymous Investor Business;x
+marketized_smallholder_business;Marketised Smallholder Business;x
+i_scientific_management;Scientific Management;x
+human_resource_development;Human Resource Development;x
+supply_chain_management;Supply Chain Management;x
+lean_enterprise;Lean Enterprise;x
+just_in_time_manufacturing;Just-in-Time Manufacturing;x
+romanticist_literature;Romanticist Literature;x
+romanticist_art;Romanticist Art;x
+romanticist_music;Romanticist Music;x
+realist_literature;Realist Literature;x
+realist_art;Realist Art;x
+realist_music;Realist Music;x
+impressionist_literature;Impressionist Literature;x
+impressionist_art;Impressionist Art;x
+impressionist_music;Impressionist Music;x
+expressionist_literature;Expressionist Literature;x
+expressionist_art;Expressionist Art;x
+expressionist_music;Expressionist Music;x
+avantgarde_literature;Avant-Garde Literature;x
+avantgarde_art;Avant-Garde Art;x
+avantgarde_music;Avant-Garde Music;x
+jazz;Jazz;x
+socialist_realism;Socialist Realism;x
+modern_design;Modern Design;x
+surrealism;Surrealism;x
+futurism;Futurism;x
+neokantian_idealism;Neokantian Idealism;x
+hegelian_idealism;Hegelian Idealism;x
+pragmatism;Pragmatism;x
+i_empiricism;Empiricism;x
+i_analytic_philosophy;Analytic Philosophy;x
+modern_logics;Modern Logics;x
+logical_positivism;Logical Positivism;x
+phenomenology;Phenomenology;x
+hermeneutics;Hermeneutics;x
+existentialism;Existentialism;x
+nihilism_and_the_will;Nihilism and The Will;x
+quantum_theory;Quantum Theory;x
+darwinism;Darwinism;x
+social_darwinism;Social Darwinism;x
+sociology;Sociology;x
+social_psychology;Social Psychology;x
+political_science;Political Science;x
+social_anthropology;Social Anthropology;x
+the_revolt_of_the_masses;The Revolt of the Masses;x
+postcolonialism;Postcolonialism;x
+feminism;Feminism;x
+critical_race_theory;Critical Race Theory;x
+paternalism;Paternalism;x
+rationalism;Rationalism;x
+authoritarianism;Authoritarianism;x
+secularization;Secularisation;x
+social_conscience;Social Conscience;x
+populism_vs._establishment;Populism vs. Establishment;x
+clericalism_vs._anticlericalism;Clericalism vs. Anti-clericalism;x
+meritocracy_vs._aristocracy;Meritocracy vs. Aristocracy;x
+mission_to_civilize;Mission to Civilise;x
+biased_multiculturalism;Biased Multiculturalism;x
+manifest_destiny;Manifest Destiny;x
+separatism;Separatism;x
+dogma_of_violence;Dogma of Violence;x
+terrorism;Terrorism;x
+nostalgic_romanticism;Nostalgic Romanticism;x
+vangaurd_party;Vanguard Party;x
+expansionism;Expansionism;x
+the_doctrine_of_fascism;The Doctrine of Fascism;x
+mass_advertising;Mass Advertising;x
+the_talkies;The Talkies;x
+daimlers_automobile;Daimler's Automobile;x
+wright_n_langleys_aeroplanes;Wright & Langley's Aeroplanes;x
+tractors;Tractors;x
+direct_current;Direct Current;x
+alternating_current;Alternating Current;x
+transformers;Transformers;x
+national_radio_networks;National Radio Networks;x
+polyphase_system;Polyphase System;x
+electrical_grid;Electrical Grid;x
+vacuum_tube;Vacuum Tube;x
+precision_work;Precision Work;x
+hussey_n_mccormicks_reaping_machine;Hussey & McCormick's Reaping Machine;x
+mechanical_saw;Mechanical Saw;x
+sharp_n_roberts_power_loom;Sharp & Robert's Power Loom;x
+machine_tools;Machine Tools;x
+integral_distillery_process;Integral Distillery Process;x
+jiggs;Jiggs;x
+food_packing_system;Food Packing System;x
+whitney_n_colts_standardized_small_arms;Whitney & Colt's Standardised Small Arms;x
+electric_machinery;Electric Machinery;x
+drying_techniques;Drying Techniques;x
+oil_pumping_machinery;Oil Pumping Machinery;x
+refrigerator_technology;Refrigerator Technology;x
+industrialized_armament_industry;Industrialised Armament Industry;x
+fordism;Fordism;x
+shift_schedule;Shift Schedule;x
+graveyard_shift;Graveyard Shift;x
+control_theory;Control Theory;x
+factory_automation_infrastructure;Factory Automation Infrastructure;x
+ammunition_production;Ammunition Production;x
+small_arms_production;Small Arms Production;x
+explosives_production;Explosives Production;x
+artillery_production;Artillery Production;x
+coke;Coke;x
+bessemer_steel;Bessemer Steel;x
+advanced_ore_roasting_processes;Advanced Ore Roasting Processes;x
+martin_steel;Martin Steel;x
+thomas_steel;Thomas Steel;x
+portland_cement;Portland Cement;x
+steel_alloys;Steel Alloys;x
+rotary_kiln;Rotary Kilns;x
+electric_rolling_techniques;Electric Rolling Techniques;x
+stainless_steel;Stainless Steel;x
+market_squares;Market Squares;x
+gas_streetlights;Gas Streetlights;x
+public_trams;Public Trams;x
+elevators;Elevators;x
+modern_sewerage;Modern Sewerage;x
+skyscrapers;Skyscrapers;x
+airport;Airports;x
+pharmaceuticals;Pharmaceuticals;x
+aerial_bacteria_and_antiseptic_principle;Aerial Bacteria and Antiseptic Principle;x
+clinical_thermometers_and_binaural_stethoscopes;Clinical Thermometres and Binaural Stethoscopes;x
+combat_medicine;Combat Medicine;x
+vaccination;Vaccination;x
+germ_theory;Germ Theory;x
+artificial_fertilizers;Artificial Fertilisers;x
+nitroglycerin;Nitroglycerin;x
+chemical_wood_pulp_process;Chemical Wood Pulp Process;x
+rubber_vulcanization;Rubber Vulcanisation;x
+catalytic_fermentative_process;Catalytic Fermentative Process;x
+smokeless_powder;Smokeless Powder;x
+synthetic_dye;Synthetic Dyes;x
+gaslights;Gaslights;x
+carbon_soil_enrichment;Carbon Soil Enrichment;x
+cracking;Cracking;x
+prophylaxis_against_malaria;Prophylaxis Against Malaria;x
+edison_light_bulb;Edison Light Bulb;x
+bell_n_greys_telephones;Bell & Grey's Telephones;x
+x_rays;X-Rays;x
+electrical_lighting;Electrical Lighting;x
+haber_bosch_process;Haber-Bosch Process;x
+bergius_process;Bergius Process;x
+rayon;Rayon;x
+bakelite;Bakelite;x
+PS_unlocked;Farmland Building Unlocked;x
+qng_mil_nerf;Disorganised Army;x
+clr_qng_mil_nerf;Remove Disorganised Army;x
+military_hospitals_idea_invention;Military Hospitals Idea;x
+reinforce_rate_idea_invention;Reinforce Rate Idea;x
+consumer_goods_idea;Consumer Goods Idea;x
+industrial_goods_idea;Industrial Goods Idea;x

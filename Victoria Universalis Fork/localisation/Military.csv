@@ -1,0 +1,21 @@
+irregular;Irregular Infantry;x
+cavalry;Irregular Cavalry;x
+infantry;Infantry;x
+guard;Guard;x
+artillery;Artillery;x
+hussar;Cavalry;x
+engineer;Engineer;x
+tank;Armour;x
+plane;Airplane;x
+clipper_transport;Clipper Transport §R(Heavy Ship)§!;x
+steam_transport;Steam Transport §R(Heavy Ship)§!;x
+frigate;Frigate §B(Light Ship)§!;x
+commerce_raider;Torpedo Boat §B(Light Ship)§!;x
+monitor;Submarine Flotilla §B(Light Ship)§!;x
+cruiser;Cruiser §B(Light Ship)§!;x
+manowar;Man'o'war §R(Heavy Ship)§!;x
+ironclad;Ironclad §R(Heavy Ship)§!;x
+battleship;Battleship §R(Heavy Ship)§!;x
+dreadnought;Dreadnought §R(Heavy Ship)§!;x
+cuirassier;Cuirassier (Unavailable);x
+dragoon;Dragoon (Unavailable);x

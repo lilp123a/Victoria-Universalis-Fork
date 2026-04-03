@@ -1,0 +1,78 @@
+aeroplane_factory;Aeroplane Factory;x
+barrel_factory;Tank Factory;x
+automobile_factory;Automobile Factory;x
+radio_factory;Radio Factory;x
+telephone_factory;Telephone Factory;x
+electric_gear_factory;Electric Gear Factory;x
+machine_parts_factory;Machine Parts Factory;x
+synthetic_oil_factory;Synthetic Oil Plant;x
+synthetic_rubber_factory;Synthetic Rubber Plant;x
+synthetic_nitrate_factory;Synthetic Nitrate Plant;x
+fuel_refinery;Fuel Refinery;x
+steamer_shipyard;Steamer Shipyard;x
+luxury_clothes_factory;Luxury Clothes Factory;x
+luxury_furniture_factory;Luxury Furniture Factory;x
+steel_factory;Steel Mill;x
+artillery_factory;Artillery Factory;x
+clipper_shipyard;Clipper Shipyard;x
+small_arms_factory;Small Arms Factory;x
+furniture_factory;Furniture Factory;x
+paper_mill;Paper Mill;x
+regular_clothes_factory;Regular Clothes Factory;x
+explosives_factory;Explosives Factory;x
+ammunition_factory;Ammunition Factory;x
+canned_food_factory;Canned Food Factory;x
+dye_factory;Dye Factory;x
+liquor_distillery;Liquor Distillery;x
+winery;Winery;x
+lumber_mill;Lumber Mill;x
+fabric_factory;Textile Mill;x
+cement_factory;Cement Factory;x
+glass_factory;Glass Factory;x
+fertilizer_factory;Fertiliser Factory;x
+tea_packaging_factory;Tea Packing Factory;x
+coffee_packaging_factory;Coffee Packing Factory;x
+cigarette_factory;Cigarette Factory;x
+pharmaceutical_plant;Pharmaceutical Plant;x
+fort;Fort;x
+naval_base;Naval Base;x
+railroad;Railroad;x
+urban_center;Urban Centre;x
+farmland;Farmland;x
+mines;Mines;x
+aeroplane_factory_desc;Machine parts, electric gear and rubber are needed to produce aeroplanes;x
+barrel_factory_desc;Tanks were little more than artillery mounted on a moving chassis. Therefore, automobiles and artillery are required to produce tanks;x
+automobile_factory_desc;Machine parts, electric gear and rubber are needed to produce automobiles;x
+radio_factory_desc;Radios were one of the first mass consumer goods of the 20th century. Glass and electric gears are required for this;x
+telephone_factory_desc;The telephone is a major breakthrough in communications technology. Glass and electric gear is needed in this factory;x
+electric_gear_factory_desc;Using rubber, coal and iron, electric gear is produced. Electric gear is needed for a variety of things, among them automobiles and aeroplanes;x
+machine_parts_factory_desc;Machine parts are very important tools for every industrial plant. Steel and Coal are required to produce them;x
+synthetic_oil_factory_desc;Using coal, the synthetic oil factory produces oil out of that coal. Vital for nations that do not have ready access to oil;x
+synthetic_rubber_factory_desc;Synthetic rubber, like other polymers, is made from various petroleum-based monomers. A mixture of coal and oil is added together and then refined to produce the flammable hydrocarbon naphtha, which is then combined with natural gas to produce monomers. Chemical additives bond together with the monomers to form chains of polymers and the resulting product then undergoes vulcanisation in order to produce synthetic rubber;x
+synthetic_nitrate_factory_desc;The Haber–Bosch process, is an artificial nitrogen fixation process and is the main industrial procedure for the production of ammonia today. The process converts atmospheric nitrogen to ammonia by a reaction with hydrogen using a metal catalyst under high temperatures and pressures;x
+fuel_refinery_desc;The fuel refinery processes oil into fuel for automobiles;x
+steamer_shipyard_desc;Steamers are a huge improvement over clippers because they are independent from wind and can also be built bigger and sturdier. Steel and coal are the prerequisites for steamers;x
+luxury_clothes_factory_desc;In this factory, regular clothes are reworked using silk to produce luxury clothes for the upper class;x
+luxury_furniture_factory_desc;Here, furniture is transformed into a luxury good using tropical wood. The resulting luxury furniture is used by the upper class for their homes;x
+steel_factory_desc;Here, Iron and Coal are used to produce steel. Steel is used to produce weapons, railways, and a wide range of other buildings and items;x
+artillery_factory_desc;Using steel and explosives, artillery is produced. Artillery greatly enhances the firepower of army divisions;x
+clipper_shipyard_desc;Clippers are simple commercial ships using sails and wind for movement. Fabric and lumber are needed in this shipyard;x
+small_arms_factory_desc;Steel and ammunitions are required to produce small arms. These are the basic equipment for all newly raised divisions;x
+furniture_factory_desc;Furniture is made using lumber. It is a necessity for every home and thus available to the general populace;x
+paper_mill_desc;A paper mill is using lumber to produce paper. Paper is used for books, newspapers and other means of information;x
+regular_clothes_factory_desc;Fabric and dye are the prerequisites for this factory were the clothes for the general populace are produced;x
+explosives_factory_desc;Using fertilizer and ammunition, explosives are produced. These explosives were needed mainly for artillery;x
+ammunition_factory_desc;Here, a wide variety of ammunitions are produced. The prerequisites are iron, coal and sulphur;x
+canned_food_factory_desc;Iron and Cattle are necessary to produce canned food. This canned food is primarily used to provide foodstuffs for the armed forces because of it's long hold-up time;x
+dye_factory_desc;Dye could not only be extracted from plantations, but it could also be synthetically produced using coal;x
+liquor_distillery_desc;Liquor is the alcohol available for the broad mass of the populace. Grain is the raw materiel to produce liquor;x
+winery_desc;Wine is a major status symbol for the rich strata’s of the population. A distillery uses fruit to produce wine;x
+lumber_mill_desc;In a lumber mill, timber is processed into lumber. Lumber can then be used for buildings, paper, ships or furniture;x
+fabric_factory_desc;Cotton is processed into fabric here. Fabric is a tightly woven textile which is, among other things, used to produce sails for ships as well as clothing;x
+cement_factory_desc;Cement is a building materiel used to build sturdy objects like fortresses or bridges. Coal is required to produce cement;x
+glass_factory_desc;This factory requires coal to produce glass. Glass is used mainly for mirrors and windows;x
+fertilizer_factory_desc;In this factory, sulphur is processed into fertiliser. These fertilisers are used to increase the productivity of farms;x
+tea_packaging_factory_desc;This factory dries tea leaves and packs them into bags;x
+coffee_packaging_factory_desc;This factory grinds coffee beans and packs them into cans;x
+cigarette_factory_desc;This factory rolls tobacco leaves into paper to create cigarettes;x
+pharmaceutical_plant_desc;This plant creates modern medicines by synthesizing new chemical compounds from opium;x

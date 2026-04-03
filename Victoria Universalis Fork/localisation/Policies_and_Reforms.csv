@@ -1,0 +1,481 @@
+protectionism;Protectionism;x
+free_trade;Free Trade;x
+laissez_faire;Laissez-Faire;x
+interventionism;Interventionism;x
+state_capitalism;State Capitalism;x
+planned_economy;Planned Economy;x
+pro_atheism;Atheism;x
+secularized;Secularised;x
+pluralism;Pluralism;x
+moralism;Moralism;x
+residency;Residency;x
+limited_citizenship;Limited Citizenship;x
+full_citizenship;Full Citizenship;x
+jingoism;Jingoism;x
+pro_military;Pro-Military;x
+anti_military;Anti-Military;x
+pacifism;Pacifism;x
+wage_reform;Minimum Wage;x
+work_hours;Max. Workhours;x
+safety_regulations;Safety Regulations;x
+unemployment_subsidies;Unemployment Subsidies;x
+school_reforms;School System;x
+pensions;Pensions;x
+health_care;Health Care;x
+penal_system;Penal System;x
+political_parties;Political Parties;x
+upper_house_composition;Upper House;x
+conscription;Conscription;x
+trade_unions;Trade Unions;x
+vote_franschise;Vote Franchise;x
+centralization;Centralization;x
+voting_system;Voting System;x
+citizens_rights;Political Rights;x
+public_meetings;Public Meetings;x
+child_labor;Child Labour;x
+border_policy;Border Policy;x
+press_rights;Press Rights;x
+slavery;Slavery;x
+debt_law;Debt Law;x
+colonial_migration;Colonial Migration;x
+research_and_development;Research & Development;x
+no_minimum_wage;No Minimum Wage;x
+trinket_wage;Trinket Minimum Wage;x
+low_minimum_wage;Low Minimum Wage;x
+acceptable_minimum_wage;Acceptable Minimum Wage;x
+good_minimum_wage;Good Minimum Wage;x
+no_work_hour_limit;Unlimited Work Day;x
+fourteen_hours;14-Hour Work Day;x
+twelve_hours;12-Hour Work Day;x
+ten_hours;10-Hour Work Day;x
+eight_hours;8-Hour Work Day;x
+no_safety;No Safety Regulations;x
+trinket_safety;Minimal Safety Regulations;x
+low_safety;Limited Safety Regulations;x
+acceptable_safety;Acceptable Safety Regulations;x
+good_safety;Excellent Safety Regulations;x
+no_subsidies;No Subsidies;x
+trinket_subsidies;Trinket Subsidies;x
+low_subsidies;Low Subsidies;x
+acceptable_subsidies;Extended Subsidies;x
+good_subsidies;Generous Subsidies;x
+no_schools;No School System;x
+low_schools;Basic School System;x
+acceptable_schools;Acceptable School System;x
+good_schools;Good School System;x
+compulsory_schools;Compulsory School System;x
+no_pensions;No Pensions;x
+trinket_pensions;Trinket Pensions;x
+low_pensions;Low Pensions;x
+acceptable_pensions;Acceptable Pensions;x
+good_pensions;Good Pensions;x
+no_health_care;No Healthcare;x
+trinket_health_care;Trinket Healthcare;x
+low_health_care;Low Healthcare;x
+acceptable_health_care;Acceptable Healthcare;x
+good_health_care;Good Healthcare;x
+universal_health_care;Universal Healthcare;x
+capital_punishment;Capital Punishment;x
+punitive_labour;Punitive Labour;x
+incarceration;Incarceration;x
+rehabilitation;Rehabilitation;x
+underground_parties;Only Underground;x
+harassment;Harassment;x
+gerrymandering;Gerrymandering;x
+non_secret_ballots;Non-Secret Ballots;x
+secret_ballots;Secret Ballots;x
+party_appointed;Ruling Party Only;x
+appointed;Appointed;x
+state_equal_weight;Two per State;x
+population_equal_weight;Based on Population;x
+mandatory_service;Mandatory Service;x
+four_year_draft;Four Year Draft;x
+two_year_draft;Two Year Draft;x
+one_year_draft;One Year Draft;x
+no_draft;No Draft;x
+no_trade_unions;Illegal;x
+state_controlled;State Controlled;x
+non_socialist;Non-Socialist Allowed;x
+all_trade_unions;All Allowed;x
+none_voting;No Voting;x
+landed_voting;Only Landed;x
+wealth_weighted_voting;Weighted Wealth;x
+wealth_voting;Wealth;x
+universal_weighted_voting;Weighted Universal;x
+universal_voting;Universal;x
+totalitarianism;Totalitarianism;x
+regionalism;Regionalism;x
+confederalism;Confederalism;x
+federalism;Federalism;x
+unitary;Unitary;x
+primary_culture_only;Restricted Rights;x
+culture_voting_only;Cultural Rights;x
+all_voting_pops;All Allowed Rights;x
+first_past_the_post;First Past the Post;x
+jefferson_method;Jefferson Method;x
+proportional_representation;Proportional Representation;x
+no_meeting;Meetings Not Allowed;x
+yes_meeting;Meetings Allowed;x
+child_labor_legal;Child Labour Legal;x
+child_labor_restricted;Child Labour Restricted;x
+child_labor_illegal;Child Labour Illegal;x
+closed_borders;Closed Borders;x
+quota_immigration;Immigration Quotas;x
+open_borders;Open Borders;x
+state_press;State Press Only;x
+censored_press;Censored Press;x
+free_press;Free Press;x
+yes_slavery;Allowed;x
+freedom_of_womb;Freedom of Womb;x
+no_slavery;Outlawed;x
+serfdom;Serfdom;x
+peonage;Peonage;x
+debtors_prisons;Debtors' Prisons;x
+bankruptcy;Bankruptcy;x
+high_colonial_migration;High Colonial Migration;x
+medium_colonial_migration;Medium Colonial Migration;x
+low_colonial_migration;Low Colonial Migration;x
+no_colonial_migration;No Colonial Migration;x
+no_rnd;No R&D;x
+rudimentary_rnd;Rudimentary R&D;x
+very_low_rnd;Very Low R&D;x
+low_rnd;Low R&D;x
+basic_rnd;Basic R&D;x
+moderate_rnd;Moderate R&D;x
+acceptable_rnd;Acceptable R&D;x
+good_rnd;Good R&D;x
+very_good_rnd;Very Good R&D;x
+advanced_rnd;Advanced R&D;x
+futuristic_rnd;Futuristic R&D;x
+protectionism_desc;Trade between nations is restricted;x
+free_trade_desc;Merchants are able to act and transact without interference from the government;x
+laissez_faire_desc;Industry is free from government interference;x
+interventionism_desc;In general this is a free market economy but the government reserves the right to intervene when the national interest requires it;x
+state_capitalism_desc;The State controls the commanding heights of the economy but limited free enterprise is allowed;x
+planned_economy_desc;The government makes all decisions on the production and consumption of goods and services;x
+pro_atheism_desc;Total separation between church and state, religion is purely a private matter;x
+secularized_desc;Religion is not explicitly part of state policy, but the state tips its hat to traditional religious values;x
+pluralism_desc;The state religion is actively promoted but other religions are tolerated;x
+moralism_desc;Church and state are a single body, and religious minorities face discrimination;x
+residency_desc;This party supports politics to limit citizenship and political rights of minorities and immigrants;x
+limited_citizenship_desc;This party supports politics to limit citizenship and political rights to people of the same cultural group of this nation;x
+full_citizenship_desc;This party supports every vote being equal;x
+jingoism_desc;The military is the centrepiece of the state and military spending is prioritised;x
+pro_military_desc;The government is a strong supporter of the armed forces;x
+anti_military_desc;The armed forces are a drain on the state coffers and the government feels money is better spent elsewhere;x
+pacifism_desc;The government is actively hostile to the interests of the military, feeling they are opposed to the government policies;x
+no_minimum_wage_desc;No minimum level for wages;x
+trinket_wage_desc;Minimum wages are very low;x
+low_minimum_wage_desc;Minimum wages are low;x
+acceptable_minimum_wage_desc;Minimum wages are acceptable to most people;x
+good_minimum_wage_desc;Minimum wages are above the normal;x
+no_work_hour_limit_desc;No limit on working hours per day. Workers have virtually no rights and employers do as they please with their workers. Conditions in some workplaces are analogue to slavery.;x
+fourteen_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. At fourteen hours per day, most workers have barely any time for their families;x
+twelve_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. At twelve hours per day, workers are starting to have time to spend with their families and are quickly becoming common visitors of taverns and cabarets after work;x
+ten_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. Weekends without work are a common occurrence and white-collar workers have a system of annual vacations;x
+eight_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. At eight hours per day, almost all workers have the right to weekends off and annual vacations. Free time for leisure is at an all time high and the entertainment industry is in the middle of a boom. All over our country resorts emerge thanks to cheap hotels and inexpensive railway fares, widespread banking holidays and we watch the fading of many religious prohibitions against secular activities on Sundays;x
+no_safety_desc;Death or grievous injuries in the workplace isn't a rare occurrence as employers don't need to think about safety, only profit. The government has no governing legislation covering safety in the workplace and workers rarely manage to sue their employers over accidents;x
+trinket_safety_desc;Factories are required to provide proper ventilation and a regularly cleaned workspace. Workers can sue their employers in case of an accident but they rarely win any compensation. When they do the amount is usually negligible. Safety regulations only applies to factories;x
+low_safety_desc;Safety regulations extend to the agricultural, civil construction and mining sectors. In mines, the use of safety lamps is mandatory. Employees suing their employers still have a hard time winning any significant compensation, but the government offers help to the affected families, albeit the amount given is barely enough to scrap an existence;x
+acceptable_safety_desc;Safety regulations extend to all workplaces in our country. Government agencies label agricultural chemicals for toxicity and potential health impacts, mining and construction workers are required to use protection gear and hand brakes operated by workers riding on top of train cars were abolished. Employees have their rights guaranteed and getting compensation for accidents that happen due to employer negligence is a common occurrence. Government help to the victims is reasonable;x
+good_safety_desc;Safety regulations extend to all workplaces in our country and cover potential psychological problems due to extended isolation and even minor injuries. Employers are obliged to supply workers with protection equipment and safety training. Warnings and reminders are spread through the workplace to guarantee workers remember their safety instructions. Getting compensation for employer negligence in the workplace is easy and the government supports victims with a good amount of money;x
+no_subsidies_desc;No unemployment subsidies;x
+trinket_subsidies_desc;Very low unemployment subsidies;x
+low_subsidies_desc;Low unemployment subsidies;x
+acceptable_subsidies_desc;Extended unemployment subsidies;x
+good_subsidies_desc;Generous unemployment subsidies;x
+no_schools_desc;There's no organized school system or budget for education. The scarce literacy gain that is achieved comes from religious schools or it is based on informal community teaching, though these places get some funding, indirectly, from the government. Higher education institutions are either non existent or completely religious and medieval.\n§YThis reform increases the cap on teachers to 2%§!;x
+low_schools_desc;A rudimentary school system exists in the capital and a few important cities but enrollment is completely optional. Schools limits themselves to teaching pupils how to read and write. There's no government agency to inspect schools and they have no common standards for teaching, with the few courses that exist being overcrowded. Private schools are commonly in the same conditions. Teachers don't have professional formation and are often just literate men, while pupils often leave school without being properly schooled.\n§YThis reform raises the cap on teachers to 2.5%§!;x
+acceptable_schools_desc;Schools can be found in every major and most of the medium cities. A government agency exists to ensure quality standards in education and to inspect that proper facilities are used for it. Enrollment is encouraged and sometimes it's outright mandatory, but it's not properly enforced and pupils often don't go to school for a variety of reasons. Children are also taught math and a few other subjects. Education institutions for teenagers are starting to appear, and secular, higher education institutions for adults are common. Teachers are formally trained, but oftentimes poorly.\n§YThis reform raises the cap on teachers to 3%§!;x
+good_schools_desc;Schools can be found in almost every city. Government agencies take education with the utmost seriousness, and enrollment is often mandatory and tightly controlled. Children and teenagers are taught a variety of subjects besides reading and writing and teachers are taught pedagogy during their formation. Literacy campaigns for adults and the elderly are a part of the government's effort to eradicate illiteracy. Higher education institutions are considered good, with opportunities for the poor classes to enroll.\n§YThis reform raises the cap on teachers to 3.5%§!;x
+compulsory_schools_desc;Free public education is available to all and attendance is mandatory. Teachers are certified to a standardized curricula by either the government or a teachers' organisation. Higher education institutions are excellent and poor students are given subsidies by the government in order to attend.\n§YThis reform raises the cap on teachers to 4%§!;x
+no_pensions_desc;No state pensions;x
+trinket_pensions_desc;Very low state pensions;x
+low_pensions_desc;Low state pensions;x
+acceptable_pensions_desc;Acceptable state pensions;x
+good_pensions_desc;High state pensions;x
+no_health_care_desc;The government doesn't care about healthcare and no funding for it exists. The few health institutions that exist are inherited from medieval times and are equipped accordingly. The medical career is an informal profession, mainly linked to the church. Hospitals use rudimentary lighting, facilities are overcrowded and infectious diseases round the halls and corners of the buildings. Prayers are commonly recommended to treat ailments;x
+trinket_health_care_desc;Doctors and nurses have a rudimentary understanding of wounds and diseases, partially relying on old beliefs when treating patients, but they do have formal training. Hospitals have rules to reduce overcrowding (beds are spaced a meter apart), provisions for ventilation, and the sewers leading from the hospital are flushed several times a day while the latrines/drains are disinfected with peat charcoal. There is meager collection of patient data but there aren't any proper sanitation standards for hospitals nor government agencies to check them. Healthcare facilities are hard to find;x
+low_health_care_desc;Doctors and nurses are starting to understand wounds and diseases better during their studies and apply the principles of the so-called "germ theory" when treating patients. A Sanitary Commission was founded and its agents can be seen patrolling the hospitals, albeit infrequently, to guarantee a rudimentary sanitation standard. Healthcare facilities are starting to become common;x
+acceptable_health_care_desc;Medicine is a fully-fledged profession, with doctors and nurses graduating with complete understanding of the human body and a vast knowledge of diseases and how to treat them. Sterilization of the facilities and equipment is common, with Chamberland Filters used to filter water and the Chamberland Autoclave used for heating solutions above their boiling point to destroy dangerous microorganisms. Government agencies exist to enforce sanitation controls and ensure there's no overcrowding. Finding a clinic in an urban center is a relatively easy job and hospitals abandoned oil lamps in favor of gaslights that increase the efficiency of staff;x
+good_health_care_desc;The discovery of several vaccines revolutionized medicine, with vaccination being mandatory or strongly encouraged by the government. Doctors now use pharmaceuticals to treat patients and full sterilization of all medical equipment and facilities, quarantine procedures for infectious diseases and proper disposal of medical waste are mandatory practices enforced by the sanitation standards of the government agencies. Finding clinics or hospitals in smaller population centers is common, overcrowding is rare and some smaller health centers are starting to appear even in rural areas. Hospitals are equipped with modern electric lights and informational posters for staff;x
+universal_health_care_desc;Universal healthcare is a health care system in which all residents of a particular country or region are assured access to health care. It is generally organized around providing either all residents or only those who cannot afford on their own with either health services or the means to acquire them, with the end goal of improving health outcomes;x
+capital_punishment_desc;Convicts are killed for relatively minor crimes;x
+punitive_labour_desc;Prisoners are forced to perform hard labour as a form of punishment beyond imprisonment alone. Punitive labour encompasses two types: productive labour, such as industrial work, and intrinsically pointless tasks used as primitive occupational therapy, punishment and/or physical torment;x
+incarceration_desc;Convicts are imprisoned with the intent of removing undesirables from society, though they aren't used for hard manual labour most of the times.\n§YThis reform is neutral - no effects;x
+rehabilitation_desc;Convicts are imprisoned with the intent of reforming them and reintroducing them into society;x
+underground_parties_desc;The government actively prevents other parties from publicly campaigning for votes;x
+harassment_desc;The ruling party harasses people into voting for them;x
+gerrymandering_desc;Electoral district or constituency boundaries are deliberately modified for electoral purposes, meaning the votes for the ruling party are worth more. The ruling party can use gerrymandering in order to get people to vote for them;x
+non_secret_ballots_desc;The voter's choices are non-confidential. The ruling party knows who the people vote for and can use pressure in order to get the people to vote for them;x
+secret_ballots_desc;The voter's choices are confidential in order to prevent others from influencing the voter by bribery or intimidation. The ruling party can't affect the way people votes;x
+party_appointed_desc;Only members of the ruling party with the same ideology can be appointed to represent the party in the Upper House;x
+appointed_desc;Aristocrats or capitalists have been assigned seats in the Upper House by the leader of the country;x
+state_equal_weight_desc;Each state has two votes to appoint representatives to the Upper House;x
+population_equal_weight_desc;Representatives are determined by the collected ideologies of the population;x
+mandatory_service_desc;Mobilisation Size: §G+6.0%§W;x
+four_year_draft_desc;Mobilisation Size: §G+4.0%§W;x
+two_year_draft_desc;Mobilisation Size: §G+2.0%§W;x
+one_year_draft_desc;Mobilisation Size: §G+1.0%§W;x
+no_draft_desc;No conscription;x
+no_trade_unions_desc;No trade unions are allowed;x
+state_controlled_desc;The government controls the trade unions;x
+non_socialist_desc;Non-Socialist trade unions are allowed;x
+all_trade_unions_desc;All trade unions are allowed;x
+none_voting_desc;No one is allowed to vote;x
+landed_voting_desc;Only Aristocrats and Capitalists may vote;x
+wealth_weighted_voting_desc;Only the wealthy (clerks and above) may vote, but the rich men's votes are worth twice as much as middle-class votes;x
+wealth_voting_desc;Only the middle and upper classes may vote;x
+universal_weighted_voting_desc;Everyone is allowed to vote, but the rich men's votes are worth more;x
+universal_voting_desc;Everyone is allowed to vote;x
+totalitarianism_desc;A political system where the state recognizes no limits to its authority and strives to regulate every aspect of public and private life wherever feasible. While the organs of powers can be nomally separated, in effect everything is controlled by a uniform central administration and its legions of prefects, all headed by members of the political apparatus\nMobilisation Size: §G+2.0%§W;x
+regionalism_desc;Regionalism occurs when a government has a weak central authority and parts of the country generally have strong levels of autonomy by the local leaders, while these regions do technically answer to the state, the level of control over these regions is usually limited and ineffective\nMobilisation Size: §R-1.0%§W;x
+confederalism_desc;A confederation (also known as a confederacy or league) is a union of sovereign states, united for purposes of common action often in relation to other states. Since the member states of a confederation retain their sovereignty, they have an implicit right of secession, in contrast with a federal one, the central authority of a Confederation is relatively weak and makes for a slow and inefficient government\nMobilisation Size: §R-1.0%§W;x
+federalism_desc;A federation is a political entity characterized by a union of partially self-governing states or regions under a central government. Sovereign power is formally divided between a central authority and a number of constituent regions so that each region retains some degree of control over its internal affairs.. What we lose in simplicity and efficiency, we gain in flexibility and adaptability;x
+unitary_desc;A unitary state is a state governed as one single power in which the central government is ultimately supreme. Subnational units are created and abolished, and their powers may be broadened and narrowed by the central authority. What we lose in flexibility and adaptability, we gain in simplicity and efficiency;x
+primary_culture_only_desc;Only the first class citizens of the country are allowed to participate in the political life, all the other groups are segregated. Becoming a first class citizen is hard and extremely limited;x
+culture_voting_only_desc;Persons from the country's culture are allowed to participate in the political life of the country and citizenship is greatly facilitated for these people;x
+all_voting_pops_desc;All legal immigrants, regardless of the culture, are allowed to vote. Acquiring citizenship status is facilitated;x
+first_past_the_post_desc;The candidate with the most votes wins;x
+jefferson_method_desc;The Jefferson Method is a highest averages method for allocating seats;x
+proportional_representation_desc;The percentage of votes that groups of candidates obtain in elections equals the percentage of seats they receive;x
+no_meeting_desc;Public meetings are prohibited;x
+yes_meeting_desc;Public meetings and rallies are allowed;x
+child_labor_legal_desc;No child labour regulation exists;x
+child_labor_restricted_desc;Children cannot work in certain dangerous professions;x
+child_labor_illegal_desc;Child labour is viewed as immoral and is illegal;x
+closed_borders_desc;People aren't allowed in or out of our country.\n§RPOPs will suffer a penalty to promotion§!;x
+quota_immigration_desc;Foreign nationals are allowed to immigrate to our country, as long as they have a literacy above 60% and aren't citizens of countries that were recently or are currently at war with our country. There are no restrictions for emigration;x
+open_borders_desc;Our country is completely open for immigration and emigration, either by deliberate choice or because of the lack of appropriate border controls;x
+state_press_desc;Only state-controlled press is allowed;x
+censored_press_desc;While allowed a relative amount of freedom, the press is still censored by the government;x
+free_press_desc;Free press is allowed without interference from the government;x
+yes_slavery_desc;Slavery is allowed\n§RThis reform affects POP promotion chance - promotion will be slower, both globally and even more in slave states§!\n§YPops in Slave states will be more conservative and less liberal. Immigrants are less likely to choose slave states§!\n§GThe slave population will grow§!;x
+freedom_of_womb_desc;Slaves' children are freed at birth and, in most cases, old slaves are also freed. The slave population stops growing\n§RThis reform affects POP promotion chance - promotion will be slower, both globally and even more in slave states§!\n§YPops in Slave states will be more conservative and less liberal. Immigrants are less likely to choose slave states§!\n§RThe slave population will stop growing§!;x
+no_slavery_desc;Slavery is forbidden;x
+serfdom_desc;Serfs are bound to the land and subject to the will of its owner and work the fields under a feudal system;x
+peonage_desc;Peonage is a debt system under which the debtor is forced to work off his debt. This often leads to a perpetual cycle of involuntary labour called peonage;x
+debtors_prisons_desc;Debtors are confined to jail until such time as their debt is resolved\n§YThis reform is neutral - no effects§!;x
+bankruptcy_desc;Debtors are allowed to declare bankruptcy and have their previous debts declared null and void;x
+high_colonial_migration_desc;Gives a large bonus to colonial migration to accepted culture POPs. The bonus scales up for lower population countries;x
+medium_colonial_migration_desc;Gives a bonus to colonial migration to accepted culture POPs. The bonus scales up for lower population countries;x
+low_colonial_migration_desc;Gives a small bonus to colonial migration to accepted culture POPs. The bonus scales up for lower population countries;x
+no_colonial_migration_desc;No POPs will migrate to the colonies;x
+no_rnd_desc;The state does not fund any R&D;x
+rudimentary_rnd_desc;§YThis level of reform requires at least 10% average literacy§!;x
+very_low_rnd_desc;§YThis level of reform requires at least 20% average literacy§!;x
+low_rnd_desc;§YThis level of reform requires at least 30% average literacy§!;x
+basic_rnd_desc;§YThis level of reform requires at least 40% average literacy§!;x
+moderate_rnd_desc;§YThis level of reform requires at least 50% average literacy§!;x
+acceptable_rnd_desc;§YThis level of reform requires at least 60% average literacy§!;x
+good_rnd_desc;§YThis level of reform requires at least 70% average literacy§!;x
+very_good_rnd_desc;§YThis level of reform requires at least 80% average literacy§!;x
+advanced_rnd_desc;§YThis level of reform requires at least 90% average literacy§!;x
+futuristic_rnd_desc;§YThis level of reform requires at least 97% average literacy§!;x
+protectionism_l;Protectionism;x
+free_trade_l;Free Trade;x
+laissez_faire_l;Laissez Faire;x
+interventionism_l;Interventionism;x
+state_capitalism_l;State Capitalism;x
+planned_economy_l;Planned Economy;x
+pro_atheism_l;Atheism;x
+secularized_l;Secularized;x
+pluralism_l;Pluralism;x
+moralism_l;Moralism;x
+residency_l;Residency;x
+limited_citizenship_l;Limited Citizenship;x
+full_citizenship_l;Full Citizenship;x
+jingoism_l;Jingoism;x
+pro_military_l;Pro-Military;x
+anti_military_l;Anti-Military;x
+pacifism_l;Pacifism;x
+no_minimum_wage_l;No Min.Wage;x
+trinket_wage_l;Trinket Min. Wage;x
+low_minimum_wage_l;Low Min. Wage;x
+acceptable_minimum_wage_l;Acceptable Min. Wage;x
+good_minimum_wage_l;Good Min. Wage;x
+no_work_hour_limit_l;No Work Hour Limits;x
+fourteen_hours_l;14h Workday;x
+twelve_hours_l;12h Workday;x
+ten_hours_l;10h Workday;x
+eight_hours_l;8h Workday;x
+no_safety_l;No Safety Regulations;x
+trinket_safety_l;Trinket Safety;x
+low_safety_l;Low Safety;x
+acceptable_safety_l;Acceptable Safety;x
+good_safety_l;Good Safety;x
+no_subsidies_l;No Subsidies;x
+trinket_subsidies_l;Trinket Subsidies;x
+low_subsidies_l;Low Subsidies;x
+acceptable_subsidies_l;Acceptable Subsidies;x
+good_subsidies_l;Good Subsidies;x
+no_schools_l;No School System;x
+low_schools_l;Basic School System;x
+acceptable_schools_l;Acceptable School System;x
+good_schools_l;Good School System;x
+compulsory_schools_l;Compulsory School System;x
+no_pensions_l;No Pensions;x
+trinket_pensions_l;Trinket Pensions;x
+low_pensions_l;Low Pensions;x
+acceptable_pensions_l;Acceptable Pensions;x
+good_pensions_l;Good Pensions;x
+no_health_care_l;No Healthcare;x
+trinket_health_care_l;Trinket Healthcare;x
+low_health_care_l;Low Healthcare;x
+acceptable_health_care_l;Acceptable Healthcare;x
+good_health_care_l;Good Healthcare;x
+universal_health_care_l;Universal Healthcare;x
+capital_punishment_l;Capital Punishment;x
+punitive_labour_l;Punitive Labour;x
+incarceration_l;Incarceration;x
+rehabilitation_l;Rehabilitation;x
+underground_parties_l;Outlaw Political Parties;x
+harassment_l;Harassed Parties.;x
+gerrymandering_l;Gerrymandering;x
+non_secret_ballots_l;Non-Secret Ballots;x
+secret_ballots_l;Secret Ballots;x
+party_appointed_l;UH same as Ruling Party;x
+appointed_l;Appointed UH;x
+state_equal_weight_l;Two per state in UH;x
+population_equal_weight_l;Population equal in UH;x
+mandatory_service_l;Mandatory Service;x
+four_year_draft_l;Four Year Draft;x
+two_year_draft_l;Two Year Draft;x
+one_year_draft_l;One Year Draft;x
+no_draft_l;No Draft;x
+no_trade_unions_l;No Trade Unions;x
+state_controlled_l;State Controlled Trade Unions;x
+non_socialist_l;Non Socialist Trade Unions;x
+all_trade_unions_l;All Trade Unions;x
+none_voting_l;No Voting;x
+landed_voting_l;Landed Voting;x
+wealth_weighted_voting_l;Wealth Weighted Voting;x
+wealth_voting_l;Wealth Voting;x
+universal_weighted_voting_l;Universal Weighted Voting;x
+universal_voting_l;Universal Voting;x
+totalitarianism_l;Totalitarianism;x
+regionalism_l;Regionalism;x
+confederalism_l;Confederalism;x
+federalism_l;Federalism;x
+unitary_l;Unitary;x
+primary_culture_only_l;Primary Culture Only Rights;x
+culture_voting_only_l;Accepted Cultures Rights;x
+all_voting_pops_l;All Allowed Rights;x
+first_past_the_post_l;First Past the Post;x
+jefferson_method_l;Jefferson Method;x
+proportional_representation_l;Proportional Representation;x
+no_meeting_l;Outlaw Public Meetings;x
+yes_meeting_l;Allow Public Meetings;x
+child_labor_legal_l;Child Labour Legal;x
+child_labor_restricted_l;Child Labour Restricted;x
+child_labor_illegal_l;Child Labour Illegal;x
+closed_borders_l;Closed Borders;x
+quota_immigration_l;Immigration Quotas;x
+open_borders_l;Open Borders;x
+state_press_l;State Press Only;x
+censored_press_l;Censored Press;x
+free_press_l;Free Press;x
+yes_slavery_l;Slavery Allowed;x
+freedom_of_womb_l;Freedom of Womb Law;x
+no_slavery_l;Outlaw Slavery;x
+serfdom_l;Serfdom;x
+peonage_l;Peonage;x
+debtors_prisons_l;Debtors' Prisons;x
+bankruptcy_l;Bankruptcy;x
+high_colonial_migration_l;High Colonial Migration;x
+medium_colonial_migration_l;Medium Colonial Migration;x
+low_colonial_migration_l;Low Colonial Migration;x
+no_colonial_migration_l;No Colonial Migration;x
+no_rnd_l;No R&D;x
+rudimentary_rnd_l;Rudimentary R&D;x
+very_low_rnd_l;Very Low R&D;x
+low_rnd_l;Low R&D;x
+basic_rnd_l;Basic R&D;x
+moderate_rnd_l;Moderate R&D;x
+acceptable_rnd_l;Acceptable R&D;x
+good_rnd_l;Good R&D;x
+very_good_rnd_l;Very Good R&D;x
+advanced_rnd_l;Advanced R&D;x
+futuristic_rnd_l;Futuristic R&D;x
+movement_trinket_wage;Minimum Wage Movement;x
+movement_low_minimum_wage;Minimum Wage Movement;x
+movement_acceptable_minimum_wage;Minimum Wage Movement;x
+movement_good_minimum_wage;Minimum Wage Movement;x
+movement_fourteen_hours;Maximum Workhours Movement;x
+movement_twelve_hours;Maximum Workhours Movement;x
+movement_ten_hours;Maximum Workhours Movement;x
+movement_eight_hours;Maximum Workhours Movement;x
+movement_trinket_safety;Campaign for Safe Working Conditions;x
+movement_low_safety;Campaign for Safe Working Conditions;x
+movement_acceptable_safety;Campaign for Safe Working Conditions;x
+movement_good_safety;Campaign for Safe Working Conditions;x
+movement_trinket_subsidies;Campaign for Unemployment Subsidies;x
+movement_low_subsidies;Campaign for Unemployment Subsidies;x
+movement_acceptable_subsidies;Campaign for Unemployment Subsidies;x
+movement_good_subsidies;Campaign for Unemployment Subsidies;x
+movement_low_schools;Common School Movement;x
+movement_acceptable_schools;Common School Movement;x
+movement_good_schools;Common School Movement;x
+movement_compulsory_schools;Compulsory School Movement;x
+movement_trinket_pensions;Campaign for Old Age Security;x
+movement_low_pensions;Campaign for Old Age Security;x
+movement_acceptable_pensions;Campaign for Old Age Security;x
+movement_good_pensions;Campaign for Old Age Security;x
+movement_trinket_health_care;Universal Healthcare Movement;x
+movement_low_health_care;Universal Healthcare Movement;x
+movement_acceptable_health_care;Universal Healthcare Movement;x
+movement_good_health_care;Universal Healthcare Movement;x
+movement_universal_health_care;Universal Healthcare Movement;x
+movement_capital_punishment;Pro Capital Punishment League;x
+movement_punitive_labour;Campaign for the Abolition of Capital Punishment;x
+movement_incarceration;Movement for the Abolition of Penal Colonies;x
+movement_rehabilitation;Rehabilitation of Prisoners Campaign;x
+movement_harassment;Voters Rights Movement;x
+movement_gerrymandering;Voters Rights Movement;x
+movement_non_secret_ballots;Voters Rights Movement;x
+movement_secret_ballots;Voters Rights Movement;x
+movement_party_appointed;Campaign for Political Representation;x
+movement_appointed;Campaign for Political Representation;x
+movement_state_equal_weight;Campaign for Political Representation;x
+movement_population_equal_weight;Campaign for Political Representation;x
+movement_mandatory_service;Mandatory Service Movement;x
+movement_four_year_draft;Movement for Four Year Draft Implementation;x
+movement_two_year_draft;Movement for Two Year Draft Implementation;x
+movement_one_year_draft;Movement for One Year Draft Implementation;x
+movement_no_draft;Movement for the Abolition of the Conscription;x
+movement_state_controlled;Campaign for State Controlled Unions;x
+movement_non_socialist;Campaign for Non-Socialist Unions ;x
+movement_all_trade_unions;Campaign for Free Trade unions;x
+movement_landed_voting;Suffrage Movement;x
+movement_wealth_weighted_voting;Suffrage Movement;x
+movement_wealth_voting;Suffrage Movement;x
+movement_universal_weighted_voting;Suffrage Movement;x
+movement_universal_voting;Suffrage Movement;x
+movement_totalitarianism;Totalitarian Movement;x
+movement_regionalism;Regionalist Movement;x
+movement_confederalism;Confederalist Movement;x
+movement_federalism;Federalist Movement;x
+movement_unitary;Unitarian Movement;x
+movement_primary_culture_only;Pro-Citizens Movement;x
+movement_culture_voting_only;Movement for Cultural Political Rights;x
+movement_all_voting_pops;The League for Universal Political Rights;x
+movement_first_past_the_post;Campaign for Political Representation;x
+movement_jefferson_method;Campaign for Political Representation;x
+movement_proportional_representation;Campaign for Political Representation;x
+movement_no_meeting;Campaign for the Abolition of Public Meetings;x
+movement_yes_meeting;Campaign for Public Meetings;x
+movement_child_labor_legal;Campaign for the Legalisation of Child Labour;x
+movement_child_labor_restricted;Campaign for the Restriction of Child Labour;x
+movement_child_labor_illegal;Child Labour Abolition League;x
+movement_closed_borders;Movement for the Protection of the Country;x
+movement_quota_immigration;Movement for Immigration Quotas;x
+movement_open_borders;Pro-Immigration Movement;x
+movement_censored_press;Campaign for Censored Press;x
+movement_free_press;Campaign for Free Press;x
+movement_yes_slavery;Pro-Enslavement League;x
+movement_freedom_of_womb;Freedom of Womb Campaign;x
+movement_no_slavery;Abolitionist Movement;x
+movement_serfdom;Pro-Serfdom League;x
+movement_peonage;Campaign for the Abolition of Serfdom;x
+movement_debtors_prisons;Abolition of Peonage Movement;x
+movement_bankruptcy;Debtors' Prisons Abolition Movement;x

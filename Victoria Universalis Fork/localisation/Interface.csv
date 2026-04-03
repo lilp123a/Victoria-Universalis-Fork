@@ -1,0 +1,1896 @@
+LOADING_MAP_SPRITES;Loading Map Sprites...;x
+LOADING_GUI_DEF;Loading GUI Definitions...;x
+LOADING_DATABASES;Loading Databases...;x
+LOADING_DATABASES2;Loading Databases II...;x
+INIT_MAP_LOGIC;Initialising Maplogic...;x
+LOADING_HISTORY;Loading History Files...;x
+LOAD_EVENTS;Loading Events...;x
+LOADING_SOUNDS;Loading Sounds...;x
+LOAD_FLAGS;Loading Flags...;x
+LOAD_GFX;Loading Graphics...;x
+MAP_PROPERLY_INIT;Map Properly Initialised...;x
+ADAPTING_HISTORY;Adapting History...;x
+EXECUTING_HISTORY;Executing History...;x
+CREATING_CHKSUM;Creating Checksum...;x
+CREATING_THE_WORLD;Creating the World...;x
+CREATING_TREES;Creating Trees...;x
+CREATING_BORDERS;Creating Borders...;x
+CREATING_RIVERS;Creating Rivers...;x
+PROC_FLAGS;Processing Flags...;x
+CREATING_PROVINCE;Creating Province #;x
+CREATING_TEXTS;Creating Texts....;x
+CALC_PATHS;Calculating Paths...;x
+FE_SINGLE_PLAYER;Singleplayer;x
+FE_MULTI_PLAYER;Multiplayer;x
+FE_OPTIONS;Settings;x
+FE_EXIT;Exit;x
+SM_SETTINGS;Settings;x
+SM_APPLY;Apply;x
+SM_BACK;Back;x
+SM_GAME;Game;x
+SM_AUTOSAVE_INTERVAL;Autosave Interval;x
+NEVER;Never;x
+MONTHLY;Monthly;x
+HALFYEAR;Half Year;x
+YEARLY;Yearly;x
+FIVE_YEAR;Five Years;x
+DIFFICULTY_LABEL;Difficulty;x
+DIFF_VERY_EASY;Very Easy;x
+DIFF_EASY;Easy;x
+DIFF_NORMAL;Normal;x
+DIFF_HARD;Hard;x
+DIFF_VERY_HARD;Very Hard;x
+SM_COUNTERDISTANCE;Counter Distance;x
+SM_SHORTCUT;Shortcut Tooltips;x
+SM_VIDEO;Video;x
+SM_RESOLUTION;Resolution;x
+SM_WINDOW;Window Mode;x
+SM_WINDOWED;Windowed;x
+SM_FULLSCREEN;Fullscreen;x
+SM_BORDERLESS;Borderless;x
+SM_REFRESH_RATE;Refresh Rate;x
+SM_MULTISAMPLE;Multisample Level;x
+SM_GAMMA;Gamma;x
+SM_DETAILS;Details;x
+SM_WATER;Advanced Water;x
+SM_AUDIO;Audio;x
+SM_MASTER_VOLUME;Master Volume;x
+SM_EFFECT_VOLUME;Effect Volume;x
+SM_MUSIC_VOLUME;Music Volume;x
+SM_CONTROLS;Controls;x
+SM_SCROLL_SPEED;Scroll Speed;x
+SM_ZOOM_SPEED;Zoom Speed;x
+SM_WP;Error writing to the settings-file. Check that the file is not write protected and try again;x
+RESTART_REQ;Restart Required;x
+RESTART_REQ_DESC;You must restart the game for these changes to take effect.;x
+WORLD_YEAR;The World, $YEAR$ AD;x
+FE_SELECT_NATION;Click on the map to select a nation...;x
+FE_PLAYABLE_COUNTRIES;Playable Countries;x
+FE_COUNTRY;Country;x
+FE_RANK;Rank;x
+FE_PRESTIGE;Prestige:;x
+FE_INDUSTRY;Industry:;x
+FE_MILITARY;Military:;x
+FE_POP;Population:;x
+FE_WARS;Wars:;x
+FE_ALLIES;Allies:;x
+COUNTRY_PUPPETS_LIST;Puppets:;x
+FE_NUM_PLAYERS;Number of Players: $NUM$;x
+FE_PLAYER;Player;x
+FE_BACK;Back;x
+PLAY;PLAY;x
+PRODUCTION;Production;x
+TOPBAR_TOP5_GOODS;Our top 5 domestic produced goods are:;x
+PRODUCTION_FACTORIES;Factories;x
+PRODUCTION_TAB_FACTORIES;Overview of all factories in our country;x
+PRODUCTION_TOGGLE_FILTER_TOOLTIP;Shows/hides factories which rely on or produce $GOODS$;x
+PRODUCTION_SELECT_ALL;Select All;x
+PRODUCTION_SELECT_ALL_TOOLTIP;Selects all filters;x
+PRODUCTION_DESELECT_ALL;Deselect All;x
+PRODUCTION_DESELECT_ALL_TOOLTIP;Deselects all filters;x
+PRODUCTION_SHOW_EMPTY_STATES;Show Empty States;x
+PRODUCTION_HIDE_EMPTY_STATES;Hide Empty States;x
+PRODUCTION_SHOW_EMPTY_TOOLTIP;Shows/hides states with no displayed factories;x
+PRODUCTION_SORT_BY_NAME;Name;x
+PRODUCTION_SORT_BY_NAME_TOOLTIP;Sort by state name;x
+PRODUCTION_SORT_BY_FACTORIES;Factories;x
+PRODUCTION_SORT_BY_FACTORIES_TOOLTIP;Sort by number of factories;x
+PRODUCTION_SORT_BY_AVAILABLE_WORKFORCE_TOOLTIP;Sort by unemployed §Y$TYPE$§W;x
+PRODUCTION_SORT_BY_AVG_INVESTORS_TOOLTIP;Sort by average §Y$TYPE$§W in state;x
+PRODUCTION_SORT_BY_INFRA;Infrastructure;x
+SORT_BY_INFRA;Sort by average state infrastructure;x
+PRODUCTION_POP_UNEMPLOYED_TOOLTIP;Unemployed: $UNEMPLOYED$;x
+PRODUCTION_POP_OWNER_PRESCENCE_TOOLTIP;Presence in state: $PRESCENCE$;x
+PRODUCTION_OPEN_FACTORY_TOOLTIP;§YOpen Factory§W;x
+PRODUCTION_CLOSE_FACTORY_TOOLTIP;§YShutdown Factory§W;x
+PRODUCTION_EXPAND_FACTORY_TOOLTIP;§YExpand Factory§W;x
+PRODUCTION_BUILDING_FACTORY_TOOLTIP;Building §Y$TYPE$§W;x
+PRODUCTION_EXPANDING_FACTORY_TOOLTIP;Expanding §Y$TYPE$§W;x
+PRODUCTION_BUILDING_FACTORY_PROGRESS_TOOLTIP;§G$PERC$%§W done, §Y$DAYS$§W days left;x
+PRODUCTION_OPEN_FACTORY_BECAUSE_TOOLTIP;We are allowed to open this factory because:\n;x
+PRODUCTION_CLOSE_FACTORY_BECAUSE_TOOLTIP;We are allowed to close this factory because:\n;x
+PRODUCTION_EXPAND_FACTORY_BECAUSE_TOOLTIP;We are allowed to expand this factory because:\n;x
+PRODUCTION_NOT_OPEN_FACTORY_BECAUSE_TOOLTIP;We are §RNOT§W allowed to open this factory because:\n;x
+PRODUCTION_NOT_CLOSE_FACTORY_BECAUSE_TOOLTIP;We are §RNOT§W allowed to close this factory because:\n;x
+PRODUCTION_NOT_EXPAND_FACTORY_BECAUSE_TOOLTIP;We are §RNOT§W allowed to expand this factory because:\n;x
+PRODUCTION_CURRENT_PRIORITY_TOOLTIP;Current Priority: §Y$VALUE$§W;x
+PRODUCTION_CANCEL_SUBSIDIES;Cancel Subsidies;x
+PRODUCTION_SUBSIDIES_DESC;By subsidizing a factory, we will pay for input costs and/or minimum wages of workers if the factory is not earning enough money;x
+PRODUCTION_MONEY_NEEDED;Money needed: $VALUE$;x
+PRODUCTION_TAB_PRODUCTION;Shows production overview of our country. Also shows the production output of each of our producers;x
+PRODUCTION_TAB_PROJECTS;Shows what our §Y$POPTYPE$§W are planning to build;x
+PRODUCTION_NOTHING_PRODUCED;We are not producing any §Y$GOOD$§W in our country;x
+PRODUCTION_OPEN_FACTORY_DESC_TOOLTIP;If we open the factory, it will start to hire people and produce goods again;x
+PRODUCTION_CLOSE_FACTORY_DESC_TOOLTIP;If we shut down the factory, it will cease production and make its entire workforce unemployed;x
+PRODUCTION_EXPAND_FACTORY_DESC_TOOLTIP;If we expand this factory, we will increase the number of workers it can hire;x
+PRODUCTION_PRIO_FACTORY_DESC_TOOLTIP;Factories with higher priority will be able to hire workers and buy goods before factories with lower priority (within the same state);x
+PRODUCTION_INPUT_REQUIRED;Our artisans and/or factories need §Y$GOOD$§W to produce output;x
+PRODUCTION_PRODUCING_EACH_DAY;Our §Y$TYPE$§W are producing §Y$VALUE$ $GOOD$§W each day;x
+PRODUCTION_WANTS_EACH_DAY;Our §Y$TYPE$§W needs §Y$VALUE$ $GOOD$§W each day;x
+PRODUCTION_FACTORY_DAYSRED_TOOLTIP;Days of insolvency: §R$DAYS$§W;x
+PRODUCTION_MUST_PORT_ONLY;Only produced in coastal states.\n;x
+PRODUCTION_DESTROY_FACTORY_BECAUSE_TOOLTIP;We are allowed to destroy this factory because:\n;x
+PRODUCTION_NOT_DESTROY_FACTORY_BECAUSE_TOOLTIP;We are allowed to destroy this factory because:\n;x
+PRODUCTION_COST_REOPEN;Reopening Cost: §Y$VAL$§W;x
+PRODUCTION_REQUIRED_DAILY_INPUTS;Required Daily Inputs:;x
+PRODUCTION_DAILY_OUTPUT;Daily Output:;x
+PRODUCTION_BONUS;$BON$ Bonus From:;x
+PRODUCTION_BONUS_POSSIBLE;Possible Bonus From:;x
+PRODUCTION_FACTORY_PURE_INCOME;Last day's pure income: $VALUE$;x
+PRODUCTION_FACTORY_MARKET_SPENDINGS;Market spendings: $VALUE$;x
+PRODUCTION_FACTORY_POP_PAYCHECKS;Workers and capitalists paychecks: $VALUE$;x
+PRODUCTION_FACTORY_TOTAL_BALANCE;Last day's balance: $VALUE$;x
+PRODUCTION_FACTORY_TODAY_PROFIT;Last day's profitability: $VALUE$;x
+PRODUCTION_FACTORY_PROFITABILITY;Avg. profitability (last $DAYS$ days): $VALUE$;x
+PRODUCTION_FACTORY_CURRENT_BUDGET;Current factory budget: $VALUE$;x
+PRODUCTION_FACTORY_INVESTMENT;From investments: $VALUE$;x
+PRODUCTION_FACTORY_SUBSIDIES;From investments: $VALUE$;x
+PRODUCTION_OUR_INVEST;Our Investment: $AMOUNT$¤ ($PERCENTAGE$%);x
+PRODUCTION_BROWSE_INVEST;Other;x
+PRODUCTION_NOT_DESTROY_FACTORY_BECAUSE_FOREIGN_TOOLTIP;We don't have the right to do that in a foreign country;x
+PRODUCTION_CLOSE_FACTORY_BECAUSE_FOREIGN_TOOLTIP;Can not close foreign factory\n;x
+PRODUCTION_INVEST;Foreign Investment;x
+PRODUCTION_TAB_INVEST;Shows overview of investment in foreign countries;x
+PRODUCTION_EXPAND_FACTORY_SHORTCUT_TOOLTIP;§GCtrl + Left Click§! upgrades all factories of this type which are near their employee limit (§Y$NUMSPECIALFACTORIES$§!)\n§GShift + Left Click§! upgrades all factories which are near their employee limit (§Y$NUMFACTORIES$§!);x
+PRODUCTION_COST_BUILD;Build Cost: §Y$VAL$§W;x
+PRODUCTION_COST_INPUT;Input Cost: §Y$VAL$§W;x
+PRODUCTION_NO_PROJECT;No Project;x
+PRODUCTION_PROJECT_MONEY;Project has §Y$MONEY$§W¤ out of §Y$NEED$§W¤ needed;x
+POP_BUILDING;Current Project: §Y$TYPE$§W\n;x
+POP_STATE;State: §Y$VALUE$§W\n;x
+PROJECT_STATE_NAME_DESC;Planning to build in §Y$PROV$§W;x
+INVEST_PROJECT_NOT_ENOUGH_MONEY;§RWe do not have enough funds to do that§!;x
+INVEST_PROJECT_SHORTCUT_MAX;§RCtrl + Left Click§! to invest max amount into this project (§Y$AMOUNT$§!¤);x
+INVEST_PROJECT_SHORTCUT_MAX_ALL;§GShift + Left Click§! to invest max amount in all projects (§Y$AMOUNT$§!¤);x
+INVEST_PROJECT_CONFIRM;Invest;x
+INVEST_PROJECT_MAX;Max;x
+INVEST_PROJECT_TITLE;Invest into project: "§Y$PROJ$§!" at §Y$LOC$§!;x
+INVEST_PROJECT_TOOLTIP_YOUR_BUDGET;Your current budget;x
+INVEST_PROJECT_TOOLTIP_PROJECT_BUDGET;Project budget is §Y$BUD$§! out of §Y$TOT$§! needed.\nYou decide to invest §Y$INV$§! into this project;x
+INVEST_PROJECT_TOOLTIP_APPLY;Apply your investment;x
+PRODUCTION_OUTPUT_YESTERDAY;Produced §Y$VALUE$§W yesterday;x
+PRODUCTION_OUTPUT_GOODS_TOOLTIP2;Max Output: §Y$CURR$§W;x
+PRODUCTION_CURRENT_STOCKPILE;Current Stockpile: §Y$VALUE$§W;x
+PRODUCTION_FACTORY_EMPLOYEECOUNT_TOOLTIP2;Current Employees: $EMPLOYEES$/$EMPLOYEE_MAX$;x
+PRODUCTION_STOCKPILE_LACK_COST;Stockpile lack cost:;x
+PRODUCTION_NEED_TECH;We must discover §Y$TECH$§W in order to produce §Y$GOOD$§W;x
+PRODUCTION_NEED_FACTORY;To produce §Y$GOOD$§W, we can build a §Y$FACTORY$§W;x
+PRODUCTION_NEED_RGO;To produce §Y$GOOD$§W, we need to own a province producing it;x
+PRODUCTION_CLOSE_WINDOW;Closes production window;x
+PRODUCTION_CLOSED;CLOSED;x
+PRODUCTION_FACTORY_INCOME;Income;x
+PRODUCTION_BUILD_NEW;Build;x
+PRODUCTION_AVAILABLE_WORKERS;Available workers:;x
+PRODUCTION_NEEDED_WORKERS;Needed workers:;x
+PRODUCTION_FACTORY_LEVEL_TOOLTIP;Level: $LEVEL$/$MAX$\n;x
+PRODUCTION_FACTORY_INCOME_TOOLTIP;Last day's income: $INCOME$\n;x
+PRODUCTION_FACTORY_MONEY_TOOLTIP;Current money: $MONEY$\n;x
+PRODUCTION_FACTORY_EMPLOYEECOUNT_TOOLTIP;Current employees: $EMPLOYEES$/$EMPLOYEE_MAX$\n;x
+PRODUCTION_BUILD_NEW_FACTORY_TOOLTIP;Build new factory;x
+PRODUCTION_CANNOT_BUILD_MISSING_RGO_OUTPUT_TOOLTIP;This state does not produce any of the inputs for this factory\n;x
+PRODUCTION_CANNOT_BUILD_MISSING_GOODS_TOOLTIP;You do not have enough goods to build this factory\n;x
+PRODUCTION_CANNOT_BUILD_MISSING_MONEY_TOOLTIP;You need more money to build this factory\n;x
+PRODUCTION_CANNOT_BUILD_MISSING_SELECTION;Select a factory from the list\n;x
+PRODUCTION_BUILD_FACTORY_TOOLTIP;Build $FACTORY$\n;x
+PRODUCTION_CLOSE_TOOLTIP;Close Window\n;x
+PRODUCTION_NOT_ALLOWED_TO_BUILD_TOOLTIP;We are not allowed to build factories because:\n;x
+PRODUCTION_NOT_ALLOWED_TO_BUILD_MAX_FACTORIES_TOOLTIP;We can only build $NUMBER$ factories in each state\n;x
+PRODUCTION_NOT_ALLOWED_TO_CHANGE_PRIO_TOOLTIP;We cannot change hire priority for this factory because:\n;x
+PRODUCTION_NOT_ALLOWED_TO_SUBSIDISE_TOOLTIP;We cannot subsidise this factory because:\n;x
+PRODUCTION_NOT_ALLOWED_TO_CLOSE_TOOLTIP;We cannot close this factory because:\n;x
+PRODUCTION_NOT_ALLOWED_TO_OPEN_TOOLTIP;We cannot open this factory because:\n;x
+PRODUCTION_NOT_ALLOWED_TO_UPGRADE_TOOLTIP;We cannot upgrade this factory because:\n;x
+PRODUCTION_ALLOWED_TO_CHANGE_PRIO_TOOLTIP;Change hire priority in factory\n;x
+PRODUCTION_ALLOWED_TO_SUBSIDISE_TOOLTIP;Subsidise Factory\n;x
+PRODUCTION_ALLOWED_TO_CLOSE_TOOLTIP;Shut down factory\n;x
+PRODUCTION_ALLOWED_TO_OPEN_TOOLTIP;Reopen factory\n;x
+PRODUCTION_ALLOWED_TO_UPGRADE_TOOLTIP;Upgrade factory\n;x
+PRODUCTION_OUTPUT_GOODS_TOOLTIP;Produces §Y$CURR$§W each day\n;x
+PRODUCTION_OUTPUT_EXPLANATION; (Base x Throughput x Output);x
+PRODUCTION_INPUT_EXPLANATION; (Base x Throughput x Input);x
+PRODUCTION_INPUT_GOODS_TOOLTIP;Demands §Y$CURR$§W each day;x
+PRODUCTION_BASE_OUTPUT_GOODS_TOOLTIP;Base Output: $BASE$\n;x
+PRODUCTION_BASE_INPUT_GOODS_TOOLTIP;Base Input: $BASE$\n;x
+PRODUCTION_INPUT_EFFICIENCY_TOOLTIP;Input Modifier: ;x
+PRODUCTION_OUTPUT_EFFICIENCY_TOOLTIP;Output Efficiency: ;x
+PRODUCTION_THROUGHPUT_VALUE_TOOLTIP;Worker Production: ;x
+PRODUCTION_THROUGHPUT_EFFICIENCY_TOOLTIP;Throughput: ;x
+PRODUCTION_MUST_PRODUCE_GOODS_TOOLTIP;State must produce one of the following: ;x
+PRODUCTION_FACTORIES_IN_STATE;Factories in State\n;x
+PRODUCTION_FACTOR_FROM;From;x
+PRODUCTION_FACTOR_OWNER;Owners;x
+PRODUCTION_FACTOR_WORKER;Workers;x
+PRODUCTION_FACTORY_COUNT_TOOLTIP;State factories: $CURRENT$/$MAX$\n;x
+PRODUCTION_FACTORY_UNIQUE_TOOLTIP;No §Y$NAME$§W in state\n;x
+GOODS_PROJECT_COMPLETE;All goods needs fulfilled;x
+GOODS_PROJECT_LACK_GOODS;Gathering the following goods before construction can begin:;x
+BUILDING_IN_PROGRESS;Estimated to finish §Y$DATE$§W;x
+PRODUCTION_RESOURCE_COST;Resource cost:;x
+PRODUCTION_IN_STOCKPILE;In stockpile:;x
+PRODUCTION_BASE_PRICE;Base Price:;x
+PRODUCTION_INPUT_PRICE;Input Price:;x
+PRODUCTION_TOTAL;Total:;x
+PRODUCTION_CURRENT_FUNDS;Current Funds:;x
+PRODUCTION_BASE_OUTPUT;Base :;x
+PRODUCTION_GOODS_TAB;Production;x
+PRODUCTION_PROJECTS_TAB;Projects;x
+PRODUCTION_SORT_BY_PROJECTS;Projects;x
+PRODUCTION_SORT_BY_COMPLETION;Completion;x
+PROD_INVESTORS;Investors;x
+PRODUCTION_SORT_BY_PROJECTEERS_TOOLTIP;Sort by number of investors;x
+PRODUCTION_SORT_BY_COMPLETION_TOOLTIP;Sort by fraction of needed goods collected;x
+PRODUCTION_SORT_BY_PROJECTS_TOOLTIP;Sort by projects;x
+PRODUCTION_GOODS_COMPLETION;$NUM$ of §Y$GOOD$§W acquired;x
+PRODUCTION_PROJECT_NAME;Project Name;x
+PRODUCTION_NUM_INVESTORS;Number of investors;x
+PROD_YOUR_CURRENT_BUDGET;Your current budget:;x
+PROD_YOUR_INVESTMENT;Your investment:;x
+BUDGET;Budget;x
+BUDGET_TAX_RICH;Taxes (Upper Class);x
+BUDGET_TAX_MIDDLE;Taxes (Middle Class);x
+BUDGET_TAX_POOR;Taxes (Lower Class);x
+BUDGET_ADMIN_EFFICIENCY_DESC2;Our §Ycountry administrative efficiency§W determines the effectiveness of social reforms and tariffs. Our total spending also increases the ability to fight organized crime;x
+BUDGET_GOLD_INCOME_DESC;Income from precious goods;x
+BUDGET_GOLD;Precious Goods: §Y$VAL$§W;x
+BUDGET_CONSUMED_OVERSEAS;Overseas Maintenance expenses are calculated with the National Stockpile and can't be lowered\nEstimated cost of last day's overseas goods consumption:;x
+MODIFIER_OVERSEAS_PRODUCTION_PENALTY;Overseas Factory/RGO Penalty: $VALUE$;x
+DIST_ADMINISTRATION;Administration;x
+DIST_EDUCATION;Education;x
+DIST_SOCIAL;Social Spending;x
+BUDGET_CONSUMED_MILITARY;Estimated cost of last day's military goods consumption:;x
+BUDGET_DIPL_DESC;Costs or profits incurred through diplomacy or peace deals as a result of paid or received reparations;x
+BUDGET_OVERSEAS;Overseas Maintenance;x
+ADM_DESC;Spending on administration allows your bureaucrats to run and maintain a healthy bureaucracy, increasing our tariff efficiency and the rate of pop promotion;x
+NAT_STOCK_DESC;Costs of trade to fill our national stockpile. Includes spending with construction, naval supplies, land units supplies and overseas maintenance;x
+IND_SUP_DESC;Costs of government subsidising of factories. National cash reserves will be used to help factories buy goods needed and pay worker salaries;x
+DIST_DEFENCE;Military Spending;x
+DEFENCE_DESC;The military spending goes towards paying your soldiers and officers;x
+SOCIAL_DESC2;The social spending budget goes towards funding your enacted social reforms. The amount of money to distribute depends on your §Ycountry administrative efficiency§W;x
+TARIFFS_DESC;Tariffs impose an extra cost on imported goods, with the proceeds going to the national treasury. Negative tariffs can be used to help subsidise imports for anyone in your nation;x
+precious_metal_desc;Gold, silver, diamonds, pearls and other precious goods are not sold as normal goods but are instead directly converted to money;x
+GOLD;Precious Goods;x
+EDU_DESC;The education budget is used to pay the intellectuals and influence literacy, increasing education efficiency by a percentage equal to the slider's setting;x
+MIL_COST_DESC;Supply costs for your, army and navy, not including construction costs, salaries or maintenance of overseas provinces;x
+STOCKPILE_COST_ESTIMATED;The National Stockpile consists of the expenses of the army, navy, construction and the maintenance of overseas provinces.\nWe §Yestimate§W tomorrow's stockpile purchases will cost:;x
+BUDGET_CANT_LOAN_DESC;Banks will only loan you money if you have been meeting your interest payments and are not hostile. Foreign banks will currently never loan you more than $MAXLOAN$¤ of their total available funds for security reasons;x
+BUDGET_VIEW_CRIME_FIGHT;Crime Fighting Effect:;x
+BUDGET_TAX_EFFICIENCY;Tax Efficiency: §Y$VALUE$%§W;x
+BUDGET_TAX_EFFECT;Effective Tax: §Y$VALUE$%§W;x
+BUDGET_NO_LOANS_TO_REPAY;We have no loans to pay back;x
+BUDGET_INTERNALLY_SOLD_STOCKPILE;Stockpile sold to construction projects: §Y$VAL$§!;x
+BUDGET_CONSUMED_MILITARY;Estimated cost of last day's Military goods consumption:;x
+BUDGET_CONSUMED_OVERSEAS;Estimated cost of last day's Overseas goods consumption:;x
+BUDGET_OVERSEAS_PROVINCES;Number of overseas provinces: §Y$VALUE$§W;x
+BUDGET_ADMIN_EFFICIENCY2;Country Administrative Efficiency: §Y$PERC$%§W;x
+BUDGET_ADMIN_EFFICIENCY_DESC2;Our §YCountry administrative efficiency§W determines the effectiveness of social reforms and tariffs. Our total spending also increases the ability to fight organized crime;x
+BUDGET_TARIFFS_MODIFIED;Effective Tariffs: §Y$PERC$%§W;x
+BASE_TARIFF_EFFICIENCY;Base Efficiency: §Y$PERC$%§W;x
+PV_CRIMEFIGHT_MAX; (Max: §Y$PERC$%§W);x
+BUDGET_BANK_BIGGEST_INVESTORS;Biggest investors:\n;x
+BUDGET_TOTAL_FUNDS;Total Funds;x
+BUDGET_TOTAL_DEBT;Total Debt;x
+BUDGET_TAKE_LOAN;Take Loan;x
+BUDGET_REPAY_LOAN;Repay Loan;x
+BUDGET_DAILY_INCOME;Daily Income;x
+BUDGET_DAILY_EXPENSES;Daily Expenses;x
+BUDGET_MILITARY_COST;Military Costs;x
+BUDGET_NATIONAL_STOCKPILE;National Stockpile;x
+BUDGET_INDUSTRIAL_SUBSIDIES;Industrial Subsidies;x
+BUDGET_TARIFFS;Tariffs;x
+BUDGET_DAILY_BALANCE;Projected Daily Balance;x
+BUDGET_CLOSE_WINDOW;Closes budget window;x
+BUDGET_TOTAL_EXPENSE;Total Expense: §Y$VAL$§W;x
+BUDGET_SLIDER_ADMINISTRATION;Administration: §Y$VAL$§W;x
+BUDGET_EXPENSE_SLIDER_EDUCATION;Education: §Y$VAL$§W;x
+BUDGET_SLIDER_SOCIAL_SPENDING;Social Spending: §Y$VAL$§W;x
+BUDGET_SLIDER_MILITARY_SPENDING;Military Spending: §Y$VAL$§W;x
+BUDGET_INTEREST;Interest: §Y$VAL$§W;x
+BUDGET_BASE_TAX;Base Tax Efficiency: §Y$VAL$§W%;x
+BUDGET_TECH_TAX;From Technology: §Y$VAL$§W%;x
+BUDGET_STRATA_NEED;§Y$VAL$§W% are getting their $TYPE$;x
+BUDGET_STRATA_NO_NEED;§Y$VAL$§W% are getting none of their needs.;x
+BUDGET_TOTAL_INCOME;Total Income: §Y$VAL$§W;x
+TAXES_POOR;Lower Class Taxes: §Y$VAL$§W;x
+TAXES_MIDDLE;Middle Class Taxes: §Y$VAL$§W;x
+TAXES_RICH;Upper Class Taxes: §Y$VAL$§W;x
+TARIFFS_INCOME;Tariffs: §Y$VAL$§W;x
+BUDGET_ADMIN_EFFICIENCY;Administrative Efficiency: §Y$PERC$%§W;x
+BUDGET_ADMIN_EFFICIENCY_DESC;§Y$PERC$%§W of our population are §Ybureaucrats§W.\nFor maximum administrative efficiency, we need at least §Y$MAX$%§W bureaucrats.§W\n;x
+ADM_EXPLAIN_DESC;This needed percentage is based on the following:\n;x
+BUDGET_COUNTRY;Country;x
+BUDGET_AMOUNT;Amount;x
+BUDGET_LOANS_TAKEN;Loans Taken;x
+BUDGET_LOANS_GIVEN;Loans Given;x
+DIPLOMATIC_BALANCE_DESC;Diplomatic Balance;x
+BUDGET_LOAN_CANT_REPAY;We have no money to pay back loans with;x
+BUDGET_CANT_LOAN;No money available to you for loaning;x
+TOPBAR_HISTORICAL_INCOME;The last §Y$DAYS$§W days, our highest income was $MAX$¤ and our lowest was $MIN$¤.;x
+TOPBAR_FUNDS;Yesterday we earned $YESTERDAY$¤. Our current cash reserve is §Y$CASH$§W¤;x
+TOPBAR_AVG_LITERACY;The average §Yliteracy§W of our population is §Y$AVG$§W%;x
+TOPBAR_AVG_MIL;The average §Ymilitancy§W of our population is §Y$AVG$§W;x
+TOPBAR_AVG_CON;The average §Yconsciousness§W of our population is §Y$AVG$§W;x
+REMOVE_TOPBAR_POPULATION;Our current population is $CURR$. Our population has changed by $CHANGE$ since yesterday.;x
+TOPBAR_TOP_IMPORTS;Our top §Y$N$§W imported good(s) are:;x
+TOPBAR_TOP_EXPORTS;Our top §Y$N$§W exported good(s) are:;x
+TOPBAR_ARMY_TOOLTIP;We have fielded §Y$CURR$§W out of §Y$MAX$§W possible brigades that our §YSoldiers§W can support;x
+TOPBAR_SHIP_TOOLTIP;Our navy has a total of §Y$CURR$§W ships.;x
+TOPBAR_MOBILIZE_TOOLTIP;We can currently field §Y$CURR$§W brigades if we mobilise our §YPoor§W citizens;x
+TOPBAR_LEADERSHIP_TOOLTIP;We have a total of §Y$CURR$ leadership points§W;x
+TOPBAR_MOBILIZED;We have mobilised all our available troops!;x
+TOPBAR_DIPLOPOINTS;We have a total of §Y$CURR$§W diplomatic points;x
+TOPBAR_GOVERNMENT;Our current government is §Y$CURR$§W;x
+TOPBAR_RULING_PARTY;Our current ruling party is §Y$CURR$§W;x
+TOPBAR_UNEMPLOYED;§Y$NUM$§W unemployed §Y$TYPE$§W in $STATE$ ($PERC$§W% of total);x
+TOPBAR_XINY;§Y$X$§W in $Y$;x
+TOPBAR_AT_PEACE;At Peace;x
+TOPBAR_FACTION;§Y$NAME$§W, total §Y$STRENGTH$§W rebels, average organization: §Y$ORG$§W%;x
+TOPBAR_PROJECTED_INCOME;Projected daily income: $VAL$¤;x
+POLITICS_ALREADY_RULING_PARTY;$PARTY$ is already the ruling party.;x
+POLITICS_CANNOT_SET_RULING_PARTY_RULE;Our government form does not allow us to appoint ruling parties;x
+BANK_OF;Bank of $COUNTRY$;x
+TRADE_STOCKPILE_BUY;We spent §Y$MONEY$§W¤ yesterday to buy §Y$UNITS$§W units;x
+TRADE_STOCKPILE_SOLD;We gained §Y$MONEY$§W¤ yesterday by selling §Y$UNITS$§W units;x
+REGIMENT_NAME;$NUM$$ORDER$ $TYPE$ Brigade;x
+SUBUNIT_NAME;$NUM$$ORDER$ $TYPE$;x
+ST;st;x
+ND;nd;x
+TH;th;x
+RD;rd;x
+MAX_STRENGTH;Max Strength;x
+DEFAULT_ORG;Organisation;x
+BUILD_TIME;Build Time;x
+MAXIMUM_SPEED;Max Speed;x
+TRANSPORT_WEIGHT;Weight;x
+SUPPLY_CONSUMPTION;Supply Consumption;x
+COMBAT_WIDTH;Combat Width;x
+TRANSPORT_CAPABILITY;Transport Capability;x
+HULL;Hull;x
+FORT_ADJUSTER;Fort;x
+RIVER_ADJUSTER;River;x
+UA_ATTACK;Attack;x
+UA_DEFENCE;Defence;x
+UA_MOVEMENT;Movement;x
+UA_ATTRITION;Attrition;x
+RECONAISSANCE;Reconnaissance;x
+ATTACK;Attack;x
+DEFENCE;Defence;x
+DISCIPLINE;Discipline;x
+SUPPORT;Support;x
+MANUEVER;Maneuver;x
+GUN_RANGE;Range;x
+GUN_POWER;Attack;x
+LEDGER_HEADER_RANK;Nation Ranking;x
+LEDGER_COUNTRY_NAME;Country;x
+LEDGER_COUNTRY_STATUS;Status;x
+LEDGER_COUNTRY_MILSCORE;Military Score;x
+LEDGER_COUNTRY_INDSCORE;Industrial Score;x
+LEDGER_COUNTRY_PRESTIGE;Prestige;x
+LEDGER_COUNTRY_TOTALSCORE;Total Score;x
+LEDGER_HEADER_COUNTRYCOMPARE;National Comparison;x
+LEDGER_COUNTRY_TOTAL_POP;Total Population;x
+LEDGER_COUNTRY_PROVCOUNT;Provinces;x
+LEDGER_COUNTRY_FACTORYCOUNT;Factories;x
+LEDGER_COUNTRY_LITERACY;Literacy;x
+LEDGER_COUNTRY_LEADERSHIP;Leadership;x
+LEDGER_COUNTRY_DIVISIONS;Brigades;x
+LEDGER_COUNTRY_SHIPS;Ships;x
+LEDGER_HEADER_COUNTRYPARTY;Political Systems;x
+LEDGER_COUNTRY_GOVERNMENT;Government;x
+LEDGER_COUNTRY_NATIONALVALUE;National Value;x
+LEDGER_COUNTRY_RULINGPARTY;Ruling Party;x
+LEDGER_COUNTRY_RULINGIDEOLOGY;Party Ideology;x
+LEDGER_HEADER_COUNTRYPOLITICALREFORMS;Political Reforms;x
+LEDGER_HEADER_COUNTRYSOCIALREFORMS;Social Reforms;x
+LEDGER_HEADER_COUNTRY_POPS;Country Population;x
+LEDGER_HEADER_PROVINCES;Provinces;x
+LEDGER_PROVINCE_NAME;Province;x
+LEDGER_PROVINCE_TOTALPOP;Total Population;x
+LEDGER_PROVINCE_AVGMIL;Avg. Mil.;x
+LEDGER_PROVINCE_AVGCON;Avg. Con.;x
+LEDGER_PROVINCE_AVGLIT;Avg. Lit.;x
+LEDGER_PROVINCE_RELIGION;Religion;x
+LEDGER_PROVINCE_CULTURE;Culture;x
+LEDGER_PROVINCE_ISSUE;Issue;x
+LEDGER_PROVINCE_IDEOLOGY;Ideology;x
+LEDGER_HEADER_PROVINCE_POPS;Province Population;x
+LEDGER_HEADER_PROVINCEPRODUCTION;Province Production;x
+LEDGER_STATE_NAME;State;x
+LEDGER_GOODS;Goods;x
+LEDGER_OUTPUT;Output;x
+LEDGER_INCOME;Income;x
+LEDGER_EMPLOYED;Employed;x
+LEDGER_LEVEL;Level;x
+LEDGER_HEADER_FACTORYPRODUCTION;Factory Production;x
+LEDGER_HEADER_GOODS_PRICEHISTORY;Price History;x
+LEDGER_NEXT;Next;x
+LEDGER_PREV;Previous;x
+SUBSIDIZE_ALL_TOOLTIP;Subsidise all factories on the list;x
+UNSUBSIDIZE_ALL_TOOLTIP;Cancel subsidies for all factories on the list;x
+OPEN_ALL_TOOLTIP;Open all factories on the list;x
+CLOSE_ALL_TOOLTIP;Close all factories on the list;x
+BUILD_CIVILIZED;Civilised;x
+BUILD_COLONIAL;Non-Colonial State;x
+RULE_BUILD_FACTORY;Build Factories;x
+RULE_EXPAND_FACTORY;Expand Factories;x
+RULE_BUILD_RAILWAY;Build Railway;x
+RULE_FACTORY_PRIORITY;Prioritise Factories;x
+RULE_CAN_SUBSIDISE;Can Subsidise Factories;x
+AVG_STATE_BONUS2;Average Infrastructure in State;x
+RGO_INPUT_TECH;RGO Input;x
+RGO_OUTPUT_TECH;RGO Output;x
+RGO_THROUGHPUT_TECH;RGO Throughput;x
+FACTORY_INPUT_TECH;Factory Input;x
+FACTORY_OUTPUT_TECH;Factory Output;x
+FACTORY_THROUGHPUT_TECH;Factory Throughput;x
+ARTISAN_INPUT_TECH;Artisan Input;x
+ARTISAN_OUTPUT_TECH;Artisan Output;x
+ARTISAN_THROUGHPUT_TECH;Artisan Throughput;x
+RULE_OPEN_FACTORY;Open/Close Factory;x
+MAINTENANCE_DESC;Maintenance Goods Needed:;x
+MISSING_MAINTENANCE;Output is reduced to §R$PERC$§W since factory is missing maintenance goods;x
+DIPLOMACY_PRIO_NONE;None;x
+DIPLOMACY_PRIO_LOW;Low;x
+DIPLOMACY_PRIO_MIDDLE;Middle;x
+DIPLOMACY_PRIO_HIGH;High;x
+TOTAL_SOLD_FOR;Yesterday we produced $NUM$ §Y$GOOD$§W which sold for $CASH$¤;x
+NEEDS_BOUGHT;Estimated needs for today:;x
+TOTAL_NEEDS_BOUGHT;Estimated needs cost:;x
+COUNTRYALERT_CanIncreaseOpinion;We can §YIncrease Opinion§W of our nation or add nations to our §YSphere of Influence§W:;x
+COUNTRYALERT_NO_CanIncreaseOpinion;We cannot increase the opinion of our nation or add nations to our §YSphere of Influence§W;x
+COUNTRYALERT_HasUnemployedWorkers;The following states have unemployed factory workers:;x
+COUNTRYALERT_NO_CanDoDecisions;There are no decisions that presently demand our attention;x
+COUNTRYALERT_HaveOrganizingRebels;Rebel Factions are organizing in our country!;x
+COUNTRYALERT_NO_HasClosedFactories;There are no closed factories in our nation;x
+COUNTRYALERT_HasClosedFactories;There are closed factories in the following states:;x
+COUNTRYALERT_NO_Colonial;Nothing in our colonies needs attention;x
+COUNTRYALERT_NO_Crisis;No current crisis;x
+COUNTRYALERT_Crisis;Current crisis is at a temperature of §Y$TEMPERATURE$§!;x
+COUNTRYALERT_ColonialGood_protectorate;§GWe can create a protectorate in §!§Y$REGION$§!;x
+COUNTRYALERT_ColonialGood_colony;§GWe can create a colony in §!§Y$REGION$§!;x
+COUNTRYALERT_ColonialGood_state;§GWe can create a state in §!§Y$REGION$§!;x
+COUNTRYALERT_ColonialBad_colonizationtimer;§RWe need to create a protectorate in §!§Y$REGION$§!§R before §Y$DATE$§!§R or lose it.§!;x
+COUNTRYALERT_ColonialBad_influence;§RWe are losing the race in §!§Y$REGION$§!;x
+COUNTRYALERT_ColonialGood_invest;§GWe can invest in our a colony in §!§Y$REGION$§!;x
+COUNTRYALERT_CanRemoveFromSphere;We can remove nations from another great power's §YSphere of Influence§!:;x
+COUNTRYALERT_IsBuildingFactories;We are building/expanding factories in the following states:;x
+COUNTRYALERT_CanDoReforms;We can enact the following reforms:;x
+COUNTRYALERT_CanDoDecisions;We can enact the following decision(s):;x
+COUNTRYALERT_IsInElection;There's currently an election being held in our nation. By §Y$DATE$§W, a new ruling party will be elected.;x
+COUNTRYALERT_HaveRebels;There are rebels rising in our nation!;x
+COUNTRYALERT_LoosingGPStatus;We are losing §YGreat Power§W status! If we don't regain prominence by §Y$DAYS$§W, the world will no longer view us as a §YGreat Power§W!;x
+COUNTRYALERT_NO_IsBuildingFactories;We are currently not building/expanding any factories;x
+COUNTRYALERT_NO_HasUnemployedWorkers;There are no unemployed workers in our nation;x
+COUNTRYALERT_NO_CanDoReforms;We cannot enact any reforms;x
+COUNTRYALERT_NO_IsInElection;There's currently no election taking place in our nation;x
+COUNTRYALERT_NO_HaveRebels;We have no rebels in our nation;x
+COUNTRYALERT_NO_LoosingGPStatus;We are not losing §YGreat Power§W status;x
+COUNTRYALERT_NO_GPStatus;We are not a §YGreat Power§W;x
+RULE_BUILD_FACTORY_INVEST;Build Foreign Factories;x
+RULE_EXPAND_FACTORY_INVEST;Expand Foreign Factories;x
+RULE_OPEN_FACTORY_INVEST;Open Foreign Factories;x
+RULE_CAN_INVEST_IN_POP_PROJECTS;Invest in Pop Projects;x
+COULDNT_AFFORD;Factory couldn't afford to buy all its inputs yesterday;x
+INPUT_LACKING;There's not enough §Y$GOOD$§W available to satisfy factory input needs;x
+OUTPUT_WASTED;$NUM$ of $PRODUCED$ §Y$GOOD$§W didn't get sold yesterday;x
+DIPLOMACY_FILTER_ALL;All;x
+DIPLOMACY_FILTER_EUROPE;Europe;x
+DIPLOMACY_FILTER_ASIA;Asia;x
+DIPLOMACY_FILTER_NORTH_AMERICA;North America;x
+DIPLOMACY_FILTER_SOUTH_AMERICA;South America;x
+DIPLOMACY_FILTER_AFRICA;Africa;x
+DIPLOMACY_FILTER_OCEANIA;Oceania;x
+DIPLOMACY_FILTER_NEIGHBOURS;Neighbours;x
+DIPLOMACY_FILTER_ENEMIES;Enemies;x
+DIPLOMACY_FILTER_ALLIES;Allies;x
+DIPLOMACY_FILTER_SPHERE;Sphere;x
+DIPLOMACY_FILTER_ALL_TOOLTIP;List all countries;x
+DIPLOMACY_FILTER_EUROPE_TOOLTIP;List §YEuropean§W countries;x
+DIPLOMACY_FILTER_ASIA_TOOLTIP;List §YAsian§W countries;x
+DIPLOMACY_FILTER_NORTH_AMERICA_TOOLTIP;List §YNorth American§W countries;x
+DIPLOMACY_FILTER_SOUTH_AMERICA_TOOLTIP;List §YSouth American§W countries;x
+DIPLOMACY_FILTER_AFRICA_TOOLTIP;List §YAfrican§W countries;x
+DIPLOMACY_FILTER_OCEANIA_TOOLTIP;List §YOceanian§W countries;x
+DIPLOMACY_FILTER_NEIGHBOURS_TOOLTIP;List your neighbouring countries;x
+DIPLOMACY_FILTER_ENEMIES_TOOLTIP;List our current enemies;x
+DIPLOMACY_FILTER_ALLIES_TOOLTIP;List our current allies;x
+DIPLOMACY_FILTER_SPHERE_TOOLTIP;List countries in our §YSphere of Influence§W;x
+DIPLOMACY_SORT_BY_COUNTRY_NAME_TOOLTIP;Sort by country name;x
+DIPLOMACY_SORT_BY_PRIORITY_TOOLTIP;Sort by influence priority;x
+DIPLOMACY_SORT_BY_BOSS_TOOLTIP;Sort by §YSphere of Influence§W;x
+DIPLOMACY_SORT_BY_PRESTIGE_TOOLTIP;Sort by §YPrestige Rank§W;x
+DIPLOMACY_SORT_BY_MILITARY_TOOLTIP;Sort by §YMilitary Rank§W;x
+DIPLOMACY_SORT_BY_ECONOMIC_TOOLTIP;Sort by §YIndustrial Rank§W;x
+DIPLOMACY_SORT_BY_TOTAL_TOOLTIP;Sort by Rank;x
+DIPLOMACY_SORT_BY_OPINION_TOOLTIP;Sort by §YOpinion§W;x
+DIPLOMACY_SORT_BY_RELATION_TOOLTIP;Sort by §YRelations§W;x
+DIPLOMACY_SORT_BY_GREATPOWER_TOOLTIP;Sort by influence of $COUNTRY$;x
+PROJECT_BUILD;Build;x
+PROJECT_EXPAND;Expand;x
+ARMY_NAME;$NUM$$ORDER$ Army;x
+NAVY_NAME;$NUM$$ORDER$ Fleet;x
+TERRAIN_DEFENCE;Defence: ;x
+TRAIT_ATTACK;Attack;x
+TRAIT_DEFEND;Defence;x
+TRAIT_MORALE;Morale;x
+TRAIT_ORGANISATION;Organisation;x
+TRAIT_RECONAISSANCE;Reconnaissance;x
+TRAIT_SPEED;Speed;x
+TRAIT_ATTRITION;Attrition;x
+TRAIT_EXPERIENCE;Experience;x
+TRAIT_RELIABILITY;Reliability;x
+TYPE_INF;Infantry;x
+TYPE_CAV;Cavalry;x
+TYPE_TANKS;Tanks;x
+TYPE_PLANES;Planes;x
+TYPE_BIGSHIP;Heavy Ships;x
+TYPE_LIGHTSHIP;Light Ships;x
+TYPE_TRANSPORT;Transports;x
+TERRAIN_MOVEMENT_COST;Movement Cost: ;x
+CORE_MP_PAUSED_NAME;Paused by $PLAYER$;x
+CORE_MP_PAUSED;$TIME$ left until anybody can unpause;x
+OOS_TITLE;OOS;x
+OOS_DESC;Game is no longer in sync!;x
+very_easy_player;Very Easy Difficulty;x
+easy_player;Easy Difficulty;x
+hard_player;Hard Difficulty;x
+very_hard_player;Very Hard Difficulty;x
+very_easy_ai;Very Easy Difficulty;x
+easy_ai;Easy Difficulty;x
+hard_ai;Hard Difficulty;x
+very_hard_ai;Very Hard Difficulty;x
+BUDGET_EXPORTS;National Stockpile Sales: §Y$VAL$§W;x
+BUDGET_IMPORTS;National Stockpile Purchases: §Y$VAL$§W;x
+TB_BUDGET_FUNDS;§Y$FUNDS$§W($INCOME$);x
+TB_TECH_CURRENT;$PARAM$;x
+TB_TECH_NO_CURRENT;§RNo research set§W;x
+TOPBAR_AVG_CHANGE;We estimate that it will change by $VAL$§W during the next month;x
+TECH_DAILY_RESEARCHPOINTS_BASE_TOOLTIP;Daily base research points: §Y$VALUE$§W;x
+TECH_DAILY_RESEARCHPOINTS_TOTAL_TOOLTIP;Daily research points: §G+$VALUE$§W;x
+TECH_DAILY_RESEARCHPOINTS_TOOLTIP;$POPTYPE$ provide §G$VALUE$§W research points.\n (§Y$FRACTION$%§W of the population, $OPTIMAL$% is the minimum for full research points and 4% is optimal for literacy gain);x
+TECHNOLOGY;Technology;x
+POLITICS;Politics;x
+POPULATION;Population;x
+TRADE;Trade;x
+DIPLOMACY;Diplomacy;x
+MILITARY;Military;x
+SUPPRESSION_POINTS;Suppression Points;x
+SUPRESSION_MONTHLY_GAIN;Monthly gain: §G$VAL$§!;x
+DIPLOMACY_INFAMY;Infamy: §Y$VALUE$§W;x
+TOPBAR_POPULATION;Our adult male population is $CURR$. Our adult male population has changed by $CHANGE$ in the last §Y$DAYS$§W days;x
+TOPBAR_POPULATION_VISUAL;Our total population is $CURR$;x
+TB_NATIONALFOCUS_CULTURE;§Y$NUM$§W people of primary & accepted cultures give us §Y$FOCUS$§W focus points;x
+TB_NATIONALFOCUS_NONE;There are currently no provinces with national focuses;x
+TB_MAX_FOCUS;Technology limits you to a maximum of §Y$FOCUS$§W national focus points;x
+TOPBAR_DIPLOPOINTS_GAIN;We gain §Y$VALUE$§W diplomatic points each month;x
+TOPBAR_DIPLOPOINTS_BASEGAIN;Base gain: §Y$VALUE$§W diplomatic points;x
+MOBILIZATION_IMPACT_LIMIT_DESC;Mobilisation impact §Y$IMPACT$§! from §Y$POLICY$§! war policy, limits the amount of mobilised units to §Y$UNITS$§!;x
+MOBILIZATION_IMPACT_LIMIT_DESC2;(Current amount of raised regiments: §Y$CURR$§!, multiplied by §Y$IMPACT$§!);x
+SUPPLY_LOAD_STATUS_DESC_BASIC;The total §Ysupply throughput§! of all our §Ynaval ports§! is $TOT$.\nAll our ships requires in total $REQ$;x
+SUPPLY_LOAD_STATUS_DESC_PENALTY;Our ships suffer $PEN$ penalty of supplying them;x
+SUPPLY_LOAD_STATUS_DESC_HINT;Consider building naval bases, or disband some ships;x
+SUPPLY_LOAD_STATUS_DESC_UPCOMING_PENALTY;New ships are under construction, that will exceed the supply limits by $EXC$;x
+SUPPLY_LOAD_STATUS_DESC_DETAILED_LIST;The following report shows the supply throughput demands:;x
+TECH_DAILY_LEADERSHIP_BASE_TOOLTIP;Monthly base leadership: §Y$VALUE$§W;x
+TECH_DAILY_LEADERSHIP_TOTAL_TOOLTIP;Monthly leadership: §G+$VALUE$§W;x
+TECH_DAILY_LEADERSHIP_TOOLTIP;$POPTYPE$ provide §G$VALUE$§W leadership.\n (§Y$FRACTION$%§W of the population, $OPTIMAL$% is optimal);x
+SHORTCUT;§WShortcut: §Y;x
+OL_COMBAT;Combats;x
+OL_ARMIES;Armies;x
+OL_NAVIES;Navies;x
+OL_STATEBUILDING_CONSTRUCTION;Factory Construction;x
+OL_PROVINCE_CONSTRUCTION;Province Construction;x
+OL_ARMY_CONSTRUCTION;Army Construction;x
+OL_NAVY_CONSTRUCITON;Navy Construction;x
+OL_COMBAT_TOOLTIP;§Y$ARMY_NAME$§W is fighting §Y$OPPOSING_ARMY$§W in §Y$LOCATION$§W;x
+OL_NAVAL_COMBAT_TOOLTIP;§Y$NAVY_NAME$§W is fighting §Y$OPPOSING_NAVY$§W in §Y$LOCATION$§W;x
+OL_ARMIES_TOOLTIP;§Y$ARMY_NAME$§W is currently in §Y$LOCATION$§W;x
+OL_NAVIES_TOOLTIP;§Y$NAVY_NAME$§W is currently in §Y$LOCATION$§W;x
+OL_STATEBUILDING_CONSTRUCTION_TOOLTIP;Currently building §Y$CONSTRUCTION$§W in §Y$LOCATION$§W;x
+OL_PROVINCE_CONSTRUCTION_TOOLTIP;Currently building §Y$CONSTRUCTION$§W in §Y$LOCATION$§W;x
+OL_ARMY_CONSTRUCTION_TOOLTIP;Currently building §Y$CONSTRUCTION$§W in §Y$LOCATION$§W;x
+OL_NAVY_CONSTRUCTION_TOOLTIP;Currently building §Y$CONSTRUCTION$§W in §Y$LOCATION$§W;x
+OL_SIEGES_TOOLTIP;We are occupying §Y$PROVINCE$§W;x
+OL_HOSTILE_SIEGES_TOOLTIP;Our province, §Y$PROVINCE$§W, is being occupied!;x
+OL_VIEW_COMBAT;Toggle §YCombat§W view;x
+OL_VIEW_NAVALCOMBAT;Toggle §YNaval Combat§W view;x
+OL_VIEW_ARMIES;Toggle §YArmy§W view;x
+OL_VIEW_NAVIES;Toggle §YNavy§W view;x
+OL_VIEW_FACTORIES;Toggle §YFactory Construction§W view;x
+OL_VIEW_BUILDINGS;Toggle §YBuilding Construction§W view;x
+OL_VIEW_ARMY_CONSTRUCTION;Toggle §YArmy Construction§W view;x
+OL_VIEW_NAVY_CONSTRUCTION;Toggle §YNavy Construction§W view;x
+OL_GP_INFLUENCE;Influence;x
+OL_VIEW_GP_INFLUENCE;Toggle §YInfluence§W view;x
+TOPBAR_CLOSE_OUTLINER;Close Outliner;x
+TOPBAR_OPEN_OUTLINER;Open Outliner;x
+TOPBAR_INC_SPEED;Increase Speed;x
+TOPBAR_DEC_SPEED;Decrease Speed;x
+TOPBAR_DATE;This is the current date\n(Click or use space bar to pause);x
+TOPBAR_DATE_IS_PAUSED;This is the current date\n(Click or use space bar to unpause);x
+TOPBAR_PAUSE_INDICATOR;The game is currently paused;x
+TOPBAR_SPEED_INDICATOR;The game is running at §Y$SPEED$§W;x
+SLOWEST_SPEED;Slowest Speed;x
+SLOW_SPEED;Slow Speed;x
+NORMAL_SPEED;Normal Speed;x
+FAST_SPEED;Fast Speed;x
+FASTEST_SPEED;Fastest Speed;x
+RANK_PRESTIGE;Prestige;x
+RANK_PRESTIGE_D;Prestige is accumulated through cultural development and performing well with your country;x
+RANK_INDUSTRY;Industrial Power;x
+RANK_INDUSTRY_D;Industry score is a measure of your level of industrialisation. It is a combination of the number of employed craftsmen and clerks, divided by 2500, and the value of your foreign investments;x
+RANK_MILITARY;Military Power;x
+RANK_MILITARY_D;Military score is a measure of the power of your military. It scores your military by size, supply consumption, and the quality of your military leaders;x
+RANK_TOTAL_D;The eight countries with the highest rank are §YGreat Powers§W who have the ability to influence and control lesser nations. The next eight are §YSecondary Powers§W who have the ability to colonise, and will challenge the great powers at times. The final two ranks are §Ycivilised§W and §Yuncivilised§W nations, who are rated depending on if they are westernised or not;x
+COLONIAL_POINTS;Colonial Power;x
+AVAILABLE_COLONIAL_POWER;Available: §Y$VALUE$§!;x
+FROM_TECHNOLOGY;From Improved Technology;x
+PLAYER_COUNTRY_TOPBAR_RANK;$NAME$ is a §Y$RANK$§W;x
+CLOSE;Close;x
+MENU_BAR_SAVE_GAME;Save Game;x
+MENU_BAR_GAME_OPTIONS;Game Options;x
+MENU_BAR_GAME_RESIGN;Resign;x
+MENU_BAR_MESSAGE_SETTINGS;Message Settings;x
+MENU_BAR_QUIT;Quit;x
+MENU_BAR_CLOSE;Close;x
+MENU_BAR_SAVE;Save;x
+MENU_BAR_SAVE_GAME_FILENAME;Saved game filename:;x
+MAPMODE_1;Terrain Mapmode;x
+MAPMODE_2;Political Mapmode;x
+MAPMODE_3;Revolt Risk Mapmode;x
+MAPMODE_4;Diplomatic Mapmode;x
+MAPMODE_5;Region Mapmode;x
+MAPMODE_6;Infrastructure Mapmode;x
+MAPMODE_7;Colonial Mapmode;x
+MAPMODE_8;Administrative Mapmode;x
+MAPMODE_9;Recruitment Mapmode;x
+MAPMODE_10;National Focus Mapmode;x
+MAPMODE_11;RGO Output Mapmode;x
+MAPMODE_12;Population Density Mapmode;x
+MAPMODE_13;Culture Mapmode;x
+MAPMODE_14;Sphere of Influence Mapmode;x
+MAPMODE_15;Supply Limit Mapmode;x
+MAPMODE_16;Party Loyalty Mapmode;x
+MAPMODE_17;Ranking Mapmode;x
+MAPMODE_18;Migrations Mapmode;x
+MAPMODE_19;Civilisation Level Mapmode;x
+MAPMODE_20;Relations Mapmode;x
+MAPMODE_21;Crises Mapmode;x
+MAPMODE_22;Naval Mapmode;x
+M_LEDGER_BUTTON;Ledger;x
+M_MENU_BUTTON;Menu;x
+M_GOTO_BUTTON;Find Country or Province;x
+INTEREST;Interest;x
+NATIONAL_BANK;National Bank;x
+EDUCATION;Education;x
+ADMINISTRATION;Administration;x
+SOCIAL_SPENDING;Social Spending;x
+MILITARY_SPENDING;Military Spending;x
+OK;Ok;x
+CANCEL;Cancel;x
+MILITARY_SPENDINGS_LAND;Spending on §YLand§! units:;x
+MILITARY_SPENDINGS_NAVAL;Spending on §YNaval§! units:;x
+MILITARY_SPENDINGS_PROJECTS;Spending on §YConstructions§!:;x
+QUIT_TITLE;Quit Game;x
+QUIT_DESC;Are you sure you want to quit and return to desktop?;x
+RESIGN_TITLE;Resign Game;x
+RESIGN_DESC;Are you sure you want to resign and return to the main menu?;x
+DIPLOMACY_GREATNATION_STATUS;Great Power;x
+DIPLOMACY_COLONIALNATION_STATUS;Secondary Power;x
+DIPLOMACY_CIVILIZEDNATION_STATUS;Civilised Nation;x
+DIPLOMACY_UNCIVILIZEDNATION_STATUS;Uncivilised Nation;x
+TAX_POOR_DESC;This controls how much of the lower class' income will be collected as tax. Too heavy taxation will leave them less money to spend on their own needs;x
+TAX_MIDDLE_DESC;This controls how much of the middle class' income will be collected as tax. Too heavy taxation will leave them less money to spend on their own needs or businesses;x
+TAX_RICH_DESC;This controls how much of the upper class' income will be collected as tax. Too heavy taxation will leave them less money to spend on their own needs and less likely to invest in projects like building new factories;x
+NONE;None;x
+DIPLOMACY_COUNTRY;Country;x
+DIPLOMACY_OPINION;Opinion;x
+POP_BUILD_NEW_STATEBUILDING;Investing in a new factory;x
+POP_BUILD_NEW_PROVINCEBUILDING;Investing in infrastructure;x
+POP_REOPEN_STATE_FACTORY;Investing in factory reopening;x
+POP_EXPAND_STATE_FACTORY;Investing in factory expansion;x
+NO_UNIT_TECH;We must discover §Y$TECH$§W to build §Y$UNIT$§W;x
+NO_UNIT_REGIMENTS;We cannot build §Y$UNIT$§W anywhere. Get more §YSoldiers§W;x
+NO_UNIT_PORTS;We cannot build §Y$UNIT$§W anywhere. Get a §YCoastal§W province;x
+OL_HOSTILE_SIEGES;Hostile Occupations;x
+OL_VIEW_HOSTILE_SIEGES;Toggle §YHostile Occupation§W view;x
+OL_REBEL_OCCUPATIONS;Rebel Occupations;x
+OL_REBEL_OCCUPATIONS_TOOLTIP;Our province, §Y$PROVINCE$§W, is being occupied by rebels!;x
+OL_VIEW_REBEL_OCCUPATIONS;Toggle §YRebel Occupations§W view;x
+OL_VIEW_SIEGES;Toggle §YOccupation§W view;x
+OL_VIEW_NATFOCUS;Toggle §YNational Focus§W view;x
+OL_VIEW_NATFOCUS_HEADER;National Focus;x
+OL_VIEW_NATFOCUS_TOOLTIP;National Focus (§Y$FOCUS$§!) in §Y$STATE$§!;x
+OL_VIEW_RALLYPOINTS;Toggle §YRally Points§W view;x
+OL_VIEW_RALLYPOINTS_HEADER;Rally Points;x
+OL_VIEW_RALLYPOINTS_TOOLTIP;All nearby recruited units will head towards §Y$PROV$§!;x
+OL_VIEW_RALLYPOINTS_MERGE_TOOLTIP; and will try to merge up to §Y$LIMIT$§! when they arrive here;x
+OL_VIEW_MERGE_ON;§G(Merge ON)§!;x
+OL_VIEW_MERGE_OFF;§Y(Merge OFF)§!;x
+GOTO_SEARCH_COUNTRIES_AND_PROVINCES;Search Countries and Provinces;x
+GOTO_CANCEL;Cancel;x
+MESSAGESETTINGS_ALL;All;x
+MESSAGESETTINGS_COMBAT;Combat;x
+MESSAGESETTINGS_DIPLOMACY;Diplomacy;x
+MESSAGESETTINGS_UNITS;Units;x
+MESSAGESETTINGS_PROVINCES;Provinces;x
+MESSAGESETTINGS_EVENTS;Events;x
+MESSAGESETTINGS_OTHER;Other;x
+MESSAGE_SEARCH;Search:;x
+MESSAGE_BUTTON_SEARCH;Search;x
+MESSAGE_BUTTON_CLEAR;Clear;x
+MESSAGE_SEARCH_TOOLTIP;Enter key words separated by §Yspace§! to filter the list;x
+MENU_MESSAGES_RESET;Reset to defaults;x
+MESSAGE_IS_POPUP;This message type $TRUTH$ currently displayed as a popup;x
+MESSAGE_IS_LOG;This message type $TRUTH$ currently displayed in the log;x
+MESSAGE_IS_ONMAP;This message type $TRUTH$ currently displayed on the map (if applicable);x
+MESSAGE_IS_PAUSE;This message type $TRUTH$ currently displayed as a popup and will pause the game;x
+MESSAGE_IS_ICON;This message type $TRUTH$ currently displayed as a message icon;x
+MESSAGE_SETTING_TRUE;is;x
+MESSAGE_SETTING_FALSE;is not;x
+MILITARY_ADMIRALS_LABEL;Admirals:;x
+MILITARY_GENERALS_LABEL;Generals:;x
+MILITARY_GENERAL_TOOLTIP;General;x
+MILITARY_ADMIRAL_TOOLTIP;Admiral;x
+MILITARY_BUILD_ARMY;Build Army;x
+MILITARY_BUILD_NAVY;Build Navy;x
+MILITARY_SORT_STRENGTH;Strength;x
+MILITARY_UNASSIGNED;Unassigned;x
+MILITARY_SORT_TYPE;Type;x
+MILITARY_SORT_NAME;Name;x
+MILITARY_SORT_ARMY;Army;x
+MILITARY_CREATE_GENERAL;Create General($VALUE$);x
+MILITARY_CREATE_ADMIRAL;Create Admiral($VALUE$);x
+MILITARY_AUTOCREATE;Auto-Create Leaders;x
+MILITARY_AUTOASSIGN;Auto-Assign Leaders;x
+MILITARY_LEADER_TOOLTIP;§Y$NAME$§W\nSkill: §Y$SKILL$§W;x
+MILITARY_MORALE_TOOLTIP;Morale: §Y$VALUE$%§W;x
+MILITARY_MOVING_TOOLTIP;This unit is moving.\nIt will arrive in §Y$LOCATION$§W at §Y$DATE$§W;x
+MILITARY_DIGIN_TOOLTIP;This unit digging in.\nSo far, it has spent §Y$DAYS$ days§W doing so;x
+MILITARY_SKILL_TOOLTIP;Skill: §Y$SKILL$§W;x
+MILITARY_NEW_GENERAL_TOOLTIP;Recruit General\nWe can currently recruit up to §Y$VALUE$§W General(s);x
+MILITARY_NEW_ADMIRAL_TOOLTIP;Recruit Admiral\nWe can currently recruit up to §Y$VALUE$§W Admiral(s);x
+MILITARY_BUILD_ARMY_TOOLTIP;Build Army;x
+MILITARY_BUILD_NAVY_TOOLTIP;Build Navy;x
+MILITARY_AUTOCREATE_TOOLTIP;Toggle auto-creation of leaders;x
+MILITARY_AUTOASSIGN_TOOLTIP;Toggle auto-assignment of leaders;x
+MILITARY_BUILD_ARMY_LABEL;Build Army;x
+MILITARY_BUILD_NAVY_LABEL;Build Navy;x
+MILITARY_UNITS_BEING_BUILT_LABEL;Units Being Built;x
+MILITARY_LACK_OF_LEADER;We need at least §Y$VALUE$§W leadership to recruit a leader;x
+SORT_BY_PRESTIGE;Sort by prestige;x
+SORT_BY_NAME;Sort by name;x
+MILITARY_SORT_BY_TYPE_TOOLTIP;Sort by leader type;x
+MILITARY_SORT_BY_NAME_TOOLTIP;Sort by name;x
+MILITARY_SORT_BY_ASSIGNMENT_TOOLTIP;Sort by assignment;x
+MILITARY_SORT_BY_STRENGTH_TOOLTIP;Sort by strength;x
+MILITARY_ARMY_COUNT_TOOLTIP;Number of armies: §Y$VALUE$§W;x
+MILITARY_NAVY_COUNT_TOOLTIP;Number of navies: §Y$VALUE$§W;x
+MILITARY_ARMY_CONSTRUCTION_TOOLTIP;Brigades under construction: §Y$VALUE$§W;x
+MILITARY_NAVY_CONSTRUCTION_TOOLTIP;Ships under construction: §Y$VALUE$§W;x
+MILITARY_SORT_ASSIGNMENT;Assignment;x
+MILITARY_BACKGROUND;Primary Stats: §Y$NAME$§W;x
+MILITARY_PERSONALITY;Secondary Stats: §Y$NAME$§W;x
+MILITARY_STRENGTH_TOOLTIP2;Unit strength is at §Y$PERCENT$%§W.\nStrength: $VALUE$/§Y$MAX$§W;x
+MILITARY_SHIPSTRENGTH_TOOLTIP2;Unit strength is at §Y$PERCENT$%§W;x
+MILITARY_REGIMENTS_TOOLTIP;Number of brigades: §Y$VALUE$§W;x
+MILITARY_SHIPS_TOOLTIP;Number of ships: §Y$VALUE$§W;x
+MILITARY_CURRENT_LOCATION;Current location: §Y$LOC$§W;x
+MILITARY_WAR_EXHAUSTION;War Exhaustion;x
+MILITARY_SUPPLY_CONSUMPTION;Supply Consumption;x
+MILITARY_ORG_REGAIN;Organisation Regain;x
+MILITARY_ARMY_ORG;Land Organisation;x
+MILITARY_NAVY_ORG;Naval Organisation;x
+MILITARY_UNIT_EXPERIENCE;Unit Start Experience;x
+MILITARY_RECRUIT_TIME;Recruitment Time;x
+MILITARY_COMBAT_WIDTH;Combat Width;x
+MOB_IS_REINFORCE;Mobilised units reinforce at §Y50%§W speed;x
+MOB_SIZE_IRO;We can mobilise §Y$VALUE$§W% of our lower class into soldiers;x
+MOB_FROM_TECH;From technology: §G+$VALUE$§W;x
+MOB_ECO_IMPACT;Our development reduces it by §G-$VALUE$§W.;x
+MOB_ECO_PENALTY;Currently our development increases impact by §R$VALUE$§W;x
+MOB_SIZE_LABEL;Brigades to Mobilise;x
+MOB_IMPACT_LABEL;Production Impact;x
+MOBILISE;Mobilise;x
+DEMOBILISE;Demobilise;x
+MILITARY_WAR_EXHAUSTION_TOOLTIP;War Exhaustion: $VALUE$;x
+MILITARY_MAX_WAR_EXHAUSTION_TOOLTIP;Max War Exhaustion: $VALUE$;x
+MILITARY_BASEVALUE_PERCENT;Base Value: §Y100%§W;x
+MILITARY_BASEVALUE;Base Value: §Y0.00§W;x
+MILITARY_BUILD_UNIT_TOOLTIP;Build §Y$NAME$§W in §Y$LOC$§W;x
+MILITARY_CANCEL_BUILD_UNIT_TOOLTIP;Cancel construction of §Y$NAME$§W in §Y$LOC$§W;x
+MILITARY_MOBILIZE;Mobilise our Army;x
+MILITARY_MOBILIZE_DESC;Apart from our standing army, our country can also, in the event of war, draw upon additional resources in the form of conscripts. By ordering mobilisation, our conscript armies will begin amassing at major population centres, and begin preparations for war. While mobilisation may be essential to overcoming a sizable enemy invasion, we must always be wary of its impact on the national economy;x
+MILITARY_DEMOBILIZE;Demobilise our Army;x
+MILITARY_DEMOBILIZE_DESC;By giving the order to stand down, our conscript armies will leave the field of battle and return to their homes. While any country ravaged by the tribulations of war certainly longs for a return to normalcy, we would do well to first ensure that the war is won, before sheathing our sword;x
+MILITARY_MOBILIZE_CRISIS_IMPACT;§RMobilising while on a side in a crisis will increase the temperature and lead to war!§!;x
+BUILD_ESTIMATED_COST;Estimated cost of goods not in stockpile: §R$COST$§W¤;x
+MIL_MULTI_CONSTRUCTION_TOOLTIP;§GShift + Left Click§! to build all;x
+MIL_CONSTRUCTION_CANCEL_ALL_SHORT;Cancel All;x
+MIL_CONSTRUCTION_CANCEL_ALL;Cancel all constructions;x
+MIL_CONSTRUCTION_CANCEL_ALL_WARNING_TITLE;Cancel all constructions.;x
+MIL_CONSTRUCTION_CANCEL_ALL_WARNING_DESC;Are you sure, that you want to cancel all military constructions?;x
+IW_SUPPLY_COST;You need §Y$VAL$§W¤ every day to pay for supplies for this unit;x
+POP_SIZE_UNITVIEW;This soldier pop has §Y$VAL$§W people and can support §Y$ALLOWED$§W brigades. Currently it has §Y$CURRENT$§W brigades;x
+MILITARY_LEADER_NAME_TOOLTIP;§Y$NAME$§W is in command of §Y$ARMY$§W in §Y$LOCATION$§W;x
+PRESTIGE_SCORE;Prestige: §Y$VAL$§W;x
+MOBILIZATION_PROGRESS_PAUSED;Mobilisation recruitment in §Y$PROV$§! will soon begin;x
+MOBILIZATION_PROGRESS_PENDING;Current mobilisation progress is §Y$PROG$%§!;x
+MOBILIZATION_PROGRESS_NOT_MOBILIZED;Mobilisation will take some time, but an advanced railway network will speed up the process;x
+MILITARY_DIG_IN_CAP;Dig-in Cap;x
+MILITARY_MILITARY_TACTICS;Military Tactics;x
+COMWID_BASE;Base Value: §Y$VAL$§W;x
+TECHNOLOGYVIEW_NO_RESEARCH_TOOLTIP;No research set;x
+RP_ACCUMULATED;We have accumulated §Y$VAL$§W research points that are currently unused;x
+RULE_DESTROY_FACTORY;Destroy Factories;x
+RULE_POP_BUILD_FACTORY;Capitalists Build Factories;x
+RULE_POP_EXPAND_FACTORY;Capitalists Expand Factories;x
+RULE_POP_OPEN_FACTORY;Capitalists Open Factories;x
+RULE_DELETE_FACTORY_IF_NO_INPUT;Bankrupt Factories Removed;x
+RULE_PRIMARY_CULTURE_VOTING;Primary culture can vote;x
+RULE_CULTURE_VOTING;Accepted cultures can vote;x
+RULE_ALL_VOTING;All cultures can vote;x
+TECHNOLOGYVIEW_RESEARCH_TOOLTIP;We are currently researching §Y$TECH$§W.\nAt the present pace, the project should be completed on §Y$DATE$§W;x
+TECHNOLOGYVIEW_RESEARCH_INVESTED_TOOLTIP;(§Y$INVESTED$§W/§Y$COST$§W points invested);x
+MIL_FROM_TROOPS;Soldiers & Army;x
+MIL_FROM_CAP_SHIPS;Heavy Ships;x
+MIL_FROM_LEADERS;Leaders;x
+UNIT_BUILD_TIME_IW;$VAL$ days;x
+army_tech;Army;x
+navy_tech;Navy;x
+commerce_tech;Commerce;x
+culture_tech;Culture;x
+industry_tech;Industry;x
+TECHNOLOGYVIEW;Technology;x
+TECHNOLOGYVIEW_ADMINISTRATION;Administration:;x
+TECHNOLOGYVIEW_CURRENT_RESEARCH;Current Research:;x
+TECHNOLOGYVIEW_POSSIBLE_INVERTIONS;Possible Inventions;x
+TECHNOLOGYVIEW_SORT_BY_TYPE;Type;x
+TECHNOLOGYVIEW_SORT_BY_NAME;Name;x
+TECHNOLOGYVIEW_SORT_BY_PERCENT;Percent;x
+TECHNOLOGYVIEW_SHOW_FOLDER_TOOLTIP;Show §Y$FOLDER$§W Technologies;x
+TECHNOLOGYVIEW_NO_RESEARCH;No research set;x
+TECHNOLOGYVIEW_SORT_BY_TYPE_TOOLTIP;Sort possible inventions by type;x
+TECHNOLOGYVIEW_SORT_BY_NAME_TOOLTIP;Sort possible inventions by name;x
+TECHNOLOGYVIEW_SORT_BY_PERCENT_TOOLTIP;Sort possible inventions by chance of discovery;x
+TECHNOLOGYVIEW_INVENTION_TOOLTIP;We have a §Y$PERCENT$%§W chance to invent §Y$INVENTION$§W each month;x
+TECHNOLOGYVIEW_START_RESEARCH_TOOLTIP;Start research of §Y$TECH$§W;x
+TECHNOLOGYVIEW_CANNOT_RESEARCH_TOOLTIP;We cannot research §Y$TECH$§W because:;x
+TECHNOLOGYVIEW_ALREADY_RESEARCHED_TOOLTIP;We have completed research of §Y$TECH$§W;x
+TECHNOLOGYVIEW_UNDER_RESEARCH_TOOLTIP;We are currently researching §Y$TECH$§W;x
+TECHNOLOGYVIEW_UNDISCOVERED_INVENTION_TOOLTIP;Allows discovery of §Y$INVENTION$§W;x
+TECHNOLOGYVIEW_DISCOVERED_INVENTION_TOOLTIP;§Y$INVENTION$§W gives us the following effects:;x
+TECHNOLOGYVIEW_HAVE_DISCOVERED_PREREQ_TOOLTIP;Discovered §Y$TECH$§W;x
+TECHNOLOGYVIEW_HAVE_NOT_YEAR;It is not possible to start researching this before §Y$YEAR$§W;x
+TECHNOLOGYVIEW_NO_RESEARCH_UNCIV_TOOLTIP;High level technology is only available to civilised nations. By westernising in the §Ypolitics tab§! you can aquire base technology and start researching;x
+TECHNOLOGY_ACTIVATION_YEAR;Activation:;x
+TECHNOLOGY_RESEARCH_POINTS;Cost:;x
+ENABLE_CRIME_TECH;Allow ;x
+DIGIN_FROM_TECH;Dig-In Cap;x
+ENABLE_UNIT_TECH;Allows construction of;x
+ENABLE_BUILDING_TECH;Allows;x
+COMBAT_WIDTH_TECH;Combat Width;x
+TECH_PLURALITY;Plurality;x
+TECH_FACTORY;Factory Cost;x
+TECH_MAX_LEVEL;Max Level;x
+TECH_GP_INFLUENCE;Diplomatic Influence;x
+DIPLOMATIC_POINTS_TECH;Diplomatic Points;x
+TECH_INVENTIONS_TOOLTIP;Inventions:;x
+ACTIVATE_GOODS;Activate: ;x
+TECH_TAX_EFF;Tax Efficiency: ;x
+MORALE_TECH;Morale;x
+REINFORCE_TECH;Reinforcement;x
+SOLDIER_TO_POP_LOSS_TECH;Military Hospitals;x
+REGULAR_EXP_TECH;Unit Starting Experience;x
+MOB_SIZE_TECH;Mobilisation Size;x
+COLONIAL_LIFE_TECH;Minimum Liferating;x
+ADM_EFF_TECH;Administrative Efficiency;x
+EDU_EFF_TECH;Education Efficiency;x
+LOAN_INTEREST_TECH;Loan Interest;x
+TECH_MAX_FOCUS;Max National Focus;x
+WAR_EXHAUST_BATTLES;War Exhaustion;x
+MIL_TACTICS_TECH;Military Tactics;x
+LAND_ATTRITION_TECH;Army Attrition;x
+NAVAL_ATTRITION_TECH;Navy Attrition;x
+SUPPLY_RANGE_TECH;Supply Range;x
+SUPPLY_LIMIT_TECH;Supply Limit;x
+TECH_MINE_OUTPUT;Mining Output;x
+TECH_FARM_OUTPUT;Farming Output;x
+TECH_OUTPUT;Output;x
+TECH_INPUT;Input;x
+TECH_THROUGHPUT;Throughput;x
+CHANGES_UNIT_APPEARANCE_TECH;Changes unit appearance;x
+PRESTIGE_MODIFIER_TECH;Prestige Gain;x
+PERMANENT_PRESTIGE_TECH;Permanent Prestige;x
+SHARED_PRESTIGE_TECH;Shared Prestige (Current);x
+COLONIAL_PRESTIGE_MODIFIER_TECH;Colonial Prestige;x
+TECH_POP_GROWTH;Population Growth;x
+TECH_REBEL_ORG_GAIN;Rebel Organisation Gain;x
+SEPARATISM_TECH;Separatism;x
+INC_RES_TECH;Research Points;x
+TECH_ONCE_HEADER;Major Technology Researched;x
+TECH_ONCE_1;$TYPE$;x
+TECH_ONCE_2;$TITLE$, we have finished the research of $TYPE$ which will give us the following benefits:;x
+TECH_ONCE_3;$EFFECT$;x
+TECH_ONCE_4;*;x
+TECH_ONCE_5;*;x
+TECH_ONCE_6;*;x
+TECH_ONCE_BTN3;Details;x
+TECH_ONCE_BTN2;OK;x
+INVENTION_HEADER;Reports on;x
+INVENTION_1;Major Discovery;x
+INVENTION_2;Scientists in our country have discovered:;x
+INVENTION_3;$INVENTION$;x
+INVENTION_4; ;x
+INVENTION_5;Effect:;x
+INVENTION_6;$EFFECT$;x
+INVENTION_BTN1;OK;x
+BASE_CHANCE;Base Chance: $CHANCE$%;x
+OR_TRIGGER_STARTS;One of the following must be true;x
+AND_TRIGGER_STARTS;All of the following must be true;x
+AND;and ;x
+OR;or;x
+unciv_nation;Uncivilised Nation;x
+UNCIV_CANT_RESEARCH;Westernise to be able to research;x
+COLONIAL_POINTS_TECH;Colonial Power Points;x
+DAYS;Days;x
+TORPEDO_ATTACK;Torpedo Attack;x
+SIEGE;Siege;x
+DO_NOT_HAVE_TECH_TRI;Have NOT invented §Y$TECH$§W\n;x
+HAVE_TECH_TRI;Have invented §Y$TECH$§W\n;x
+ANY_GP_STARTS;Any Great Power;x
+IS_NOT_RELIGION;The state religion is not;x
+IS_RELIGION;The state religion is;x
+IS_NOT_CULTURE;Culture is not;x
+IS_CULTURE;Any pop in province;x
+HAS_TERRAIN;Terrain is;x
+HAS_NOT_TERRAIN;Terrain is not;x
+IS_OF_POPTYPE;Pop is of type;x
+IS_NOT_OF_POPTYPE;Pop is not of type;x
+MORE_THAN_NEEDS_COST;Money to cover §Y$VAL$§W of needs\n;x
+NOT_MORE_THAN_NEEDS_COST;Not enough money to cover §Y$VAL$§W% of needs\n;x
+MORE_THAN_NEEDS;Getting more than §Y$VAL$§W% of their §Y$TYPE$§W\n;x
+NOT_MORE_THAN_NEEDS;Getting less than §Y$VAL$§W% of their §Y$TYPE$§W\n;x
+MORE_THAN_CON;Consciousness above §Y$VAL$§W\n;x
+NOT_MORE_THAN_CON;Consciousness below §Y$VAL$§W\n;x
+MORE_THAN_MIL;Militancy above §Y$VAL$§W\n;x
+NOT_MORE_THAN_MIL;Militancy below §Y$VAL$§W\n;x
+UNEMPLOYMENT_HIGHER_THAN;Unemployment above §Y$VAL$§W%;x
+NOT_UNEMPLOYMENT_HIGHER_THAN;Unemployment below §Y$VAL$§W%;x
+LITERACY_HIGHER_THAN;Literacy above §Y$VAL$§W%\n;x
+NOT_LITERACY_HIGHER_THAN;Literacy below §Y$VAL$§W%\n;x
+MILITARY_SPENDING_OVER;Military Spending above §Y$VAL$§W%\n;x
+NOT_MILITARY_SPENDING_OVER;Military Spending below §Y$VAL$§W%\n;x
+EDUCATION_SPENDING_OVER;Education Spending above §Y$VAL$§W%\n;x
+NOT_EDUCATION_SPENDING_OVER;Education Spending below §Y$VAL$§W%\n;x
+CRIME_FIGHTING_SPENDING_OVER;Administration above §Y$VAL$§W%\n;x
+NOT_CRIME_FIGHTING_SPENDING_OVER;Administration below §Y$VAL$§W%\n;x
+IS_NOT_RULING_PARTY;is NOT in charge;x
+IS_RULING_PARTY;is in charge;x
+RUL_PARTY_IS_NOT;Current government is NOT;x
+RUL_PARTY_IS;Current government is;x
+IDE_HAVE_LESS;is less than;x
+IDE_HAVE_MORE;is at least;x
+NOT_IN_ELECTION_CAMPAIGN;in NOT in an election campaign;x
+IN_ELECTION_CAMPAIGN;in election campaign;x
+NOT_HAS_NATIONAL_VALUE;National value is NOT §Y$NATIONALVALUE$§W;x
+HAS_NATIONAL_VALUE;National value is §Y$NATIONALVALUE$§W;x
+IS_NOT_STATE_RELIGION;Does NOT belong to dominant religion;x
+IS_STATE_RELIGION;Belongs to dominant religion;x
+REMOVE_IS_NOT_PRIMARY_CULTURE;Is NOT primary culture;x
+REMOVE_IS_PRIMARY_CULTURE;Is primary culture;x
+IS_NOT_ACCEPTED_CULTURE;Is NOT accepted culture;x
+IS_ACCEPTED_CULTURE;Is accepted culture;x
+IS_NOT_COASTAL;Is NOT a coastal province;x
+IS_COASTAL;Is a coastal province;x
+IS_NOT_IN_SPHERE;Is NOT in the $ADJ$ sphere of influence;x
+IS_IN_SPHERE;Is in the $ADJ$ sphere of influence;x
+IS_NOT_SLAVE_STATE;Is not a slave state;x
+IS_SLAVE_STATE;Is a slave state;x
+IS_NOT_COLONIAL_STATE;Is not a colonial state;x
+IS_COLONIAL_STATE;Is a colonial state;x
+ALL_CORE_PROVINCE;All with cores;x
+NOT_AV_MIL;Average militancy below §Y$VAL$§W\n;x
+MORE_AV_MIL;Average militancy at least §Y$VAL$§W\n;x
+NOT_AV_CON;Average consciousness below §Y$VAL$§W\n;x
+MORE_AV_CON;Average consciousness at least §Y$VAL$§W\n;x
+IS_PROD_TRIG;Is producing §Y$VAL$§W\n;x
+IS_NOT_PROD_TRIG;Is NOT producing §Y$VAL$§W\n;x
+NOT_STOCKPILE_TR;National stockpile of §Y$NAME$§W is less than $VAL$\n;x
+STOCKPILE_TR;National stockpile of §Y$NAME$§W is at least $VAL$\n;x
+ISSUE_POP_TR;At least §Y$VAL$%§W think §Y$NAME$§W is important;x
+NOT_ISSUE_POP_TR;Less than §Y$VAL$%§W think §Y$NAME$§W is important;x
+NOT_LIFE_TR;Life rating lower than §Y$VAL$§W\n;x
+LIFE_TR;Life rating at least §Y$VAL$§W\n;x
+NOT_UPPER_HOUSE_TR;There is less than §Y$VAL$§W percent §Y$NAME$§W in the Upper House\n;x
+UPPER_HOUSE_TR;There is at least §Y$VAL$§W percent §Y$NAME$§W in the Upper House\n;x
+NOT_IS_NEXT_REFORM_TR;$ISSUE$ is NOT the next possible reform for $GROUP$;x
+IS_NEXT_REFORM_TR;$ISSUE$ is next possible reform for $GROUP$;x
+NOT_PLURALITY_TR;Plurality is lower than §Y$VAL$§W\n;x
+PLURALITY_TR;Plurality is at least §Y$VAL$§W\n;x
+NOT_UNEMPLOYED_BY_TYPE;Unemployment amongst §Y$NAME$§W is below §Y$VALUE$§W percent\n;x
+UNEMPLOYED_BY_TYPE;Unemployment amongst §Y$NAME$§W is at least §Y$VALUE$§W percent\n;x
+POP_UNEMPLOYMENT_HIGHER_THAN;§Y$TYPE$§W unemployment above §Y$VAL$§W%;x
+NOT_POP_UNEMPLOYMENT_HIGHER_THAN;§Y$TYPE$§W unemployment below §Y$VAL$§W%;x
+HAVE_UNCLAIMED_CORE;Have unclaimed cores\n;x
+HAVE_UNCLAIMED_CORE_NOT;Do not have unclaimed cores\n;x
+IS_UNION_CULTURE;Is union culture of ;x
+IS_NOT_UNION_CULTURE;Is not union culture of ;x
+IS_NOT_CULTURE_GROUP;Culture Group is not;x
+IS_CULTURE_GROUP;Culture Group is;x
+NOT_WORK_AVAILABLE;No work available for;x
+WORK_AVAILABLE;Work available for;x
+IS_NOT_MOBILIZED_TR;is NOT mobilised\n;x
+MOB_SIZE_LESS_TR;Mobilisation level is less than §Y$VALUE$§W of the workforce;x
+MOB_SIZE_AT_LEAST_TR;Mobilisation level is at least §Y$VALUE$§W of the workforce;x
+IS_MOBILIZED_TR;is mobilised\n;x
+HAVE_PRESTIGE_LESS_THAN;Prestige less than;x
+HAVE_PRESTIGE_MORE_THAN;Prestige at least;x
+CAN_NOT_BUILD_FACTORY;Can not build factory\n;x
+CAN_BUILD_FACTORY;Can build factory\n;x
+GEN_POP_HAVE;Must have $WHAT$;x
+GEN_POP_NOT_HAVE;Must not have $WHAT$;x
+IS_NOT_SPHERELEADER_OF;Does NOT have $ADJ$ in sphere of influence;x
+IS_SPHERELEADER_OF;Has $ADJ$ in sphere of influence;x
+HAVE_LESS_DIPLOMATIC_RELATION;has lower diplomatic relations than;x
+POP_NOT_OF_CULTURE;are not $WHAT$;x
+POP_OF_CULTURE;are $WHAT$;x
+POP_NOT_OF_RELIGION;are not $WHAT$;x
+POP_OF_RELIGION;are $WHAT$;x
+COLONIAL_MIGRATION_TECH;Colonial Migration;x
+CB_MANUFACTURE_TECH;War Justification Progress;x
+army_base;Armies;x
+navy_base;Navies;x
+average_literacy;Literacy;x
+plurality;Plurality;x
+TERM_FOR_LIFE;No Elections;x
+CAN_APPOINT_RULING_PARTY;Can appoint ruling party;x
+TERM_DURATION;Elections must be held every $YEARS$ years;x
+NEXT_ELECTION;Next election is due;x
+POLITICS_UPPERHOUSE_CHART_TOOLTIP;$PERCENT$% of the Upper House are $IDEOLOGY$\n;x
+POLITICS_UPPERHOUSE;Upper House;x
+absolute_monarchy;Absolute Monarchy;x
+prussian_constitutionalism;Semi-Constitutional Monarchy;x
+hms_government;Constitutional Monarchy;x
+democracy;Republic;x
+presidential_dictatorship;Presidential Dictatorship;x
+proletarian_dictatorship;Proletarian Dictatorship;x
+bourgeois_dictatorship;Bourgeois Dictatorship;x
+fascist_dictatorship;Fascist Dictatorship;x
+theocracy;Theocracy;x
+colonial_company;Autonomous Dependency;x
+colonial_trade_company;Autonomous Dependency;x
+tribal_society;Tribal Society;x
+theocracy_ruler;Emir;x
+colonial_company_ruler;Governor;x
+tribal_society_ruler;Chieftain;x
+proletarian_dictatorship_ruler;Chairman;x
+presidential_dictatorship_ruler;President;x
+bourgeois_dictatorship_ruler;Board Director;x
+fascist_dictatorship_ruler;Supreme Leader;x
+absolute_monarchy_ruler;King;x
+prussian_constitutionalism_ruler;King;x
+hms_government_ruler;Prime Minister;x
+democracy_ruler;President;x
+fascist_uh;Fascists support the extension of social reform, and the removal of political reforms, but will oppose any reform so long as the ruling party is not Fascist;x
+reactionary_uh;Reactionaries always attempt to roll back both political and social reforms;x
+conservative_uh;Conservatives prefer the status-quo, but may back reforms under conditions of high militancy;x
+socialist_uh;Socialists want to see the enactment of further social reforms, but may back political reforms under conditions of high militancy;x
+communist_uh;Communists want to enact social reforms, but want to see political reforms rolled back;x
+liberal_uh;Liberals want to enact further political reforms, and will also support social reform under conditions of high militancy;x
+anarcho_liberal_uh;Anarcho-Liberals want to see social reforms rolled back, and will never support further reforms of any kind;x
+POLITICS_CAN_DO_SOCIAL_REFROMS;Can enact social reforms;x
+POLITICS_CAN_NOT_DO_SOCIAL_REFROMS;Can't enact social reforms;x
+POLITICS_CAN_REVOKE_SOCIAL_REFROMS;Can revoke social reforms;x
+POLITICS_CAN_DO_POLITICAL_REFROMS;Can enact political reforms;x
+POLITICS_CAN_NOT_DO_POLITICAL_REFROMS;Can't enact political reforms;x
+POLITICS_CAN_REVOKE_POLITICAL_REFROMS;Can revoke political reforms;x
+POLITICS_SUPPORT_REFORM;$IDEOLOGY$: $POSITIVE$% votes yes, $NEGATIVE$% votes no ($PERCENT$% of Upper House)\n;x
+POLITICS_IN_FAVOR_TOOLTIP;($PERCENT$% of the Upper House in favour of reforms);x
+PLURALITY_CHANGE;Monthly Change;x
+revanchism;Revanchism;x
+REVANCHISM_EXPLANATION;§gRevanchism, from the French word for 'revenge', is the yearning for the return of land lost to the nation. In love, war, and peace alike, our people will be willing to make greater sacrifices for the return of our sacred soil.\n§YEvery 5 points of revanchism raises the maximum soldier percentage in core provinces by 0.5% and the mobilisation pool by 0.5%;x
+POLITICS_NATIONALVALUE_TOOLTIP;Our national value is §Y$NATIONALVALUE$§W.\n;x
+MODIFIER_RESEARCH_POINTS_MODIFIER;Research Points Modifier;x
+MODIFIER_DEBT_DEFAULT_TO;Debt Default To;x
+MODIFIER_IMPORT_COST;Import Cost;x
+MODIFIER_LOAN_INTEREST;Loan Interest;x
+MODIFIER_TAX_EFFICIENCY;Tax Efficiency;x
+MODIFIER_MIN_TAX;Minimum Tax;x
+MODIFIER_MAX_TAX;Maximum Tax;x
+MODIFIER_MIN_MILITARY_SPENDING;Minimum Military Spending;x
+MODIFIER_MAX_MILITARY_SPENDING;Maximum Military Spending;x
+MODIFIER_MIN_SOCIAL_SPENDING;Minimum Social Spending;x
+MODIFIER_MAX_SOCIAL_SPENDING;Maximum Social Spending;x
+MODIFIER_MILITARY_MAINTENANCE;Military Maintenance;x
+MODIFIER_FACTORY_OWNER_COST;Factory Owner Cost;x
+MODIFIER_MIN_TARIFF;Minimum Tariff;x
+MODIFIER_MAX_TARIFF;Maximum Tariff;x
+MODIFIER_RULING_PARTY_SUPPORT;Ruling Party Support;x
+MODIFIER_RICH_VOTE;Upper Class Vote;x
+MODIFIER_MIDDLE_VOTE;Middle Class Vote;x
+MODIFIER_POOR_VOTE;Lower Class Vote;x
+MODIFIER_MINIMUN_WAGE;Minimum Wage;x
+MODIFIER_POOR_LUXURY_NEEDS;Luxury Needs for Lower Class;x
+MODIFIER_FACTORY_EFFICIENCY;Factory Efficiency;x
+MODIFIER_FACTORY_MAINTENANCE;Factory Maintenance;x
+MODIFIER_RICH_EVERYDAY_NEEDS;Everyday Needs for Upper Class;x
+MODIFIER_MIDDLE_EVERYDAY_NEEDS;Everyday Needs for Middle Class;x
+MODIFIER_POOR_EVERYDAY_NEEDS;Everyday Needs for Lower Class;x
+MODIFIER_UNEMPLOYMENT_BENEFIT;Unemployment Benefits;x
+MODIFIER_PENSION_LEVEL;Pensions;x
+MODIFIER_POPULATION_GROWTH;Population Growth;x
+MODIFIER_FACTORY_INPUT;Factory Input;x
+MODIFIER_FACTORY_OUTPUT;Factory Output;x
+MODIFIER_FACTORY_THROUGHPUT;Factory Throughput;x
+MODIFIER_RGO_INPUT;RGO Input;x
+MODIFIER_RGO_OUTPUT;RGO Output;x
+MODIFIER_RGO_THROUGHPUT;RGO Throughput;x
+MODIFIER_ARTISAN_INPUT;Artisan Input;x
+MODIFIER_ARTISAN_OUTPUT;Artisan Output;x
+MODIFIER_ARTISAN_THROUGHPUT;Artisan Throughput;x
+MODIFIER_NUMBER_OF_VOTERS;Number of Voters;x
+MODIFIER_GOODS_DEMAND;Goods Demand;x
+MODIFIER_ASSIMILATION_RATE;Assimilation Rate;x
+MODIFIER_PRESTIGE;Prestige;x
+MODIFIER_FACTORY_COST;Factory Cost;x
+MODIFIER_LIFE_RATING;Life Rating;x
+MODIFIER_FARM_EFFICIENCY;Farming Efficiency;x
+MODIFIER_MINE_EFFICIENCY;Mining Efficiency;x
+MODIFIER_FARM_SIZE;Farm Size;x
+MODIFIER_MINE_SIZE;Mine Size;x
+MODIFIER_ISSUE_CHANGE_SPEED;Political Awareness;x
+MODIFIER_SOCIAL_REFORM_DESIRE;Social Reform Desire;x
+MODIFIER_POLITICAL_REFORM_DESIRE;Political Reform Desire;x
+MODIFIER_LITERACY_CON_IMPACT;Literacy Impact on Consciousness;x
+MODIFIER_MIDDLE_LUXURY_NEEDS;Luxury Needs for Middle Class;x
+MODIFIER_RICH_LUXURY_NEEDS;Luxury Needs for Upper Class;x
+MODIFIER_POOR_LIFE_NEEDS;Life Needs for Lower Class;x
+MODIFIER_RICH_LIFE_NEEDS;Life Needs for Upper Class;x
+MODIFIER_MIDDLE_LIFE_NEEDS;Life Needs for Middle Class;x
+MODIFIER_POP_CONSCIOUSNESS_MODIFIER;Local Consciousness;x
+MODIFIER_RICH_INCOME_MODIFIER;Upper Class Income;x
+MODIFIER_MIDDLE_INCOME_MODIFIER;Middle Class Income;x
+MODIFIER_POOR_INCOME_MODIFIER;Lower Class Income;x
+MODIFIER_RANDOM_PARTY_VOTES;Random Voting;x
+MODIFIER_IMMIGANT_ATTRACT;Immigrant Attraction;x
+MODIFIER_POOR_SAVINGS_MODIFIER;Lower Class Savings;x
+MODIFIER_POP_MILITANCY_MODIFIER;Militancy;x
+MODIFIER_MOBILISATION_SIZE;Mobilisation Size;x
+MODIFIER_MOBILISATION_ECONOMY_IMPACT;Mobilisation Impact;x
+MODIFIER_GREATPOWER_INFLUENCE_GAIN;Influence;x
+MODIFIER_DIPLOPOINTS_GAIN;Diplomatic Points;x
+MODIFIER_SUPPLY_LIMIT;Supply Limit;x
+MODIFIER_MAX_ATTRITION;Maximum Attrition;x
+MODIFIER_IMMIGANT_PUSH;Immigration Push;x
+MODIFIER_GLOBAL_POP_MILITANCY_MODIFIER;Militancy;x
+MODIFIER_GLOBAL_POP_CONSCIOUSNESS_MODIFIER;Consciousness;x
+MODIFIER_CORE_POP_MILITANCY_MODIFIER;Militancy in Non-Colonial;x
+MODIFIER_CORE_POP_CONSCIOUSNESS_MODIFIER;Consciousness in Non-Colonial;x
+MODIFIER_NON_ACCEPTED_POP_MILITANCY_MODIFIER;Militancy for Non-Accepted;x
+MODIFIER_NON_ACCEPTED_POP_CONSCIOUSNESS_MODIFIER;Consciousness for Non-Accepted;x
+army_tech_research_bonus;Army Tech Research;x
+commerce_tech_research_bonus;Commerce Tech Research;x
+culture_tech_research_bonus;Culture Tech Research;x
+industry_tech_research_bonus;Industry Tech Research;x
+navy_tech_research_bonus;Navy Tech Research;x
+POLITICS_VIEW_ALL_PARTIES_TOOLTIP;View all parties\n;x
+POLITICS_CURRENT_RULING_PARTY_TOOLTIP;Current ruling party: $PARTY$\n;x
+RULE_BUILD_RAILWAY_INVEST;Investors Build Foreign Railways;x
+RULE_POP_BUILD_FACTORY_INVEST;Investors Build Foreign Factories;x
+RULE_POP_EXPAND_FACTORY_INVEST;Investors Expand Foreign Factories;x
+RULE_POP_OPEN_FACTORY_INVEST;Investors Open Foreign Factories;x
+HOLD_ELECTION_BUTTON;Hold Election;x
+POLITICS_HOLD_ELECTION_TOOLTIP;Hold an election to elect a new ruling party\n;x
+POLITICS_CANNOT_HOLD_ELECTION_TOOLTIP;$GOVERNMENT$ does not allow elections\n;x
+POLITICS_ALREADY_HOLDING_ELECTION_TOOLTIP;An election is under way. A new ruling party will be elected by $DATE$\n;x
+POLL_ESTIMATED_ELECTION;In an election we estimate the following result:;x
+POLITICS_SELECT_NEW_RULER_PARTY;Select New Ruling Party;x
+CLOSE_WINDOW;Close window;x
+trade_policy;Trade Policy;x
+economic_policy;Economic Policy;x
+religious_policy;Religious Policy;x
+citizenship_policy;Citizenship Policy;x
+war_policy;War Policy;x
+POLITICS_PEOPLE_IDEOLOGIES;People's Ideologies;x
+POLITICS_VOTERS_IDEOLOGIES;Voters' Ideologies;x
+POLITICS_VOTERS_CHART_TOOLTIP;$PERCENT$% of the voters are $IDEOLOGY$\n;x
+POLITICS_PEOPLE_CHART_TOOLTIP;$PERCENT$% of our population are $IDEOLOGY$\n;x
+POLITICS_IMPORTANT_ISSUES_DESC;Important Issues;x
+POLITICS_ISSUE;Issue;x
+POLITICS_PEOPLE;People;x
+POLITICS_VOTERS;Voters;x
+POLITICS_SORT_BY_ISSUE_NAME_TOOLTIP;Sort list by issues;x
+POLITICS_SORT_BY_PEOPLE_TOOLTIP;Sort list by how important it is to our population;x
+POLITICS_SORT_BY_VOTERS_TOOLTIP;Sort list by how important it is to our voters;x
+POLITICS_SET_RULING_PARTY_TOOLTIP;Select $PARTY$ as our ruling party\n;x
+POLITICS_CANNOT_SET_RULING_PARTY_TOOLTIP;We cannot select $PARTY$ as our ruling party because:\n;x
+MODIFIER_EDUCATION_EFFICIENCY;Education Efficiency;x
+MODIFIER_SUPPRESSION_POINT_GAIN;Suppression Point Gain;x
+NOBODY_CAN_VOTE_HERE;Nobody is allowed the vote;x
+POLITICS_PARTY_TOOLTIP;$PARTY$ ($IDEOLOGY$)\n;x
+PLURALITY_EXPLANATION;Plurality is the shared level of consciousness in our country. The memories of the past victories and defeats in the name of liberty remind our people of what could be;x
+RULE_ALLOW_FOREIGN_INVESTMENT;Allow Foreign Investment;x
+MODIFIER_CB_GENERATION_SPEED_MODIFIER;Casus Belli Acquisition Speed;x
+MODIFIER_MOBILIZATION_IMPACT;Mobilisation Impact;x
+POLITICS_SOCIAL_REFORMS;Social Reforms;x
+POLITICS_POLITICAL_REFORMS;Political Reforms;x
+POLITICS_REFORMS;Reforms;x
+POLITICS_RELEASE_NATIONS;Release Nations;x
+POLITICS_DECISIONS_TAB;Decisions;x
+POLITICS_MOVEMENTS_TAB;Movements;x
+POLITICS_MOVEMENTS;Movements;x
+POLITICS_REBELS;Rebels;x
+SUPPRESS;Suppress;x
+SUPPRESSION_DESC;Suppress this movement. This will cost $VAL$ points and make the movement likely to be more radical (§R+$HIT$§!) in the future;x
+CANT_SUPPRESS_DESC;We need more points to be able to suppress this movement. We have §R$VAL$§! suppression points and it requires §Y$NEED$§!;x
+REFORM_MOVEMENT_DESC;Movement calling for the enactment of §Y$REFORM$§!;x
+NATIONALIST_UNION_MOVEMENT_DESC;Movement calling for the forming of §Y$COUNTRY$§!;x
+NATIONALIST_LIBERATION_MOVEMENT_DESC;Movement calling for the liberation of §Y$COUNTRY$§!;x
+SUPPRESSION_LABEL_DESC;Suppression points measure your governments power to suppress popular movements;x
+MOVEMENT_REFORM_SUPPORT;There is a popular movement of size $VAL$ lobbying for the enactment of this reform;x
+NAME;Name;x
+POLITICS_DECISIONS2;§YYellow§g decisions are generic national choices and §Wwhite§g decisions are historical/flavour;x
+POLITICS_RELEASE_VASSAL;Release Nation;x
+POLITICS_RELEASE_VASSAL_DESC;§Y$TAG$§b will receive the following §Y$NUM$§b province(s): §Y$PROVINCES$§b;x
+POLITICS_SATELLITE;Satellite;x
+POLITICS_DOMINION;Dominion;x
+CONFIRM_CREATE_VASSAL;Release Nation;x
+CONFIRM_CREATE_VASSAL_DESC;Do you want to release §Y$COUNTRY$§W as a §Y$TYPE$§W?\n§Y$COUNTRY$§W will receive the following §Y$NUM$§W province(s): §Y$PROVINCES$§W;x
+RELEASE_PLAY_AS;Play As;x
+YES;Yes;x
+NO;No;x
+THERE_ARE_BACKING;§Y$VAL$§W of the population want this reform;x
+POLITICS_TOTAL_SUPPORT_REFORM;$PERCENT$% of Upper House votes yes\n;x
+MOVEMENT_RADICALISM_ADJUST;§Y$MOVEMENT$§! Radicalism: $AMOUNT$;x
+POLITICS_MATTERS_OF_STATE;Matters of State;x
+TOO_SOON_FOR_REFORM;The Upper House can only enact a new reform once every month. We have to wait until §Y$DATE$§W until we can enact another reform;x
+IS_NEXT_STEP_ONLY;In this category of reforms, only gradual change can be done, so only one step back or forward can be done at any time;x
+UPPERHOUSE_HEADER;Political News in $COUNTRY$;x
+UPPERHOUSE_1;Upper House Rearranged;x
+UPPERHOUSE_2;$MONARCHTITLE$, our new Upper House has now been assembled;x
+UPPERHOUSE_3;$DETAILS$;x
+UPPERHOUSE_4;*;x
+UPPERHOUSE_5;*;x
+UPPERHOUSE_6;*;x
+UPPERHOUSE_LOG;Upper House rearranged;x
+UPPERHOUSE_BTN1;OK;x
+UPPERHOUSE_BTN2;OK;x
+UPPERHOUSE_BTN3;Goto;x
+UPPERHOUSE_MAP;*;x
+ELECTIONDONE_HEADER;Political News in $COUNTRY$;x
+ELECTIONDONE_1;Election Finished!;x
+ELECTIONDONE_2;$MONARCHTITLE$, the elections are now finished;x
+ELECTIONDONE_3;$WINNER$ is now the new ruling party;x
+ELECTIONDONE_4;$DETAILS$;x
+ELECTIONDONE_5;*;x
+ELECTIONDONE_6;*;x
+ELECTIONDONE_LOG;$WINNER$ will now lead the government of $COUNTRY$;x
+ELECTIONDONE_BTN1;OK;x
+ELECTIONDONE_BTN2;OK;x
+ELECTIONDONE_BTN3;Goto;x
+ELECTIONDONE_MAP;*;x
+ELECTIONSTART_HEADER;Political News in $COUNTRY$;x
+ELECTIONSTART_1;The Elections of $COUNTRY$ is starting;x
+ELECTIONSTART_2;$MONARCHTITLE$, we are now reporting that the elections have started;x
+ELECTIONSTART_3;The final results will be in on;x
+ELECTIONSTART_4;$DETAILS$;x
+ELECTIONSTART_5;*;x
+ELECTIONSTART_6;*;x
+ELECTIONSTART_LOG;Election campaigns started in $COUNTRY$;x
+ELECTIONSTART_BTN1;OK;x
+ELECTIONSTART_BTN2;OK;x
+ELECTIONSTART_BTN3;Goto;x
+ELECTIONSTART_MAP;*;x
+SOCREFORM_HEADER;Political News in $COUNTRY$;x
+SOCREFORM_1;Social Reforms in $COUNTRY$;x
+SOCREFORM_2;$MONARCHTITLE$, we have now enacted;x
+SOCREFORM_3;$ISSUE$;x
+SOCREFORM_4;in;x
+SOCREFORM_5;$CATEGORY$;x
+SOCREFORM_6;*;x
+SOCREFORM_LOG;We enacted $ISSUE$ in $CATEGORY$;x
+SOCREFORM_BTN1;OK;x
+SOCREFORM_BTN2;OK;x
+SOCREFORM_BTN3;Goto;x
+SOCREFORM_MAP;*;x
+SOCREFORM_BAD_HEADER;Political News in $COUNTRY$;x
+SOCREFORM_BAD_1;Social Reforms Revoked in $COUNTRY$;x
+SOCREFORM_BAD_2;$MONARCHTITLE$, we have now revoked benefits in;x
+SOCREFORM_BAD_3;$CATEGORY$;x
+SOCREFORM_BAD_4;from $OLD$ to $ISSUE$;x
+SOCREFORM_BAD_5;*;x
+SOCREFORM_BAD_6;*;x
+SOCREFORM_BAD_LOG;We revoked $OLD$ in $CATEGORY$ to $ISSUE$;x
+SOCREFORM_BAD_BTN1;OK;x
+SOCREFORM_BAD_BTN2;OK;x
+SOCREFORM_BAD_BTN3;Goto;x
+SOCREFORM_BAD_MAP;*;x
+POLREFORM_HEADER;Political News in $COUNTRY$;x
+POLREFORM_1;Political Reforms in $COUNTRY$;x
+POLREFORM_2;$MONARCHTITLE$, we have now enacted;x
+POLREFORM_3;$ISSUE$;x
+POLREFORM_4;in;x
+POLREFORM_5;$CATEGORY$;x
+POLREFORM_6;*;x
+POLREFORM_LOG;We enacted $ISSUE$ in $CATEGORY$;x
+POLREFORM_BTN1;OK;x
+POLREFORM_BTN2;OK;x
+POLREFORM_BTN3;Goto;x
+POLREFORM_MAP;*;x
+POLREFORM_BAD_HEADER;Political News in $COUNTRY$;x
+POLREFORM_BAD_1;Political Reforms Revoked in $COUNTRY$;x
+POLREFORM_BAD_2;$MONARCHTITLE$, we have now revoked benefits in;x
+POLREFORM_BAD_3;$CATEGORY$;x
+POLREFORM_BAD_4;from $OLD$ to $ISSUE$;x
+POLREFORM_BAD_5;*;x
+POLREFORM_BAD_6;*;x
+POLREFORM_BAD_LOG;We revoked $OLD$ in $CATEGORY$ to $ISSUE$;x
+POLREFORM_BAD_BTN1;OK;x
+POLREFORM_BAD_BTN2;OK;x
+POLREFORM_BAD_BTN3;Goto;x
+POLREFORM_BAD_MAP;*;x
+SETPARTY_HEADER;Political News in $COUNTRY$;x
+SETPARTY_1;New Ruling Party in $COUNTRY$;x
+SETPARTY_2;$MONARCHTITLE$, we have now changed ruling party to;x
+SETPARTY_3;$PARTY$;x
+SETPARTY_4;They are a $IDEOLOGY$ party and have the following policies;x
+SETPARTY_5;$DETAILS$;x
+SETPARTY_6;*;x
+SETPARTY_LOG;The $PARTY$ will now rule in $COUNTRY$;x
+SETPARTY_BTN1;OK;x
+SETPARTY_BTN2;OK;x
+SETPARTY_BTN3;Goto;x
+SETPARTY_MAP;*;x
+POLITICS_RELEASE_VASSAL_DESC_LIMIT;§b and others;x
+RELEASE_INFAMY;Infamy: ;x
+MOVEMENT_RADICALISM;Movement Radicalism;x
+MOVEMENT_RADICALISM_DESC;This describes how much the people of the movement trust the political process in your country to get them what they want. A movement with a high value (§Y100§!) will convert to a rebel uprising if not suppressed;x
+NUMBER_MOVEMENT_SUPPORTERS;Number of supporters;x
+NUMBER_MOVEMENT_SUPPORTERS_DESC;The larger the movement, the harder it is to suppress. If you enact a reform with less support all movements with more support will become more radical;x
+MOVEMENT_RADICALISM_BASE;Base: §R$VAL$§%§!;x
+MOVEMENT_RADICALISM_ACCUMULATED;Suppression: §R$VAL$§%§!;x
+MOVEMENT_RADICALISM_GRANTED_REFORMS;Granted reforms: §G$VAL$§%§!;x
+MOVEMENT_RADICALISM_CULTURE;$CULTURE$: $VAL$;x
+IGNORE_DECISION_ON;This decision is set to NOT notify the player when it is available to be taken\n\n§GClick to change notification status§!;x
+IGNORE_DECISION_OFF;This decision is set to notify the player when it is available to be taken\n\n§GClick to change notification status§!;x
+COLONIAL_MAINTENANCE;Power tied up in maintenance: §R$VALUE$§!;x
+NUMBER_OF_EMIREES;§Y$NUM$§W have left our nation for other countries this month;x
+NUMBER_OF_IMMIGREES;§Y$NUM$§W have arrived our nation from other countries this month;x
+POP_SIZE_INFO_ON_SEL;There are $VAL$ $WHO$ in $WHERE$;x
+POP_PROMOTE_INFO_ON_SEL;$VAL$ have promoted into $WHO$ recently;x
+POP_LEAVE_INFO_ON_SEL;$VAL$ have demoted from $WHO$ recently;x
+POP_FILTER_SELECT_ALL;Select All;x
+POP_FILTER_DESELECT_ALL;Deselect All;x
+WORKFORCE_DISTTITLE;Workforce;x
+RELIGION_DISTTITLE;Religion;x
+IDEOLOGY_DISTTITLE;Ideology;x
+NATIONALITY_DISTTITLE;Nationality;x
+DOMINANT_ISSUES_DISTTITLE;Dominant Issues;x
+ELECTORATE_DISTTITLE;Electorate Vote;x
+PV_SLICE_DESC;§Y$TYPE$§W: $VAL$%;x
+PV_POP_SIZE;Size;x
+PV_POP_TYPE;Type;x
+PV_POP_NATIONALITY;Nationality;x
+PV_POP_RELIGION;Rel.;x
+PV_POP_LOCATION;Location;x
+POPV_SORT_BY_MIL;Militancy;x
+POPV_SORT_BY_CON;Consciousness;x
+POPV_SORT_BY_IDE;Ideologies;x
+POPV_SORT_BY_ISS;Issues;x
+POPV_SORT_BY_UNEMPLOYMENT;Unemployment;x
+POPV_SORT_BY_CASH;Cash Reserves;x
+POPV_SORT_BY_LIFE;Fulfillment of Life Needs;x
+POPV_SORT_BY_EVERY;Fulfillment of Everyday Needs;x
+POPV_SORT_BY_LUXURY;Fulfillment of Luxury Needs;x
+POPV_SORT_BY_RR;Rebel Faction;x
+POPV_SORT_BY_CHANGE;Population Change;x
+POPV_SORT_BY_LIT;Literacy;x
+POP_PROMOTION;§Y$NUM$§W people promote to §Y$TYPE$§W each month;x
+POP_DEMOTION;§Y$NUM$§W people will demote to §Y$TYPE$§W each month;x
+NO_DEMOTION;There will be no demotions this month;x
+NO_PROMOTION;There will be no promotions this month;x
+CLICK_FOR_DETAILS;Click for more details;x
+NO_ASSIM_NOW;No Current Assimilation;x
+POP_CONVERSION;§Y$NUM$§W people will convert to §Y$TYPE$§W each day;x
+POP_CONVERSION_FACTORS;Conversion factors:;x
+POP_ASSM;§Y$NUM$§W people will assimilate to §Y$TYPE$§W each month;x
+POP_ASSM_FACTORS;Assimilation Factors:;x
+POP_NO_CONV_TARGET;No Valid Target;x
+TRIGGER_STATE;State;x
+IS_NOT;Is NOT ;x
+IS;Is ;x
+HAS_NOT_CULTURE_CORE;$CUL$ is NOT a core-culture of $WHERE$\n;x
+HAS_CULTURE_CORE;$CUL$ is a core-culture of $WHERE$\n;x
+OR_TRIG_SHORT;Either..;x
+IS_NOT_ON_THE_CONTINET; is NOT on the continent ;x
+IS_ON_THE_CONTINET; is on the continent ;x
+MODIFIER_TECHNOLOGY_COST;Technology Cost;x
+MODIFIER_REINFORCE_SPEED;Reinforce Speed;x
+UV_SHIPS;Ships:;x
+BATTLES_SCORE;Battles: ;x
+ALLIANCE_EFFECT;Alliance with §Y$WHO$§W\n;x
+KILL_LEADER_EFFECT;Leader §Y$NAME$§W will die\n;x
+SPAWN_EVENT;Get the '$WHICH$' event\n;x
+MODIFIER_REMOVED;$WHAT$ will be removed from $WHERE$\n;x
+LAND_ATTRITION;Land Attrition;x
+NAVAL_ATTRITION;Naval Attrition;x
+STARTED; Started ;x
+WON;§GWon;x
+LOST;§RLost;x
+YOU_LOST;§RYou Lost;x
+YOU_WON;§GYou Won;x
+OPTION_CHANGED;$FROM$ has changed to: $TO$;x
+THE_YEAR_IS_BEFORE;The year is before ;x
+THE_YEAR_IS_AFTER;The year is after ;x
+HAVE_LESS_THAN;Have less than ;x
+HAVE_MORE_THAN;Have at least ;x
+WAR_EXHAUSTION_MORE_THAN;War Exhaustion at least ;x
+WAR_EXHAUSTION_LESS_THAN;War Exhaustion less than ;x
+HAVE_LESS_MANPOWER_THAN;Have less manpower than ;x
+HAVE_MORE_MANPOWER_THAN;Manpower at least ;x
+HAVE_CONTROL_OVER;Control ;x
+HAVENT_CONTROL_OVER;Do NOT control ;x
+HAVENT_CORE;Do NOT have a core in ;x
+HAVE_CORE_IN;Have a core in ;x
+HAVE_LESS_CITIES_THAN;Have less cities than ;x
+HAVE_MORE_CITIES_THAN;Number of cities at least ;x
+HAVE_LESS_PORTS_THAN;Have less home ports than ;x
+HAVE_MORE_PORTS_THAN;Number of home ports at least ;x
+HAVE_LESS_ALLIES_THAN;Have fewer allies than ;x
+HAVE_MORE_ALLIES_THAN;Number of allies at least ;x
+IS_ENABLED; is enabled;x
+IS_DISABLED; is disabled;x
+HAVE;Have ;x
+HAVE_NOT;Do NOT have ;x
+HAS;Has ;x
+HAS_NOT;Has NOT ;x
+EXISTS; exists;x
+DOSNT_EXISTS; does NOT exist;x
+DO_NOT_HAVE_A;Do NOT have a ;x
+HAVE_A;Have a ;x
+HAVE_LESS_PROVINCE_THAT_PRODUCES_THEN;Less $GOODS$ producing provinces than ;x
+HAVE_MORE_PROVINCE_THAT_PRODUCES_THEN;$GOODS$ producing provinces at least ;x
+HAVE_AT_LEST_ONE_OWNED_NEIGHBORING_PROVINCE;Have at least one owned neighboring province such that:;x
+HAVE_NO_OWNED_NEIGHBORING_PROVINCE;Have no owned neighboring province such that:;x
+DO_NOT_OWN;Does NOT own ;x
+OWNS;Owns ;x
+DO_NOT_CONTROL;Does NOT control ;x
+CONTROLS;Controls ;x
+HAVE_THE_MODIFIER;Have the modifier ;x
+DONT_HAVE_THE_MODIFIER;Do NOT have the modifier ;x
+DONT_HAVE_THE_PROVICEN_MODIFIER;Do NOT have the province modifier ;x
+HAVE_THE_PROVINCE_MODIFIER;Have the province modifier ;x
+HAVE_A_PORT_IN;Have a port in ;x
+HAVE_NOT_A_PORT_IN;Do NOT have a port in ;x
+HAVE_COUNTRY_FLAG;Have the country flag ;x
+HAVE_NOT_COUNTRY_FLAG;Do NOT have the country flag ;x
+HAVE_PROVINCE_FLAG;Have the province flag ;x
+HAVE_NOT_PROVINCE_FLAG;Do NOT have the province flag ;x
+DONT_HAVE_A_X_INY;Do NOT have a $X$ in $Y$;x
+HAVE_A_X_INY;Have a $X$ in $Y$;x
+PURE_REVOLT_RISK_LOWER_THAN;Base revolt risk lower than ;x
+PURE_REVOLT_RISK_HIGHER_THAN;Base revolt risk at least ;x
+REVOLT_RISK_LOWER_THAN;Revolt risk lower than ;x
+REVOLT_RISK_HIGHER_THAN;Revolt risk at least ;x
+IS_NOT_NEIGHBOUR_WITH;Does NOT neighbour ;x
+IS_NEIGHBOUR_WITH;Neighbours ;x
+HAVE_LESS_UNITS_IN_THAN;Have less units in $PROVINCE$ than ;x
+HAVE_MORE_UNITS_IN_THAN;Units in $PROVINCE$ at least ;x
+HAVE_MORE_THAN_INFANTRY_IN;Have at least $UNITS$ infantry in $Province$;x
+HAVE_LESS_THAN_INFANTRY_IN;Have less than $UNITS$ infantry in $Province$;x
+IS_AT_PEACE_WITH;Is at peace with ;x
+IS_AT_WAR_WITH;Is at war with ;x
+HAS_NO_TRUCE_WITH;Have no truce with ;x
+HAS_TRUCE_WITH;Have truce with ;x
+HAVE_NO_UNITS_IN_BATTLE;Have no units in battle;x
+HAVE_UNITS_IN_BATTLE;Have units in battle;x
+HAVE_A_UNITS_WITH_A_LEADER;Have a unit with a leader;x
+HAVE_NO_UNITS_WITH_A_LEADER;Have no units with a leader;x
+HAVE_A_NAVY_SMALLER_THAN;Have a navy smaller than ;x
+HAVE_A_NAVY_LARGER_THAN;Total navy size at least ;x
+HAVE_A_ARMY_SMALLER_THAN;Have an army smaller than ;x
+HAVE_A_ARMY_LARGER_THAN;Total army size at least ;x
+HAVE_A_PERCENTAGE_OF_OVERSEAS_PROVINCE_LARGER_THAN;Overseas province percentage at least ;x
+HAVE_A_PERCENTAGE_OF_OVERSEAS_PROVINCE_SMALLER_THAN;Overseas province percentage smaller than ;x
+HAVE_NOT_THE_LEADER;Do NOT have the leader ;x
+HAVE_THE_LEADER;Have the leader ;x
+HAVE_N0T_ALLIANCE_WITH;Not allied with ;x
+HAVE_ALLIANCE_WITH;Allied with ;x
+PROVINCE_IS_NOT;Province is NOT ;x
+PROVINCE_IS;Province is ;x
+LESS_THAN; less than;x
+GREATER_THAN; at least;x
+HAVE_MORE_MANPOWER_THEN_MAXIMUM;Have at least max manpower;x
+HAVE_LESS_MANPOWER_THEN_MAXIMUM;Have less then max manpower;x
+THE_NUMBER_OF_REVOLT_FRACTION_IS_MORE_THAN;Number of provinces in revolt at least ;x
+THE_NUMBER_OF_REVOLT_FRACTION_IS_LESS_THAN;Fewer provinces in revolt than ;x
+HAVE_NOT_ANY_NEIGHBOR;Have no neighbors;x
+HAVE_ANY_NEIGHBOR;Have at least one neighbor;x
+HAVE_NOT_CASUS_BELLI_AGAINST;Have no claims against ;x
+HAVE_CASUS_BELLI_AGAINST;Have claims against ;x
+IS_NOT_AI;Is NOT AI;x
+IS_AI;Is AI;x
+THEN_NUMBER_OF_REVOLTS_ARE_LESS_THAN;Fewer rebel provinces than ;x
+THEN_NUMBER_OF_REVOLTS_ARE_MORE_THAN;Number of rebel provinces at least ;x
+NEIGHBOR_COUNTRY_STARTS;Neighboring country;x
+TRIGGER_NUM;Scope Num;x
+TRIGGER_ALLY;Any Ally;x
+TRIGGER_OWNER;Province Owner;x
+TRIGGER_CONTROLLER;Province Controller;x
+TRIGGER_CAPITAL;Capital;x
+TRIGGER_SEA_ZONE;Sea Zone Outside;x
+TRIGGER_THIS;This;x
+TRIGGER_FROM;From;x
+TRIGGER_LOCAL_ENEMY;Local Enemy;x
+POP_INTERNAL_MIGRATION;§Y$NUM$§! people intend to move to other national provinces;x
+POP_EXTERNAL_MIGRATION;§Y$NUM$§! people intend to move to another country;x
+POP_COLONIAL_MIGRATION;§Y$NUM$§! people intend to move to the colonies;x
+POP_INTERNAL_MIGRATION_NONE;No internal migration;x
+POP_EXTERNAL_MIGRATION_NONE;No external migration;x
+POP_COLONIAL_MIGRATION_NONE;No colonial migration;x
+POP_MIL_TOTAL;Monthly Change: ;x
+POP_CON_TOTAL;Monthly Change: ;x
+POP_MIL_NO_LIFE;Life-Needs not fulfilled;x
+POP_MIL_LACK_EVERY;Everyday-Needs not fulfilled;x
+POP_MIL_HAS_EVERY;Everyday-Needs fulfilled;x
+POP_MIL_LUXURY;Enough Luxury bought;x
+POP_MIL_RULING;Agrees with Ruling Party;x
+POP_MIL_REFORM;Reform Desire;x
+POP_WAR_EXHAUST;War Exhaustion;x
+POP_NON_CULTURE;Minority Culture;x
+POP_CON_LITERACY;Literacy;x
+POP_CON_LUXURY_GOODS;Luxury Goods Bought;x
+POP_CON_CLERGY;Clergy;x
+UNEMPLOYMENT;Unemployment;x
+POP_DAILY_MONEY;Daily Income: §Y$VAL$§W¤;x
+POP_DAILY_NEEDS;Needs: §Y$VAL$§W¤;x
+POP_DAILY_SALARY;Salary: §Y$VAL$§W¤;x
+POP_DAILY_WELFARE;Welfare: §Y$VAL$§W¤;x
+POP_DAILY_EXPENSES;Expenses: §Y$VAL$§W¤;x
+POP_DAILY_EVENTS;Events: §Y$VAL$§W¤;x
+POP_DAILY_PROJECT;Projects: §Y$VAL$§W¤;x
+POP_DAILY_BANK;Deposited in bank: §Y$VAL$§W¤;x
+AVAILABLE_IN_BANK;Savings in bank: §Y$VAL$§W¤;x
+UNIT_PRICE;Unit Price: §Y$VAL$§W¤;x
+GETTING_NEEDS;Getting $NEED$: §Y$VAL$%§W;x
+POP_LACK_MONEY_FOR_NEEDS;Lacked funds to buy needed goods;x
+POP_LACK_GOODS;Some goods not available on market:;x
+POPULATION_CHANGED_BY;Population changed by;x
+LIT_CHANGE;Monthly Change;x
+POP_CURRENT_PROD;Current Production:;x
+ALREADY_ASSIMILATED;Primary or Accepted Culture;x
+POP_OTHER_CULT;Other;x
+LIFE_NEEDS;Life Needs;x
+EVERYDAY_NEEDS;Everyday Needs;x
+LUXURY_NEEDS;Luxury Needs;x
+MAJOREVENTHAPPENOTHEROPTION_HEADER;The Foreign Ministry reports;x
+MAJOREVENTHAPPENOTHEROPTION_1;$COUNTRY$;x
+MAJOREVENTHAPPENOTHEROPTION_2;Our Embassy has heard that;x
+MAJOREVENTHAPPENOTHEROPTION_3;$EVENT$;x
+MAJOREVENTHAPPENOTHEROPTION_4;They chose;x
+MAJOREVENTHAPPENOTHEROPTION_5;$OPTION$;x
+MAJOREVENTHAPPENOTHEROPTION_6;as their choice of action;x
+MAJOREVENTHAPPENOTHEROPTION_LOG;Major Event: $OPTION$ in $EVENT$ for $COUNTRY$;x
+MAJOREVENTHAPPENOTHEROPTION_BTN1;OK;x
+MAJOREVENTHAPPENOTHEROPTION_BTN2;OK;x
+MAJOREVENTHAPPENOTHEROPTION_BTN3;GOTO;x
+MAJOREVENTHAPPENOTHEROPTION_MAP;*;x
+MAJOREVENTHAPPENOTHER_HEADER;The Foreign Ministry reports;x
+MAJOREVENTHAPPENOTHER_1;$COUNTRY$;x
+MAJOREVENTHAPPENOTHER_2; ;x
+MAJOREVENTHAPPENOTHER_3;$EVENT$;x
+MAJOREVENTHAPPENOTHER_4;$EVENTDESC$;x
+MAJOREVENTHAPPENOTHER_5;*;x
+MAJOREVENTHAPPENOTHER_6;*;x
+MAJOREVENTHAPPENOTHER_LOG;Major Event: $EVENT$ in $COUNTRY$;x
+MAJOREVENTHAPPENOTHER_BTN1;OK;x
+MAJOREVENTHAPPENOTHER_BTN2;OK;x
+MAJOREVENTHAPPENOTHER_BTN3;*;x
+MAJOREVENTHAPPENOTHER_MAP;*;x
+TRADE_RAW_MATERIALS;Raw Materials;x
+TRADE_INDUSTRIAL_AND_CONSUMER_GOODS;Industrial & Consumer Goods;x
+TRADE_MILITARY_GOODS;Military Goods;x
+TRADE_TOP_PRODUCERS;Top 5 Producers:;x
+TRADE_SELLING;Selling stockpile;x
+TRADE_BUYING;Buying up stockpile;x
+TRADE_IN_DEMAND;In high demand;x
+TRADE_NOT_IN_DEMAND;Not in high demand;x
+SUPPLY;Supply: $VAL$;x
+DEMAND;Demand: $VAL$;x
+ACTUAL_BOUGHT;Actual bought: $VAL$;x
+PRICE_HISTORY_TIME_RANGE;Last $MONTHS$ months;x
+TRADE_AUTOMATE;Automate;x
+AUTOMATE_TRADE_CHECK;Automate the trade for this goods type;x
+TRADE_FLOW_DETAILS;Details;x
+TRADE_FLOW_CURRENT_PRICE;Current Price:;x
+TRADE_FLOW_PART_OF_WORLD_PROD;§Y$PERC$%§W of world production;x
+TRADE_FLOW_PRODUCED;§YProduced by:§W;x
+TRADE_FLOW_USED;§YUsed by:§W;x
+TRADE_FLOW_MAY_BE_USED;§YMay be used for:§W;x
+TRADE_FLOW_TOTAL_PRODUCED;§YTotal Produced:§W;x
+TRADE_FLOW_TOTAL_USED;§YTotal Used:§W;x
+TRADE_FLOW_RGO_NAME;RGOs;x
+TRADE_FLOW_DESC_RGO;Our $POP$ are $ACTION$ $AMOUNT$ $RESOURCE$ each day.;x
+TRADE_FLOW_DESC_RGO_ACTION_MINING;mining;x
+TRADE_FLOW_DESC_RGO_ACTION_FARMING;farming;x
+TRADE_FLOW_DESC_ARTISAN;Our Artisans are producing $AMOUNT$ $RESOURCE$ each day;x
+TRADE_FLOW_DESC_FACTORY;Our $FACTORY$ in $STATE$ is producing $AMOUNT$ $RESOURCE$ each day;x
+TRADE_FLOW_CONSUME_DESC_ARTISAN;Artisans are using $AMOUNT$ $RESOURCE$, to produce $OUTPUT$;x
+TRADE_FLOW_CONSUME_DESC_RGO;$POP$ are using $AMOUNT$ $RESOURCE$ to produce $OUTPUT$;x
+TRADE_FLOW_CONSUME_DESC_FACTORY;Our $FACTORY$ in $STATE$ is using $AMOUNT$ $RESOURCE$ for an input and/or maintenance requirements;x
+TRADE_FLOW_CONSUME_DESC_POPS;Our $POP$ are using $AMOUNT$ $RESOURCE$ as part of their needs;x
+TRADE_FLOW_CONSUME_DESC_MILITARY;Our armies are using $AMOUNT$ $RESOURCE$ as a daily supply consumption;x
+TRADE_FLOW_MAY_USE_MILITARY_DESC;$INPUT$ may be used by our armies as a daily supply consumption;x
+TRADE_FLOW_MAY_USE_DESC;$INPUT$ may be used by $PRODUCER$ to produce $OUTPUT$;x
+TRADE_FLOW_MILITARY_SUPPLY;Military Consumption;x
+TRADE_NEEDS;Needs;x
+TRADE_MARKET_ACTIVITY;Market Activity;x
+TRADE_STOCKPILE;Stockpile;x
+TRADE_COMMON_MARKET;Common Market;x
+TRADE_GOVERNMENT;Government;x
+TRADE_FACTORIES;Factories;x
+TRADE_POPULATION;Population;x
+MINIMUM_STOCKPILE_TARGET;Minimum stockpile:;x
+MAXIMUM_STOCKPILE_TARGET;Maximum stockpile:;x
+GOV_NEED_DETAIL;Need $VAL$ for government;x
+FACTORY_NEED_DETAIL;Need $VAL$ for producers;x
+POP_NEED_DETAIL;Need $VAL$ for pops;x
+PRODUCED_DETAIL;$VAL$ available for our country;x
+TRADE_CONFIRM_TRADE;Confirm Trade;x
+TRADE_DISABLED_AUTOMATE;Trade for this goods type is automated. Turn off automation to change setting;x
+TRADE_CONFIRM_DESC;Setting a manual trade means we might end up taking loans to afford purchases;x
+TRADE_GOODS;Goods;x
+TRADE_NEED;Need;x
+TRADE_STOCK;Stock;x
+TRADE_ACTIVITY;Activity;x
+TRADE_INCREASE;Increase;x
+TRADE_PRODUCED;Produced;x
+TRADE_EXPORTED;Exported;x
+DIPLOMACY_GP_INFO;Great Powers;x
+DIPLOMACY_WAR_INFO;Wars;x
+DIPLOMACY_CB_INFO;War Justification;x
+DIPLOMACY_CRISIS_INFO;Crisis;x
+REL_HOSTILE;Hostile;x
+REL_OPPOSED;Opposed;x
+REL_NEUTRAL;Neutral;x
+REL_CORDIAL;Cordial;x
+REL_FRIENDLY;Friendly;x
+DIPLOMACY_NOT_ENOUGH_WARSCORE;We can only join the losing side of a war, when the current warscore is at least §Y$VALUE$%§W;x
+DIPLOMACY_NOT_ENOUGH_MONTHS;We can only join the war after at least §Y$VALUE$ months§W has passed since the war started;x
+DIPLOMACY_JOIN_WAR;Join war against:\n;x
+DIPLOMACY_CANNOT_JOIN_WAR;Cannot join war against the following nations because:\n;x
+DIPLOMACY_WAR_EXHAUSTION;War Exhaustion: §Y$VALUE$%§W;x
+DIPLOMACY_BRIGADES;Brigades: §Y$VALUE$§W;x
+DIPLOMACY_SHIPS;Ships: §Y$VALUE$§W;x
+DIPLOMACY_ALLIES;Allied with:;x
+DIPLOMACY_PROTECTED;Protected by:;x
+DIPLOMACY_ADD_WARGOAL;Add Wargoal;x
+DIPLOMACY_CANNOT_JOIN_WAR_INVALID_WARGOAL;We cannot join a side that has added any wargoals (except §YStatus Quo§W);x
+DIPLOMACY_WARSCORE_LABEL;Warscore:;x
+DIPLOMACY_TOTAL_LABEL;Total:;x
+DIPLOMACY_POPULATION_LABEL;Population;x
+DIPLOMACY_FRIENDLY_LABEL;Friendly:;x
+DIPLOMACY_CORDIAL_LABEL;Cordial:;x
+DIPLOMACY_SPHERE_LABEL;Sphere:;x
+NEED_POSITIVE_WARSCORE;The war is not going well enough;x
+WARGOAL_LACK_JINGO;We require $REQUIRED$ support for jingoism in our country, but only have $VALUE$;x
+DIPLOMACY_UNCIVILIZEDNATION_APPEND;(Uncivilised);x
+ISDISCREDITED_DESC;Discredited until §Y$UNTIL$§W. We suspect §Y$WHO$§W is behind this;x
+ISBANNEDEMBASSY_DESC;Banned embassy until §Y$UNTIL$§W. We suspect §Y$WHO$§W is behind this;x
+DIPLOMACY_CANNOT_SET_PRIO;We're not a §YGreat Power§W, thus we cannot influence other nations;x
+DIPLOMACY_CANNOT_SET_PRIO_GP;We cannot influence other §YGreat Powers§W;x
+DIPLOMACY_SET_PRIO;Current influence priority is §Y$VALUE$§W;x
+WE_ARE_DISCREDITED;We are discredited;x
+INFLUENCE_NEIGHBOUR;Neighbouring nation;x
+INFLUENCE_OTHER_CONTINENT;Nation is on another continent;x
+INFLUENCE_RELATIVE;Total score of nation relative to our total score;x
+INFLUENCE_AT_MAX;We cannot have more than §Y$MAX$§W influence in a single nation;x
+DIPLOMACY_DAILYINFLULENCE_GAIN;We gain §Y$NUM$§W influence in §Y$COUNTRY$§W each day. Our base influence gain is §Y$BASE$§W;x
+DECL_WAR_NO_VASSAL;We are not allowed to declare war against §Ysatellites§W or §Ydominions§W;x
+WE_NOT_GREATNATION;We must be a Great Power to perform this action;x
+ACT_NO_SELF;We cannot negotiate with ourselves;x
+DIP_NO_DIPLO;You only have §R$CURRENT$§W of the §Y$NEEDED$§W diplomatic points required;x
+DIP_ENOUGH_DIPLO;This will cost us §Y$NEEDED$§W of our §Y$CURRENT$§W diplomatic points;x
+DIP_NO_INFLUENCE;You only have §R$CURRENT$§W of the §Y$NEEDED$§W influence required;x
+DIP_ENOUGH_INFLUENCE;This will cost us §Y$NEEDED$§W of our §Y$CURRENT$§W influence;x
+CANNOT_TARGET_GREATNATION;We cannot influence other Great Powers;x
+NOT_ENOUGH_RELATION;In order to influence this country, their opinion of us must be at least §Y$NEEDED$§W. Their current opinion is §Y$CURRENT$§W;x
+ENOUGH_RELATION;Their opinion of us is as good as it can be;x
+ALREADY_BAD_RELATION;§Y$RECIPIENT$§W already has a §Y$OPINION$§W opinion of §Y$TARGET$§W;x
+ALREADY_IN_SPHERE;This country is already in the sphere of influence of §Y$LEADER$§W;x
+IN_NO_SPHERE;This country is not in a sphere of influence;x
+IN_OUR_SPHERE;This country is in our sphere of influence;x
+CALL_MUST_BE_ALLIES;We must be allied with country to call them into a war;x
+CALL_MUST_BE_AT_WAR;We must be at war to call our allies;x
+CALL_MUST_HAVE_JOINABLE_WAR;There is no suitable war for our allies to join;x
+FIGHTING_WAR_TOGETHER;We cannot break our alliance during a mutual war against our enemies;x
+EMBASSY_IS_BANNED;We cannot influence this country because our ambassadors are banned. We suspect §Y$COUNTRY$§W is behind this. Our new ambassadors will arrive at §Y$DATE$§W;x
+REMOVE_WE_ARE_DISCREDITED;We have been discredited by §Y$COUNTRY$§W, which increases the influence cost of our actions by §Y$PERCENT$%§W. We hope to have cleared our reputation by §Y$DATE$§W;x
+WARSUB_MUST_BE_AT_WAR;Country must be at war in order to receive war subsidies;x
+WARSUBSIDIES_THEY_ACCEPT_LOG;We are now giving war subsidies to $RECIPIENT$;x
+WARSUBSIDIES_WE_ACCEPT_LOG;We are now receiving war subsidies from $ACTOR$;x
+WARSUBSIDIES_OTHER_ACCEPT_LOG;$ACTOR$ are now giving war subsidies to $RECIPIENT$;x
+WARSUBSIDIES_BUTTON;War Subsidies;x
+CANCEL_WARSUBSIDIES_THEY_ACCEPT_LOG;We stopped giving war subsidies to $RECIPIENT$;x
+CANCEL_WARSUBSIDIES_WE_ACCEPT_LOG;$ACTOR$ stopped giving war subsidies to us;x
+CANCEL_WARSUBSIDIES_OTHER_ACCEPT_LOG;$ACTOR$ stopped giving war subsidies to $RECIPIENT$;x
+CANCEL_WARSUBSIDIES_DESC;Cancel monetary help to this country;x
+CANCEL_WARSUBSIDIES_BUTTON;Cancel War Subsidies;x
+ASKMILITARYACCESS_THEY_ACCEPT_LOG;$RECIPIENT$ decided to grant us Military Access;x
+ASKMILITARYACCESS_WE_ACCEPT_LOG;We decided to grant $ACTOR$ Military Access;x
+ASKMILITARYACCESS_OTHER_ACCEPT_LOG;$RECIPIENT$ decided to grant $ACTOR$ Military Access;x
+ASKMILITARYACCESS_THEY_DECLINE_LOG;$RECIPIENT$ denied us Military Access;x
+ASKMILITARYACCESS_WE_DECLINE_LOG;We denied $ACTOR$ Military Access;x
+ASKMILITARYACCESS_OTHER_DECLINE_LOG;$RECIPIENT$ denied $ACTOR$ Military Access;x
+ASKMILITARYACCESS_DESC;Allows our troops to move through their country;x
+ASKMILITARYACCESS_BUTTON;Military Access;x
+ASKMILITARYACCESS_OFFER;$ACTOR$ is requesting Military Access from us. Accepting will allow them to move ships and armies into our territory;x
+CANCELASKMILITARYACCESS_THEY_ACCEPT_LOG;We decided we no longer need Military Access through $RECIPIENT$;x
+CANCELASKMILITARYACCESS_WE_ACCEPT_LOG;$ACTOR$ decided they no longer need Military Access through our country;x
+CANCELASKMILITARYACCESS_OTHER_ACCEPT_LOG;$ACTOR$ decided they no longer need Military Access through $RECIPIENT$;x
+CANCELASKMILITARYACCESS_DESC;Removes our Military Access to this country;x
+CANCELASKMILITARYACCESS_BUTTON;Cancel Military Access;x
+GIVEMILITARYACCESS_THEY_ACCEPT_LOG;$RECIPIENT$ accepted our offer of Military Access;x
+GIVEMILITARYACCESS_WE_ACCEPT_LOG;We accepted the Military Access offer from $ACTOR$;x
+GIVEMILITARYACCESS_OTHER_ACCEPT_LOG;$RECIPIENT$ accepted the Military Access offer from $ACTOR$;x
+GIVEMILITARYACCESS_THEY_DECLINE_LOG;$RECIPIENT$ declined our offer of Military Access;x
+GIVEMILITARYACCESS_WE_DECLINE_LOG;We declined a Military Access offer from $ACTOR$;x
+GIVEMILITARYACCESS_OTHER_DECLINE_LOG;$RECIPIENT$ declined a Military Access offer from $ACTOR$;x
+GIVEMILITARYACCESS_DESC;Allows this country's troops to move through our territory;x
+GIVEMILITARYACCESS_BUTTON;Give Military Access;x
+GIVEMILITARYACCESS_OFFER;$ACTOR$ is offering us Military Access. Accepting will allow us to move ships and armies into their territory;x
+CANCELGIVEMILITARYACCESS_THEY_ACCEPT_LOG;We decided to revoke the Military Access we granted to $RECIPIENT$;x
+CANCELGIVEMILITARYACCESS_WE_ACCEPT_LOG;$ACTOR$ revoked our Military Access through their territory;x
+CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_LOG;$ACTOR$ revoked the Military Access they granted to $RECIPIENT$;x
+CANCELGIVEMILITARYACCESS_DESC;Removes the Military Access we are granting to this country;x
+CANCELGIVEMILITARYACCESS_BUTTON;Remove Military Access;x
+ALLIANCE_THEY_ACCEPT_LOG;$RECIPIENT$ entered our Military Alliance;x
+ALLIANCE_WE_ACCEPT_LOG;We entered a Military Alliance with $ACTOR$;x
+ALLIANCE_THEY_DECLINE_LOG;$RECIPIENT$ declined our Military Alliance offer;x
+ALLIANCE_WE_DECLINE_LOG;We declined a Military Alliance offer from $ACTOR$;x
+ALLIANCE_OTHER_DECLINE_LOG;$RECIPIENT$ declined a Military Alliance offer from $ACTOR$;x
+ALLIANCE_DESC;If a country accepts our Alliance offer, it may come to our assistance during wars;x
+ALLIANCE_BUTTON;Form Alliance;x
+ALLIANCE_OFFER;$ACTOR$ offers us an Alliance. By accepting it we are promising to help each other in times of war;x
+CANCELALLIANCE_THEY_ACCEPT_LOG;We have broken our Alliance with $RECIPIENT$;x
+CANCELALLIANCE_WE_ACCEPT_LOG;$ACTOR$ broke their Alliance with us;x
+CANCELALLIANCE_OTHER_ACCEPT_LOG;$ACTOR$ broke their Alliance with $RECIPIENT$;x
+CANCELALLIANCE_DESC;Ends our current Alliance with this country and will adversely affect relations;x
+CANCELALLIANCE_BUTTON;Dissolve Alliance;x
+CALLALLY_THEY_ACCEPT_LOG;$RECIPIENT$ has come to aid us in our war;x
+CALLALLY_WE_ACCEPT_LOG;We've agreed to aid $ACTOR$ in their war;x
+CALLALLY_OTHER_ACCEPT_LOG;$RECIPIENT$ agreed to aid $ACTOR$ in their war;x
+CALLALLY_THEY_DECLINE_LOG;$RECIPIENT$ declined to aid us in our war;x
+CALLALLY_WE_DECLINE_LOG;We've declined to aid $ACTOR$ in their war;x
+CALLALLY_OTHER_DECLINE_LOG;$RECIPIENT$ declined to aid $ACTOR$ in their war;x
+CALLALLY_BUTTON;Call Ally;x
+DISCREDIT_THEY_ACCEPT_LOG;We have discredited $TARGET$, which lessens their influence on $RECIPIENT$;x
+DISCREDIT_WE_ACCEPT_LOG;$ACTOR$ has discredited $TARGET$, we will be less influenced by them;x
+DISCREDIT_OTHER_ACCEPT_LOG;$ACTOR$ has discredited $TARGET$, which lessens their influence on $RECIPIENT$;x
+DISCREDIT_DESC;Discredit another Great Power, making it harder for them to influence this country. Lasts §Y$DAYS$§W days;x
+DISCREDIT_BUTTON;Discredit;x
+EXPELADVISORS_THEY_ACCEPT_LOG;We convinced $RECIPIENT$ to expel all advisors from $TARGET$;x
+EXPELADVISORS_WE_ACCEPT_LOG;We were convinced by $ACTOR$ to expel all advisors from $TARGET$;x
+EXPELADVISORS_OTHER_ACCEPT_LOG;$ACTOR$ convinced $RECIPIENT$ to expel all advisors from $TARGET$;x
+EXPELADVISORS_DESC;This removes all influence from a Great Power in this country. Also removes Discredit effect;x
+EXPELADVISORS_BUTTON;Expel Advisors;x
+BANEMBASSY_THEY_ACCEPT_LOG;We convinced $RECIPIENT$ to ban the ambassadors of $TARGET$;x
+BANEMBASSY_WE_ACCEPT_LOG;We were convinced by $ACTOR$ to ban the ambassadors from $TARGET$;x
+BANEMBASSY_OTHER_ACCEPT_LOG;$ACTOR$ convinced $RECIPIENT$ to ban the ambassadors from $TARGET$;x
+BANEMBASSY_DESC;This removes all influence from a Great Power in this country, and prevents them from doing any diplomatic actions there for §Y$DAYS$§W days. Also removes Discredit effect;x
+BANEMBASSY_BUTTON;Ban Embassy;x
+INCREASEOPINION_THEY_ACCEPT_LOG;We increased the opinion of us in $RECIPIENT$ to $OPINION$;x
+INCREASEOPINION_WE_ACCEPT_LOG;Our opinion of $ACTOR$ has increased to $OPINION$;x
+INCREASEOPINION_OTHER_ACCEPT_LOG;$RECIPIENT$'s opinion of $ACTOR$ has increased to $OPINION$;x
+INCREASEOPINION_DESC;Increases the opinion of us in this country;x
+INCREASEOPINION_BUTTON;Increase Opinion;x
+DECREASEOPINION_THEY_ACCEPT_LOG;We decreased the opinion of $TARGET$ in $RECIPIENT$ to $OPINION$;x
+DECREASEOPINION_WE_ACCEPT_LOG;$ACTOR$ has lowered our opinion of $TARGET$ to $OPINION$;x
+DECREASEOPINION_OTHER_ACCEPT_LOG;$ACTOR$ has lowered the opinion of $TARGET$ in $RECIPIENT$ to $OPINION$;x
+DECREASEOPINION_DESC;Decreases the opinion of another Great Power in this country;x
+DECREASEOPINION_BUTTON;Decrease Opinion;x
+ADDTOSPHERE_THEY_ACCEPT_LOG;We have included $RECIPIENT$ in our Sphere of Influence;x
+ADDTOSPHERE_WE_ACCEPT_LOG;$ACTOR$ has included us in their Sphere of Influence;x
+ADDTOSPHERE_OTHER_ACCEPT_LOG;$ACTOR$ has included $RECIPIENT$ in their Sphere of Influence;x
+ADDTOSPHERE_DESC;Adds this country to our Sphere of Influence;x
+ADDTOSPHERE_BUTTON;Add to Sphere;x
+REMOVEFROMSPHERE_THEY_ACCEPT_LOG;We have removed $RECIPIENT$ from the Sphere of Influence of $TARGET$;x
+REMOVEFROMSPHERE_WE_ACCEPT_LOG;$ACTOR$ has removed us from the Sphere of Influence of $TARGET$;x
+REMOVEFROMSPHERE_OTHER_ACCEPT_LOG;$ACTOR$ has removed $RECIPIENT$ from the Sphere of Influence of $TARGET$;x
+REMOVEFROMSPHERE_BUTTON;Remove from Sphere;x
+INCREASERELATION_THEY_ACCEPT_LOG;We have increased our relations with $RECIPIENT$;x
+INCREASERELATION_OTHER_ACCEPT_LOG;$ACTOR$ has increased their relations with $RECIPIENT$.;x
+INCREASERELATION_DESC;Increases the relations between our countries;x
+DECREASERELATION_THEY_ACCEPT_LOG;We have decreased our relations with $RECIPIENT$;x
+DECREASERELATION_OTHER_ACCEPT_LOG;$ACTOR$ has decreased their relations with $RECIPIENT$;x
+DECREASERELATION_DESC;Decreases the relations between our countries;x
+INCREASERELATION_BUTTON;Increase Relations;x
+DECREASERELATION_BUTTON;Decrease Relations;x
+WAR_BUTTON;Declare War;x
+PEACE_BUTTON;Propose Peace;x
+NEED_RELATION_LESS;Relations are too high, we need to be below §Y$LIMIT$§W but are currently at §Y$VAL$§W;x
+ALREADY_MAKING_CB;We are already preparing a justification for war with §Y$TARGET$§W;x
+MAKE_CB_BUTTON;Justify War;x
+MAKE_CB_DESC;Produce a justification for war with them;x
+GIVE_UNIT_COMMAND_BUTTON;Command Units;x
+GIVE_UNIT_COMMANDTITLE;Command Units;x
+GIVE_UNIT_COMMAND_DESC;While fighting a war together, a puppet's overlord may take command of their units;x
+GIVE_UNIT_COMMAND_OK;Ask your puppet to take back command over their own units;x
+GIVE_UNIT_COMMAND_CANT_CONTROL;You can command units of your §Ypuppets§! only when you are fighting in a war together;x
+GIVE_UNIT_COMMAND_ALREADY_CONTROL;You are already in command of their units;x
+CANCEL_UNIT_COMMAND_BUTTON;Give Back Units;x
+CANCEL_UNIT_COMMANDTITLE;Give Back Units;x
+CANCEL_UNIT_COMMAND_DESC;Give Back Units;x
+CANCEL_UNIT_COMMAND_OK;Give them back their units;x
+CANCEL_UNIT_COMMAND_NOT_IN_CONTROL;You are not in command of this unit;x
+DIPLOMACY_CANNOT_JOIN_WAR_INVALID_ALLY;Already at war with §Y$COUNTRY$§W, we cannot join their side in this war;x
+DIPLOMACY_CANNOT_JOIN_WAR_INVALID_ENEMY;Already at war with §Y$COUNTRY$§W, we cannot start another war against them;x
+DIPLOMACY_CANNOT_JOIN_WAR_ALLIED_ENEMY;Allied with §Y$COUNTRY$§W in another war, we cannot start another war against them;x
+DIPLOMACY_ALREADY_IN_WAR;Already involved in this war;x
+CALLALLY_DESC;Call on our partner to aid us in our conflicts.\n$VERSUS$;x
+REMOVEFROMSPHERE_DESC;Removes nation from a §YGreat Power§W's Sphere of Influence;x
+FE_SCORE;Score;x
+DIPLOMACY_SET_PRIO_DESC;Influence represents a §YGreat Power§W's clout inside a country;x
+DIPLOMACY_PRIMARYCULTURE_DESC;The primary culture represents people who are first-class citizens in our country;x
+DIPLOMACY_ACCEPTEDCULTURE_DESC;Our accepted culture(s) are people that are tolerated in our country;x
+DIPLOMACY_TRUCE_WITH;Truce with:;x
+DIPLOMACY_CASUSBELLIS;Casus bellis:;x
+DIPLOMACY_AT_WAR_WITH;At war with:;x
+TRUCE_LASTS_UNTIL;Truce lasts until §Y$DATE$§W;x
+WARGOAL_DESC;Add war goal;x
+DIPL_NOT_AT_WAR;We are not at war;x
+DIPLOMACY_ALMOST_WESTERN_NATION_STATUS;Partially Westernised Nation;x
+DIPLOMACY_PRIMITIVENATION_STATUS;Primitive Nation;x
+DOMINION_OF_NOCOLOR;Dominion of;x
+SATELLITE_OF_NOCOLOR;Satellite of;x
+SUBSTATE_OF_NOCOLOR;Substate of;x
+WARSUBSIDIES_DESC;Offer §Y$MONEY$§W¤ each day to help this nation;x
+WAR_DESC;Declaring war will allow our troops to attack theirs and allow us to enter their country. War will continue until either party surrenders;x
+REL_SPHERE_OF_INFLUENCE;In Sphere;x
+DIPLOMACY_PRIO;Prio.;x
+DIPLOMACY_CAN_INTERVENE;Intervene in War;x
+DIPLOMACY_CANNOT_INTERVENE;Intervene in War\nWe cannot join this side because:;x
+EXILED_DESC;This unit is §Rexiled§!, as it's in foreign territory during peacetime without military access. Exiled units cannot engage in combat, and their scouting abilities are reduced, but they are able to march home through foreign territory. Return your unit to the nearest owned province!;x
+TWS_FULFILLED;Fulfilled in $PERC$;x
+TWS_NOT_FULFILLED;§RNot Fulfilled§!;x
+TICKING_WARSCORE_DESC_CURR;Currently $VAL$;x
+UNIT_BORROWED;This unit is temporarly under our command;x
+DISBAND_TOO_SMALL_UNIT;Disband Undermanned Brigades;x
+DISBAND_TOO_SMALL_UNIT_DRO;This option will disband all brigades that are not currently supported by a full-strength soldier POP;x
+CONFIRM_DISBAND_TOO_SMALL_TITLE;Do you wish to disband all undermanned brigades?;x
+CONFIRM_DISBAND_TOO_SMALL_DESC;This will remove all brigades that are not currently supported by a full-strength soldier POP. Any manpower remaining in those brigades will be returned to the pool;x
+MODIFIER_RESEARCH_POINTS_ON_CONQUER;Research points bonus when conquering;x
+COLONIZE_PHASE_INITIAL_INTEREST;Send Expedition;x
+COLONIZE_PHASE_INITIAL_INTEREST_DESC;The first step of influencing an area is to send an expedition. If it is not challenged in §Y$DAYS$§! days it will allow you to create a protectorate;x
+INITIAL_COLONIZE_DEFAULT_TIME;If nobody competes with your expedition by §Y$DATE$§! you can skip directly to creating a protectorate;x
+NON_COLONIAL_POWER;We are not a second rank nation or great power yet so we have no colonial power;x
+CRISIS_DESCRIPTION_COLONIZE;Crisis over the rights to colonize;x
+colonial_competition;Enforce colonial claim;x
+colonial_competition_desc;Acquire a §Ycolonial region§!;x
+colonial_competition_short;Acquire colony $REGION$;x
+colonial_competition_setup;Acquire colony $REGION$;x
+CB_COLONY_CLAIMS;Enforce colonial claim;x
+COLONY_TENSION_DRIFT;Drift: §Y$VAL$§!;x
+COLONY_IN_CRISIS;Currently involved in colonial crisis;x
+no_personality;No Traits;x
+no_background;No Traits;x
