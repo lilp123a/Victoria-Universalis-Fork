@@ -4,3 +4,4 @@ user_dir = "Victoria Universalis Fork"
 
 replace_path = "localisation"
 replace_path = "units"
+replace_path = "tutorial"
