@@ -62,12 +62,11 @@ AST_colonial_company;Province of Australia;x
 ATJ;Aceh;x
 ATJ_ADJ;Acehnese;x
 AUS;Austria;x
-AUS_absolute_monarchy;Austrian Empire;x
-AUS_prussian_constitutionalism;Austrian Empire;x
-AUS_hms_government;Austrian Empire;x
+AUS_absolute_monarchy;The Austrian Empire;x
+AUS_prussian_constitutionalism;The Austrian Empire;x
+AUS_hms_government;The Austrian Empire;x
 AUS_proletarian_dictatorship;Austrian Workers' Republic;x
 AUS_fascist_dictatorship;Austrian State;x
-AUS_democracy;Austrian Republic;x
 AUS_ADJ;Austrian;x
 AWA;Oudh;x
 AWA_ADJ;Oudhi;x
@@ -95,6 +94,11 @@ BAV_proletarian_dictatorship;Bavarian Räterepublik;x
 BDK;Badakhshan;x
 BDK_ADJ;Badakhshani;x
 BEL;Belgium;x
+BEL_absolute_monarchy;Kingdom of Belgium;x
+BEL_prussian_constitutionalism;Kingdom of Belgium;x
+BEL_hms_government;Kingdom of Belgium;x
+BEL_proletarian_dictatorship;Belgian Workers' Republic;x
+BEL_fascist_dictatorship;Belgian State;x
 BEL_ADJ;Belgian;x
 BEN;Benin;x
 BEN_ADJ;Beninese;x
@@ -689,6 +693,11 @@ NEN_ADJ;New English;x
 NEP;Nepal;x
 NEP_ADJ;Nepali;x
 NET;Netherlands;x
+NET_absolute_monarchy;Kingdom of the Netherlands;x
+NET_prussian_constitutionalism;Kingdom of the Netherlands;x
+NET_hms_government;Kingdom of the Netherlands;x
+NET_proletarian_dictatorship;Dutch Workers' Republic;x
+NET_fascist_dictatorship;Dietsland;x
 NET_ADJ;Dutch;x
 NEW;Newfoundland;x
 NEW_ADJ;Newfoundlander;x
