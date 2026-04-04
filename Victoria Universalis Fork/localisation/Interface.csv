@@ -1894,3 +1894,6 @@ COLONY_TENSION_DRIFT;Drift: §Y$VAL$§!;x
 COLONY_IN_CRISIS;Currently involved in colonial crisis;x
 no_personality;No Traits;x
 no_background;No Traits;x
+POOR_STRATA;Lower Class;x
+MIDDLE_STRATA;Middle Class;x
+RICH_STRATA;Upper Class;x
