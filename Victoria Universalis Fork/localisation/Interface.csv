@@ -883,7 +883,7 @@ TECHNOLOGYVIEW_HAVE_DISCOVERED_PREREQ_TOOLTIP;Discovered §Y$TECH$§W;x
 TECHNOLOGYVIEW_HAVE_NOT_YEAR;It is not possible to start researching this before §Y$YEAR$§W;x
 TECHNOLOGYVIEW_NO_RESEARCH_UNCIV_TOOLTIP;High level technology is only available to civilised nations. By westernising in the §Ypolitics tab§! you can aquire base technology and start researching;x
 TECHNOLOGY_ACTIVATION_YEAR;Activation:;x
-TECHNOLOGY_RESEARCH_POINTS;Cost:;x
+TECHNOLOGY_RESEARCH_POINTS;Research Cost:;x
 ENABLE_CRIME_TECH;Allow ;x
 DIGIN_FROM_TECH;Dig-In Cap;x
 ENABLE_UNIT_TECH;Allows construction of;x

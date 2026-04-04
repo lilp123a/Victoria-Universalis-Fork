@@ -1260,11 +1260,15 @@ oil_driven_ships = {
 	}
 }
 
-aircraft_carriers = {
+modern_ships = {
 	area = ship_construction
 	year = 1920
 	cost = 21600
 	unciv_military = yes
+	
+	navy_base = {
+		maximum_speed = 1
+	}
 	
 	ai_chance = {
 		factor = 1

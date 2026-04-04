@@ -355,11 +355,36 @@ modern_battleships = {
 	}
 }
 
-################
-### CARRIERS ###
-################
+####################
+### MODERN SHIPS ###
+####################
 
-
+end_of_the_battleship = {
+	limit = { modern_ships = 1 }
+	
+	chance = {
+		base = 2
+		
+		modifier = {
+			factor = 2
+			invention = modern_cruisers
+		}
+	}
+	
+	effect = {
+		cruiser = {
+			hull = 1
+			gun_power = 1
+			fire_range = 0.05
+		}
+		
+		monitor = {
+			hull = 0.5
+			torpedo_attack = 1
+			fire_range = 0.05
+		}
+	}
+}
 
 ############################
 ### FIRE CONTROL SYSTEMS ###
@@ -961,15 +986,18 @@ naval_aviation = {
 	limit = { naval_aviation = 1 }
 	
 	chance = {
-		base = 0
+		base = 3
 		
 		modifier = {
-			factor = 10
-			aircraft_carriers = 1
+			factor = 2
+			modern_ships = 1
 		}
 	}
 	
 	effect = {
+		navy_base = {
+			fire_range = 0.10
+		}
 	}
 }
 
