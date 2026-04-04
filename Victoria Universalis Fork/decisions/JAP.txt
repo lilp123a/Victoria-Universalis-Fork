@@ -129,7 +129,7 @@ political_decisions = {
 				}
 			}
 		}
-
+		
 		ai_will_do = {
 			factor = 1
 		}
@@ -142,18 +142,21 @@ political_decisions = {
 				tag = JAP
 				tag = TKG
 			}
+			
+			exists = JAP
+			exists = TKG
+			
 			NOT = { has_global_flag = boshin_war }
-			NOT = { has_global_flag = mp_1836_literacy_setup }
 		}
+		
 		allow = {
-			OR = {
-				NOT = { ai = yes }
-				war = no
-			}
 			civilization_progress = 0.5
+			war = no
 		}
+		
 		effect = {
 			set_global_flag = boshin_war
+			
 			TKG = { release_vassal = JAP }
 			TKG = { all_core = { add_core = JAP } }
 			JAP = { all_core = { add_core = TKG } }
@@ -170,11 +173,25 @@ political_decisions = {
 				}
 			}
 		}
+		
 		ai_will_do = {
 			factor = 1
+			
 			modifier = {
 				factor = 0
-				NOT = { civilization_progress = 0.5 }
+				
+				# Don't allow the AI to declare on a player
+				OR = {
+					AND = {
+						TKG = { ai = yes }
+						JAP = { ai = no }
+					}
+					
+					AND = {
+						TKG = { ai = no }
+						JAP = { ai = yes }
+					}
+				}
 			}
 		}		
 	}

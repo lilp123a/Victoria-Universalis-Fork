@@ -94,9 +94,9 @@ BAV_proletarian_dictatorship;Bavarian Räterepublik;x
 BDK;Badakhshan;x
 BDK_ADJ;Badakhshani;x
 BEL;Belgium;x
-BEL_absolute_monarchy;Kingdom of Belgium;x
-BEL_prussian_constitutionalism;Kingdom of Belgium;x
-BEL_hms_government;Kingdom of Belgium;x
+BEL_absolute_monarchy;The Kingdom of Belgium;x
+BEL_prussian_constitutionalism;The Kingdom of Belgium;x
+BEL_hms_government;The Kingdom of Belgium;x
 BEL_proletarian_dictatorship;Belgian Workers' Republic;x
 BEL_fascist_dictatorship;Belgian State;x
 BEL_ADJ;Belgian;x
@@ -470,9 +470,11 @@ JAM_ADJ;Jamaican;x
 JAN;World Bank;x
 JAN_ADJ;§;x
 JAP;Japan;x
-JAP_absolute_monarchy;Imperial Japan;x
+JAP_absolute_monarchy;The Empire of Japan;x
+JAP_prussian_constitutionalism;The Empire of Japan;x
+JAP_hms_government;The Empire of Japan;x
+JAP_proletarian_dictatorship;Japanese People's Republic;x
 JAP_ADJ;Japanese;x
-JAP_hms_government;Imperial Japan;x
 JAS;Jaisalmer;x
 JAS_ADJ;Jaisalmeri;x
 JAV;Java;x
@@ -693,9 +695,9 @@ NEN_ADJ;New English;x
 NEP;Nepal;x
 NEP_ADJ;Nepali;x
 NET;Netherlands;x
-NET_absolute_monarchy;Kingdom of the Netherlands;x
-NET_prussian_constitutionalism;Kingdom of the Netherlands;x
-NET_hms_government;Kingdom of the Netherlands;x
+NET_absolute_monarchy;The Kingdom of the Netherlands;x
+NET_prussian_constitutionalism;The Kingdom of the Netherlands;x
+NET_hms_government;The Kingdom of the Netherlands;x
 NET_proletarian_dictatorship;Dutch Workers' Republic;x
 NET_fascist_dictatorship;Dietsland;x
 NET_ADJ;Dutch;x
@@ -715,9 +717,9 @@ NYE_absolute_monarchy;Zaydi;x
 NYE_absolute_monarchy_ADJ;Zaidiyyah;x
 NYE_ADJ;North Yemeni;x
 NYE_democracy;Yemen Arab Republic;x
-NYE_hms_government;Kingdom of Yemen;x
+NYE_hms_government;The Kingdom of Yemen;x
 NYE_presidential_dictatorship;Yemen Arab Republic;x
-NYE_prussian_constitutionalism;Kingdom of Yemen;x
+NYE_prussian_constitutionalism;The Kingdom of Yemen;x
 NZL;New Zealand;x
 NZL_ADJ;New Zealand;x
 NZL_colonial_company;New Zealand Company;x
@@ -794,12 +796,11 @@ PRG;Paraguay;x
 PRG_ADJ;Paraguayan;x
 PRO;§YProvince RGO Expansion Flag\n§WWhen a province changes owners or is turned from a colony to a state, all old province modifiers are automatically removed. This flag allows RGO expansions to be remembered and transferred if a province changes ownership.;x
 PRU;Prussia;x
-PRU_absolute_monarchy;Kingdom of Prussia;x
-PRU_prussian_constitutionalism;Kingdom of Prussia;x
-PRU_hms_government;Kingdom of Prussia;x
+PRU_absolute_monarchy;The Kingdom of Prussia;x
+PRU_prussian_constitutionalism;The Kingdom of Prussia;x
+PRU_hms_government;The Kingdom of Prussia;x
 PRU_proletarian_dictatorship;Prussian Workers' Republic;x
 PRU_fascist_dictatorship;Prussian State;x
-PRU_democracy;Prussian Republic;x
 PRU_ADJ;Prussian;x
 QNG;Qing;x
 QNG_absolute_monarchy;The Qing Empire;x
@@ -906,9 +907,9 @@ SOM_colonial_company;Dervish State;x
 SOM_colonial_company_ADJ;Dervish;x
 SOM_proletarian_dictatorship;Somali Democratic Republic;x
 SPA;Spain;x
-SPA_absolute_monarchy;Kingdom of Spain;x
-SPA_prussian_constitutionalism;Kingdom of Spain;x
-SPA_hms_government;Kingdom of Spain;x
+SPA_absolute_monarchy;The Kingdom of Spain;x
+SPA_prussian_constitutionalism;The Kingdom of Spain;x
+SPA_hms_government;The Kingdom of Spain;x
 SPA_proletarian_dictatorship;Spanish Workers' Republic;x
 SPA_ADJ;Spanish;x
 SPC;Spain;x
@@ -958,7 +959,7 @@ TIB;Tibet;x
 TIB_ADJ;Tibetan;x
 TIG;Tigray;x
 TIG_ADJ;Tigrayan;x
-TKG;Shogunate Japan;x
+TKG;The Tokugawa Shogunate;x
 TKG_ADJ;Tokugawa;x
 TKM;Turkmenistan;x
 TKM_ADJ;Turkmenian;x

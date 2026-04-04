@@ -734,7 +734,7 @@ TOG;Togo;x
 EVTOPTA35920;We will drive back the white devils!;x
 CHO_hms_government;Choshu;x
 dar_al_funun;The Dar al funun.;x
-switch_to_army_tech_desc;Cooperation between private industrialists and the military, on the issues of national defense and war policy, have led to the development of a particularly important web of connections, personal ties and acquaintances, with just an ever so slight hint of corruption, that can best be described as a Military-Industrial Complex. By furthering the goals and ambitions of these informal networks within our academia, we can boost industrial and military research, at the expense of navy and culture.;x
+switch_to_army_tech_desc;Cooperation between private industrialists and the military, on the issues of national defence and war policy, have led to the development of a particularly important web of connections, personal ties and acquaintances, with just an ever so slight hint of corruption, that can best be described as a Military-Industrial Complex. By furthering the goals and ambitions of these informal networks within our academia, we can boost industrial and military research, at the expense of navy and culture.;x
 gtfo_MRN_title;Grant Maranhão Independence;x
 EVTNAME44660;Portuguese Vassalage;x
 cancel_trade_agreements_20_desc;By cancelling our current trade agreement, we are free to enter into a new a trade agreement with another country.;x
@@ -2201,7 +2201,7 @@ Owned by $owner$.;Owned by $owner$.;x
 EVTOPTA3202;Redraw the Constituency!;x
 take_from_sphere;Take from sphere of influence;x
 LUZ_communist;Communist Party;x
-EVTDESC15100;So take arms! Impoverished, starved and hungry brethren of $PROVINCENAME$. In name of our Lord and in defense of eternal rights, let us drive the occupiers out of our native land!' Local aristocrats in $PROVINCENAME$ are arguing revolution against our rule. We could confront them now, but then again it might be better to wait for another opportunity.;x
+EVTDESC15100;So take arms! Impoverished, starved and hungry brethren of $PROVINCENAME$. In name of our Lord and in defence of eternal rights, let us drive the occupiers out of our native land!' Local aristocrats in $PROVINCENAME$ are arguing revolution against our rule. We could confront them now, but then again it might be better to wait for another opportunity.;x
 cut_down_to_size_short;Cut $RECIPIENT$ down to size;x
 EVTOPTA60130;Let's do it;x
 EVTDESC36607;The hardships continued in 1869. Epidemics broke out and both cities and the countryside witnessed scenes of famine, desperation and begging. Emigration continued on a large scale, with over sixty thousand people leaving Sweden during the three starvation years 1867-69.;x
@@ -2855,7 +2855,7 @@ own_suez_canal;The Suez Canal;x
 EVTDESC1139;For a long time, rumors have circulated among natives of a mythical place on the highveld where gold nuggets the size of apples lie scattered openly on the ground. Whether the legend was originally a figment of fact or fiction, it was confirmed today, when prospectors in the Witwatersrand struck a motherlode of gold. News of the gold rush are spreading throughout the world like wildfire, and a new town has been incorporated in the province to deal with this new influx of fortune seekers and Uitlanders. The province will henceforth be known, simply, as 'Johannesburg'.;x
 first_balkan_war_setup;Liberate the Balkans;x
 CANCELGIVEMILITARYACCESS_WE_ACCEPT_1;§Y$ACTOR$§W;x
-EVTOPTA36612;Yes, our defense must be strong!;x
+EVTOPTA36612;Yes, our defence must be strong!;x
 muzzle_loaded_rifle_armament_desc;A muzzle-loading rifle is a gun in which the projectile and propelling charge is loaded through the front-end of the gun, in contrast to a breech loading rifle. Hand held rifles were well-developed by the 1740s. A recognizable form of the 'muzzleloader' is the Kentucky Rifle, which was actually developed in Pennsylvania. The American Longrifle evolved from the German 'Jäger' rifle.;x
 GIVEMILITARYACCESS_WE_DECLINE_2;$MONARCHTITLE$, we have found that;x
 EVTDESC3751;Everywhere we go we can hear the sounds and murmurings of political discussions. It is becoming abundantly clear that the people in $COUNTRY$ are slowly waking up to more democratic traditions, and, as a result, the ban on public meetings is being less and less enforced for every day that passes. Just yesterday, in fact, a public meeting in one of our provinces was even attended by a local politician. When established members of our society do not think twice before breaking a law, maybe it is time to change it.;x
@@ -3626,7 +3626,7 @@ EVTNAME10120;$PROVINCENAME$ Herald;x
 EVTNAME12240;In The Drunk Tank;x
 EVTDESC36701;1847 saw the forming of the Flemish Movement. The movement, formed by manifesto, was to be the voice of the Flemish inhabitants of Belgium. It evolved to be a broad gathering of different Flemish organisations: sport clubs, music groups, theaters, intellectual organisations and so on. At first, the Movement was apolitical, but over the years, its followers became more and more militant in their beliefs and convictions. The Flemish Movement would later lead, for example, the formation of parties that lobbied for more Flemish rights in political life.;x
 CRISIS_OFFER_WE_ACCEPT_HEADER;The Foreign Minister reports;x
-svenska_pansarbats_foreningen_desc;The Swedish Armed Cruiser Association was formed in 1912 in order to raise money for the purchase of a modern coastal defense cruiser for the Swedish Navy. The project met with a great deal of popular success, and the Association was, within a mere hundred days, able to present His Majesty Gustav V with the sum of some 15 million kronor, which would eventually be used to commission the 'HMS Sverige', launched in 1915.;x
+svenska_pansarbats_foreningen_desc;The Swedish Armed Cruiser Association was formed in 1912 in order to raise money for the purchase of a modern coastal defence cruiser for the Swedish Navy. The project met with a great deal of popular success, and the Association was, within a mere hundred days, able to present His Majesty Gustav V with the sum of some 15 million kronor, which would eventually be used to commission the 'HMS Sverige', launched in 1915.;x
 CEASECOLONIZATION_WE_DECLINE_3;from §Y$ACTOR$§W to stop colonizing $RSTATE$.;x
 CRISIS_OFFERTITLE;Make Offer;x
 pancasila;Pancasila;x
@@ -6232,7 +6232,7 @@ EVTNAME44613;The Balaiada;x
 restore_alsace_desc;Since the Alsace has been restored to its rightful place within the French nation, we should probably revert the street signs back to French.;x
 gtfo_TRN_title;Grant Transvaal Independence;x
 EVTDESC17120;So I ask you, sisters, write! Write to your congressman, your local MP, your grandmother, someone, anyone! If the world will not come around to the message that women, considered as political animals, are equal to men in every relevant aspect, then the message will have to come around to it!'\n\nThe $COUNTRY_ADJ$ suffragette movement has initiated a letter campaign with the ambitious goal of reaching every MP with a thousand letters every year, until female suffrage is passed, and women are given the right to vote. The campaign has had a fair amount of effect already.;x
-EVTOPTA36205;Strengthen the defenses of Copenhagen.;x
+EVTOPTA36205;Strengthen the defences of Copenhagen.;x
 ALLIANCETITLE;Offer Alliance;x
 yazidi_group;Yazidi Group;x
 SMI_conservative;Conservative Party;x
@@ -6265,7 +6265,7 @@ GETSUB;Gets subsidies from $LIST$.;x
 BE_PRESTIGE;Prestige;x
 fake_war_desc;Declares war on a non-existant country and allows the player to take control of puppet troops when not in a real war. The Fake War can be ended by decision at any time.;x
 PAYSUB;Is subsidising $LIST$.;x
-COMBAT_LEADER_MOD_DEFENSE;Leader defense;x
+COMBAT_LEADER_MOD_DEFENSE;Leader defence;x
 EVTNAME14060;Export and Import;x
 OV_CONT;Checking the continuous box will start the mission immediately and allow it to continue until canceled by the player.;x
 neuchatel_crisis_escalated;Neuchatel Crisis;x
@@ -6527,9 +6527,9 @@ ruhr_boom;The Ruhr Boom;x
 PERC_OF_PARLAMENT;$PERC$% of Parliament.;x
 westward_migration;Westward Migration;x
 NOV_socialist;Socialist Party;x
-the_boshin_war_title;Begin The Boshin War;x
+the_boshin_war_title;Begin the Boshin War;x
 RHI_conservative;Zentrumspartei;x
-EVTDESC14180;The debate in $COUNTRY$ in the preludes to the coming election mostly concerns the military and defense policies of $COUNTRY$. The state has long been a bastion of hawkish sentiments with regards to foreign policy, and this year does not seem to be an exception. It is clear that jingoistic policies will be favored in voter turnouts, but a turn in the debate could perhaps reduce the impact.;x
+EVTDESC14180;The debate in $COUNTRY$ in the preludes to the coming election mostly concerns the military and defence policies of $COUNTRY$. The state has long been a bastion of hawkish sentiments with regards to foreign policy, and this year does not seem to be an exception. It is clear that jingoistic policies will be favored in voter turnouts, but a turn in the debate could perhaps reduce the impact.;x
 colorado_sympathies_desc;This region is under Colorado influence and it's likely to cause trouble.;x
 underground_railroad_shutdown_desc;A few underground railroads in our nation were shut down and this act is fresh in the memory of the American people.;x
 liberal;Liberal;x
@@ -8272,7 +8272,7 @@ EVTNAME16410;Breaking The Anaconda!;x
 bad_badboy_desc;Our great nation has acquired many enemies and now most of the nations in the world see us as an international threat. They joined forces to isolate us in an attempt to bring us down.;x
 independence_of_norway;The Independence of Norway;x
 EVTNAME16400;$FROMCOUNTRY$ Applies For Statehood!;x
-EVTDESC16310;In a ruling delivered today, the Supreme Court has decided that the slaves involved in the violent rebellion aboard the Spanish schooner 'Amistad' of 1839, later apprehended near Long Island, New York, were merely, in light of the outlawing of the trans-atlantic slave trade, acting in defense of their personal liberty. The case is viewed as a landmark victory for the abolitionist movement, and public awareness over the slavery issue is rising.;x
+EVTDESC16310;In a ruling delivered today, the Supreme Court has decided that the slaves involved in the violent rebellion aboard the Spanish schooner 'Amistad' of 1839, later apprehended near Long Island, New York, were merely, in light of the outlawing of the trans-atlantic slave trade, acting in defence of their personal liberty. The case is viewed as a landmark victory for the abolitionist movement, and public awareness over the slavery issue is rising.;x
 EVTOPTA16300;So this is the little lady...;x
 EVTDESC4201;A nationwide political reform club has formed in $COUNTRY$. The club has made it its agenda to reform the $COUNTRY_ADJ$ voting system, and they have initially been able to gain a fair amount of political traction in the public debate. The club wants to see our Jeffersonian voting system replaced with one of proportional representation. The club argues that a proportional representation allows for a fairer and more balanced representation for the totality of our population, rather than for arbitrary political voting circles. With the amount of traction that the club has been able to garner, we would be hard pressed if we gave it no attention, on the other hand, reform might not be on our agenda right now.;x
 CANCELASKMILITARYACCESS_OTHER_ACCEPT_HEADER;The Foreign Minister reports;x
@@ -9021,7 +9021,7 @@ EVTNAME12170;Dyeworks Accident;x
 EVTOPTA12160;Social Responsibility!;x
 gtfo_KZB_desc;We've had a good run, but it's time to end our rulership of Kazembe: if you love something, let it go!;x
 good_schools_fully_funded;Fully Funded Education;x
-IS_NOT_CIVILIZED;is NOT civilised.;x
+IS_NOT_CIVILIZED;is NOT civilised;x
 EVTDESC12160;$PROVINCENAME$ has been making quite a name for itself in the cement industry over the past few years. What started out as smalltime production in a family business has now grown to an industry big enough to support the entire province, and the name 'Standard $PROVINCENAME$ Cement' is becoming a household name. $COUNTRY_ADJ$ cement recipes from $PROVINCENAME$ are being admired and imitated across the world!;x
 conquest_of_the_chaco_desc;The Chaco region has largely remained in native hands until now. It's time to pacify this region and expand our borders, we need to claim this land so no one can deny it from us.;x
 zcountry_decrease_colonial_migration_title;§YDecrease Colonial Migration;x
@@ -10103,7 +10103,7 @@ ALLIANCE_THEY_DECLINE_2;$MONARCHTITLE$, we bring serious news:;x
 EVTOPTA100;What's wrong with a few drinks? *hiccup*;x
 gtfo_LBY_title;Grant Libya Independence;x
 instigators;Political Instigators;x
-EVTDESC100;With the ravages of alcohol taking a daily toll on our people, tearing away, every day with newfound intensity, at the moral and spiritual fabric of our national character, it becomes imperative for us to bond together in defense of public virtue, and to educate and uplift the poor and the downtrodden to the virtues of temperance.'\n\nFor quite some time now, our country has been dealing with increases in the consumption of alcohol. Readily available, and cheap, distilled spirits, in combination with hard working conditions, make the poorer classes especially susceptible to this deadly poison. It comes as no surprise that a $COUNTRY_ADJ$ Temperance League has been formed;x
+EVTDESC100;With the ravages of alcohol taking a daily toll on our people, tearing away, every day with newfound intensity, at the moral and spiritual fabric of our national character, it becomes imperative for us to bond together in defence of public virtue, and to educate and uplift the poor and the downtrodden to the virtues of temperance.'\n\nFor quite some time now, our country has been dealing with increases in the consumption of alcohol. Readily available, and cheap, distilled spirits, in combination with hard working conditions, make the poorer classes especially susceptible to this deadly poison. It comes as no surprise that a $COUNTRY_ADJ$ Temperance League has been formed;x
 gtfo_DND_desc;We've had a good run, but it's time to end our rulership of Dendi: if you love something, let it go!;x
 ALLIEDWITHTHEM;We are allied with them.;x
 FROM_PROV_SIZE;Province Size: x;x
@@ -12624,7 +12624,7 @@ switch_to_trade_tech_desc;Our country has under the past years come increasingly
 switch_to_industry_tech_desc;Capital and government in our country have, for some time, been doing their utmost to weave between them an intricate web of personal relations, that has increasingly come to assume the forms of a symbiotic relationship of mutual dependence. By further promoting these connections between the public and private spheres of our society, we can vastly increase our technological progress in the fields of industry, at the expense, however of research in other fields.;x
 skoda_works;Škoda Works;x
 EVTNAME36702;The Potato Plague of 1845;x
-court_yard_speech_desc;The 'Courtyard Crisis' (Swedish: Borggårdskrisen) was a constitutional crisis in Sweden provoked by the reckless cuts in the defense budget promoted by the Liberal government of, then prime minister, Karl Staaf. On the 6th of February 1914 King Gustav V addressed -- with a rousing speech in favor of increased defense spendings -- a crowd of some 30.000 farmers who from every corner of the country had marched to Stockholm in support of King, Country and the Armed Forces. It was to be the last time that a Swedish Monarch interfered directly against the sacred principles of plebeian rule.;x
+court_yard_speech_desc;The 'Courtyard Crisis' (Swedish: Borggårdskrisen) was a constitutional crisis in Sweden provoked by the reckless cuts in the defence budget promoted by the Liberal government of, then prime minister, Karl Staaf. On the 6th of February 1914 King Gustav V addressed -- with a rousing speech in favor of increased defence spendings -- a crowd of some 30.000 farmers who from every corner of the country had marched to Stockholm in support of King, Country and the Armed Forces. It was to be the last time that a Swedish Monarch interfered directly against the sacred principles of plebeian rule.;x
 ATTACKUS_LOG;We have been attacked in $PROV$.;x
 PTG_reactionary;The Nationalist Faction;x
 CANCELALLIANCE_WE_ACCEPT_HEADER;The Foreign Minister reports;x
@@ -13114,7 +13114,7 @@ PROVINCEVIEW_SUPPLY_LIMIT;Supply Limit:;x
 EVTOPTA130;Close down the bars!;x
 EVTDESC2582;The Great Powers have agreed to give us our claims on $FROMCOUNTRY$.;x
 theravada_country;Theravada Religion;x
-EVTOPTC14180;There is no need for increased defense spending;x
+EVTOPTC14180;There is no need for increased defence spending;x
 CB_ALLOWED_INSTALL_COMMUNIST_GOV_TYPE;Install communist government;x
 SID_communist;Communist Faction;x
 EVTOPTA14180;To war, by Jingo!;x
@@ -13888,7 +13888,7 @@ end_gaza_kingdom_desc;It is time to end the Gaza Kingdom and expand our colonial
 EVTOPTA91711;Ask to unoccupy your provinces.;x
 is_swiss;Switzerland;x
 EVTOPTA44103;It is right and proper to return it.;x
-kommandos_desc;In times of war, each town was responsible for raising a "Kommando" force of militia for self defense. After the Great Trek, enlistment in a local Kommando became mandatory for all able bodied men between the ages of 16 and 60.;x
+kommandos_desc;In times of war, each town was responsible for raising a "Kommando" force of militia for self defence. After the Great Trek, enlistment in a local Kommando became mandatory for all able bodied men between the ages of 16 and 60.;x
 NO_GP_ACTION_ON_SELF;It would be foolish to target ourselves;x
 EVTOPTB44465;Go to war.;x
 COLONY_FAIL_MAP;Colony Failed!;x
