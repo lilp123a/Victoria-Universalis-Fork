@@ -4284,7 +4284,7 @@ EVTDESC37221;The lady with the golden voice, Mlle Sarah Bernhardt, began a world
 EVTOPTB22530;I think that the government that governs the least governs the best;x
 CANCELMILACCTITLE;Cancel Military Access;x
 DISBAND_HEADER;$chief_of_staff$ reports;x
-move_capital_to_moscow_desc;Glorious St Petersburg, the city of Peter the Great, is uncomfortably close to the border. Perhaps it would be prudent to move our capital back to Moscow, the Pervoprestolnaya", which invading armies might find harder to reach...";x
+move_capital_to_moscow_desc;Glorious St. Petersburg, the city of Peter the Great, is uncomfortably close to the border. Perhaps it would be prudent to move our capital back to Moscow, the Pervoprestolnaya", which invading armies might find harder to reach...";x
 EVTNAME15050;Underground Newspaper;x
 global_baby_boom;Baby Boom;x
 gtfo_UOH_title;Grant Ohio Independence;x
@@ -11321,7 +11321,7 @@ GUNBOAT_THEY_ACCEPT_6;*;x
 CHD_conservative;Democratic Union;x
 common_army_0;Common Army;x
 EVTNAME91704;Pass Reform Reminder;x
-russify_baltic_states_desc;The Russian press took up the topic of German influence in the Baltic provinces. As early as the 1860s, the Slavophiles demanded the end of the autonomy in the Baltic provinces and a standardized administration. The unification of Germany and its subsequent development into a Great Power considerably increased the military-strategic importance of the Estonian and Latvian territories which bordered the Baltic Sea, between the extensively autonomous Finland and the rebellious Poland-Lithuania. The security of the capital St Petersburg became a serious issue for the Russian Empire. Tsarist Russia’s government circles were afraid of the Baltic German's possible orientation towards Germany, especially worrying was the thought that by Germanizing the Estonians and Latvians, the Germans could become the majority nation in the Baltics.;x
+russify_baltic_states_desc;The Russian press took up the topic of German influence in the Baltic provinces. As early as the 1860s, the Slavophiles demanded the end of the autonomy in the Baltic provinces and a standardized administration. The unification of Germany and its subsequent development into a Great Power considerably increased the military-strategic importance of the Estonian and Latvian territories which bordered the Baltic Sea, between the extensively autonomous Finland and the rebellious Poland-Lithuania. The security of the capital St. Petersburg became a serious issue for the Russian Empire. Tsarist Russia’s government circles were afraid of the Baltic German's possible orientation towards Germany, especially worrying was the thought that by Germanizing the Estonians and Latvians, the Germans could become the majority nation in the Baltics.;x
 MODIFIER_RESEARCH_POINTS;Research Points;x
 BSQ_socialist;Abertzale Ekintza;x
 CALLALLY_THEY_DECLINE_BTN3;Go to;x
@@ -11565,7 +11565,7 @@ place_in_the_sun;Place in the sun;x
 gtfo_NEN_title;Grant New England Independence;x
 THEY_BANKRUPTCY_BTN1;Ok;x
 ansei_purge_desc;Ansei Purge was a multi-year event in Japanese history of the Edo period, during which the Tokugawa shogunate imprisoned, executed, or exiled those who did not support its authority and foreign trade policies.;x
-EVTDESC17110;Although some women try zealously to incarnate this essence, it is hardly patentable. It is frequently described in vague and dazzling terms that seem to have been borrowed from the vocabulary of the seers, and indeed in the times of St Thomas it was considered an essence as certainly defined as the somniferous virtue of the poppy.'\n- de Beauvoir, Simone -- The Second Sex\n\nA renowned $COUNTRY_ADJ$ suffragette has published a book on what can best be described as the subject of feminist theory, and the book is gaining a fair amount of attention both nationally and internationally.;x
+EVTDESC17110;Although some women try zealously to incarnate this essence, it is hardly patentable. It is frequently described in vague and dazzling terms that seem to have been borrowed from the vocabulary of the seers, and indeed in the times of Saint Thomas it was considered an essence as certainly defined as the somniferous virtue of the poppy.'\n- de Beauvoir, Simone -- The Second Sex\n\nA renowned $COUNTRY_ADJ$ suffragette has published a book on what can best be described as the subject of feminist theory, and the book is gaining a fair amount of attention both nationally and internationally.;x
 pass_folkskolereformen_desc;Folkskolereformen', The 'People School' Reform, was a law passed in Sweden in 1842 that introduced compulsory schooling for all Swedish children in a number of basic subjects, provided for by the state. 'Folkskolan' would remain the basis of Sweden's educational system up until the early 1970's, when it was sadly phased out in favor of ignorance and poor grammar.;x
 EVTOPTB80000;The Czar can go to hell!;x
 EVTDESC91003;Farm base RGO size is 40k and mine base RGO size is 10k. Provinces no longer start with a size multiplier based on population, instead their size can be increased by 100% per each level of their respective expansion building. Artisans will automatically convert to labourers at the beginning of the year if there is available work in a mine expansion.;x
