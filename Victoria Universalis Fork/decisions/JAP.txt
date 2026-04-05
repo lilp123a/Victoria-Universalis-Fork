@@ -137,6 +137,8 @@ political_decisions = {
 
 	the_boshin_war = {
 		picture = boshin_war
+		alert = yes
+		
 		potential = {
 			OR = {
 				tag = JAP
@@ -182,15 +184,8 @@ political_decisions = {
 				
 				# Don't allow the AI to declare on a player
 				OR = {
-					AND = {
-						TKG = { ai = yes }
-						JAP = { ai = no }
-					}
-					
-					AND = {
-						TKG = { ai = no }
-						JAP = { ai = yes }
-					}
+					JAP = { ai = no }
+					TKG = { ai = no }
 				}
 			}
 		}		
