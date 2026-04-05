@@ -94,9 +94,6 @@ BAV_proletarian_dictatorship;Bavarian Räterepublik;x
 BDK;Badakhshan;x
 BDK_ADJ;Badakhshani;x
 BEL;Belgium;x
-BEL_absolute_monarchy;The Kingdom of Belgium;x
-BEL_prussian_constitutionalism;The Kingdom of Belgium;x
-BEL_hms_government;The Kingdom of Belgium;x
 BEL_proletarian_dictatorship;Belgian Workers' Republic;x
 BEL_fascist_dictatorship;Belgian State;x
 BEL_ADJ;Belgian;x
@@ -695,9 +692,6 @@ NEN_ADJ;New English;x
 NEP;Nepal;x
 NEP_ADJ;Nepali;x
 NET;Netherlands;x
-NET_absolute_monarchy;The Kingdom of the Netherlands;x
-NET_prussian_constitutionalism;The Kingdom of the Netherlands;x
-NET_hms_government;The Kingdom of the Netherlands;x
 NET_proletarian_dictatorship;Dutch Workers' Republic;x
 NET_fascist_dictatorship;Dietsland;x
 NET_ADJ;Dutch;x
@@ -907,15 +901,9 @@ SOM_colonial_company;Dervish State;x
 SOM_colonial_company_ADJ;Dervish;x
 SOM_proletarian_dictatorship;Somali Democratic Republic;x
 SPA;Spain;x
-SPA_absolute_monarchy;The Kingdom of Spain;x
-SPA_prussian_constitutionalism;The Kingdom of Spain;x
-SPA_hms_government;The Kingdom of Spain;x
 SPA_proletarian_dictatorship;Spanish Workers' Republic;x
 SPA_ADJ;Spanish;x
 SPC;Spain;x
-SPC_absolute_monarchy;Kingdom of Spain;x
-SPC_prussian_constitutionalism;Carlist Spain;x
-SPC_hms_government;Carlist Spain;x
 SPC_proletarian_dictatorship;Spanish Workers' Republic;x
 SPC_ADJ;Spanish;x
 SRI;Sri Lanka;x
