@@ -1,0 +1,83 @@
+# *#############################*
+# *##### UTILITY DECISIONS #####*
+# *#############################*
+
+political_decisions = {
+	#####################
+	### FOLDER TOGGLE ###
+	#####################
+	# Shows/hides utility decisions
+	
+	show_utility_decisions = {
+		alert = no
+		
+		potential = {
+			ai = no
+			
+			NOT = { has_country_flag = utility_decisions_shown }
+		}
+		
+		allow = {}
+		
+		effect = {
+			set_country_flag = utility_decisions_shown
+		}
+	}
+	
+	hide_utility_decisions = {
+		alert = no
+		
+		potential = {
+			ai = no
+			
+			has_country_flag = utility_decisions_shown
+		}
+		
+		allow = {}
+		
+		effect = {
+			clr_country_flag = utility_decisions_shown
+		}
+	}
+	
+	#####################
+	### TOTAL CONTROL ###
+	#####################
+	# Usable when manual factory control game rule is enabled. Sets special political reform to disable/enable capitalist building for better micromanaging of the economy
+	
+	utility_total_control_on = {
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			has_global_flag = manual_control_enabled
+			
+			capitalist_building_permission = capitalist_building_permission_on
+		}
+		
+		allow = {}
+		
+		effect = {
+			political_reform = capitalist_building_permission_off
+		}
+	}
+	
+	utility_total_control_off = {
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			has_global_flag = manual_control_enabled
+			
+			capitalist_building_permission = capitalist_building_permission_off
+		}
+		
+		allow = {}
+		
+		effect = {
+			political_reform = capitalist_building_permission_on
+		}
+	}
+}

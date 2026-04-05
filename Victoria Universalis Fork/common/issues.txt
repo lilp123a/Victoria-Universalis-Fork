@@ -34,9 +34,9 @@ party_issues = {
 				build_railway = no
 				factory_priority = no
 				can_subsidise = no
-				pop_build_factory = yes
-				pop_expand_factory = yes
-				pop_open_factory = yes
+				pop_build_factory = no
+				pop_expand_factory = no
+				pop_open_factory = no
 				delete_factory_if_no_input = yes
 				pop_build_factory_invest = yes
 				pop_expand_factory_invest = yes
@@ -57,9 +57,9 @@ party_issues = {
 				build_railway = yes
 				factory_priority = yes
 				can_subsidise = yes
-				pop_build_factory = yes
-				pop_expand_factory = yes
-				pop_open_factory = yes
+				pop_build_factory = no
+				pop_expand_factory = no
+				pop_open_factory = no
 				delete_factory_if_no_input = no
 				pop_build_factory_invest = yes
 				pop_expand_factory_invest = yes
@@ -83,9 +83,9 @@ party_issues = {
 				build_railway = yes
 				factory_priority = yes
 				can_subsidise = yes
-				pop_build_factory = yes
-				pop_expand_factory = yes
-				pop_open_factory = yes
+				pop_build_factory = no
+				pop_expand_factory = no
+				pop_open_factory = no
 				delete_factory_if_no_input = no
 				build_factory_invest = yes
 				expand_factory_invest = yes
@@ -102,13 +102,13 @@ party_issues = {
 				build_factory = yes
 				expand_factory = yes
 				open_factory = yes
-				destroy_factory = yes		
+				destroy_factory = yes
 				build_railway = yes
 				factory_priority = yes
 				can_subsidise = yes
-				pop_build_factory = yes
-				pop_expand_factory = yes
-				pop_open_factory = yes
+				pop_build_factory = no
+				pop_expand_factory = no
+				pop_open_factory = no
 				delete_factory_if_no_input = no
 				build_factory_invest = yes
 				expand_factory_invest = yes
@@ -680,14 +680,43 @@ political_reforms = {
 	factory_construction = {
 		no_allow_building = {
 			allow = { always = no }
-			rules = {
-				build_factory = no
-			}
+			
+			rules = {}
 		}
+		
 		yes_allow_building = {
 			allow = { always = no }
+			
 			rules = {
 				build_factory = yes
+				expand_factory = yes
+				factory_priority = yes
+				can_subsidise = yes
+				delete_factory_if_no_input = no
+				build_railway = yes
+				can_invest_in_pop_projects = yes
+			}
+		}
+	}
+	
+	capitalist_building_permission = {
+		capitalist_building_permission_on = {
+			allow = { always = no }
+			
+			rules = {
+				pop_build_factory = yes
+				pop_expand_factory = yes
+				pop_open_factory = yes
+			}
+		}
+		
+		capitalist_building_permission_off = {
+			allow = { always = no }
+			
+			rules = {
+				pop_build_factory = no
+				pop_expand_factory = no
+				pop_open_factory = no
 			}
 		}
 	}

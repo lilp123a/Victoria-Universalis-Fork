@@ -1,0 +1,12 @@
+show_gamerules_decisions_title;§CShow Gamerules Decisions§!;x
+show_gamerules_decisions_desc; ;x
+hide_gamerules_decisions_title;§CHide Gamerules Decisions§!;x
+hide_gamerules_decisions_desc; ;x
+show_utility_decisions_title;§GShow Utility Decisions§!;x
+show_utility_decisions_desc; ;x
+hide_utility_decisions_title;§RHide Utility Decisions§!;x
+hide_utility_decisions_desc; ;x
+utility_total_control_on_title;§YEnable Total Control§!;x
+utility_total_control_on_desc;Total Control bars capitalist pops from building, expanding and re-opening factories, enabling you to better micromanage your industry. Unfortunately, railroads are also affected.\n\n§GTotal Control can be toggled on and off at any time.§!;x
+utility_total_control_off_title;§YDisable Total Control§!;x
+utility_total_control_off_desc;Disable Total Control, allowing capitalist pops to manage factories again.\n\n§GTotal Control can be toggled on and off at any time.§!;x

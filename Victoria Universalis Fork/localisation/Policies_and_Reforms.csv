@@ -39,6 +39,7 @@ slavery;Slavery;x
 debt_law;Debt Law;x
 colonial_migration;Colonial Migration;x
 research_and_development;Research & Development;x
+capitalist_building_permission;Capitalist Building Permission;x
 no_minimum_wage;No Minimum Wage;x
 trinket_wage;Trinket Minimum Wage;x
 low_minimum_wage;Low Minimum Wage;x
@@ -147,6 +148,8 @@ good_rnd;Good R&D;x
 very_good_rnd;Very Good R&D;x
 advanced_rnd;Advanced R&D;x
 futuristic_rnd;Futuristic R&D;x
+capitalist_building_permission_on;Capitalist Building Enabled;x
+capitalist_building_permission_off;Capitalist Building Disabled;x
 protectionism_desc;Trade between nations is restricted;x
 free_trade_desc;Merchants are able to act and transact without interference from the government;x
 laissez_faire_desc;Industry is free from government interference;x
@@ -276,6 +279,7 @@ protectionism_l;Protectionism;x
 free_trade_l;Free Trade;x
 laissez_faire_l;Laissez Faire;x
 interventionism_l;Interventionism;x
+globalism_l;Globalism;x
 state_capitalism_l;State Capitalism;x
 planned_economy_l;Planned Economy;x
 pro_atheism_l;Atheism;x
@@ -397,6 +401,8 @@ good_rnd_l;Good R&D;x
 very_good_rnd_l;Very Good R&D;x
 advanced_rnd_l;Advanced R&D;x
 futuristic_rnd_l;Futuristic R&D;x
+capitalist_building_permission_on_l;[Ignore] Capitalist Building Permission On;x
+capitalist_building_permission_off_l;[Ignore] Capitalist Building Permission Off;x
 movement_trinket_wage;Minimum Wage Movement;x
 movement_low_minimum_wage;Minimum Wage Movement;x
 movement_acceptable_minimum_wage;Minimum Wage Movement;x

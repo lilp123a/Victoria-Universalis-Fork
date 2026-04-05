@@ -1,0 +1,42 @@
+# *###############################*
+# *##### GAMERULES DECISIONS #####*
+# *###############################*
+
+political_decisions = {
+	#####################
+	### FOLDER TOGGLE ###
+	#####################
+	# Shows/hides gamerules decisions
+	
+	show_gamerules_decisions = {
+		alert = yes
+		
+		potential = {
+			ai = no
+			
+			NOT = { has_country_flag = gamerules_decisions_shown }
+		}
+		
+		allow = {}
+		
+		effect = {
+			set_country_flag = gamerules_decisions_shown
+		}
+	}
+	
+	hide_gamerules_decisions = {
+		alert = yes
+		
+		potential = {
+			ai = no
+			
+			has_country_flag = gamerules_decisions_shown
+		}
+		
+		allow = {}
+		
+		effect = {
+			clr_country_flag = gamerules_decisions_shown
+		}
+	}
+}
