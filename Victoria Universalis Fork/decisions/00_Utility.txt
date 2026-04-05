@@ -51,7 +51,7 @@ political_decisions = {
 		potential = {
 			ai = no
 			has_country_flag = utility_decisions_shown
-			has_global_flag = manual_control_enabled
+			has_global_flag = manual_economic_control_enabled
 			
 			capitalist_building_permission = capitalist_building_permission_on
 		}
@@ -69,7 +69,6 @@ political_decisions = {
 		potential = {
 			ai = no
 			has_country_flag = utility_decisions_shown
-			has_global_flag = manual_control_enabled
 			
 			capitalist_building_permission = capitalist_building_permission_off
 		}

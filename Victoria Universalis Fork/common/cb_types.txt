@@ -6862,7 +6862,7 @@ dismantle_cb = {
 			}
 		}
 		THIS = {
-			has_global_flag = dismantle_enabled
+			has_global_flag = dismantlement_enabled
 		}
 		NOT = {
 			OR = {

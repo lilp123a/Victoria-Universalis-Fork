@@ -1,40 +1,59 @@
-# prompts you to declare interest for a starting crisis
+# *###########################*
+# *###### CRISIS EVENTS ######*
+# *###########################*
+
+# Prompts you to declare interest for a starting crisis
 country_event = {
 	id = 20000
 	title = "EVTNAME20000"
 	desc = "EVTDESC20000"
 	picture = "crisis"
-	trigger = {
-	}
-
+	
 	is_triggered_only = yes
+	
+	trigger = {}
+	
 	option = {
-		name = "EVTOPTA20000" # declare interest
+		name = "EVTOPTA20000" # Declare interest
+		
 		ai_chance = {
 			factor = 100
 		}
-
+		
 		add_crisis_interest = yes
 	}
+	
 	option = {
-		name = "EVTOPTB20000" # decline
-
+		name = "EVTOPTB20000" # Decline
+		
 		prestige_factor = -0.2
 	}
 }
 
+# Flashpoint event for Great Powers
 province_event = {
 	id = 20100
-	title = "EVTNAME20100" #Flashpoint event for GPs
+	title = "EVTNAME20100"
 	desc = "EVTDESC20100"
 	picture = "crisis"
+	
 	trigger = {
+		OR = {
+			has_global_flag = immediate_crises_enabled
+			
+			AND = {
+				has_global_flag = delayed_crises_enabled
+				year = 1870
+			}
+		}
+		
 		owner = {
 			is_greater_power = yes
-			NOT = { has_global_flag = crisis_disabled }
 		}
+		
 		state_scope = {
 			has_flashpoint = yes
+			
 			flashpoint_tension = 5
 			NOT = { flashpoint_tension = 90 }
 		}
@@ -42,7 +61,7 @@ province_event = {
 	
 	mean_time_to_happen =  {
 		months = 250
-
+		
 		modifier = {
 			factor = 0.5
 			war_policy = jingoism
@@ -60,38 +79,56 @@ province_event = {
 			war_policy = pacifism
 		}
 	}
-
+	
 	option = {
-		name = "EVTOPTA20100" # 
+		name = "EVTOPTA20100"
+		
 		ai_chance = {
 			factor = 95
 		}
+		
 		state_scope = {
 			flashpoint_tension = 10
 		}
 	}
+	
 	option = {
-		name = "EVTOPTB20100" # 
+		name = "EVTOPTB20100"
+		
 		ai_chance = {
 			factor = 5
 		}
-
-		owner = { prestige_factor = -0.15 }
+		
+		owner = {
+			prestige_factor = -0.15
+		}
 	}
 }
 
+# Flashpoint event for non-Great Powers
 province_event = {
 	id = 20101
 	title = "EVTNAME20101" #Flashpoint event for others
 	desc = "EVTDESC20101"
 	picture = "crisis"
+	
 	trigger = {
+		OR = {
+			has_global_flag = immediate_crises_enabled
+			
+			AND = {
+				has_global_flag = delayed_crises_enabled
+				year = 1870
+			}
+		}
+		
 		owner = {
 			is_greater_power = no
-			NOT = { has_global_flag = crisis_disabled }
 		}
+		
 		state_scope = {
 			has_flashpoint = yes
+			
 			flashpoint_tension = 5
 			NOT = { flashpoint_tension = 90 }
 		}
@@ -99,7 +136,7 @@ province_event = {
 	
 	mean_time_to_happen =  {
 		months = 250
-
+		
 		modifier = {
 			factor = 0.5
 			war_policy = jingoism
@@ -117,42 +154,49 @@ province_event = {
 			war_policy = pacifism
 		}
 	}
-
+	
 	option = {
-		name = "EVTOPTA20101" # 
+		name = "EVTOPTA20101"
+		
 		ai_chance = {
 			factor = 70
 		}
+		
 		state_scope = {
 			flashpoint_tension = 10
 		}
 	}
+	
 	option = {
-		name = "EVTOPTB20101" # decline
+		name = "EVTOPTB20101"
+		
 		ai_chance = {
 			factor = 30
 		}
-
-		owner = { prestige_factor = -0.1 }
+		
+		owner = {
+			prestige_factor = -0.1
+		}
 	}
 }
 
+# Claim Crisis Great Power
 country_event = {
 	id = 20102
-	title = "EVTNAME20102" #Claim Crisis GP
+	title = "EVTNAME20102"
 	desc = "EVTDESC20102"
 	picture = "crisis"
+	
 	trigger = {
 		crisis_exist = yes
 		involved_in_crisis = yes
-		is_greater_power = yes
 		is_claim_crisis = yes
-		NOT = { has_global_flag = crisis_disabled }
+		is_greater_power = yes
 	}
 	
 	mean_time_to_happen =  {
 		months = 24
-
+		
 		modifier = {
 			factor = 0.5
 			war_policy = jingoism
@@ -170,40 +214,45 @@ country_event = {
 			war_policy = pacifism
 		}
 	}
-
+	
 	option = {
-		name = "EVTOPTA20102" # 
+		name = "EVTOPTA20102"
+		
 		ai_chance = {
 			factor = 95
 		}
-			add_crisis_temperature = 10
+		
+		add_crisis_temperature = 10
 	}
+	
 	option = {
-		name = "EVTOPTB20102" # 
+		name = "EVTOPTB20102"
+		
 		ai_chance = {
 			factor = 5
 		}
-
+		
 		prestige_factor = -0.15
 	}
 }
 
+# Liberation Crisis Great Power
 country_event = {
 	id = 20103
-	title = "EVTNAME20103" #Liberation Crisis GP
+	title = "EVTNAME20103"
 	desc = "EVTDESC20103"
 	picture = "crisis"
+	
 	trigger = {
 		crisis_exist = yes
 		involved_in_crisis = yes
-		is_greater_power = yes
 		is_liberation_crisis = yes
-		NOT = { has_global_flag = crisis_disabled }
+		is_greater_power = yes
 	}
 	
 	mean_time_to_happen =  {
 		months = 24
-
+		
 		modifier = {
 			factor = 0.5
 			war_policy = jingoism
@@ -221,40 +270,45 @@ country_event = {
 			war_policy = pacifism
 		}
 	}
-
+	
 	option = {
-		name = "EVTOPTA20103" # 
+		name = "EVTOPTA20103"
+		
 		ai_chance = {
 			factor = 95
 		}
-			add_crisis_temperature = 10
+		
+		add_crisis_temperature = 10
 	}
+	
 	option = {
-		name = "EVTOPTB20103" # 
+		name = "EVTOPTB20103"
+		
 		ai_chance = {
 			factor = 5
 		}
-
+		
 		prestige_factor = -0.15
 	}
 }
 
+# Claim Crisis non-Great Power, i.e. target
 country_event = {
 	id = 20104
-	title = "EVTNAME20104" #Claim Crisis non GP, e.g target
+	title = "EVTNAME20104"
 	desc = "EVTDESC20104" 
 	picture = "crisis"
+	
 	trigger = {
 		crisis_exist = yes
 		involved_in_crisis = yes
-		is_greater_power = no
 		is_claim_crisis = yes
-		NOT = { has_global_flag = crisis_disabled }
+		is_greater_power = no
 	}
 	
 	mean_time_to_happen =  {
 		months = 24
-
+		
 		modifier = {
 			factor = 0.5
 			war_policy = jingoism
@@ -272,40 +326,42 @@ country_event = {
 			war_policy = pacifism
 		}
 	}
-
+	
 	option = {
-		name = "EVTOPTA20104" # 
+		name = "EVTOPTA20104"
+		
 		ai_chance = {
 			factor = 70
 		}
-			add_crisis_temperature = 5
+		
+		add_crisis_temperature = 5
 	}
+	
 	option = {
-		name = "EVTOPTB20104" # decline
+		name = "EVTOPTB20104"
+		
 		ai_chance = {
 			factor = 30
 		}
-
-		#
 	}
 }
 
+# Liberation Crisis non-Great Power
 country_event = {
 	id = 20105
-	title = "EVTNAME20105" #Liberation Crisis non GP
+	title = "EVTNAME20105"
 	desc = "EVTDESC20105"
 	picture = "crisis"
 	trigger = {
 		crisis_exist = yes
 		involved_in_crisis = yes
-		is_greater_power = no
 		is_liberation_crisis = yes
-		NOT = { has_global_flag = crisis_disabled }
+		is_greater_power = no
 	}
 	
 	mean_time_to_happen =  {
 		months = 24
-
+		
 		modifier = {
 			factor = 0.5
 			war_policy = jingoism
@@ -323,20 +379,22 @@ country_event = {
 			war_policy = pacifism
 		}
 	}
-
+	
 	option = {
-		name = "EVTOPTA20105" # 
+		name = "EVTOPTA20105"
+		
 		ai_chance = {
 			factor = 70
 		}
-			add_crisis_temperature = 5
+		
+		add_crisis_temperature = 5
 	}
+	
 	option = {
-		name = "EVTOPTB20105" # decline
+		name = "EVTOPTB20105"
+		
 		ai_chance = {
 			factor = 30
 		}
-
-		#
 	}
 }

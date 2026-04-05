@@ -2898,7 +2898,7 @@ province_event = {
 				limit = {
 					is_core = JAN
 					owner = {
-						has_global_flag = coring_enabled
+						has_global_flag = province_selector_integration_enabled
 						NOT = { has_country_modifier = diplomatic_cores }
 					}
 				}

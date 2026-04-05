@@ -1,7 +1,19 @@
 show_gamerules_decisions_title;§CShow Gamerules Decisions§!;x
-show_gamerules_decisions_desc; ;x
+show_gamerules_decisions_desc;These decisions will disappear after 1836.\n\n§RIn Multiplayer, these decisions should only be touched by the host.§!;x
 hide_gamerules_decisions_title;§CHide Gamerules Decisions§!;x
 hide_gamerules_decisions_desc; ;x
+gamerules_enable_immediate_crises_title;§CEnable Immediate Crises§!;x
+gamerules_enable_immediate_crises_desc;This will enable crises from the start of the game.\n\n§RThis is mutually exclusive with delayed crises (below).§!;x
+gamerules_enable_delayed_crises_title;§CEnable Delayed Crises§!;x
+gamerules_enable_delayed_crises_desc;This will enable crises starting from the year 1870.\n\n§RThis is mutually exclusive with immediate crises (above).§!;x
+gamerules_enable_dismantlement_title;§CEnable Dismantlement§!;x
+gamerules_enable_dismantlement_desc;This will enable the dismantle casus belli.;x
+gamerules_enable_manual_economic_control_title;§CEnable Manual Economic Control§!;x
+gamerules_enable_manual_economic_control_desc;This will enable manual economic control, allowing all players to build and manage factories, build railroads, and invest in pop projects regardless of their ruling party's economic policy. This will also allow players to toggle Total Control, which bars capitalist pops from messing with factories, allowing for better micromanagement of industry.;x
+gamerules_enable_province_selector_integration_title;§CEnable Province Selector Integration§!;x
+gamerules_enable_province_selector_integration_desc;This will enable state-wide core integration using the province selector. This takes 10 years to add the owner's cores and remove all other countries' cores from a state.\n\n§RThis will disable the regular RNG-based coring events.§!;x
+gamerules_enable_extra_infamy_decay_title;§CEnable Extra Infamy Decay§!;x
+gamerules_enable_extra_infamy_decay_desc;This will enable extra infamy decay, granting an extra -0.05 infamy decay per month to all countries.;x
 show_utility_decisions_title;§GShow Utility Decisions§!;x
 show_utility_decisions_desc; ;x
 hide_utility_decisions_title;§RHide Utility Decisions§!;x

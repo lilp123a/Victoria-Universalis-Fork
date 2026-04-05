@@ -13,6 +13,7 @@ political_decisions = {
 		
 		potential = {
 			ai = no
+			NOT = { year = 1837 }
 			
 			NOT = { has_country_flag = gamerules_decisions_shown }
 		}
@@ -25,10 +26,11 @@ political_decisions = {
 	}
 	
 	hide_gamerules_decisions = {
-		alert = yes
+		alert = no
 		
 		potential = {
 			ai = no
+			NOT = { year = 1837 }
 			
 			has_country_flag = gamerules_decisions_shown
 		}
@@ -37,6 +39,145 @@ political_decisions = {
 		
 		effect = {
 			clr_country_flag = gamerules_decisions_shown
+		}
+	}
+	
+	#####################
+	### ENABLE CRISES ###
+	#####################
+	# Options to enable crises, either immediately or delayed to 1870
+	
+	gamerules_enable_immediate_crises = {
+		alert = yes
+		
+		potential = {
+			ai = no
+			has_country_flag = gamerules_decisions_shown
+			NOT = { year = 1837 }
+			
+			AND = {
+				NOT = { has_global_flag = immediate_crises_enabled }
+				NOT = { has_global_flag = delayed_crises_enabled }
+			}
+		}
+		
+		allow = {}
+		
+		effect = {
+			set_global_flag = immediate_crises_enabled
+		}
+	}
+	
+	gamerules_enable_delayed_crises = {
+		alert = yes
+		
+		potential = {
+			ai = no
+			has_country_flag = gamerules_decisions_shown
+			NOT = { year = 1837 }
+			
+			AND = {
+				NOT = { has_global_flag = immediate_crises_enabled }
+				NOT = { has_global_flag = delayed_crises_enabled }
+			}
+		}
+		
+		allow = {}
+		
+		effect = {
+			set_global_flag = delayed_crises_enabled
+		}
+	}
+	
+	############################
+	### ENABLE DISMANTLEMENT ###
+	############################
+	# Option to enable the dismantle casus belli
+	
+	gamerules_enable_dismantlement = {
+		alert = yes
+		
+		potential = {
+			ai = no
+			has_country_flag = gamerules_decisions_shown
+			NOT = { year = 1837 }
+			
+			NOT = { has_global_flag = dismantlement_enabled }
+		}
+		
+		allow = {}
+		
+		effect = {
+			set_global_flag = dismantlement_enabled
+		}
+	}
+	
+	######################################
+	### ENABLE MANUAL ECONOMIC CONTROL ###
+	######################################
+	# Option to enable manual economic control, allowing players to always manage their factories, build railroads and invest in pop projects, regardless of their ruling party's economic policy
+	
+	gamerules_enable_manual_economic_control = {
+		alert = yes
+		
+		potential = {
+			ai = no
+			has_country_flag = gamerules_decisions_shown
+			NOT = { year = 1837 }
+			
+			NOT = { has_global_flag = manual_economic_control_enabled }
+		}
+		
+		allow = {}
+		
+		effect = {
+			set_global_flag = manual_economic_control_enabled
+		}
+	}
+	
+	############################################
+	### ENABLE PROVINCE SELECTOR INTEGRATION ###
+	############################################
+	# Option to enable integrating states via the province selector
+	
+	gamerules_enable_province_selector_integration = {
+		alert = yes
+		
+		potential = {
+			ai = no
+			has_country_flag = gamerules_decisions_shown
+			NOT = { year = 1837 }
+			
+			NOT = { has_global_flag = province_selector_integration_enabled }
+		}
+		
+		allow = {}
+		
+		effect = {
+			set_global_flag = province_selector_integration_enabled
+		}
+	}
+	
+	#################################
+	### ENABLE EXTRA INFAMY DECAY ###
+	#################################
+	# Option to enable extra infamy decay
+	
+	gamerules_enable_extra_infamy_decay = {
+		alert = yes
+		
+		potential = {
+			ai = no
+			has_country_flag = gamerules_decisions_shown
+			NOT = { year = 1837 }
+			
+			NOT = { has_global_flag = extra_infamy_decay_enabled }
+		}
+		
+		allow = {}
+		
+		effect = {
+			set_global_flag = extra_infamy_decay_enabled
 		}
 	}
 }

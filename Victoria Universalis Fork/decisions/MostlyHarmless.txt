@@ -31,140 +31,41 @@ political_decisions = {
 			}
 		}
 	}
-
-	factory_construction_off = {
+	
+	#############################################
+	### ENABLE MANUAL ECONOMIC CONTROL POLICY ###
+	#############################################
+	
+	enable_manual_economic_control_policy = {
 		potential = {
 			tag = JAN
-			OR = {
-				AND = {
-					ai = yes
-					factory_construction = yes_allow_building
-				}
-				AND = {
-					NOT = { has_global_flag = manual_control_enabled }
-					META_1 = {
-						owner = {
-							exists = yes
-							OR = {
-								AND = {
-									ai = yes
-									factory_construction = yes_allow_building
-								}
-								AND = {
-									economic_policy = laissez_faire
-									factory_construction = yes_allow_building
-								}
-								AND = {
-									economic_policy = interventionism
-									factory_construction = yes_allow_building
-								}
-							}
-						}
-					}
-				}
-			}
-		}
-		allow = {
-		}
-		effect = {
-			any_country = {
-				limit = {
-					exists = yes
-					OR = {
-						AND = {
-							ai = yes
-							factory_construction = yes_allow_building
-						}
-						AND = {
-							NOT = { has_global_flag = manual_control_enabled }
-							economic_policy = laissez_faire
-							factory_construction = yes_allow_building
-						}
-						AND = {
-							NOT = { has_global_flag = manual_control_enabled }
-							economic_policy = interventionism
-							factory_construction = yes_allow_building
-						}
-					}
-				}
-				political_reform = no_allow_building
-			}
-			random_owned = {
-				owner = {
-					limit = {
-						OR = {
-							AND = {
-								ai = yes
-								factory_construction = yes_allow_building
-							}
-							AND = {
-								economic_policy = laissez_faire
-								factory_construction = yes_allow_building
-							}
-							AND = {
-								economic_policy = interventionism
-								factory_construction = yes_allow_building
-							}
-						}
-					}
-					political_reform = no_allow_building
-				}
-			}
-		}
-	}
-
-	factory_construction_on = {
-		potential = {
-			tag = JAN
+			
+			has_global_flag = manual_economic_control_enabled
+			
 			META_1 = {
 				owner = {
-					exists = yes
-					OR = {
-						AND = {
-							ai = no
-							economic_policy = state_capitalism
-							factory_construction = no_allow_building
-						}
-						AND = {
-							ai = no
-							economic_policy = planned_economy
-							factory_construction = no_allow_building
-						}
-						AND = {
-							ai = no
-							has_global_flag = manual_control_enabled
-							factory_construction = no_allow_building
-						}
-					}
+					ai = no
+					
+					manual_economic_control = manual_economic_control_off
 				}
 			}
 		}
-		allow = {
-		}
+		
+		allow = {}
+		
 		effect = {
 			any_country = {
 				limit = {
-					exists = yes
-					OR = {
-						AND = {
-							ai = no
-							economic_policy = state_capitalism
-							factory_construction = no_allow_building
-						}
-						AND = {
-							ai = no
-							economic_policy = planned_economy
-							factory_construction = no_allow_building
-						}
-						AND = {
-							ai = no
-							has_global_flag = manual_control_enabled
-							factory_construction = no_allow_building
-						}
-					}
+					ai = no
+					manual_economic_control = manual_economic_control_off
 				}
-				political_reform = yes_allow_building
+				
+				political_reform = manual_economic_control_on
 			}
+		}
+		
+		ai_will_do = {
+			factor = 1
 		}
 	}
 

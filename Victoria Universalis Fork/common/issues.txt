@@ -677,14 +677,12 @@ political_reforms = {
 		}
 	}
 
-	factory_construction = {
-		no_allow_building = {
+	manual_economic_control = {
+		manual_economic_control_off = {
 			allow = { always = no }
-			
-			rules = {}
 		}
 		
-		yes_allow_building = {
+		manual_economic_control_on = {
 			allow = { always = no }
 			
 			rules = {

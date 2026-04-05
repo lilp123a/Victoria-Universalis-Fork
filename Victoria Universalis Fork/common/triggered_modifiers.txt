@@ -802,9 +802,10 @@ colonial_trade_company = {
 ########## Infamy Decay ##########
 extra_decay = {
 	trigger = {
-		has_global_flag = extra_decay_enabled
+		has_global_flag = extra_infamy_decay_enabled
 	}
-	badboy = -0.1
+	
+	badboy = -0.05
 }
 
 ########## Rude boy ##########

@@ -502,7 +502,6 @@ EVTOPTA44461;We will think about it.;x
 NORMAL_CIVIL_WAR_NAME_TKG_JAP;The Boshin War;x
 admin_reform;Administrative Reform;x
 EVTDESC36912;In 1918, Gerard Manley Hopkins' collected poetry was published posthumously, even though Hopkins himself was uncomfortable with its publication during his lifetime. The poetry introduced a new meter known as 'sprung-rhythm' to the world and gave new impetus to the growing modernist movement. Hopkins poetry was modernist, but at the same time he was considered a religious poet. He had converted to Catholicism early in his life and was a student and professor of medieval Christian philosophy.;x
-EVTDESC91215;Players can build factories with any economic policy.;x
 EVTDESC36907;In 1847, writer William Makepeace Thackeray published 'Vanity Fair', a work criticizing the unspirited and artificial world of the so-called better circles.;x
 CRISIS_OFFER_OTHER_ACCEPT_BTN1;OK;x
 REMOVE_UNITY_EFFECT;Lose §R$VALUE$§W unity§W.\n;x
@@ -609,7 +608,6 @@ EVTOPTB14730;Ignore the League;x
 populist_welfare_desc;The welfare system in this government has a paternalistic characteristic, with a minimum amount set to be spent in support of this oftentimes populist policy.;x
 POLITICS_NOT_BEFORE;We can not change ruling party again before §Y$DATE$§W.;x
 EVTNAME1202;Immoral Business;x
-EVTDESC91207;Voting ends. Yes has won;x
 EVTDESC90002;For too long people have suffered under the malign influence of $CB_TARGET_NAME$. For the good of all involved we must reveal the evidence of $CB_TARGET_NAME$'s mismanagement to the world and bring their Sphere members under our wing for their own good.;x
 gtfo_EIC_desc;We've had a good run, but it's time to end our rulership of British Raj: if you love something, let it go!;x
 TAS_socialist;Labour Faction;x
@@ -622,7 +620,6 @@ EVTNAME38503;The Zanzibar Question;x
 free_balkans;Liberate the Balkans;x
 CMR_anarcho_liberal;National Union for Democracy and Progress;x
 TOU_constitutional_empire;Tukulor Empire;x
-EVTNAME91206;World Bank Dismantle CB Referendum;x
 EVTOPTB13000;Expel the barbarians!;x
 EVTNAME3800;Living Wage;x
 ATTACKUSREBEL_MAP;Under attack!;x
@@ -684,7 +681,6 @@ gtfo_TIB_desc;We've had a good run, but it's time to end our rulership of Tibet:
 claim_negusa_nagast_title;Claim the Imperial Throne;x
 capital_health_care;Local Capital Healthcare;x
 gtfo_D04_title;Grant Dynamic Country 04 Independence;x
-EVTOPTA91218;OK.;x
 colorado_rebels_name;Colorado Rebels;x
 EVTNAME34605;Neptune discovered!;x
 persian_oil;Anglo-Persian Oil Company;x
@@ -769,7 +765,6 @@ WEWAR;We are at War;x
 EVTOPTA44612;Crush the rebels.;x
 EVTOPTA37215;Times have changed!;x
 EVTOPTB15250;Leave the issue be;x
-EVTNAME91219;Extra Infamy Decay Disabled;x
 EVTDESC44405;The Natalia Republic has agreed to our terms of annexation.;x
 gtfo_TOU_title;Grant Toucouleur Empire Independence;x
 NOPORTOTHERCONTINENT;This province cannot be reached via any ports connected to our capital.;x
@@ -883,7 +878,6 @@ EVTNAME14070;Monopolies & Privileges;x
 EVTNAME2530;Colonial Incident;x
 EVTDESC12240;More and more social, religious and educational institutions in $COUNTRY$, primarily from the educated middle classes, are coming to see the influence of alcohol on our society as a moral and social wrong. Pointing at the effects and costs in terms of broken homes, windows and spirits, they urge temperance, with some even going so far as to support calls for outright prohibition. Brewery owners in $PROVINCENAME$ are concerned by the development, and wish to see their future privilege to sell and manufacture alcohol guaranteed.;x
 BAY_communist;The Communist Faction;x
-EVTOPTB91214;Vote No.;x
 COMBAT_DIGIN;Penalty on attacker due to defender being dug-in.;x
 EVTNAME90902;Closure of Treaty Ports;x
 european_african_conquest_desc;Annex an uncivilised Sub-Saharan African country with greatly reduced infamy costs.;x
@@ -1151,7 +1145,6 @@ MODIFIER_NAVAL_DEFENSE;Naval Unit Defense;x
 WAR_THEY_ACCEPT_SETUP;When we declare war on another nation;x
 DAK_ADJ;Dakotan;x
 CHANGE_POP_TYPE_EFFECT;Pop change to: §Y$POPTYPE$§W.\n;x
-EVTNAME91213;Integrate Cores Disabled;x
 DISCREDIT_THEY_ACCEPT_3;discredit the name of §Y$TARGET$§W in §Y$RECIPIENT$§W.;x
 health_care_fully_funded;Excellent Healthcare;x
 early_qing_reforms_desc;The New Policies were a series of cultural, economic, educational, military, and political reforms that were implemented in the last decade of the Qing dynasty to keep the dynasty in power after a series humiliating defeats by foreign powers.;x
@@ -1773,7 +1766,6 @@ army_experience_idea_desc;Each point of experience lowers the damage taken durin
 PARTY_UNAVAIL_2;*;x
 BANEMBASSY_OTHER_ACCEPT_BTN3;Go to;x
 PARTY_UNAVAIL_SETUP;Political party defunct;x
-EVTOPTB91204;Vote No.;x
 NEW_PARTY_AVAIL_BTN3;Go to;x
 AGRESSION_WAR_TAKE_SPHERE_NAME;$ORDER$$FIRST$-$SECOND$ War over $COUNTRY$;x
 NEW_PARTY_AVAIL_BTN1;OK;x
@@ -2443,7 +2435,6 @@ TUR_819;West Macedonia;x
 SON_conservative_2;Partido Moderado Liberal;x
 EVTOPTA35924;The Jambi must be brought into the fold.;x
 EVTDESC31522;The Hungarian rebellion has been put down and the Empire is saved!;x
-EVTDESC91213;Players can only gain cores via the vanilla RNG based event.;x
 status_quo_setup;All we ask is to be left alone;x
 EVTOPTB31206;We are fine on our own.;x
 restart_the_caucasian_war_title;Restart the Caucasian War;x
@@ -2862,7 +2853,6 @@ EVTDESC3751;Everywhere we go we can hear the sounds and murmurings of political 
 EVTOPTA17570;And they say there is no leftist bias in the media... pfft.;x
 EVTOPTA15274;Rescind the building policy;x
 OFFERMILACCDESC;Enable them to station troops and ships in our country.;x
-EVTDESC91212;Players can only add/remove cores via province selector decisions.;x
 EVTDESC31501;Smoking tobacco became an increasingly widespread fashion. In 1837, the authorities in Vienna forbade smoking in public.;x
 ADDTOSPHERE_OTHER_ACCEPT_3;§Y$RECIPIENT$§W has been included in the ;x
 OTHER_MUST_NEGOTIATE_WITH_WAR_LEADER;We are not allowed to negotiate with the enemy §YWar leader§W since that would end the war. A peace treaty can only be signed between §Y$ENEMY$§W and §Y$COUNTRY$§W.;x
@@ -2953,7 +2943,6 @@ CRISIS_NOBODY_BACKED_3;§Y$CRISISTARGET$§!;x
 abolish_imperial_exams_title;Abolish the Imperial Examinations;x
 ALLIANCE_OTHER_ACCEPT_SETUP;When a nation accepts another nation's alliance offer;x
 EVTOPTA31210;Join the Balkan League.;x
-EVTOPTA91215;OK.;x
 EVTOPTA70004;Excellent.;x
 CRISIS_NOBODY_BACKED_2;The crisis in;x
 EVTOPTB91005;I would like to know more.;x
@@ -3437,7 +3426,6 @@ BACK_CRISIS_THEY_ACCEPT_4;*;x
 BACK_CRISIS_THEY_ACCEPT_3;*;x
 france;France;x
 BACK_CRISIS_THEY_ACCEPT_2;$RECIPIENT$ has decided to back us in the current crisis.;x
-EVTNAME91205;Failure to Vote;x
 EVTNAME90950;Assets seized! ;x
 BACK_CRISIS_THEY_ACCEPT_1;$MONARCHTITLE$;x
 annex_lucca_title;Annex Lucca;x
@@ -3473,7 +3461,6 @@ BACK_CRISIS_WE_ACCEPT_SETUP;When we accept backing a side of a crisis;x
 WEDEFECT_BTN1;OK;x
 EVTOPTA35901;It is our burden.;x
 EVTDESC36605;In the mid 1860's the agriculture sector was suffering after a series of meager harvests. Difficulties continued in 1867 when crops failed once again. This became 'The Wet Year' of rotting grain, which caused famine in many parts of the country.;x
-EVTNAME91217;Extra Infamy Decay Vote;x
 CRISIS_OFFER_OTHER_DECLINE_LOG;$RECIPIENT$ declined to join the current crisis.;x
 puppet_rhineland;The Rhine;x
 australian_independence_short;Australia federated into six separate states and gained its independence.;x
@@ -3586,7 +3573,6 @@ abolish_prohibition_title;Repeal Prohibition;x
 EVT91737OPTK;Change province to produce Tobacco.;x
 EVTDESC32505;In 1880, Fyodor Dostoevsky completed his magnum opus, 'The Brothers Karamazov'. One of the most arresting works in the entire history of literature, 'The Brothers Karamazov' was a comedy that developed the major themes of Dostoevsky's post-Socialist career as a writer. A comedy, perhaps, but arguably the most serious comedy ever written. In his memoir, 'The Diary of a Writer', Dostoevsky dismissed leftist criticisms of his work by remarking that no leftist had ever provided as damaging a critique of Christianity as his Chapters 'Rebellion' and 'The Grand Inquisitor' in The Brothers Karamazov. Dostoevsky's works were hugely influential not only in Russia but also throughout the West,  and not only in literary circles, but in philosophical and religious ones as well.;x
 EVTDESC45100;Relations with the Church were improved through the Concordat of 1860, which allows the return of French clergy and the establishment of parochial schools.;x
-EVTNAME91207;Dismantle Referendum - Yes Wins;x
 zstate_colonial_policy_desc;Triggers a province event that allows you to choose a colonial policy for the selected state.;x
 CRISIS_OFFER_THEY_ACCEPT_4;*;x
 CRISIS_OFFER_THEY_ACCEPT_3;$WARGOAL$;x
@@ -3877,7 +3863,6 @@ SUNK_SHIPS;Sunk ships;x
 gtfo_TUR_title;Grant The Ottoman Empire Independence;x
 LBA_fascist;Fascist Faction;x
 COLONY_SUCCESS_MAP;Colony Created!;x
-EVTDESC91211;This is a vote to enable or disable the new Integrate State province selector decision. This decision starts a 15 year process to add the owner's cores and remove all other countries' cores from a state. The process is cancelled if the state changes owners or gets occuppied by rebels and/or foreign armies. Enabling these decisions will disable the regular RNG based coring events. If Yes has more votes than No, then these decisions will be enabled, otherwise they will be disabled.;x
 university_of_santiago_title;Found the University of Santiago;x
 BP_TOOLTIP_TOOL_SELECT;Click on object to select it.;x
 desc_prussian_general_staff;The Prussian General Staff is the most efficient in Europe, but other nations will catch up sooner or later.;x
@@ -4086,7 +4071,6 @@ EVTNAME23420;The Games of The Fifth Olympiad;x
 great_war_penalty_cb_setup;Disarm $RECIPIENT$ and let them pay for reparations.;x
 treaty_port5_desc;Our POPs gain +0.005 militancy per month and our max tariffs are reduced by 1% for each unequal treaty we have been forced to sign. We gain an unequal treaty whenever we lose a treaty port. This malus will be removed after westernization.;x
 great_war_penalty_cb_desc;Force another §Ycountry§! to disarm and pay reparations to us.;x
-EVTOPTA91208;OK;x
 WAR_THEY_ACCEPT_BTN1;OK;x
 great_war_penalty_cb;Great War Capitulation;x
 UNM_prussian_constitutionalism;New Mexico;x
@@ -4414,7 +4398,6 @@ EVTNAME4200;Professor Criticizes Voting System;x
 EVTNAMEmilitarylogistics;Military Logistics Tech Flag;x
 LANDBATTLEOVER_2;$MONARCHTITLE$, we have $RESULT$;x
 EVTOPTA36928;Amazing!;x
-EVTNAME91209;Dismantle Referendum - No Wins;x
 UIL_communist;Industrial Workers of the World;x
 CANCELASKMILITARYACCESSTITLE;Cancel Military Access;x
 LANDBATTLEOVER_HEADER;The Chief of Staff reports that;x
@@ -4662,7 +4645,6 @@ WW1_DESC;On 28 June 1914, Gavrilo Princip, a Serbian nationalist, assassinated t
 Give_1800_Artillery;Give them 1800.;x
 gtfo_SLE_title;Grant Sierra Leone Independence;x
 EVTNAME44406;Natalia Refuses;x
-EVTOPTA91204;Vote Yes.;x
 TECH_REPEAT_2;$TITLE$, we have improved our abilities in $TYPE$ to level $LEVEL$, giving us the following benefit.;x
 TECH_REPEAT_1;$TYPE$ Advance!;x
 TECH_REPEAT_SETUP;When you have increased your technological ability.;x
@@ -4897,7 +4879,6 @@ gtfo_AOT_desc;We've had a good run, but it's time to end our rulership of Aotear
 TRIGMODLOST_3;*;x
 EVTOPTD14070;Great idea, but let me take a look at this first.;x
 DON_prussian_constitutionalism;Cossack Hetmanate;x
-EVTDESC91206;Voting begins.;x
 gtfo_TRZ_title;Grant Mauritania Independence;x
 DISCREDIT_THEY_ACCEPT_1;§Y$RECIPIENT$§W;x
 EVTOPTB15090;Reprimand the officer;x
@@ -5162,7 +5143,6 @@ REMOVE_MINISTER_EFFECT;§Y$NAME$§W Will be removed§W.\n;x
 infantry_short;Inf;x
 EVTOPTC12220;Our merchants need the tea;x
 red_shirts;The Expedition of the Thousand;x
-EVTOPTA91206;OK;x
 embrace_armenian_minority_title;Embrace the Armenian minority;x
 NWZ_conservative;Conservative;x
 NWZ_liberal;Liberal;x
@@ -5358,7 +5338,6 @@ polish_nationalism;Polish Nationalism;x
 GIVEMILITARYACCESS_THEY_ACCEPT_6;We hope they all perish in a pointless war.;x
 CANCELTRADENEWDESC;Do you wish to cancel our agreement with $COUNTRY$?\nThis will stop the transfer of $SELL$ for $BUY$.;x
 ON_ENACT_UNCIV_REFORM;When enacted:;x
-EVTNAME91214;Always Allow Factory Building Vote;x
 OL_NOCOMMANDER;has no commander;x
 UW_ALL_FIT;All units are 100% fit.;x
 OL_ARMY;This army currently $COMMANDER$ and is standing in §Y$PROV$§W.;x
@@ -5488,7 +5467,6 @@ no_finance_reform_desc;Our financial institutions and economy is run like the ol
 take_from_sphere_desc;Remove a country from someone's §YSphere of Influence§W and add it to our own;x
 AGRESSION_WAR_RUDEBOI_NAME;$ORDER$$FIRST$ War of $SECOND$ Containment;x
 zstate_baby_boom_desc;Gives a small baby boom modifier to the selected state and adds a 15 year cooldown timer. The duration is inversely proportional to the size of the state, e.g. a state with 90K population will have the modifier last 10x longer than a state with 900K population. Cannot be used on states above 1M population. §BDespite what the tooltip might say, trying to use this on multiple states at once will result in only the smallest state getting the bonus.;x
-EVTDESC91214;Choose whether to allow all economic policies to build factories or not. This lets the player build factories under laissez-faire and interventionism. If Yes has more votes than No, then these decisions will be enabled, otherwise they will be disabled.;x
 yuan_shikai;Yuan Shikai;x
 NQL_ADJ;North Queenslander;x
 acquire_state;Acquire state;x
@@ -5556,7 +5534,6 @@ NQL_conservative_1;Nationalist Party;x
 gtfo_IRE_desc;We've had a good run, but it's time to end our rulership of Ireland: if you love something, let it go!;x
 CRISIS_OFFER_THEY_ACCEPT_1;$MONARCHTITLE$;x
 INVALID_WARTARGET_SHARED_WAR;We are fighting alongside this nation in another war.;x
-EVTOPTB91217;Vote No.;x
 DISCREDIT_WE_ACCEPT_SETUP;When a nation discredits another nation in our country;x
 NATIONALISM_LASTS;Nationalism lasts until;x
 metropolitan_development_desc;Our country is starting its first attempts at industrialization by following Western free market ideals and courting foreign investments.;x
@@ -5953,7 +5930,6 @@ treaty_port5;Five Unequal Treaties;x
 SNG;Senegal;x
 EVTDESC10200;Death to the King!', a hoarse voice cries. The streets in $PROVINCENAME$ have come alive. A local injustice, or the perception of one, have animated the unwashed masses into rebellion against our rule. The revolt is still small enough that its future course has not been set in stone, and leniency might avert it, but perhaps it is best to put our foot down firmly to set an example?;x
 UW_LEADER_BUTTON_DRO;Clicking here will allow you to replace the current leader with a new one;x
-EVTOPTA91209;OK;x
 cancel_trade_agreements_10_desc;By cancelling our current trade agreement, we are free to enter into a new a trade agreement with another country.;x
 EVTNAME80001;China rejects the Convention;x
 LE_FUEL;Fuel Units;x
@@ -6170,7 +6146,6 @@ REVOKEMILACCDESC;Revoke their ability to station troops and ships in our country
 REVOKEMILACCNEWDESC;Do you wish to revoke the Military Access given to $COUNTRY$? Doing so will prevent their troops from accessing our country and ports.;x
 REVOKEMILACCTITLE;Revoke Military Access.;x
 PEACE_WE_ACCEPT_BTN3;Goto;x
-EVTOPTA91214;Vote Yes.;x
 isolationist_foreign_naval_officers;Ineffective Naval Officers;x
 EVTOPTB3102;Deny the rumors;x
 KMK_ADJ;Kalmyk;x
@@ -6706,7 +6681,6 @@ SLS_liberal;Liberaldem. Partei;x
 EVTOPTA15260;Yes, of course!;x
 EVTOPTA32510;Excellent!;x
 EVTOPTB23200;We must consider this proposition.;x
-EVTNAME91210;Dismantle Nation CB Disabled;x
 ALLIANCE_WE_ACCEPT_BTN3;Go to;x
 EVTNAME46302;The Sabinada;x
 HLS_liberal;Liberaldem. Partei;x
@@ -7236,7 +7210,6 @@ EQG_reactionary;Bubi Union;x
 AIREASON_BACKED_BY_ALLY;Backed by Ally;x
 REMOVE_EVTNAME2110;Diaspora;x
 gtfo_MEC_desc;We've had a good run, but it's time to end our rulership of Mecklenburg: if you love something, let it go!;x
-EVTDESC91218;Infamy will be reduced at a base rate of -0.2 per month instead of -0.1 per month.;x
 EVTOPTA19032;So it must be;x
 conservative_influence_desc;Conservative agitators are spreading their ideology among the people;x
 EVTOPTA44106;Speech is a kind of act.;x
@@ -7339,7 +7312,6 @@ EVTOPTA37700;Don't touch the Holy Church!;x
 EVTOPTA4302;Adjust the rules;x
 EVTNAME44663;The Reconquista Ends;x
 EVTNAME21520;San Francisco Earthquake!;x
-EVTNAME91216;Always Allow Factory Building Disabled;x
 EVTOPTA180;Let the shipment pass through;x
 eastern_macedonia_exchange;Eastern Macedonia Exchange;x
 EVTDESC37225;A painter paving the way from Realism to Impressionism, Manet's work 'Le Bain', better known as 'Déjeuner sur l'herbe', provoked a scandal in Paris 1863 because of its depiction of naked women.;x
@@ -7657,7 +7629,6 @@ STRATA_NEED_MORE_THAN;Needs fulfilled at least;x
 REMOVE_METAL_EFFECT;Lose §R$VALUE$§W metal§W.\n;x
 EVTDESC23402;Although the Olympic Games originated in Greece, the International Olympic Committee has decided to offer our nation the responsibility to organize the first games of the Modern era. Should we accept the offer?;x
 SUA_presidential_dictatorship;Swaziland;x
-EVTNAME91212;Integrate Cores Enabled;x
 EVTDESC90810;Resistance against the Beiyang government has culminated in a breakdown in authority. What began with several of the outlying warlords declaring their independence has ended with the most powerful generals in the Beiyang Army struggling for control. A contest has begun regarding who will control the future of China's destiny, and most are certain it will not be long before the entire nation is engulfed in war.;x
 TECH_REPEAT_4;*;x
 EVTOPTA34601;A Dreamer!;x
@@ -7724,7 +7695,6 @@ BUY_FROM_STOCKPILE_DESC;Allow pops/factories to buy from country stockpile.\n\n§
 EVTNAME14750;Colonial Policy Debated;x
 EVTDESC32508;The production style of Checkov's The Sea Gull has shown that the Moscow Art Theatre is almost single-handedly taking the Russian Theatre into the twentieth century.;x
 sign_the_geneva_convention_title;Sign the Geneva Convention;x
-EVTOPTA91219;OK.;x
 EVTNAME37714;The Reconquista Ends;x
 gtfo_KBO_title;Grant Kanem-Bornu Independence;x
 EVTNAME32508;Moscow Art Theatre;x
@@ -7802,7 +7772,6 @@ EVTOPTA4301;Fix the indexes;x
 EVTNAME31301;France Demands the Extradition of Louis Napoléon;x
 EVTOPTA31300;Good to know!;x
 gtfo_MAL_title;Grant Tidore Independence;x
-EVTDESC91217;This will enable or disable the Extra Infamy Decay modifier which grants -0.1 bonus infamy decay per month.;x
 EVTDESC36205;From 1886 to 1892, more than 25 modern fortifications were built on Sjaelland to ensure that any possible threat from Germany would be thwarted.;x
 graaff_reinet_desc;The territory of Eastern Cape was the starting point of the Great Trek and once belonged to the Boer Republic of Graaff Reinet. Now that we have retaken Eastern Cape, it is time to re-establish a Boer presence in the area.;x
 adopt_die_stem_title;Adopt 'Die Stem';x
@@ -7825,7 +7794,6 @@ EVTDESC22060;And then we have this little fellow. Started out with the proverbia
 EVTNAME22060;Life Without Parole;x
 WAR_LOST_GW_STATUS_BTN2;OK;x
 EVTOPTA1212;Good;x
-EVTOPTB91201;Disable Crises;x
 EVTOPTA22050;Search High!;x
 SCHOOL_EFFECT;Change to §Y$NAME$§W!\n;x
 shermans_march_to_the_sea_title;Sherman's March To The Sea;x
@@ -8556,7 +8524,6 @@ mountain_mine;Mountain;x
 EVTOPTA15040;Control the clergy through legislative means.;x
 EVTOPTA44000;Appoint him to oversee the Molokai colony;x
 EVTNAME15040;Preacher Man;x
-EVTNAME91204;Dismantle Nation CB Referendum;x
 SMI_anarcho_liberal;Radical Party;x
 EVTOPTA15030;Mitigate the policies slightly;x
 EVTOPTB15020;Strychnine or cyanide?;x
@@ -9188,7 +9155,6 @@ EVTOPTB10100;Spare no effort in relieving the local farmers.;x
 EVTNAME10100;The Blight of $YEAR$;x
 EVTOPTA91003;Got it.;x
 CRISIS_BECAME_WAR_SETUP;A crisis has escalated into war;x
-EVTOPTA91213;OK.;x
 REMOVE_EVTNAME10000;Spring of Nations;x
 die_wacht_am_rhein_desc;In 1840, France's then prime minister Adolphe Thiers had claimed that the river Rhine constituted the natural eastern border of the French nation, sparking what would later become known as the Rhine Crisis, as this was perceived in Germany as a threat to Prussian possessions on the western bank of the river. In response to these events, the poet and merchant Max Schneckenburger wrote a patriotic poem calling on the 'Fatherland to remain calm', for, as the poem says, 'fast and true stands the watch at the Rhine', implying that the German nation would defend the river against any and all (French) aggression. The poem was put to music in 1854, and became extremely popular in Germany during the Franco-Prussian war of 1870-71.;x
 EVTDESC30005;Our empire and the world has come to our capital to celebrate this colonial exposition, with pavilions from our various colonies and several different buildings and marvels highlighting the importance of our economic and cultural mission to the visitors, from both home and abroad.;x
@@ -9305,7 +9271,6 @@ EVTDESC23211;Our intrepid explorers have been the first to raise a flag at the S
 become_negusa_nagast_title;Become Negusa Nagast;x
 EVTNAME23211;First to the South Pole!;x
 anglo_african;Anglo African;x
-EVTDESC91201;This mod allows players to enable or disable crises in a campaign. If Enable Crises gets more votes than Disable Crises, then crises will be enabled. If Disable Crises gets more votes or it is a tie, then crises will be disabled.;x
 EVTDESC23209;Our national expedition to reach the South Pole has returned without success, but they have great hope that another expedition will succeed.;x
 COLONY_SUCCESS_6;(Base value §Y$BASE$§! x §Y$PROV$§! provinces.);x
 CHY_reactionary;Qadiri;x
@@ -9532,7 +9497,6 @@ EVTOPTB4001;Not at this time;x
 CANCELALLIANCE_OTHER_ACCEPT_BTN1;OK;x
 PROVINCEVIEW_REVOLTRISK;Province revoltrisk$VALUE$;x
 EVTOPTC4000;Oppose the movement;x
-EVTOPTA91216;OK.;x
 Thursday;Thursday;x
 gtfo_ARM_title;Grant Armenia Independence;x
 ASKMILITARYACCESS_WE_ACCEPT_2;$MONARCHTITLE$, we have decided to allow;x
@@ -10074,7 +10038,6 @@ gtfo_UWI_desc;We've had a good run, but it's time to end our rulership of Wiscon
 EVTDESC170;For if we are to set ourselves and our brethren free from the devastating tribulations and degenerations of alcohol and alcoholism, nothing serves us better than complete and total abstinence, always. What good would it do us to be free of our capitalist oppressors, only to find ourselves soon oppressed by the twin tyrannies of vice and ugly habits?'\n\nSince the negative effects of widespread alcoholism have hit the poorest classes the hardest, the temperance league has managed to find allies for itself within the socialist movement. Local labour agitators in one of our states are arguing against the use of alcohol.;x
 EVTDESC35815;The Koreans have accepted our demands to become part of our glorious empire.;x
 EVTOPTB160;Force a repeal of the act!;x
-EVTOPTA91210;OK;x
 russia_disagrees;Russia upholds the Vienna Treaty;x
 EVTDESC160;Influenced by intensive lobbying from the Temperance League, one of our states has adopted a licensing regulation that allows residents the right to issue or retract liquor licenses in their local districts. With strong public support, the Licensing Act has thus prohibited the sale of liquor throughout the state. Many local breweries have been denied the right to sell their produce locally, and have been forced into bankruptcy.;x
 enact_liquor_prohibition_title;Liquor Prohibition;x
@@ -10335,7 +10298,6 @@ balkan_size_modifier;Balkan RGO Modifier;x
 desc_labor_union;Workers have joined forces and created a labour union in your province.;x
 MRU_absolute_monarchy;Maritime Union;x
 labor_union;Labour Union;x
-EVTDESC91219;Infamy will be reduced at a base rate of -0.1 per month instead of -0.2 per month.;x
 PEACE_THEY_ACCEPT_3;accepted our generous offer of peace;x
 EVTNAME16415;Rise of The KKK;x
 EVTDESC4408;...and it seems to me an outright travesty that, while our people labour under the crushing yokes and fetters of poverty, unsanitary living conditions, and moral degradation, our parliament insists on spending thousands upon thousands upon millions on gunpowder and cannons. Our nation should go to war, gentlemen: A war on the ills that plague our society.'\n\nOne of our cabinet members has addressed parliament with a long speech expounding the government's anti-military policies. How should we leverage this?;x
@@ -11346,7 +11308,6 @@ EVTOPTB91705;Rescind martial law.;x
 EVTNAME35814;Japan-Korea Annexation Treaty;x
 CANCELASKMILITARYACCESS_THEY_ACCEPT_1;§Y$ACTOR$§W;x
 native_removal_act_policy_desc;Discriminatory policies aim to eliminate and push out the native population.;x
-EVTDESC91204;Vote on whether or not the dismantle nation cb will be unlocked this game.  After 6 months, the votes will be tallied and the dismantle nation cb will be unlocked only if yes gets more votes than no. In the event of a tie, the dismantle nation cb will not be enabled.;x
 EVTDESC44643;In 1841, Congress elected Carlos Antonio López as Consul of Paraguay after the death of its previous dictator, José Gaspar Rodríguez. A few months later, Congress adopted a new constitution, which changed the head of state's title from consul to president and elected him to the new post for a 10-year term. The constitution effectively codified the dictatorial powers he had seized just months earlier as it included no guarantees of civil rights -- indeed, the word "liberty" was not even mentioned in the text. His reign was marked by ambitious military and industrial reforms that would enable his son, Francisco Solano López, to attempt to create Greater Paraguay -- to disastrous effect.;x
 gtfo_XHO_title;Grant Xhosa Independence;x
 demand_reparations;Demand Reparations;x
@@ -11939,7 +11900,6 @@ EVTNAME22550;Wildcat Bills;x
 embrace_the_lao_desc;It is time for us to grant equal rights to the Lao.;x
 ALL_COUNTRIES_THAT_EFF;All countries that;x
 gtfo_LAN_title;Grant Lanfang Independence;x
-EVTOPTA91217;Vote Yes.;x
 confiscations_of_mendizabal_desc;The Ecclesiastical Confiscations of Mendizábal were a series of decrees issued between 1835 and -37 aimed at the privatization and expropriation of monastic land and property in Spain. Inspired by anticlerical liberalism, and the polarization of Spanish society during the events of The Carlist wars, the decrees led to the abandonment of many ancient Spanish monasteries.;x
 confiscations_of_mendizabal_title;Confiscations of Mendizabal;x
 desc_eiffel_tower;The world awes at the sight of Monsieur Eiffel's marvellous iron lattice tower!;x
@@ -11998,7 +11958,6 @@ EVTNAME37222;Over the English Channel;x
 PROVINCE_CONTROL_DAYS;Province control changed in the last §Y$DAYS$§W days.\n;x
 forest;Forest;x
 WARINDEMNITIES_INCOME;War indemnities: §G$VAL$§W;x
-EVTOPTA91201;Enable Crises;x
 SAT_prussian_constitutionalism;Satsuma;x
 REVOLTALLIANCE_BTN3;Go to;x
 OL_NAVAL_BASE;The $PROV$ naval base currently has $NUM$ units assigned;x
@@ -12607,7 +12566,6 @@ acceptable_health_care_fully_funded;Fully Funded Acceptable Healthcare;x
 EVTOPTB4413;Rejoice!;x
 ASKMILITARYACCESS_THEY_ACCEPT_SETUP;When a nation accept our military access request;x
 gtfo_VEN_title;Grant Venice Independence;x
-EVTOPTA91205;I understand.;x
 fiat_desc;Automobile Factory Throughput: §G+30%\n§WTank Factory Throughput: §G+20%;x
 form_south_german_confederation_title;The South German Confederation;x
 end_christian_subjugation_title;End Persecution of Christians;x
@@ -12650,7 +12608,6 @@ EVTOPTA2540;Intolerable! Forceful action must certainly be considered;x
 EVTDESC13090;He unveils the device with the excitement of a child. - 'You can see their eyes!', he cries, pointing excitedly at the jar of beetles. He instructs you to look into the object -- the glass and metal is cold against your face -- there, in curves of an optic lens, reality is magnified ten times over. - 'It's a microscope!, he laughs. - 'I bought it from one of the foreigners in $PROVINCENAME$!';x
 EVTDESC35810;In a show of gunboat diplomacy, the Japanese have demanded we end our isolationism and accept their offer of protecionism. We are wary of foreign meddling in our affairs, however refusal to meet their demands may result in war.;x
 AGRESSION_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $FIRST_COUNTRY$;x
-EVTDESC91210;The majority of players have voted to not allow the dismantle nation cb to be used this game.;x
 mercantilism_desc;Mercantilism is a type of policy designed to maximize the trade of a nation and especially to maximize the accumulation of gold and silver. It promotes governmental regulation of a nation's economy for the purpose of augmenting state power at the expense of rival national powers.;x
 CYR_liberal;Jam'iyyat al-Jami'a al-'Arabiyya;x
 assegai;Impi;x
@@ -12755,7 +12712,6 @@ desert_mine;Desert;x
 yes_naval_schools;Navy Schools;x
 EVTDESC37228;Greivances against Napoleon III over his mishandling of the recent war and suppression of his political opponents has reached a boiling point. The National Assembly has voted to overthrow Napoleon and establish a constitutional republic to govern France.;x
 EVTNAME17620;Fascist Soup kitchens;x
-EVTOPTB91211;Vote No.;x
 reconquista_mex_title;The Viceroyalty of New Spain;x
 WHA_liberal;Democratiaid Rhyddfrydol;x
 gtfo_HES_desc;We've had a good run, but it's time to end our rulership of Hesse-Darmstadt: if you love something, let it go!;x
@@ -13034,7 +12990,6 @@ free_peoples_desc;Liberate a §Ycountry§W from its oppressors;x
 ASR_anarcho_liberal;Al Anarkiliberali;x
 NEW_UNIT;Create New Unit;x
 DONT_HAVE_THE_PROVINCE_MODIFIER;Do NOT have the province modifier ;x
-EVTOPTA91211;Vote Yes.;x
 KYR_conservative;Royal Faction;x
 TNT_conservative;Conservative Party;x
 EVTOPTA19501;Merits due consideration;x
@@ -13044,7 +12999,6 @@ dismantle_forts;Dismantle Fortifications;x
 ECONOMICREFORM_BTN2;OK;x
 AKH_fascist;The Mongolian Faction;x
 CYR_conservative;Jamyat al-Ahd;x
-EVTDESC91205;You have failed to vote in time for the dismantle nation cb referendum. Your ballot will be removed from the voting pool.;x
 ATR_anarcho_liberal;Partido Radical;x
 gtfo_UOR_desc;We've had a good run, but it's time to end our rulership of Oregon Country: if you love something, let it go!;x
 PARTY_POPULARITY;Party Popularity;x
@@ -13055,7 +13009,6 @@ foreign_naval_officers;Naval Officers;x
 enlightenment_thought_desc;The Rights of Man;x
 restore_argentina_desc;Ever since the formal dissolution of the United States of Rio de La Plata in 1831, Argentina has been fractured into several semi-independent states ruled by competing caudillos. Although they are all nominally members of the Argentine Confederation, they spend more time fighting each other than they do foreigners. It is time to end this era of strife, and unite the Argentine provinces into one single Argentina - under our rule of course.;x
 EVTOPTA35602;Well done!;x
-EVTNAME91218;Extra Infamy Decay Enabled;x
 NEWS_TOOLTIP_UNREAD;You have §G$NUM$§! unread newspapers out of §G$MAX$§! printed.;x
 EVTOPTB10300;I refuse to submit to political demands by the entrenched elites;x
 EVTOPTB10290;Such a voice must be heard in all of $COUNTRY$!;x
@@ -13371,7 +13324,6 @@ LAG_DECREASE_SPEED;$PLAYER$ is lagging behind, decreasing speed.;x
 WARSUBSIDIES_WE_ACCEPT_5;as long as we're in war.;x
 EVTNAMEmob3;Personnel Category Tables Tech Flag;x
 annex_bosnia_title;Annex Bosnia;x
-EVTNAME91201;Crisis Selection;x
 KNY_ADJ;Kenyan;x
 CAR_hms_government;Ubangi-Shari;x
 EVTOPTA44631;It was not meant to be.;x
@@ -13653,7 +13605,6 @@ LOS_socialist;Partido Socialist;x
 DECREASERELATION_WE_ACCEPT_6;*;x
 corrupt_army_desc;After one defeat, one of our generals blamed the failure on enemy magic, which prompted an angry response from the ruler. It's evident that the organization and logistics of our army are inadequate, officer training is deficient, and corruption is widespread.;x
 SHA_communist;Communist Party;x
-EVTDESC91216;Players are restricted to normal rules for building factories.;x
 EVTNAME91008;Tutorial: POP promotion;x
 WARGOAL_THEY_ACCEPT_2;We have decided to expand our war by demanding;x
 WHA_communist;Plaid Gomiwnyddol;x
@@ -14121,7 +14072,6 @@ balkan_war_title;The Balkan War;x
 GAB_ADJ;Gabonese;x
 colonial_railroad_nerf3;Colonial Railroad Nerf;x
 CB_JUSTIFY_NO_LONGER_VALID_HEADER;$MONARCHTITLE$;x
-EVTOPTA91207;OK;x
 EVT91737OPTJ;Change province to produce Silk.;x
 WARTAX_TIP;Raise War Taxes;x
 refute_manifest_destiny_title;Refute Manifest Destiny;x
@@ -14324,7 +14274,6 @@ beverages_focus;Encourage Beverage Industry;x
 confederation_vignerons;Confédération générale des vignerons;x
 empire_tariffs;Empire Tariff Cap;x
 gtfo_NZL_desc;We've had a good run, but it's time to end our rulership of New Zealand: if you love something, let it go!;x
-EVTDESC91209;Voting ends. No has won.;x
 KAM_conservative;The Conservatives;x
 gtfo_ELS_title;Grant El Salvador Independence;x
 csa_manifest_destiny_title;Manifest Destiny;x
@@ -14776,7 +14725,6 @@ cancel_trade_agreements_4_title;§YCancel Trade Agreement;x
 eastern_crisis_dismantle_ottomans;Dismantle the Ottoman Empire;x
 EVTOPTB91007;I would like to know more.;x
 EVTOPTA44701;Support Prince Ang Duong.;x
-EVTOPTA91212;OK.;x
 EVTNAME31201;Albanian Uprising;x
 MLW_communist;Communist Party of Malawi;x
 EVTOPTA44312;From sea to sea.;x
@@ -15032,8 +14980,7 @@ CEASECOLONIZATION_WE_DECLINE_BTN2;OK;x
 embrace_czech_minority_title;Embrace the Czech minority;x
 BHR_fascist;Hizb al-Mustaqbal;x
 constantinople_conference;Hosted the Constantinople Conference;x
-EVTNAME91211;Integrate State Decision Vote;x
-MODIFIER_LAND_DEFENSE;Land Unit Defense;x
+MODIFIER_LAND_DEFENSE;Land Unit Defence;x
 embrace_sudanese_minority_desc;It is time we recognized the Sudanese as our equal Arabic bretheren.;x
 preparations_to_kill_desc;We are solving the minorities problem in our country. Minorities are being sorted out in concentration camps and waiting for their fate, or being delivered to it already.;x
 gtfo_KAF_desc;We've had a good run, but it's time to end our rulership of Kaffa: if you love something, let it go!;x
@@ -15062,7 +15009,6 @@ QLD_conservative_1;Nationalist Party;x
 RULE_DHONT;Jefferson Method;x
 gtfo_JAV_desc;We've had a good run, but it's time to end our rulership of Java: if you love something, let it go!;x
 EVTOPTA35811;Great!;x
-EVTNAME91215;Always Allow Factory Building Enabled;x
 EVTNAME90044;British Defeat in India;x
 MRT_democracy;Maratha Confederacy;x
 international_zone_modifier_desc;Our country has been declared an international zone, a hub of trade and commerce and a neutral zone for foreign parts to meet.;x
@@ -15132,14 +15078,12 @@ texan_manifest_destiny_desc;To bring civilization from coast to shining coast ha
 gtfo_AGC_desc;We've had a good run, but it's time to end our rulership of Angoche: if you love something, let it go!;x
 EVTOPTA44813;$COUNTRY$ apologizes for nothing.;x
 ADDTOSPHERE_THEY_ACCEPT_BTN1;OK;x
-EVTDESC91208;The majority of players have voted to allow the dismantle nation cb to be used this game.;x
 KNY_fascist;Fascist Party;x
 enact_the_homestead_act_desc;Signed into law by President Abraham Lincoln in 1862, the Homestead Act was designed to give eligible applicants freehold titles for lands of up to 160 acres in size. The act was one of several similar United States' laws, all contributing to the image and perception of America as a land of opportunity and new beginnings.;x
 disarming;Forced to Disarm;x
 mining_idea_desc;Increased Mining Efficiency.;x
 EVTDESC19362;Our time in the sun has ended, we are no longer the world's greatest power. The Hegemon country modifier will be removed until we can regain the #1 spot for 2 years.;x
 abolish_imperial_exams_desc;The imperial examinations are a civil service examination system for selecting candidates for the state bureacracy. It focuses mainly on classic literature and Confucianist philosophy while omitting or downplaying western science, mathematics, and military affairs. Rigid adherence to the imperial exams is stifling the adoption of western technology and it must be abolished if China is to modernize in a timely fashion.;x
-EVTNAME91208;Dismantle Nation CB Enabled;x
 manufacturing_belt;The Manufacturing Belt;x
 EVTOPTB2510;The explosion was an accident, and we cannot allow the mob to dictate foreign policy;x
 accept_trade_deal_6_desc;If we enter into a trade deal with the chosen country, we will get a decision that allows us to send goods from our stockpile to our trading partner.;x
