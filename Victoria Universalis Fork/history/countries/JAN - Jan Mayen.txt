@@ -49,26 +49,9 @@ upper_house = {
 	communist = 0
 }
 
-1836.1.2 = {
-	set_global_flag = 1836_literacy_setup
-	set_global_flag = 1836_literacy_check
-}
-
-1836.1.3 = {
-	set_global_flag = mp_1836_literacy_setup
-}
-
-1890.1.1 = {
-	set_global_flag = slavery_ended
-}
-
-1913.1.1 = {
-	set_global_flag = ai_yemen_annexation
-	set_global_flag = 1913_bookmark
-	set_global_flag = dismantle_enabled
-	decision = jan_mayen_1913_setup
-}
-
-1914.7.28 = {
-	set_global_flag = ww1_bookmark
+1836.1.1 = {
+	decision = cultures_setup
+	decision = literacy_setup
+	decision = global_setup
+	decision = chinese_setup
 }
