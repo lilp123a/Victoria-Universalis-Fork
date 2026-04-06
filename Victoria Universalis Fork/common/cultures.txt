@@ -2690,7 +2690,7 @@ jewish_culture_group = {
 	union = ISR
 	
 	ashkenazi = { 
-		color = { 130 100 100}
+		color = { 184 210 212 }
 		first_names = { Abraham Albert Benjamin Daniel David Franz Gustav Heinrich Hermann Isaak Ignatz Jakob Jeremias Josef Leonhard Michael Mose Salomon Saul Shmuel
 		Sigmund Simon Theodor }
 		
@@ -2699,7 +2699,7 @@ jewish_culture_group = {
 	}
 	
 	sephardic = {
-		color = {50 60 10}
+		color = { 50 60 10 }
 		first_names = { Abraham Amos Baruch Binyamin Daniel David Efraim Ehud Eli Eliezer Elijah Gavriel Hebel Immanuel Itzhak Levi Mattiyahu Mensahe Mikhael Moshe 
 		Natan Noach Reuben Roi Shalom Shimon Tovia Uriel Uzziel Yaakov Yachin Yafe Yehoshua Yehudah Yochanan Yonatan Yosef Zohar
 		}
