@@ -5,27 +5,3 @@ bookmark = {
 	cameraX = 2950
 	cameraY = 1550
 }
-
-#bookmark = {
-#	name = "VU_NAME"
-#	desc = "VU_DESC"
-#	date = 1836.1.2
-#	cameraX = 2950
-#	cameraY = 1550
-#}
-
-#bookmark = {
-#	name = "1913_NAME"
-#	desc = "1913_DESC"
-#	date = 1913.1.1
-#	cameraX = 2950
-#	cameraY = 1550
-#}
-
-#bookmark = {
-#	name = "WW1_NAME"
-#	desc = "WW1_DESC"
-#	date = 1914.7.28
-#	cameraX = 2950
-#	cameraY = 1550
-#}
