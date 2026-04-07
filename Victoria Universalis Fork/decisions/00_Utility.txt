@@ -40,12 +40,87 @@ political_decisions = {
 		}
 	}
 	
+	##############
+	### GRANTS ###
+	##############
+	# Decisions to toggle receiving grant requests and request grants
+	
+	utility_grant_requests_on = {
+		picture = utility_grants
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			
+			NOT = { has_country_flag = grant_requests_enabled }
+		}
+		
+		allow = {}
+		
+		effect = {
+			set_country_flag = grant_requests_enabled
+		}
+	}
+	
+	utility_grant_requests_off = {
+		picture = utility_grants
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			
+			has_country_flag = grant_requests_enabled
+		}
+		
+		allow = {}
+		
+		effect = {
+			clr_country_flag = grant_requests_enabled
+		}
+	}
+	
+	utility_request_grant = {
+		picture = utility_grants
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+		}
+		
+		allow = {
+			NOT = { has_country_modifier = requested_grant }
+		}
+		
+		effect = {
+			add_country_modifier = {
+				name = requested_grant
+				duration = 7
+			}
+			
+			any_country = {
+				limit = {
+					ai = no
+					has_country_flag = grant_requests_enabled
+				}
+				
+				country_event = {
+					id = 91400
+					days = 0
+				}
+			}
+		}
+	}
+	
 	#####################
 	### TOTAL CONTROL ###
 	#####################
 	# Usable when manual factory control game rule is enabled. Sets special political reform to disable/enable capitalist building for better micromanaging of the economy
 	
 	utility_total_control_on = {
+		picture = utility_total_control
 		alert = no
 		
 		potential = {
@@ -64,6 +139,7 @@ political_decisions = {
 	}
 	
 	utility_total_control_off = {
+		picture = utility_total_control
 		alert = no
 		
 		potential = {

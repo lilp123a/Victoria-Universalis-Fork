@@ -2915,7 +2915,6 @@ gtfo_MRT_title;Grant Marathas Independence;x
 OTHER_DEMOBILIZE_3;*;x
 BP_TOOL_ICON_COMBAT;Battle icon;x
 BP_TOOL_ICON_INFANTRY;Infantry icon;x
-EVTNAMEgivemoney;$FROMCOUNTRY$ Requests a Grant;x
 CRISIS_NOBODY_BACKED_BTN1;Ok;x
 restore_puppet_province_desc;Retake a province for our puppet.;x
 EVTNAME19500;Laagers Attacked!;x
@@ -6369,7 +6368,6 @@ THEY_NO_LONGER_GREAT_POWER_BTN1;Ok;x
 gtfo_KMT_title;Grant Nationalist China Independence;x
 THEY_NO_LONGER_GREAT_POWER_6;*;x
 THEY_NO_LONGER_GREAT_POWER_5;*;x
-EVTOPTAinsufficientmoney;Ok.;x
 BRD_anarcho_liberal;Abanyamajambere Party;x
 gtfo_SLW_title;Grant Bone Independence;x
 THEY_NO_LONGER_GREAT_POWER_2;has fallen in status;x
@@ -7861,7 +7859,6 @@ EVTNAME21020;Typhoid Fever!;x
 MOZ_anarcho_liberal;Independent Party of Mozambique;x
 EVTOPTA14110;Religion is a private matter.;x
 gtfo_SIN_title;Grant Sindh Independence;x
-EVTNAMEinsufficientmoney;Insufficient Stockpile;x
 EVTNAME21010;Famine Strikes State!;x
 EVTOPTA21000;*cough* *cough*;x
 DOMESTIC_RELATION;relation;x
@@ -9975,7 +9972,6 @@ EVTNAME37200;Louis Napoleon in Switzerland;x
 EVTDESC1109;A dried up old traveller has returned from the wilderness. When given a whiskey he says with a hoarse voice 'Oil! I have found Oil! An ocean of Oil!';x
 EVTNAME11101;$FROMCOUNTRY_ADJ$ Winds;x
 PEACE_THEY_DECLINE_3;rejected our generous offer of peace;x
-EVTDESCinsufficientmoney;We do not have the required stockpile of supplies that we wish to send.;x
 TSW;Bechuanaland;x
 ALLIANCE_OTHER_ACCEPT_4;with their new ally;x
 EVTOPTB35710;Reclaim Zanzibar.;x
@@ -11490,7 +11486,6 @@ gtfo_HEK_desc;We've had a good run, but it's time to end our rulership of Hesse-
 SIEGETHEMREBEL_SETUP;When we begin to occupy the province controlled by rebellion.;x
 liberal_reaction;Liberal Opposition;x
 MRS_ADJ;Marshallese;x
-EVTDESCgivemoney;$FROMCOUNTRY$ has asked us for a grant. Shall we give it to them?;x
 PO_THEYNOTLEAD;, and they are merely negotiating for themselves.;x
 professional_civil_servants;Professional Civil Service;x
 PO_WELEAD;We negotiate on behalf of our entire alliance;x
@@ -15209,3 +15204,4 @@ EVTNAME35924;The Jambi Sultanate;x
 second_power;Secondary Power;x
 NOT_EXIST;$TAG$ does not exist at this time.;x
 partisans_army;$CULTURE$ Partisans;x
+grant_requests_enabled;Grant Requests Enabled;x

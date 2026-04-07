@@ -1,0 +1,216 @@
+# *##########################
+# *###### GRANT EVENTS ######
+# *##########################
+
+country_event = {
+	id = 91400
+	title = EVTNAME91400
+	desc = EVTDESC91400
+	picture = player_grants
+	
+	is_triggered_only = yes
+	
+	# Don't give anything
+	option = {
+		name = "EVTOPTA91400"
+	}
+	
+	# Give 50.000
+	option = {
+		name = "EVTOPTB91400"
+		
+		random_owned = {
+			limit = {
+				owner = {
+					NOT = { money = 50000 }
+				}
+			}
+			
+			owner = {
+				country_event = {
+					id = 91401
+					days = 0
+				}
+			}
+		}
+		
+		random_owned = {
+			limit = {
+				owner = { money = 50000 }
+			}
+			
+			owner = {
+				money = -50000
+				FROM = { money = 50000 }
+			}
+		}
+	}
+	
+	# Give 100.000
+	option = {
+		name = "EVTOPTC91400"
+		
+		random_owned = {
+			limit = {
+				owner = {
+					NOT = { money = 100000 }
+				}
+			}
+			
+			owner = {
+				country_event = {
+					id = 91401
+					days = 0
+				}
+			}
+		}
+		
+		random_owned = {
+			limit = {
+				owner = { money = 100000 }
+			}
+			
+			owner = {
+				money = -100000
+				FROM = { money = 100000 }
+			}
+		}
+	}
+	
+	# Give 250.000
+	option = {
+		name = "EVTOPTD91400"
+		
+		random_owned = {
+			limit = {
+				owner = {
+					NOT = { money = 250000 }
+				}
+			}
+			
+			owner = {
+				country_event = {
+					id = 91401
+					days = 0
+				}
+			}
+		}
+		
+		random_owned = {
+			limit = {
+				owner = { money = 250000 }
+			}
+			
+			owner = {
+				money = -250000
+				FROM = { money = 250000 }
+			}
+		}
+	}
+	
+	# Give 500.000
+	option = {
+		name = "EVTOPTE91400"
+		
+		random_owned = {
+			limit = {
+				owner = {
+					NOT = { money = 500000 }
+				}
+			}
+			
+			owner = {
+				country_event = {
+					id = 91401
+					days = 0
+				}
+			}
+		}
+		
+		random_owned = {
+			limit = {
+				owner = { money = 500000 }
+			}
+			
+			owner = {
+				money = -500000
+				FROM = { money = 500000 }
+			}
+		}
+	}
+	
+	# Give 1.000.000
+	option = {
+		name = "EVTOPTF91400"
+		
+		random_owned = {
+			limit = {
+				owner = {
+					NOT = { money = 1000000 }
+				}
+			}
+			
+			owner = {
+				country_event = {
+					id = 91401
+					days = 0
+				}
+			}
+		}
+		
+		random_owned = {
+			limit = {
+				owner = { money = 1000000 }
+			}
+			
+			owner = {
+				money = -1000000
+				FROM = { money = 1000000 }
+			}
+		}
+	}
+	
+	# Give 2.000.000
+	option = {
+		name = "EVTOPTG91400"
+		
+		random_owned = {
+			limit = {
+				owner = {
+					NOT = { money = 2000000 }
+				}
+			}
+			
+			owner = {
+				country_event = {
+					id = 91401
+					days = 0
+				}
+			}
+		}
+		
+		random_owned = {
+			limit = {
+				owner = { money = 2000000 }
+			}
+			
+			owner = {
+				money = -2000000
+				FROM = { money = 2000000 }
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 91401
+	title = EVTNAME91401
+	desc = EVTDESC91401
+	picture = player_grants
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA91401"
+	}
+}

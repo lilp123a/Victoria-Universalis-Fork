@@ -9,6 +9,7 @@ political_decisions = {
 	# Shows/hides gamerules decisions
 	
 	show_gamerules_decisions = {
+		picture = gamerules
 		alert = yes
 		
 		potential = {
@@ -26,6 +27,7 @@ political_decisions = {
 	}
 	
 	hide_gamerules_decisions = {
+		picture = gamerules
 		alert = no
 		
 		potential = {
@@ -48,6 +50,7 @@ political_decisions = {
 	# Options to enable crises, either immediately or delayed to 1870
 	
 	gamerules_enable_immediate_crises = {
+		picture = gamerules_crises
 		alert = yes
 		
 		potential = {
@@ -69,6 +72,7 @@ political_decisions = {
 	}
 	
 	gamerules_enable_delayed_crises = {
+		picture = gamerules_crises
 		alert = yes
 		
 		potential = {
@@ -95,6 +99,7 @@ political_decisions = {
 	# Option to enable the dismantle casus belli
 	
 	gamerules_enable_dismantlement = {
+		picture = gamerules_dismantlement
 		alert = yes
 		
 		potential = {
@@ -118,6 +123,7 @@ political_decisions = {
 	# Option to enable manual economic control, allowing players to always manage their factories, build railroads and invest in pop projects, regardless of their ruling party's economic policy
 	
 	gamerules_enable_manual_economic_control = {
+		picture = gamerules_manual_economic_control
 		alert = yes
 		
 		potential = {
@@ -141,6 +147,7 @@ political_decisions = {
 	# Option to enable integrating states via the province selector
 	
 	gamerules_enable_province_selector_integration = {
+		picture = gamerules_province_selector_integration
 		alert = yes
 		
 		potential = {
@@ -164,6 +171,7 @@ political_decisions = {
 	# Option to enable extra infamy decay
 	
 	gamerules_enable_extra_infamy_decay = {
+		picture = gamerules_extra_infamy_decay
 		alert = yes
 		
 		potential = {
