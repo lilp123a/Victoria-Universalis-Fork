@@ -25,6 +25,6 @@ utility_grant_requests_off_desc;Disable receiving requests for grants from other
 utility_request_grant_title;§YRequest a Grant§!;x
 utility_request_grant_desc;Send a request for money to other players who have grant requests enabled.;x
 utility_total_control_on_title;§YEnable Total Control§!;x
-utility_total_control_on_desc;Total Control bars capitalist pops from building, expanding and re-opening factories, enabling you to better micromanage your industry. Unfortunately, railroads are also affected.\n\n§GTotal Control can be toggled on and off at any time.§!;x
+utility_total_control_on_desc;Total Control bars capitalist pops from building, expanding and re-opening factories, enabling you to better micromanage your industry. Unfortunately, infrastructure building is also affected.\n\n§GTotal Control can be toggled on and off at any time.§!;x
 utility_total_control_off_title;§YDisable Total Control§!;x
 utility_total_control_off_desc;Disable Total Control, allowing capitalist pops to manage factories again.\n\n§GTotal Control can be toggled on and off at any time.§!;x

@@ -555,7 +555,7 @@ political_decisions = {
 				}
 				owner = { political_reform = rudimentary_rnd }
 			}
-		}		
+		}
 	}
 
 #########################################################################

@@ -1,6 +1,6 @@
-# *##########################
-# *###### GRANT EVENTS ######
-# *##########################
+# *##########################*
+# *###### GRANT EVENTS ######*
+# *##########################*
 
 country_event = {
 	id = 91400
@@ -40,8 +40,8 @@ country_event = {
 			}
 			
 			owner = {
-				money = -50000
-				FROM = { money = 50000 }
+				treasury = -50000
+				FROM = { treasury = 50000 }
 			}
 		}
 	}
@@ -71,8 +71,8 @@ country_event = {
 			}
 			
 			owner = {
-				money = -100000
-				FROM = { money = 100000 }
+				treasury = -100000
+				FROM = { treasury = 100000 }
 			}
 		}
 	}
@@ -102,8 +102,8 @@ country_event = {
 			}
 			
 			owner = {
-				money = -250000
-				FROM = { money = 250000 }
+				treasury = -250000
+				FROM = { treasury = 250000 }
 			}
 		}
 	}
@@ -133,8 +133,8 @@ country_event = {
 			}
 			
 			owner = {
-				money = -500000
-				FROM = { money = 500000 }
+				treasury = -500000
+				FROM = { treasury = 500000 }
 			}
 		}
 	}
@@ -164,8 +164,8 @@ country_event = {
 			}
 			
 			owner = {
-				money = -1000000
-				FROM = { money = 1000000 }
+				treasury = -1000000
+				FROM = { treasury = 1000000 }
 			}
 		}
 	}
@@ -195,8 +195,8 @@ country_event = {
 			}
 			
 			owner = {
-				money = -2000000
-				FROM = { money = 2000000 }
+				treasury = -2000000
+				FROM = { treasury = 2000000 }
 			}
 		}
 	}
