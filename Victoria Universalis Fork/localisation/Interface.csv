@@ -566,7 +566,7 @@ TB_TECH_NO_CURRENT;§RNo research set§W;x
 TOPBAR_AVG_CHANGE;We estimate that it will change by $VAL$§W during the next month;x
 TECH_DAILY_RESEARCHPOINTS_BASE_TOOLTIP;Daily base research points: §Y$VALUE$§W;x
 TECH_DAILY_RESEARCHPOINTS_TOTAL_TOOLTIP;Daily research points: §G+$VALUE$§W;x
-TECH_DAILY_RESEARCHPOINTS_TOOLTIP;$POPTYPE$ provide §G$VALUE$§W research points.\n (§Y$FRACTION$%§W of the population, $OPTIMAL$% is the minimum for full research points and 4% is optimal for literacy gain);x
+TECH_DAILY_RESEARCHPOINTS_TOOLTIP;$POPTYPE$ provide §G$VALUE$§W research points.\n (§Y$FRACTION$%§W of the population, $OPTIMAL$% is the minimum for full research points and 4% Intellectuals is optimal for literacy gain);x
 TECHNOLOGY;Technology;x
 POLITICS;Politics;x
 POPULATION;Population;x

@@ -195,7 +195,6 @@ country_event = {
 		ai = no
 		OR = {
 			NOT = { colonial_migration = no_colonial_migration }
-			NOT = { research_and_development = no_rnd }
 			NOT = { health_care = no_health_care }
 		}
 		NOT = { money = 50000 }
@@ -208,7 +207,6 @@ country_event = {
 	
 	option = {
 		name = "EVTOPTA91504"
-		political_reform = no_rnd
 		political_reform = no_colonial_migration
 		social_reform = no_health_care
 	}

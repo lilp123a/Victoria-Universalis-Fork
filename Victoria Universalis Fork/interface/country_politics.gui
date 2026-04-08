@@ -927,34 +927,6 @@ guiTypes = {
 			}
 			
 			windowType = {
-				name = "research_and_development"
-				backGround =""
-				position = { x = 843 y = 419 }
-				size = { x=151 y=70 }
-				moveable = 0
-				dontRender = ""
-				horizontalBorder = "0"
-				verticalBorder = ""
-				fullScreen = no
-				
-				iconType = {
-				 name = "politics_research_and_development"
-				 spriteType = "GFX_politics_research_and_development"
-				 position = { x= -4 y = 13 }
-				 Orientation = "UPPER_LEFT"
-			 }
-				
-				instantTextBoxType = { 
-					name = "reform_name"
-					position = { x = 20 y = 22 }
-					font = "Arial12"
-					text = "REFORM_NAME"	
-					maxWidth = 140
-					maxHeight = 10	
-				}
-			}
-			
-			windowType = {
 				name = "trade_unions"
 				backGround =""
 				position = { x = 843 y = 128 }
@@ -1267,35 +1239,6 @@ guiTypes = {
 				maxHeight = 20	
 			}
 		}
-		
-			
-			#windowType = {
-			#	name = "citizen_reforms"
-			#	backGround =""
-			#	position = { x = 382 y = 531 }
-			#	size = { x=310 y=100 }
-			#	moveable = 0
-			#	dontRender = ""
-			#	horizontalBorder = "0"
-			#	verticalBorder = ""
-			#	fullScreen = no
-			#	
-			#	iconType = {
-			#		 name = "politics_school"
-			#		 spriteType = "GFX_politics_school"
-			#		 position = { x= 7 y = 7 }
-			#		 Orientation = "UPPER_LEFT"
-			#	 }
-			#	
-			#	instantTextBoxType = { 
-			#		name = "reform_name"
-			#		position = { x = 686 y = 15 }
-			#		font = "vic_18"
-			#		text = "REFORM_NAME"	
-			#		maxWidth = 100
-			#		maxHeight = 20	
-			#	}
-			#}
 		} # end reforms
 		
 		######################

@@ -174,11 +174,6 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_politics_research_and_development"
-		texturefile = "gfx\\interface\\politics_research_and_development.dds"
-	}
-	
-	spriteType = {
 		name = "GFX_politics_child_labor"
 		texturefile = "gfx\\interface\\politics_child_labor.dds"
 	}

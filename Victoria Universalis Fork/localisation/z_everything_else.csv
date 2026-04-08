@@ -12,7 +12,6 @@ HLS_socialist_2;Sozialdem. Arbeiterpartei ;x
 CMS_conservative;Comorian Democratic Union;x
 IS_MOBILIZED_IRO;(Reserves are Mobilised);x
 EVTNAME31310;The Red Cross;x
-zcountry_decrease_rnd_desc;Lowers current R&D to the lowest level.;x
 EVTDESC46302;Francisco Sabino, a military officer, launched a radical revolt in Bahia, calling for the end of slavery and the redistribution of land.;x
 EVTDESC23401;As the idea of the Olympics originated in our sacred soil, the International Olympic Committee has invited our government to organize the first Olympic Games of the modern era. Should we accept the offer?;x
 gtfo_LUZ_desc;We've had a good run, but it's time to end our rulership of Lusatia: if you love something, let it go!;x
@@ -1620,7 +1619,6 @@ CEASECOLONIZATION_OTHER_DECLINE_2;$MONARCHTITLE$, we heard that;x
 GIVEMILITARYACCESS_THEY_DECLINE_5;*;x
 expand_eic_rgo_desc;Frequent famines and mass poverty plague our colonies in India. An investment into their agricultural sectors will pay dividends in the future and help strengthen the legitimacy of our rule. ;x
 EVTDESC37203;Charles Louis Napol廩n, nephew of Napol廩n I, made an unsuccessful bid for power in Boulogne.;x
-zcountry_increase_healthcare_desc;Raises your healthcare reform by one level.;x
 ASKMILITARYACCESS_WE_ACCEPT_BTN2;OK;x
 law_changed_by_force_desc;We pressured the upper house to pass an urgent reform.;x
 gtfo_D26_desc;We've had a good run, but it's time to end our rulership of D26: if you love something, let it go!;x
@@ -4349,7 +4347,6 @@ troupes_de_marine_desc;The colonial expansion of the 19th century saw the extens
 WE_MOBILIZE_6;*;x
 CHY_liberal;Reformist Faction;x
 canton_system;The Cohong;x
-zcountry_decrease_rnd_title;即Decrease Research and Development;x
 apache_title;Apache;x
 WE_MOBILIZE_3;*;x
 WE_MOBILIZE_1;MOBILIZE;x
@@ -5114,7 +5111,6 @@ gtfo_ALD_desc;We've had a good run, but it's time to end our rulership of ALD: i
 EVTDESC150;For it is not in the nature of a man of real, unadulterated faith to spend his life idly wasting away under the shackles of an oppressing and unquestioned vice. We must strive for the betterment of ourselves, and of our communities, by expelling from them, once and for all, the pernicious influence of the spirit in the bottle, and raise our eyes, instead, to the spirit in the sky.'\n\nThe Temperance movement has been gaining traction in $COUNTRY_ADJ$ religious circles, and a tent meeting held in one of our states is a prime expression of that sentiment.;x
 nv_order;Order;x
 PAN_communist;The Communist Faction;x
-zcountry_increase_rnd_title;即Increase Research and Development;x
 PAN_socialist;The Socialist Faction;x
 KRY_communist;The Communists;x
 PAN_reactionary;The Nationalist Faction;x
@@ -7084,7 +7080,6 @@ EVTOPTA33403;An artistic genius;x
 SWH_conservative;Zentrumspartei;x
 EVTDESC33403;The composer Richard Wagner has completed construction of the Festspielhaus in Bayreuth. It is envisioned that a festival devoted to performing great German works of the theatre will be held here each year.;x
 AKH;Astrakhan;x
-zcountry_increase_healthcare_title;即Increase Healthcare Reform;x
 ATTACKUSREBEL_3;$PROV$.;x
 PEACENEWDESC;Do you wish to request peace with $COUNTRY$. $SELF$?\nIf they accept, the war will end. $RESULT$;x
 BECOME;become;x
@@ -14079,7 +14074,6 @@ EVTNAME13070;Sayings of The Dutch;x
 EVTOPTB35601;Never! We will fight the Americans if we must.;x
 UNIT_DISABLE_REBEL_HUNT;(hunting rebels);x
 DIPRELCH_VALID_CB;Valid Casus Belli;x
-zcountry_decrease_healthcare_desc;Lowers your healthcare reform by one level.;x
 BE_TECH;Technologies:;x
 EVTOPTE91700;Socialist;x
 form_pakistan_desc;Our dominant position among our muslim and cultural brethren puts us in a position to form Pakistan.;x
@@ -14275,7 +14269,6 @@ csa_manifest_destiny_title;Manifest Destiny;x
 professional_civil_servants_l;Professional Civil Service;x
 EVTDESC36003;Waning Persian influence over our neighbors has given us an opportunity to expel them from our country too.;x
 WARSUBSIDIES_WE_ACCEPT_2;$MONARCHTITLE$, we have received;x
-zcountry_increase_rnd_desc;Raises current R&D to the highest level.;x
 BKF_communist;Voltaic Communist Organization;x
 gtfo_OMA_title;Grant Oman Independence;x
 POLITICS_CANNOT_SET_RULING_PARTY_IN_ELECTION;It is not possible to switch ruling parties in the middle of an election.;x
@@ -14830,7 +14823,6 @@ EVTNAME23301;Mysterious Whale Sinks Ship!;x
 turkish_population_exchange_desc;Greeks are being transferred from our country to Greece and Turks from all over the Balkans are coming to Turkey.;x
 SNZ_reactionary;Nationalist Party;x
 gtfo_NIG_title;Grant Niger Independence;x
-zcountry_decrease_healthcare_title;即Decrease Healthcare Reform;x
 army_organisation_idea_desc;This effect is multiplicative. The max organization of a land unit is (base organization of unit + army organization from techs) * (1 + land organization). An infantry brigade has a base organization of 30, so without any techs researched the max org it will have with this modifier is (30 + 0) * (1 + 0.15) = 34.5.;x
 fugitive_slave_act_title;Fugitive Slave Act;x
 gtfo_MLT_desc;We've had a good run, but it's time to end our rulership of Malta: if you love something, let it go!;x
