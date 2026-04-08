@@ -3,7 +3,7 @@ color = { 234 227 40 }
 strata = middle
 
 can_reduce_consciousness = yes
-research_points = 4	# If max %, then X extra research points
+research_points = 5	# If max %, then X extra research points
 research_optimum = 0.02	# 2%
 
 rebel = {
@@ -43,13 +43,13 @@ everyday_needs = {
 	tea = 2
 	coffee = 1.6
 	liquor = 2
-	regular_clothes = 2.5
-	furniture = 2.5
+	regular_clothes = 3
+	furniture = 3
 	luxury_clothes = 0.4
 	luxury_furniture = 0.4
-	wine = 2
+	wine = 2.5
 	canned_food = 1
-	paper = 2.5
+	paper = 3
 }
 
 luxury_needs = {
