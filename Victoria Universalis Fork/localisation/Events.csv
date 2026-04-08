@@ -10,3 +10,13 @@ EVTOPTG91400;Give ¤2.000.000;x
 EVTNAME91401;Insufficient Reserves;x
 EVTDESC91401;We don't have the reserves to pay out that grant option.;x
 EVTOPTA91401;...;x
+EVTNAME92300;Spread Ideology;x
+EVTDESC92300;Choose an ideology to sway your population towards. This will cause upheaval, increasing militancy in core provinces by §R+0.05§! per month. We will also have to pay for the expenses of this operation, decreasing our tax efficiency by §R-5.0%§!.\n\nAn active operation can be cancelled using the first option. If you already have an ongoing operation, choosing another will switch to it.\n\n§RChoosing an ideology which is not yet active in your nation will have no effect.§!;x
+EVTOPTA92300;Cancel;x
+EVTOPTB92300;Reactionary;x
+EVTOPTC92300;Conservative;x
+EVTOPTD92300;Liberal;x
+EVTOPTE92300;Anarcho-Liberal;x
+EVTOPTF92300;Socialist;x
+EVTOPTG92300;Communist;x
+EVTOPTH92300;Fascist;x

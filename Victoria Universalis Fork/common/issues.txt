@@ -517,37 +517,29 @@ political_reforms = {
 			allow = {  }
 		}
 	}
-
+	
+	# These are controlled via decision rather than normal reform mechanics
 	colonial_migration = {
-		high_colonial_migration = {
-			tax_efficiency = -0.03
-			allow = {
-				colonial_nation = yes
-				always = no
-			}
-		}
-
-		medium_colonial_migration = {
-			tax_efficiency = -0.02
-			allow = {
-				colonial_nation = yes
-				always = no
-			}
-		}
-
-		low_colonial_migration = {
-			tax_efficiency = -0.01
-			allow = {
-				colonial_nation = yes
-				always = no
-			}
-		}
-
 		no_colonial_migration = {
-			allow = {
-				colonial_nation = no
-				always = no
-			}
+			allow = { always = no }
+		}
+		
+		low_colonial_migration = {
+			allow = { always = no }
+			
+			tax_efficiency = -0.01
+		}
+		
+		medium_colonial_migration = {
+			allow = { always = no }
+			
+			tax_efficiency = -0.02
+		}
+		
+		high_colonial_migration = {
+			allow = { always = no }
+			
+			tax_efficiency = -0.03
 		}
 	}
 

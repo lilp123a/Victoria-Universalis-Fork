@@ -632,7 +632,6 @@ EVTNAME13410;A Telescope;x
 gtfo_SUA_desc;We've had a good run, but it's time to end our rulership of Suazi: if you love something, let it go!;x
 EVTOPTA18120;Let them go.;x
 request_trade_deal_desc;We can request to set up a trading deal with another human controlled country. When two countries enter into a trading deal, a decision will appear for both countries that will allow them to send goods to each other directly from their stockpile. You can only have one trading partner at one time, and there can only be 15 trading agreements globally at any time.;x
-EVTOPTZ91700;Remove all political influences.;x
 CEASECOLONIZATION_OTHER_ACCEPT_BTN1;OK;x
 po_destroy_forts;Destroy all forts in $STATE$.;x
 orange_capital_title;Establish Bloemfontein;x
@@ -1196,7 +1195,6 @@ native_rebels_army;Anti-Colonial Rebels;x
 EVTOPTB14580;Their beliefs must be respected;x
 gtfo_LNA_desc;We've had a good run, but it's time to end our rulership of Lan Na: if you love something, let it go!;x
 ANI_proletarian_dictatorship;Antillean Republic;x
-zcountry_increase_colonial_migration_desc;Increase Colonial Migration reform level by one;x
 IVC_conservative;Entente of Independents;x
 establish_india_civil_service_title;Establish The Indian Civil Service;x
 gtfo_DJA_title;Grant Jambi Independence;x
@@ -1663,7 +1661,6 @@ CALLALLY_WE_ACCEPT_3;即$ACTOR$劬;x
 no_industrial_construction;No Industrial Construction;x
 EVTNAME36622;The Great Scandinavian Students' meeting;x
 annals_of_the_fulani_jihad_title;Annals of The Fulani Jihad;x
-communist_influence_desc;Communist agitators are spreading their ideology among the people;x
 GRANT_MILITARY_ACCESS_EFFECT;即$TARGET_COUNTRY$劬 will grant 即$COUNTRY$劬 military access劬.\n;x
 ADDTOSPHERE_WE_ACCEPT_3;the Sphere of Influence of 即$ACTOR$劬.;x
 gtfo_GNG_desc;We've had a good run, but it's time to end our rulership of Guangdong: if you love something, let it go!;x
@@ -2024,7 +2021,6 @@ COLONY_FAIL_LOG;$OTHER$ managed to to colonize $TARGET$ before us.;x
 FE_BOOKEDMARKED;Bookmarked dates:;x
 EVTNAME32510;Russia Accepts!;x
 EVTOPTB32509;No, I don't think so. Maybe we could build a bridge there someday?;x
-socialist_influence;Socialist Influence;x
 EVTDESC22500;A bleak day today for $COUNTRY$, as $CAPITAL$'s financial district reels from the shock of a burst speculation bubble. Real estate prices have been soaring for the past year and a half, and while some analysts have warned for quite some time that the prices have been artificially high due to the effects of inflationary over consumption, the matadors of the bull market have left any such warnings unheeded. In government circles, cries for increased bank and currency regulations are being heard, calling for an end to what is referred to as 'the failures of dog-eat-dog capitalism'.;x
 EVTOPTA32509;We have more bad climate than we need anyway;x
 EVTNAME23400;Membership in the International Olympic Committee;x
@@ -2282,7 +2278,6 @@ ALLIANCE_WE_ACCEPT_BTN2;Perfect!;x
 BANEMBASSY_DI;Banning of Embassy;x
 EVTOPTC3803;We'll keep the minimum wages as they are.;x
 EXPELADVISORS_DI;Expulsion of Advisors;x
-conservative_influence;Conservative Influence;x
 DISCREDIT_DI;Discredit;x
 EVTNAME14570;Colonial Discontent;x
 CALLALLY_DI;Call Ally;x
@@ -3284,7 +3279,6 @@ production_focus;Production ;x
 LNA_ADJ;Lan Nan;x
 EVTDESC20000;As a great power it is expected of us to assert our position.;x
 BRY_liberal;The Liberal Faction;x
-reactionary_influence_desc;Reactionary agitators are spreading their ideology among the people;x
 EVTNAME20000;An international crisis is brewing!;x
 embrace_slovak_minority_title;Embrace the Slovakian minority;x
 UW_LOAD_IS_VALID;Click to load this unit onto a transport fleet.;x
@@ -3978,7 +3972,6 @@ IS_EMPTY; has no owner;x
 form_arabia_desc;Brothers, freedom is here, we have won the battle for our destiny. Now the Arab people are on the way to resurrection!;x
 KAM_proletarian_dictatorship;Far Eastern Republic;x
 form_arabia_title;Form Arabia;x
-socialist_influence_desc;Socialist agitators are spreading their ideology among the people;x
 torpedo_attacks;Torpedo Attacks;x
 corn_laws_desc;The Corn Laws were tariffs and other trade restrictions on imported food and grain enforced in the United Kingdom. The laws raised food prices and the costs of living for the British public, and hampered the growth of other British economic sectors. Note that even though increased goods consumption and increased factory input have green text in the event modifier, they are bad.;x
 form_gran_colombia_title;Form Gran Colombia;x
@@ -4235,7 +4228,6 @@ KRL_communist;Punakaarti;x
 foreign_artillery_l;Foreign Artillery;x
 TRANSFEREDSUBUNIT_3;$NEW$;x
 crisis_free_peoples_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;x
-EVTDESC91700;Pick the political path your country will follow.;x
 UNCOLONIZED_INVEST_LVL4;Settlement;x
 neglected_education;Neglected Education Funding;x
 EVTOPTB1806;My feelings precisely!;x
@@ -5115,7 +5107,7 @@ PAN_socialist;The Socialist Faction;x
 KRY_communist;The Communists;x
 PAN_reactionary;The Nationalist Faction;x
 iron_RGO_SIZE;Iron mine size;x
-anarcho_liberal;Anarcho Liberal;x
+anarcho_liberal;Anarcho-Liberal;x
 EVTOPTA91504;Understood.;x
 EVTOPTA34608;Those poor children!;x
 GIVEMILITARYACCESS_THEY_ACCEPT_2;$MONARCHTITLE$, in order to further our goals, we have decided that the troops of;x
@@ -5359,7 +5351,6 @@ dominion_reactionary;The Old Guard;x
 LIKELY_REBELS;Likely Rebels;x
 brothers_war_aggressor_desc;We are currently fighting a brother's war over the hegemony of our people;x
 REMOVE_EVTOPTB14800;I mourn our losses.;x
-EVTOPTB91700;Conservative;x
 cancel_trade_agreements_18_desc;By cancelling our current trade agreement, we are free to enter into a new a trade agreement with another country.;x
 EVTDESC22560;Our country's economy has been booming of late, following a long period of relatively low unemployment and a well fed populace. High savings and a productive population, combined with advances in the field of economic instruments and the establishment of investment banks, means that we now are better poised than ever before to develop our national industries, and bring our country's economy to new heights.;x
 ANY_CORE_STARTS;Any Core Country;x
@@ -6356,7 +6347,6 @@ EXPELADVISORS_THEY_ACCEPT_BTN3;Go to;x
 COLONY_SUCCESS_1;Colony Created!;x
 EVTNAME15160;$PROVINCECULTURE$ Weapons;x
 EVTOPTB12140;Establish a Naval School;x
-anarcho_liberal_influence_desc;Anarcho-Liberal agitators are spreading their ideology among the people;x
 COLONY_SUCCESS_HEADER;When our colonization efforts are successful.;x
 THEY_NO_LONGER_GREAT_POWER_MAP;No longer great power;x
 boer_republic;Boer Republic;x
@@ -7204,7 +7194,6 @@ AIREASON_BACKED_BY_ALLY;Backed by Ally;x
 REMOVE_EVTNAME2110;Diaspora;x
 gtfo_MEC_desc;We've had a good run, but it's time to end our rulership of Mecklenburg: if you love something, let it go!;x
 EVTOPTA19032;So it must be;x
-conservative_influence_desc;Conservative agitators are spreading their ideology among the people;x
 EVTOPTA44106;Speech is a kind of act.;x
 EVTNAME21500;Meteor Strikes Tunguska!;x
 EVTDESC44106;Ralph Waldo Emerson's first collection of 'Essays' was published in 1841 and introduced the world to a new, rather mystical, philosophy indigenous to the New World. Although many Europeans didn't consider him much of a philosopher per se, his influence on Continental thinking was unmistakable -- most significantly on Nietzsche.;x
@@ -7579,7 +7568,6 @@ build_vittoriano_title;Altare della Patria;x
 corn_laws_repealed_desc;A series of impopular import tariffs, the 'Corn Laws', have been repealed.;x
 smithian_school_desc;Laissez-faire philosophies, such as minimizing the role of government intervention and taxation in the free markets, and the idea that an "invisible hand" guides supply and demand are among the key ideas Adam Smith's writing is responsible for promoting. Our trade policies are largely inspired by him.;x
 PROVINCEVIEW_MIGRATION;Province migration this month: $VALUE$;x
-reactionary_influence;Reactionary Influence;x
 australia_migrations_vic;Australian Gold Age;x
 EVTDESC35300;Giacomo Puccini, who was successful in transforming the play Madame Butterfly, by the American playwright, David Belasco, into an opera in 1904, premiered another work based on Belasco's 'The Girl of the Golden West' as La Fanciulla del West.;x
 two_year_draft_china;Two Year Draft;x
@@ -7980,7 +7968,6 @@ EVTOPTA19020;Send the expedition!;x
 EVTDESC19020;The flora of $PROVINCENAME$ is spectacular, unique and mostly unknown to science. Here, in the vast spaces of uncharted land, an untold affluence of botanical riches awaits the discoverer who dares brave the harsh and unforgiving climate in search of it. The $COUNTRY_ADJ$ Botanical Society is considering sending an expedition to $PROVINCENAME$, but, as is so often the case, funds are lacking. Sending an expedition could further the cause of science, but, beware, we might get competition...;x
 KHZ_parliamentary_republic;Arabistan;x
 REMOVE_NEUTRALITY_EFFECT;即$COUNTRY$劬 loses 佈$VALUE$劬 in neutrality劬.\n;x
-fascist_influence;Fascist Influence;x
 EVTNAME19020;$PROVINCENAME$ Botanical Expedition?;x
 EVTNAME3752;Brick St. Gentlemen's Club;x
 EVTDESC91711;You can ask your opponent to unoccupy your provinces and to let you occupy their capital state in order to speed up peace conferences.;x
@@ -8644,7 +8631,6 @@ EVTNAME14640;Colonial Disturbance;x
 EVTOPTB91521;Civilizing: 刪-50% RGO throughput modifier;x
 EVTDESC160003;The war to decide the fate of China has begun.;x
 EVTOPTB14630;Reincorporate the colony and take steps to prevent this in the future;x
-EVTOPTD91700;Anarcho-Liberal;x
 EVTOPTB12250;We make no distinctions of class.;x
 BUILDING_BLOCKED_BY;Blocked by $OTHER$;x
 EXPEDNEWDESC_ARMY;\nYou have currently selected 即$UNIT$劬. It contains a total of $NUM$ Divisions.\nThe unit is currently located in 即$PROV$劬.;x
@@ -8677,7 +8663,6 @@ EVTOPTB13010;Go home!;x
 EVTDESC13080;He hides his face and speaks with controlled anger. A local aristocrat in $PROVINCENAME$ has been insulted by one of the foreigners living there. Apparently, the foreigner in question failed to bow in the appropriate manner when passing the aristocrat on the street. Shall we tolerate such blatant ignorance of our customs?;x
 EVTOPTB14560;I believe the resources could be better spent elsewhere;x
 accept_trade_deal_22_title;即Accept Trade Deal;x
-EVTNAME91700;Spread Ideological Influence;x
 tanzimat_reforms_title;The 'Tanzimat' Reforms;x
 ALL_;All ;x
 EVTOPTA37228;Vive la France!;x
@@ -8983,7 +8968,6 @@ good_schools_fully_funded;Fully Funded Education;x
 IS_NOT_CIVILIZED;is NOT civilised;x
 EVTDESC12160;$PROVINCENAME$ has been making quite a name for itself in the cement industry over the past few years. What started out as smalltime production in a family business has now grown to an industry big enough to support the entire province, and the name 'Standard $PROVINCENAME$ Cement' is becoming a household name. $COUNTRY_ADJ$ cement recipes from $PROVINCENAME$ are being admired and imitated across the world!;x
 conquest_of_the_chaco_desc;The Chaco region has largely remained in native hands until now. It's time to pacify this region and expand our borders, we need to claim this land so no one can deny it from us.;x
-zcountry_decrease_colonial_migration_title;即Decrease Colonial Migration;x
 direct_rule_desc;As subjects of the British Empire, we do not have any say in domestic or international affairs.;x
 CRISIS_BACK_DOWN_OTHER_ACCEPT_BTN2;Fine!;x
 EVTNAME18140;Fascists Assert Power;x
@@ -10300,7 +10284,6 @@ EVTOPTB3800;Haha... no.;x
 gtfo_TPG_desc;We've had a good run, but it's time to end our rulership of Heavenly Kingdom: if you love something, let it go!;x
 OAX_reactionary;Nationalist Party;x
 EVTNAME10105;Potato Famine Debated;x
-liberal_influence_desc;Liberal agitators are spreading their ideology among the people;x
 muhammad_alis_reforms;Muhammad Ali's Reforms;x
 EVTOPTA17550;I shall suggest down at the club that they start a subscription. Gin, anyone?;x
 install_communist_gov_sov_desc;Install a communist government.;x
@@ -13051,7 +13034,6 @@ MODIFIER_NAVAL_UNIT_START_EXPERIENCE;Naval Starting Experience;x
 ALLIANCE_WE_ACCEPT_6;即$ACTOR$劬;x
 EVTDESC32514;The Russians are offering to let us keep a small portion of the Balkans in the regions of Thrace and Albania in exchange for peace. Do we accept or do we continue the fight?;x
 homestead;Homestead;x
-EVTOPTC91700;Liberal;x
 EVTNAME90034;The End of British India;x
 PROVINCEVIEW_SUPPLY_LIMIT;Supply Limit:;x
 EVTOPTA130;Close down the bars!;x
@@ -13072,7 +13054,6 @@ TECH_MONTHLY_RESEARCHPOINTS_BASE_TOOLTIP;Monthly base research points: 即$VALUE$
 yes_naval_schools_desc;Our naval officers are trained in special naval academies and are taught by foreigners in the arts of naval warfare.;x
 EVTOPTE14160;You see, I have this dream of mine...;x
 VIC_conservative_2;National Party;x
-fascist_influence_desc;Fascist agitators are spreading their ideology among the people;x
 EVTOPTC14160;Limited citizenship should be the guiding principle;x
 ALLIANCE_OTHER_ACCEPT_BTN2;OK;x
 danmarks_riges_grundlov_title;Danmarks Riges Grundlov;x
@@ -13513,7 +13494,6 @@ ONLY_HOST_SPEED;Only the host can change the gamespeed.;x
 SUA_liberal;Reform Faction;x
 EVTOPTA44805;–iva Mexico!;x
 NO_TECH_SELECTED;None Selected;x
-liberal_influence;Liberal Influence;x
 cancel_trade_agreements_8_desc;By cancelling our current trade agreement, we are free to enter into a new a trade agreement with another country.;x
 graaff_reinet_title;Reclaim Graaff Reinet;x
 GUNBOAT_THEY_ACCEPT_2;We have placed gunboats in the ports of;x
@@ -14075,7 +14055,6 @@ EVTOPTB35601;Never! We will fight the Americans if we must.;x
 UNIT_DISABLE_REBEL_HUNT;(hunting rebels);x
 DIPRELCH_VALID_CB;Valid Casus Belli;x
 BE_TECH;Technologies:;x
-EVTOPTE91700;Socialist;x
 form_pakistan_desc;Our dominant position among our muslim and cultural brethren puts us in a position to form Pakistan.;x
 gtfo_BHU_desc;We've had a good run, but it's time to end our rulership of Bhutan: if you love something, let it go!;x
 electronics_company;Electronics Company;x
@@ -14178,7 +14157,6 @@ WE_NO_LONGER_GREAT_POWER_2;and lost its position as a Great Power to;x
 KAM_reactionary;The Khanate Faction;x
 NORMAL_FREE_BALKANS_NAME;Russo-Turkish War;x
 embrace_the_lao_title;Embrace the Lao;x
-anarcho_liberal_influence;Anarcho-Liberal Influence;x
 rally_tribesmen_desc;A portion of our people leave a nomadic lifestyle with bits of a centuries old warrior culture. By reaching to these people and rallying them to our cause, we can raise a much greater army to fulfill our country's destiny.;x
 the_scotland_yard_desc;The Metropolitan Police, incorporated by the Metropolitan Police Act of 1829, became known informally during the Victorian era as 'The Scotland Yard' after its headquarters at 4 Whitehall Palace, the site of an earlier road called 'The Great Scotland Yard'. One of the most iconic police services of the era, mentioned in works by, among others, Jules Verne and Arthur Conan Doyle, the Yard could certainly help us solve a crime or two.;x
 TAR_fascist;The Nationalists;x
@@ -14248,7 +14226,6 @@ desc_ruhr_boom_city;Cities all across Germany are growing and changing from rura
 change_nv_desc;Choose a new national value for your nation.;x
 PARTY_UNAVAIL_BTN3;Go to;x
 historical_congo;Historical Congo;x
-zcountry_decrease_colonial_migration_desc;Decrease Colonial Migration reform level by one;x
 YAK_communist;The Communists;x
 YAK_anarcho_liberal;The Libertains;x
 accept_trade_deal_13_desc;If we enter into a trade deal with the chosen country, we will get a decision that allows us to send goods from our stockpile to our trading partner.;x
@@ -14420,7 +14397,6 @@ no_army_schools_desc;We learn on the field of battle.;x
 EVTNAME19025;Botanical Expedition Reports Back;x
 imperial_decay7;Seven Lost Substates;x
 EVTOPTB3004;This situation is completely unacceptable.;x
-EVTOPTG91700;Fascist;x
 EVTNAME90810;The Warlord Era;x
 gtfo_MOZ_desc;We've had a good run, but it's time to end our rulership of Mozambique: if you love something, let it go!;x
 PARTISANS_HEADER;The Secret Police reports;x
@@ -14468,7 +14444,6 @@ EVTDESC17090;We covered the entire city. Me and the girls split up, met at the c
 gtfo_TNZ_desc;We've had a good run, but it's time to end our rulership of Tanganyika: if you love something, let it go!;x
 presidential_dictatorship_gov;Presidential Dictatorship;x
 EVTNAME44805;La Reforma;x
-communist_influence;Communist Influence;x
 gtfo_WRL_title;Grant Warsangali Independence;x
 EVTOPTA36616;Yes, accept the reform.;x
 LUI;Saint Lucia;x
@@ -14601,7 +14576,6 @@ gtfo_AWS_title;Grant Awsa Independence;x
 voyage_to_america_desc;The emissary Ahmad bin Ka'abi will travel to New York onboard the Sultan's personal ship, al-Sultanah, and bring with him the finest Persian carpets, coffee, dates, ivory tusks, gum copal, cloves, and salted hides that Oman has to offer. Once there, he will seek to establish a mutually beneficial trade agreement with the Americans.;x
 EVTOPTA30001;A great spectacle for the world to enjoy!;x
 redshirts;Garibaldi's Redshirts;x
-EVTOPTA91700;Reactionary;x
 galicio_asturian;Galicio-Asturian;x
 gtfo_QNG_title;Grant Qing Independence;x
 common_army_3;Common Army;x
@@ -15084,7 +15058,6 @@ EVTOPTA19000;Good news!;x
 EVTDESC14100;Local $COUNTRY$ administration has come under criticism for several instances of government subsidies directed at supporting local industry.  Opponents argue that 'the country's economic planners cannot detect consumer preferences, shortages, and surpluses with sufficient accuracy and therefore cannot efficiently co-ordinate production', and creeping statism has begun to worry the residents of $COUNTRY$.;x
 CB_gen_minus_desc;Justifying wars now takes longer;x
 EIC_independent_reactionary;Imperial Governance League;x
-zcountry_increase_colonial_migration_title;即Increase Colonial Migration;x
 EVTNAME17510;Demonstration Turned Sour;x
 SUA_fascist;Fascist Faction;x
 EVTDESC44663;We have lost our last foothold in Brazilian South America, our dreams of empire are crushed forever. 刪We will no longer receive immigrants from our old Brazilian dependencies.;x
@@ -15168,7 +15141,6 @@ MDV_ADJ;Moldovian;x
 cancel_trade_agreements_12_title;即Cancel Trade Agreement;x
 WETARGET_REMOVEFROMSPHERE_HEADER;The Foreign Minister reports;x
 gtfo_WRI_desc;We've had a good run, but it's time to end our rulership of Warri: if you love something, let it go!;x
-EVTOPTF91700;Communist;x
 scripted_truce;Scripted Truce;x
 WARGOAL_WE_ACCEPT_3;$WARGOAL$;x
 gtfo_PNM_desc;We've had a good run, but it's time to end our rulership of Panama: if you love something, let it go!;x

@@ -564,4 +564,121 @@ political_decisions = {
 			}
 		}
 	}
+	
+	##########################
+	### COLONIAL MIGRATION ###
+	##########################
+	# Increase or decrease colonial migration reform level
+	
+	utility_increase_colonial_migration_level = {
+		picture = utility_colonial_migration
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			
+			colonial_nation = yes
+			NOT = { colonial_migration = high_colonial_migration }
+		}
+		
+		allow = {}
+		
+		effect = {
+			# No Colonial Migration -> Low Colonial Migration
+			random_owned = {
+				limit = {
+					owner = { colonial_migration = no_colonial_migration }
+				}
+				
+				owner = { political_reform = low_colonial_migration }
+			}
+			
+			# Low Colonial Migration -> Medium Colonial Migration
+			random_owned = {
+				limit = {
+					owner = { colonial_migration = low_colonial_migration }
+				}
+				
+				owner = { political_reform = medium_colonial_migration }
+			}
+			
+			# Medium Colonial Migration -> High Colonial Migration
+			random_owned = {
+				limit = {
+					owner = { colonial_migration = medium_colonial_migration }
+				}
+				
+				owner = { political_reform = high_colonial_migration }
+			}
+		}
+	}
+	
+	utility_decrease_colonial_migration_level = {
+		picture = utility_colonial_migration
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			
+			colonial_nation = yes
+			NOT = { colonial_migration = no_colonial_migration }
+		}
+		
+		allow = {}
+		
+		effect = {
+			# Low Colonial Migration -> No Colonial Migration
+			random_owned = {
+				limit = {
+					owner = { colonial_migration = low_colonial_migration }
+				}
+				
+				owner = { political_reform = no_colonial_migration }
+			}
+			
+			# Medium Colonial Migration -> Low Colonial Migration
+			random_owned = {
+				limit = {
+					owner = { colonial_migration = medium_colonial_migration }
+				}
+				
+				owner = { political_reform = low_colonial_migration }
+			}
+			
+			# High Colonial Migration -> Medium Colonial Migration
+			random_owned = {
+				limit = {
+					owner = { colonial_migration = high_colonial_migration }
+				}
+				
+				owner = { political_reform = medium_colonial_migration }
+			}
+		}
+	}
+	
+	#######################
+	### SPREAD IDEOLOGY ###
+	#######################
+	# Fire an event to choose an ideology to nudge your population toward
+	
+	utility_spread_ideology = {
+		picture = utility_spread_ideology
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+		}
+		
+		allow = {}
+		
+		effect = {
+			country_event = {
+				id = 92300
+				days = 0
+			}
+		}
+	}
 }

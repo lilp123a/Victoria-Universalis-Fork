@@ -1,0 +1,263 @@
+# *############################*
+# *###### UTILITY EVENTS ######*
+# *############################*
+
+#######################
+### SPREAD IDEOLOGY ###
+#######################
+
+country_event = {
+	id = 92300
+	title = EVTNAME92300
+	desc = EVTDESC92300
+	picture = Demonstration
+	
+	is_triggered_only = yes
+	
+	# Cancel ideology spread
+	option = {
+		name = EVTOPTA92300
+		
+		remove_country_modifier = reactionary_influence
+		remove_country_modifier = conservative_influence
+		remove_country_modifier = liberal_influence
+		remove_country_modifier = anarcho_liberal_influence
+		remove_country_modifier = socialist_influence
+		remove_country_modifier = communist_influence
+		remove_country_modifier = fascist_influence
+		
+		clr_country_flag = reactionary_influence
+		clr_country_flag = conservative_influence
+		clr_country_flag = liberal_influence
+		clr_country_flag = anarcho_liberal_influence
+		clr_country_flag = socialist_influence
+		clr_country_flag = communist_influence
+		clr_country_flag = fascist_influence
+	}
+	
+	# Reactionary
+	option = {
+		name = EVTOPTB92300
+		
+		add_country_modifier = {
+			name = reactionary_influence
+			duration = -1
+		}
+		
+		set_country_flag = reactionary_influence
+		
+		remove_country_modifier = conservative_influence
+		remove_country_modifier = liberal_influence
+		remove_country_modifier = anarcho_liberal_influence
+		remove_country_modifier = socialist_influence
+		remove_country_modifier = communist_influence
+		remove_country_modifier = fascist_influence
+		
+		clr_country_flag = conservative_influence
+		clr_country_flag = liberal_influence
+		clr_country_flag = anarcho_liberal_influence
+		clr_country_flag = socialist_influence
+		clr_country_flag = communist_influence
+		clr_country_flag = fascist_influence
+	}
+	
+	# Conservative
+	option = {
+		name = EVTOPTC92300
+		
+		add_country_modifier = {
+			name = conservative_influence
+			duration = -1
+		}
+		
+		set_country_flag = conservative_influence
+		
+		remove_country_modifier = reactionary_influence
+		remove_country_modifier = liberal_influence
+		remove_country_modifier = anarcho_liberal_influence
+		remove_country_modifier = socialist_influence
+		remove_country_modifier = communist_influence
+		remove_country_modifier = fascist_influence
+		
+		clr_country_flag = reactionary_influence
+		clr_country_flag = liberal_influence
+		clr_country_flag = anarcho_liberal_influence
+		clr_country_flag = socialist_influence
+		clr_country_flag = communist_influence
+		clr_country_flag = fascist_influence
+	}
+	
+	# Liberal
+	option = {
+		name = EVTOPTD92300
+		
+		add_country_modifier = {
+			name = liberal_influence
+			duration = -1
+		}
+		
+		set_country_flag = liberal_influence
+		
+		remove_country_modifier = reactionary_influence
+		remove_country_modifier = conservative_influence
+		remove_country_modifier = anarcho_liberal_influence
+		remove_country_modifier = socialist_influence
+		remove_country_modifier = communist_influence
+		remove_country_modifier = fascist_influence
+		
+		clr_country_flag = reactionary_influence
+		clr_country_flag = conservative_influence
+		clr_country_flag = anarcho_liberal_influence
+		clr_country_flag = socialist_influence
+		clr_country_flag = communist_influence
+		clr_country_flag = fascist_influence
+	}
+	
+	# Anarcho-Liberal
+	option = {
+		name = EVTOPTE92300
+		
+		# Only if Anarcho-Liberals are enabled
+		random_owned = {
+			limit = {
+				owner = {
+					is_ideology_enabled = anarcho_liberal
+				}
+			}
+			
+			owner = {
+				add_country_modifier = {
+					name = anarcho_liberal_influence
+					duration = -1
+				}
+				
+				set_country_flag = anarcho_liberal_influence
+				
+				remove_country_modifier = reactionary_influence
+				remove_country_modifier = conservative_influence
+				remove_country_modifier = liberal_influence
+				remove_country_modifier = socialist_influence
+				remove_country_modifier = communist_influence
+				remove_country_modifier = fascist_influence
+				
+				clr_country_flag = reactionary_influence
+				clr_country_flag = conservative_influence
+				clr_country_flag = liberal_influence
+				clr_country_flag = socialist_influence
+				clr_country_flag = communist_influence
+				clr_country_flag = fascist_influence
+			}
+		}
+	}
+	
+	# Socialist
+	option = {
+		name = EVTOPTF92300
+		
+		# Only if Socialists are enabled
+		random_owned = {
+			limit = {
+				owner = {
+					is_ideology_enabled = socialist
+				}
+			}
+			
+			owner = {
+				add_country_modifier = {
+					name = socialist_influence
+					duration = -1
+				}
+				
+				set_country_flag = socialist_influence
+				
+				remove_country_modifier = reactionary_influence
+				remove_country_modifier = conservative_influence
+				remove_country_modifier = liberal_influence
+				remove_country_modifier = anarcho_liberal_influence
+				remove_country_modifier = communist_influence
+				remove_country_modifier = fascist_influence
+				
+				clr_country_flag = reactionary_influence
+				clr_country_flag = conservative_influence
+				clr_country_flag = liberal_influence
+				clr_country_flag = anarcho_liberal_influence
+				clr_country_flag = communist_influence
+				clr_country_flag = fascist_influence
+			}
+		}
+	}
+	
+	# Communist
+	option = {
+		name = EVTOPTG92300
+		
+		# Only if Communists are enabled
+		random_owned = {
+			limit = {
+				owner = {
+					is_ideology_enabled = communist
+				}
+			}
+			
+			owner = {
+				add_country_modifier = {
+					name = communist_influence
+					duration = -1
+				}
+				
+				set_country_flag = communist_influence
+				
+				remove_country_modifier = reactionary_influence
+				remove_country_modifier = conservative_influence
+				remove_country_modifier = liberal_influence
+				remove_country_modifier = anarcho_liberal_influence
+				remove_country_modifier = socialist_influence
+				remove_country_modifier = fascist_influence
+				
+				clr_country_flag = reactionary_influence
+				clr_country_flag = conservative_influence
+				clr_country_flag = liberal_influence
+				clr_country_flag = anarcho_liberal_influence
+				clr_country_flag = socialist_influence
+				clr_country_flag = fascist_influence
+			}
+		}
+	}
+	
+	# Fascist
+	option = {
+		name = EVTOPTH92300
+		
+		# Only if Fascists are enabled
+		random_owned = {
+			limit = {
+				owner = {
+					is_ideology_enabled = fascist
+				}
+			}
+			
+			owner = {
+				add_country_modifier = {
+					name = fascist_influence
+					duration = -1
+				}
+				
+				set_country_flag = fascist_influence
+				
+				remove_country_modifier = reactionary_influence
+				remove_country_modifier = conservative_influence
+				remove_country_modifier = liberal_influence
+				remove_country_modifier = anarcho_liberal_influence
+				remove_country_modifier = socialist_influence
+				remove_country_modifier = communist_influence
+				
+				clr_country_flag = reactionary_influence
+				clr_country_flag = conservative_influence
+				clr_country_flag = liberal_influence
+				clr_country_flag = anarcho_liberal_influence
+				clr_country_flag = socialist_influence
+				clr_country_flag = communist_influence
+			}
+		}
+	}
+}
