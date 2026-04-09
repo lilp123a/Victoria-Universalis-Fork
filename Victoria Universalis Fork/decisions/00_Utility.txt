@@ -838,6 +838,203 @@ political_decisions = {
 		}
 	}
 	
+	###########################
+	### TECH SCHOOL CHANGES ###
+	###########################
+	# All the decisions to change tech school
+	
+	# Traditional Academia ("Restore the Academia")
+	utility_switch_to_traditional_academia = {
+		picture = utility_switch_to_traditional_academia
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			
+			civilized = yes
+			
+			NOT = {
+				tech_school = traditional_academic
+				has_country_modifier = academic_confusion
+				
+				# Don't switch off special tech schools
+				tech_school = prussian_tech_school
+			}
+		}
+		
+		allow = {}
+		
+		effect = {
+			add_country_modifier = {
+				name = academic_confusion
+				duration = 7300
+			}
+			
+			tech_school = traditional_academic
+		}
+	}
+	
+	# Military-Industrial Complex
+	utility_switch_to_army_tech = {
+		picture = utility_switch_to_army_tech
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			
+			civilized = yes
+			
+			NOT = {
+				tech_school = army_tech_school
+				has_country_modifier = academic_confusion
+				
+				# Don't switch off special tech schools
+				tech_school = prussian_tech_school
+			}
+		}
+		
+		allow = {}
+		
+		effect = {
+			add_country_modifier = {
+				name = academic_confusion
+				duration = 7300
+			}
+			
+			tech_school = army_tech_school
+		}
+	}
+	
+	# Corporative Industrialism
+	utility_switch_to_industry_tech = {
+		picture = utility_switch_to_industry_tech
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			
+			civilized = yes
+			
+			NOT = {
+				tech_school = industrial_tech_school
+				has_country_modifier = academic_confusion
+				
+				# Don't switch off special tech schools
+				tech_school = prussian_tech_school
+			}
+		}
+		
+		allow = {}
+		
+		effect = {
+			add_country_modifier = {
+				name = academic_confusion
+				duration = 7300
+			}
+			
+			tech_school = industrial_tech_school
+		}
+	}
+	
+	# Business Schools & Tycoon Capitalism
+	utility_switch_to_commerce_tech = {
+		picture = utility_switch_to_commerce_tech
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			
+			civilized = yes
+			
+			NOT = {
+				tech_school = commerce_tech_school
+				has_country_modifier = academic_confusion
+				
+				# Don't switch off special tech schools
+				tech_school = prussian_tech_school
+			}
+		}
+		
+		allow = {}
+		
+		effect = {
+			add_country_modifier = {
+				name = academic_confusion
+				duration = 7300
+			}
+			
+			tech_school = commerce_tech_school
+		}
+	}
+	
+	# Avant-Garde Intelligentsia
+	utility_switch_to_culture_tech = {
+		picture = utility_switch_to_culture_tech
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			
+			civilized = yes
+			
+			NOT = {
+				tech_school = culture_tech_school
+				has_country_modifier = academic_confusion
+				
+				# Don't switch off special tech schools
+				tech_school = prussian_tech_school
+			}
+		}
+		
+		allow = {}
+		
+		effect = {
+			add_country_modifier = {
+				name = academic_confusion
+				duration = 7300
+			}
+			
+			tech_school = culture_tech_school
+		}
+	}
+	
+	# Sea Power & The Merchant Marine
+	utility_switch_to_navy_tech = {
+		picture = utility_switch_to_navy_tech
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			
+			civilized = yes
+			
+			NOT = {
+				tech_school = naval_tech_school
+				has_country_modifier = academic_confusion
+				
+				# Don't switch off special tech schools
+				tech_school = prussian_tech_school
+			}
+		}
+		
+		allow = {}
+		
+		effect = {
+			add_country_modifier = {
+				name = academic_confusion
+				duration = 7300
+			}
+			
+			tech_school = naval_tech_school
+		}
+	}
+	
 	####################
 	### FORCE REFORM ###
 	####################

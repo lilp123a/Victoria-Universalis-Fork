@@ -4,5 +4,7 @@ user_dir = "Victoria Universalis Fork"
 
 replace_path = "localisation"
 replace_path = "units"
+replace_path = "decisions"
+replace_path = "events"
 replace_path = "tutorial"
 replace_path = "news"

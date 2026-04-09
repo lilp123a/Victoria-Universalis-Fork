@@ -726,7 +726,6 @@ TOG;Togo;x
 EVTOPTA35920;We will drive back the white devils!;x
 CHO_hms_government;Choshu;x
 dar_al_funun;The Dar al funun.;x
-switch_to_army_tech_desc;Cooperation between private industrialists and the military, on the issues of national defence and war policy, have led to the development of a particularly important web of connections, personal ties and acquaintances, with just an ever so slight hint of corruption, that can best be described as a Military-Industrial Complex. By furthering the goals and ambitions of these informal networks within our academia, we can boost industrial and military research, at the expense of navy and culture.;x
 gtfo_MRN_title;Grant Maranhão Independence;x
 EVTNAME44660;Portuguese Vassalage;x
 cancel_trade_agreements_20_desc;By cancelling our current trade agreement, we are free to enter into a new a trade agreement with another country.;x
@@ -3536,7 +3535,6 @@ EVTDESC4410;Here we stand at the brink of a brave new world. Behind us lie a tho
 population_resettlement_desc;Our nation is working on the national integration of a region by resettling our citizens.;x
 BAY_socialist_3;Sozial. Arbeiterpartei ;x
 CRISIS_OFFER_OTHER_ACCEPT_3;It seems that $RECIPIENT$;x
-switch_to_trade_tech_title;§YTycoon Capitalism & Business Schools;x
 LBA_ADJ;Luba;x
 LBA;Luba;x
 zremove_cores_desc;Country modifier §RCore Integration in Progress§b and province modifier §WRemoving Cores§b will be added to this country and the selected state. When §RCore Integration in Progress§b runs out, all provinces with §WRemoving Cores§b modifier will have all other nations' cores removed. §WRemoving Cores§b will be removed from a province if it changes owners or gets occupied before the §RCore Integration in Progress§b timer runs out.;x
@@ -4763,7 +4761,6 @@ PV_ASSIMILATION;Cultural Assimilation: ;x
 PV_NEW_JOBS;Seeking new employment: ;x
 mob5_trigger;Railroad Transport Groups;x
 GUNBOAT_THEY_ACCEPT_1;Gunboat Diplomacy!;x
-switch_to_traditional_academic_title;§YRestore The Academia;x
 DIPLOICON_TIP;$TYPE$ from §Y$NATION$§W. \n If we do not respond before §Y$DATE$§W we will autodecline.;x
 PV_COLONIAL_EMIGRATION;Colonial Emigration: ;x
 DECREASEOPINION_OTHER_ACCEPT_3;informed that §Y$ACTOR$§W has spread;x
@@ -5346,8 +5343,6 @@ EVTDESC22560;Our country's economy has been booming of late, following a long pe
 ANY_CORE_STARTS;Any Core Country;x
 imperial_decay8_desc;Our POPs gain +0.005 militancy per month and our tax efficiency is reduced by 1% for each substate we have lost control of. This malus will be removed after westernization.;x
 EVTNAMEcolonialnegotiations;Colonial Negotiations Tech Flag;x
-switch_to_navy_tech_desc;It has been said that the best way to get ahead in our country is to go via the naval schools. Much of our country's military and political elites have been educated navy men, or have served in the merchant marine. The navy's importance for a seafaring country like our own cannot be underestimated, and by promoting these groups and backgrounds politically, we can ensure that our naval technology will develop at an increased rate, at the expense, however, of other fields of research.;x
-cuirassier_activation_desc;Cuirassiers were mounted cavalry soldiers equipped with armour and firearms, first appearing in late 15th-century Europe. The first cuirassiers were produced as a result of armoured cavalry, such as the man-at-arms and demi-lancer, discarding their lances and adopting the use of pistols as their primary weapon. They achieved increased prominence during the Napoleonic Wars and were last fielded in the opening stages of World War I. Cuirassiers continue to be employed as ceremonial troops by a number of countries.;x
 communists_ruling_desc;Our nation is now headed by the proletariat, capitalists have no place here!;x
 EVTOPTA18160;Things will get better;x
 end_the_javanese_sultanates_desc;The Sultanates of Yogyakarta and Surakarta have long been under our protection. It would be in our best interests to convince them to come under our direct rule, so we might bring civilization to their people more effectively, and so that we might secure their lands from other powers.;x
@@ -5554,7 +5549,6 @@ accept_trade_deal_25_title;§YAccept Trade Deal;x
 PEACE_WE_ACCEPT_LOG;We accepted the peace offer from $ACTOR$.;x
 ADD_SUB_UNIT_EFFECT;Get $UNIT$ in §Y$WHERE$§W.;x
 PEACE_THEY_ACCEPT_2;$RECIPIENT$;x
-academic_confusion_desc;Our academia is in a state of disarray, following a paradigm shift within our academic establishment. Our prestige and research will be hampered while the effect lasts.;x
 EVTOPTA19335;I do not want to miss a good chance of getting us a slice of this magnificent African cake!;x
 enacted_french_schooling;French Language Schooling;x
 COST_TIME;Cost: §Y$AMOUNT$§W Ducats \nTime: §Y$TIME$§W Days.;x
@@ -6061,7 +6055,6 @@ GIVEMILITARYACCESS_WE_ACCEPT_1;Military Access.;x
 SELLLICENCETITLE;Sell Production Licence;x
 NGR;Nigeria;x
 EVTOPTB2060;Let us listen to their grievances;x
-switch_to_traditional_academic_desc;Many within our academic circles feel that the present direction of our academia suffers from an undue bias, and that we should return to a more traditional academic profile.;x
 baby_bood_desc;A campaign for increased nativity has lead to more people being born in this province.;x
 RGR;Rio Grande;x
 CHATMESSAGE_SETUP;When you receive a chat message;x
@@ -7579,7 +7572,6 @@ INCREASEOPINION_THEY_ACCEPT_1;§Y$RECIPIENT$§W;x
 CRISIS_BACK_DOWN_WE_ACCEPT_MAP;Peace!;x
 EVTNAME23203;The Source of the Nile Discovered;x
 EVTNAME22520;Free Banking;x
-academic_confusion;Academic Confusion;x
 new_world_nation;New World Nation;x
 EVTNAME34603;Zoological Garden;x
 writing_language;Writing System;x
@@ -8818,7 +8810,6 @@ EVTOPTB36941;What can we do to solve this situation?;x
 PO_PD_70;You have won a devastating victory, and can expect the fulfillment of several war goals in a peace settlement.;x
 aden_settlement_desc;Aden had been an entrepôt and a way-station for seamen in the ancient world. There, supplies, particularly water, were replenished, so, in the mid-19th century, it became necessary to replenish coal and boiler water. It is time we established a permanent $COUNTRY_ADJ$ presence in Aden, in order to secure our shipping routes across the Indian Ocean.;x
 EVTDESC18520;As the soldiers depart from lodgings and barracks to go off, as young men are want to do, to fight and bleed in the great war, their closed marching columns are saluted on their ways by women and children of all ages, standing along roadsides and on railway stations, sending them off with kisses and smiles, and decorating their weapons with flowers.;x
-switch_to_army_tech_title;§YMilitary-Industrial Complex;x
 CANCELALLIANCE_THEY_ACCEPT_HEADER;The Foreign Minister reports;x
 EVTDESC23451;One of our illustrious scientists has been awarded this year's Nobel Prize in Physics.;x
 EVTOPTA29902;Kaboom!;x
@@ -9244,7 +9235,6 @@ CANCELASKMILITARYACCESS_THEY_ACCEPT_BTN2;OK;x
 EVTDESC90041;More local sepoys, dissatisfied with company rule, have joined in the rebellion.;x
 EVTDESC23203;Our intrepid explorers have mapped out the source of the Nile, and have brought glory and prestige to our great country!;x
 EVTDESC34603;Berlin saw the opening of Germany's first zoological garden in August 1844. Other such gardens already existed in London and Antwerp.;x
-switch_to_culture_tech_desc;A cultural and ideological avantgarde within our country has, during the past years, been undertaking a long march through our academic institutions. By steadily working their way up the rungs of the academic ladder, these radical new ideologues are now in a position to completely subvert our academic institutions to better suit their ideological agenda. By supporting their cause, we can increase the speed of our cultural research, to the detriment, however, of other spheres of intellectual progress.;x
 monopolio_del_salitre_desc;Fertilizer Factory Throughput: §G+30%\n§WExplosives Factory Throughput: §G+20%;x
 WAR_WE_ACCEPT_5;*;x
 EVTNAME19046;Tutankhamun's Tomb;x
@@ -9625,7 +9615,6 @@ BREAKCOUNTRY_1;$FACTION$ Win!;x
 TRIGGER_CB_CREATION_NOT_DISCOVERED;Not producing war justifications;x
 TRIGGER_IS_NOT_CONSTRUCTING_CB;Not acquiring war justification for: §Y$TYPE$§W;x
 gtfo_SIA_title;Grant Siam Independence;x
-switch_to_culture_tech_title;§YAvantgarde Intelligentsia;x
 gtfo_CNG_title;Grant Zaire Independence;x
 EZO_ADJ;Ezo;x
 NQL_liberal;Liberal Faction;x
@@ -10623,7 +10612,6 @@ the_boshin_war_desc;The Boshin War was a civil war in Japan, fought between forc
 EVTNAME29905;Artificial Fertilizers;x
 PEACE_OTHER_ACCEPT_5;*;x
 EVTDESCcommonarmy;The new equal status conferred to one of our minorities allows them to establish their own national army independent of the Common Army.;x
-switch_to_industry_tech_title;§YCorporative Industrialism;x
 call_geneva_convention_desc;Having seen the brutality and horror of the aftermath of the battle of Solferino, Jean Henri Dunant, in 1862, published a witness account of the battle called 'Un Souvenir de Solferino' (A Memory of Solferino), printed at his own expense. Drawing on his experiences, Dunant began formulating ideas about setting up an international organization dedicated to the treating of war wounded, and also toured Switzerland extensively to lecture. Against the backdrop of such ideas, the Swiss parliament, in 1864, called an international convention at Geneva to establish international laws for the conduct of war.;x
 immigration_boom_baltic;Ostland Migrations;x
 zcraftsmen_off_desc;Prevent non-accepted culture POPs from promoting into craftsmen. This can be used to prevent the craftsmen assimilation glitch or set up your own craftsmen glitch in specific provinces.;x
@@ -12517,8 +12505,6 @@ LEADVASSAL;Has the following puppets: $LIST$.;x
 CRISIS_AI_INTEREST;Their interest in supporting;x
 assegai_desc;Military innovations such as the assegai, the age-grade regimental system and encirclement tactics helped make the Zulu one of the most powerful nations in southern and south-eastern Africa.;x
 WE_INTERVENED_5;*;x
-switch_to_trade_tech_desc;Our country has under the past years come increasingly under the sway of select cliques of people who have all been educated at the same, or similar, elite business schools and companies. By supporting these groups, we can ensure that our academia's focus lies where it matters: in the fields of commerce and industry. This change will, however, come at the expense of other fields of research.;x
-switch_to_industry_tech_desc;Capital and government in our country have, for some time, been doing their utmost to weave between them an intricate web of personal relations, that has increasingly come to assume the forms of a symbiotic relationship of mutual dependence. By further promoting these connections between the public and private spheres of our society, we can vastly increase our technological progress in the fields of industry, at the expense, however of research in other fields.;x
 skoda_works;Škoda Works;x
 EVTNAME36702;The Potato Plague of 1845;x
 court_yard_speech_desc;The 'Courtyard Crisis' (Swedish: Borggårdskrisen) was a constitutional crisis in Sweden provoked by the reckless cuts in the defence budget promoted by the Liberal government of, then prime minister, Karl Staaf. On the 6th of February 1914 King Gustav V addressed -- with a rousing speech in favor of increased defence spendings -- a crowd of some 30.000 farmers who from every corner of the country had marched to Stockholm in support of King, Country and the Armed Forces. It was to be the last time that a Swedish Monarch interfered directly against the sacred principles of plebeian rule.;x
@@ -13286,7 +13272,7 @@ EVTOPTA14730;Denounce the League;x
 military_political_decision_making;Military-Political Decision-Making;x
 MAX_WAR_EXHAUSTION;Maximum War Exhaustion;x
 unciv_reactionary_rebels_desc;Reactionary rebels long to live in the traditional manner of their ancestors and reject all notion of copying the mannerisms of Europeans.;x
-culture_tech_school;Avantgarde Intelligentsia;x
+culture_tech_school;Avant-Garde Intelligentsia;x
 ASKMILITARYACCESS_WE_ACCEPT_SETUP;When we accept a nation's military access request;x
 industrial_tech_school;Corporative Industrialism;x
 gtfo_GRP_desc;We've had a good run, but it's time to end our rulership of Grão-Pará: if you love something, let it go!;x
@@ -13555,7 +13541,6 @@ ACW_NAME;A House Divided;x
 LHJ;Lahej;x
 EVTOPTB37235;It's not worth it.;x
 EVTDESC10210;The revolutionary flames in $COUNTRY$ are fanned, as $PROVINCENAME$ erupts into open rebellion. Crying out for liberty, justice and equality, the citizens take to the streets.;x
-switch_to_navy_tech_title;§YSea power & The Merchant Marine;x
 MLY_absolute_monarchy_ADJ;Malay;x
 EVTOPTA31206;We swear loyalty to him.;x
 LEDGER_OVERALL;Overall;x
