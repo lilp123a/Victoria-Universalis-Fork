@@ -160,7 +160,7 @@ political_decisions = {
 	### HEALTHCARE ###
 	##################
 	# Increase or decrease healthcare reform level
-	# Increase decision does not abide by the utility decisions folder as it should be potentially visible at all times because it's important that players are alerted to it
+	# Increase decision is not included in the utility decisions folder as it should be potentially visible at all times because it's important that players are alerted to it
 	
 	utility_increase_healthcare_level = {
 		picture = utility_healthcare
@@ -406,11 +406,11 @@ political_decisions = {
 					tag = CIV
 				}
 			}
-		}
-		
-		allow = {
+			
 			NOT = { health_care = no_health_care }
 		}
+		
+		allow = {}
 		
 		effect = {
 			# Trinket Healthcare -> No Healthcare
@@ -678,6 +678,199 @@ political_decisions = {
 			country_event = {
 				id = 92300
 				days = 0
+			}
+		}
+	}
+	
+	###################
+	### MARTIAL LAW ###
+	###################
+	# Ability to declare martial law, decreasing militancy and consciousness in exchange for tax efficiency and pop promotion, or rescind martial law
+	
+	utility_declare_martial_law = {
+		picture = utility_martial_law
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			
+			NOT = { has_country_flag = martial_law }
+		}
+		
+		allow = {
+			civilized = yes
+		}
+		
+		effect = {
+			add_country_modifier = {
+				name = martial_law
+				duration = -1
+			}
+			
+			set_country_flag = martial_law
+		}
+	}
+	
+	utility_rescind_martial_law = {
+		picture = utility_martial_law
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			
+			has_country_flag = martial_law
+		}
+		
+		allow = {}
+		
+		effect = {
+			remove_country_modifier = martial_law
+			clr_country_flag = martial_law
+		}
+	}
+	
+	#######################
+	### RELEASE VASSALS ###
+	#######################
+	# Ability to choose to release vassals
+	
+	utility_release_vassals = {
+		picture = utility_release_vassals
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			
+			num_of_vassals = 1
+		}
+		
+		allow = {}
+		
+		effect = {
+			# Every vassal is given an event which bounces back another event to the overlord where they can choose whether to release them or not
+			any_country = {
+				limit = {
+					vassal_of = THIS
+				}
+				
+				country_event = {
+					id = 92303
+					days = 0
+				}
+			}
+		}
+	}
+	
+	#############################
+	### CONTROL VASSAL ARMIES ###
+	#############################
+	# Start or end a fake war which allows players to take control of their vassals' troops
+	
+	utility_control_vassal_armies = {
+		picture = utility_vassal_armies
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			
+			num_of_vassals = 1
+			is_vassal = no
+			
+			NOT = { war_with = FWR }
+		}
+		
+		allow = {}
+		
+		effect = {
+			FWR = {
+				war = {
+					target = THIS
+					attacker_goal = { casus_belli = status_quo }
+				}
+			}
+		}
+	}
+	
+	utility_stop_controlling_vassal_armies = {
+		picture = utility_vassal_armies
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			
+			war_with = FWR
+		}
+		
+		allow = {}
+		
+		effect = {
+			end_war = FWR
+		}
+	}
+	
+	############################
+	### REQUEST NEGOTIATIONS ###
+	############################
+	# Triggers an event to allow the player to ask other players they're at war with to either unoccupy their territory or let them occupy their capital so that they add wargoals
+	
+	utility_request_negotiations = {
+		picture = utility_request_negotiations
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			
+			war = yes
+			war_countries = { ai = no }
+		}
+		
+		effect = {
+			country_event = {
+				id = 92305
+				days = 0
+			}
+		}
+	}
+	
+	####################
+	### FORCE REFORM ###
+	####################
+	# Forcefully pass a reform
+	# Not included in the utility decisions folder as it should be potentially visible at all times because it's important that players are alerted to it
+	
+	utility_force_reform = {
+		picture = utility_force_reform
+		alert = yes
+		
+		potential = {
+			ai = no
+			civilized = yes
+			
+			NOT = {
+				OR = {
+					has_country_modifier = reform_passed
+					has_country_modifier = cannot_pass_reform
+				}
+			}
+		}
+		
+		effect = {
+			set_country_flag = force_reform
+			set_country_flag = reform_passed
+			
+			add_country_modifier = {
+				name = force_reform
+				duration = 30
+			}
+			add_country_modifier = {
+				name = reform_passed
+				duration = 3650
 			}
 		}
 	}

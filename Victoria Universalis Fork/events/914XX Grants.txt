@@ -13,12 +13,12 @@ country_event = {
 	
 	# Don't give anything
 	option = {
-		name = "EVTOPTA91400"
+		name = EVTOPTA91400
 	}
 	
 	# Give 50.000
 	option = {
-		name = "EVTOPTB91400"
+		name = EVTOPTB91400
 		
 		random_owned = {
 			limit = {
@@ -49,7 +49,7 @@ country_event = {
 	
 	# Give 100.000
 	option = {
-		name = "EVTOPTC91400"
+		name = EVTOPTC91400
 		
 		random_owned = {
 			limit = {
@@ -80,7 +80,7 @@ country_event = {
 	
 	# Give 250.000
 	option = {
-		name = "EVTOPTD91400"
+		name = EVTOPTD91400
 		
 		random_owned = {
 			limit = {
@@ -111,7 +111,7 @@ country_event = {
 	
 	# Give 500.000
 	option = {
-		name = "EVTOPTE91400"
+		name = EVTOPTE91400
 		
 		random_owned = {
 			limit = {
@@ -142,7 +142,7 @@ country_event = {
 	
 	# Give 1.000.000
 	option = {
-		name = "EVTOPTF91400"
+		name = EVTOPTF91400
 		
 		random_owned = {
 			limit = {
@@ -173,7 +173,7 @@ country_event = {
 	
 	# Give 2.000.000
 	option = {
-		name = "EVTOPTG91400"
+		name = EVTOPTG91400
 		
 		random_owned = {
 			limit = {
@@ -212,6 +212,6 @@ country_event = {
 	is_triggered_only = yes
 	
 	option = {
-		name = "EVTOPTA91401"
+		name = EVTOPTA91401
 	}
 }

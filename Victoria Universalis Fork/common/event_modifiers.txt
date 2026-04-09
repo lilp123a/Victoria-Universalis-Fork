@@ -849,12 +849,19 @@ small_baby_boom = {
 	icon = 19
 }
 
-country_suppression = {
+###################
+### MARTIAL LAW ###
+###################
+
+martial_law = {
+	icon = 18
+	
 	global_pop_militancy_modifier = -0.1
 	global_pop_consciousness_modifier = -0.1
-	tax_efficiency = -0.04
-	icon = 18
+	tax_efficiency = -0.05
 }
+
+######
 
 province_attract_immigrants = {
 	immigrant_attract = 400

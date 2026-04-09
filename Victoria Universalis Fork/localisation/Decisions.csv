@@ -38,3 +38,17 @@ utility_decrease_colonial_migration_level_title;§YDecrease Colonial Migration Le
 utility_decrease_colonial_migration_level_desc;Lowers your colonial migration reform by one level, decreasing the amount of migrants your colonies get, but also unburdening your bureaucracy, increasing tax efficiency.;x
 utility_spread_ideology_title;§YSpread Ideology§!;x
 utility_spread_ideology_desc;Choose an ideology to spread amongst your population, or end an influence campaign.;x
+utility_declare_martial_law_title;§YDeclare Martial Law§!;x
+utility_declare_martial_law_desc;We can declare martial law. This will quell revolutionary elements within our nation, decreasing militancy and consciousness by §G-0.10§! per month. However, our economy will be negatively affected, decreasing our tax efficiency by §R-5.0%§!. Additionally, pop promotion will be hampered.;x
+utility_rescind_martial_law_title;§YRescind Martial Law§!;x
+utility_rescind_martial_law_desc;We can put an end to the state of martial law in our nation.;x
+utility_release_vassals_title;§YRelease Vassals§!;x
+utility_release_vassals_desc;This will trigger an event for each one of our vassals in which we will be able to choose whether to release them or keep them as a vassal.;x
+utility_control_vassal_armies_title;§YControl Vassal Armies§!;x
+utility_control_vassal_armies_desc;Starts a fake war with a non-existent country, which allows you to take control of your vassals' troops.;x
+utility_stop_controlling_vassal_armies_title;§YStop Controlling Vassal Armies§!;x
+utility_stop_controlling_vassal_armies_desc;End the war with the fake target.;x
+utility_request_negotiations_title;§YRequest Negotiations§!;x
+utility_request_negotiations_desc;This will trigger an event that will allow you to ask other players that you are fighting to unoccupy land they've occupied from you or allow you to occupy their capital. This can be used to speed up the process of adding wargoals when a war has been won.\n\n§RDon't use this decision unless the enemy has surrendered.§!;x
+utility_force_reform_title;§YForce Reform§!;x
+utility_force_reform_desc;We can leverage our political capital to force through (or rescind) a reform of our choice. This will upset the public and hurt the ruling party's popularity, and we are only able to do this once every 10 years.;x

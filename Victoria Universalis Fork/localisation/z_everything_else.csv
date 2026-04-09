@@ -377,7 +377,6 @@ NIP_conservative;Court Faction;x
 support_biesterfelds_title;Support The Lippe-Biesterfelds;x
 EVTDESC90001;In a rather embarrassing blunder, several of our soldiers in the uniform of $CB_TARGET_NAME$ have been caught while trying to sneak across the border. While the rumours that their task was to stage a border incident to justify our invasion are totally unfounded, it would be wise not to provide any fresh fuel for the fire right now.;x
 CMR_liberal;Progressive Movement;x
-EVTNAME91712;Request to Unoccupy §R$FROMCOUNTRY$§b's Provinces;x
 gtfo_TCA_desc;We've had a good run, but it's time to end our rulership of Transcaucasia: if you love something, let it go!;x
 EVTNAME10050;The End of The Revolution;x
 EVTNAME17600;Black Flags;x
@@ -555,7 +554,6 @@ EVTOPTC3003;Hope the issue dissipates;x
 BREAKCOUNTRYOTHER_3;$OTHER$;x
 gtfo_TMR_desc;We've had a good run, but it's time to end our rulership of Timor: if you love something, let it go!;x
 REBEL_POWER_MORE_THAN;Rebel threat is at least §Y$VAL$§W percent.;x
-EVTNAME91306;Manage Vassals;x
 EVTOPTA18130;What will be, will be;x
 valparaiso_harbor_desc;Valparaiso has become a required stopover for ships crossing between the Atlantic and Pacific oceans. In it's role as a major seaport, Valparaiso receives immigrants from many European countries, but this could change if a new route was to open.;x
 gtfo_PML_desc;We've had a good run, but it's time to end our rulership of Pomerelia: if you love something, let it go!;x
@@ -958,7 +956,6 @@ VIC_liberal_1;Liberal Party;x
 GIVEMILITARYACCESS_WE_DECLINE_1;Military Access.;x
 diplomatic_cores;Core Integration in Progress;x
 FJN_reactionary;Beiyang Faction;x
-EVTDESC91706;You may no longer pass reforms without the support of the upper house.;x
 EVTNAME23413;The Games of The Third Olympiad;x
 EVTOPTA13170;Dispatch a punitive expedition;x
 NO_MIGRATIONS_FOUND1_TOOLTIP;Province belongs to: §Y$COUNTRY$§!;x
@@ -2128,7 +2125,6 @@ demand_concession_casus_belli_desc;Force an §Yuncivilised country§W to secede te
 test_irregular_desc;Allows contruction of Irregulars;x
 demand_concession_casus_belli;Demand Concession;x
 EVTOPTA44673;Huzzah!;x
-EVTOPTB91714;Don't let them.;x
 UIL_socialist;Socialist Party;x
 Sunday;Sunday;x
 DESELECT_UNIT_DRO;This button will close the current unit window;x
@@ -2740,7 +2736,6 @@ AIREASON_CRISIS_OFFER;$WARGOAL$:;x
 AIREASON_TOO_EARLY_IN_CRISIS;Early in Crisis;x
 regionalism_china;Regionalism;x
 AIREASON_ALLY;Ally;x
-EVTOPTA91705;Declare martial law.;x
 DECLWAR_LIMITED;This war is a limited war.;x
 EVTOPTA44108;I must have them!;x
 EVTOPTA17520;You mean you fired someone? Nothing wrong with that!;x
@@ -2811,7 +2806,6 @@ gtfo_TUR_desc;We've had a good run, but it's time to end our rulership of The Ot
 RESENDEXPEDTITLE;Return Expeditionary Force;x
 EVTDESC4100;The streets have turned into rivers of people in one of our provinces, where every man, woman and child seems to have come out of the woodwork, and into the streets, to participate in a massive street protest directed directly against the government. The issue on the table is the appointed, undemocratic Upper House, and the masses are calling for reform and representation. Our options here are rather limited. Either we listen to the demands of the infuriated mob, or we risk angering the locals even further.;x
 PROCEED;Proceed;x
-zcountry_suppression_title;§YMartial Law;x
 EVTNAME17160;Study Circle;x
 ARMY_RECON_TOOLTIP;Recon Efficiency: §Y$VAL$§!%;x
 SIEGEUS_6;will soon be driven off by the might of our armies.;x
@@ -3395,7 +3389,6 @@ KZB;Kazembe;x
 SMI_socialist;Labour Party;x
 EVTDESC14640;While anti-$COUNTRY_ADJ$ sentiments have been festering in the colony for some time, it is only very recently that the simmering discontent has erupted into open violence. During the past few months alone, three colonial officials have been killed in the colony, and it is becoming increasingly clear that something must be done about the situation, lest it spin out of control.'\n\nThe calm in one of our colonies has proved deceptive, as native unrest and displeasure with colonial rule has flashed into a state of near open rebellion in a matter of days. The calm before the storm is decidedly over.;x
 WEDID_ISBANNEDEMBASSY_DESC;Banned embassy until §Y$UNTIL$§W. We are behind this.;x
-negotiations_desc;This will trigger an event that will allow you to choose to ask human countries you are at war with to unoccupy your provinces or allow you to occupy their capital for warscore. This is to help speed up the adding of wargoals during peace talks in multiplayer games. §WDon't use this decision unless one side has surrendered.;x
 yes_research_reform;Foreign Universities;x
 kettler_denkmal;Memorial to Foreign Diplomat;x
 cancel_trade_agreements_1_desc;By cancelling our current trade agreement, we are free to enter into a new a trade agreement with another country.;x
@@ -3403,7 +3396,6 @@ ADDTOSPHERE_THEY_ACCEPT_MAP;Added to Sphere;x
 BACK_CRISIS_OTHER_ACCEPT_HEADER;The Foreign Minister reports;x
 WAR_WE_ACCEPT_MAP;WAR!;x
 ANI_absolute_monarchy;Antillean Empire;x
-negotiations_title;§YRequest Negotiations;x
 UZB;Uzbekistan;x
 EVTOPTA36702;We must help those suffering;x
 expansionism_modifier;Expansionism;x
@@ -4440,7 +4432,6 @@ gtfo_NIC_title;Grant Nicaragua Independence;x
 muhammad_iv_reforms_desc;Muhammad bin Abd al-Rahman, known as Muhammad IV, born in Fes in 1803, was the Sultan of Morocco as a ruler of the 'Alawi dynasty. He was proclaimed sultan after the death of his father, Abd al-Rahman. His reign marked a series of reform to tackle European influence on Morocco, as Ottoman Algeria had just been conquered by France in 1830, leading to European nations entering military conflicts with Morocco.;x
 ATTACKUS_MAP;Under attack!;x
 steam_transport_short;ST;x
-EVTOPTB91711;Ask to occupy their capital state.;x
 MILITARYREFORM_BAD_LOG;We revoked $OLD$ in $CATEGORY$ to $ISSUE$.;x
 gtfo_HAL_desc;We've had a good run, but it's time to end our rulership of Ha'il: if you love something, let it go!;x
 POP_DETAILS_INTERNAL_MIGRATION;Internal migration:;x
@@ -5097,7 +5088,6 @@ EVENTHAPPENOTHEROPTION_SETUP;When a historical event with multiple choice happen
 party_issues;Party Issues;x
 lin_zexu;Lin Zexu;x
 nv_equality;Equality;x
-country_suppression_desc;The country is currently under martial law. This negatively impacts POP promotion rate.;x
 ZOOM_OUT;Zoom out;x
 gtfo_ALD_desc;We've had a good run, but it's time to end our rulership of ALD: if you love something, let it go!;x
 EVTDESC150;For it is not in the nature of a man of real, unadulterated faith to spend his life idly wasting away under the shackles of an oppressing and unquestioned vice. We must strive for the betterment of ourselves, and of our communities, by expelling from them, once and for all, the pernicious influence of the spirit in the bottle, and raise our eyes, instead, to the spirit in the sky.'\n\nThe Temperance movement has been gaining traction in $COUNTRY_ADJ$ religious circles, and a tent meeting held in one of our states is a prime expression of that sentiment.;x
@@ -5436,7 +5426,6 @@ IMMEDIATEEFFECT;Immediate Effect: \n;x
 ACR_liberal;Partido Liberal;x
 small_nation;Small Nation;x
 HAVE_UNITS_IN;$COUNTRY$ have units in $PROVINCE$.;x
-EVTDESC91705;Should we declare or rescind martial law?;x
 force_reform_desc;You do not need upper house support to pass reforms as long as this modifier persists. Other requirements must still be met, e.g. you need to have medicine in order to pass trinket healthcare and it cannot be less than 6 months since you last passed a reform.;x
 THREATENEDBY;Feels threatened by $LIST$.;x
 RIVALSWITH;Views $LIST$ as natural rivals.;x
@@ -5497,7 +5486,6 @@ EVTDESC17100;If you, sir, is upset by the fact that Student No. 156 wears a bonn
 EVTNAME36208;Alberti Turns Himself In;x
 gtfo_UMI_desc;We've had a good run, but it's time to end our rulership of Michigan: if you love something, let it go!;x
 totalitarianism_china;Totalitarianism;x
-EVTDESC91712;If you say yes to this event, all of §R$FROMCOUNTRY$'s§b provinces under our control (not ownership) will revert back to their control. The purpose of this event is to speed up the process of adding wargoals in case the side that occupies more territory surrenders during a multiplayer war.;x
 CALLTITLE;A Call to Arms!;x
 WE_DEMOBILIZE_BTN3;Details;x
 EVTOPTA15170;Round up the usual suspects;x
@@ -5899,7 +5887,6 @@ UW_UNLOAD_VALID;Unload this unit from the fleet;x
 massive_promote_bureaucrats;Encourage Bureaucrats;x
 UW_UNLOAD_NOT_VALID;You can only unload if your fleet is located in a port.;x
 UW_SPEED;This is how fast the unit moves on the map. Its speed is the same as that of its slowest subunit.;x
-EVTOPTA91306;Make each vassal send an event to us that lets use choose to free them or not.;x
 IBR;Iberia;x
 UW_BASED_FROM;This is the base where this unit is operating from.;x
 DECREASERELATION_WE_ACCEPT_2;$MONARCHTITLE$, we have been informed by;x
@@ -6649,7 +6636,6 @@ TIME_AHEAD;This technology is $NUMBER$ years ahead of its time, so it is more di
 EVTDESC17150;The (so-called) Cat and Mouse Act was an infamous British law passed in 1912 in order to combat the suffragette tactic of using hunger strikes as a means to build sympathy for the Suffragette cause. The law stated that a person could be released from jail to recover from any serious illness, only to be jailed again on recovery, thereby washing the government's hands of any harm caused to the woman in question by the hunger strike. A similar ordinance has found its way into the legislature of one of our states, where suffragette hunger strikes are handled in this exact same way.;x
 EVTNAME46601;Facundo: or, Civilization and Barbarism;x
 EVTOPTB46600;Suppress Alberdi's Supporters!;x
-EVTNAME91714;Request from §R$FROMCOUNTRY$§b to Occupy Capital;x
 GAB;Gabon;x
 EVTOPTB11101;We will not have our ancestral rights infringed!;x
 military_constructions;Military Constructions;x
@@ -6906,7 +6892,6 @@ WAR_THEY_ACCEPT_BTN3;Go to;x
 EVTOPTA36902;I could use a vacation too!;x
 EVTDESC36902;British printer and lay preacher Thomas Cook conducted the first group package tour via train from Leicester to Loughborough. With low prices and travel, lodging, and food and beverages included, tours became possible for more people than ever before.;x
 EVTNAME36902;Package Tours;x
-EVTNAME91705;Martial Law;x
 EVTNAME14000;$COUNTRY_ADJ$ Trade Policy;x
 EVTOPTA36901;A touching story;x
 reform_passed;Reform Recently Passed;x
@@ -6986,7 +6971,7 @@ naval_schools_l;Naval Training;x
 accept_trade_deal_29_title;§YAccept Trade Deal;x
 REB_REVOLT_RISK;Revolt risk: §Y$VAL$§W;x
 EVTNAME36216;Jacob Christian Ellehammer;x
-ANY_AT_WAR_STARTS;Any country at war with.;x
+ANY_AT_WAR_STARTS;Any country at war with;x
 MOZ_fascist;Mozambique People's Progress Party;x
 EVTDESC36215;A corporation was founded in 1891 by 11 breweries in Copenhagen. In 1894 it merged with Tuborg and began a close cooperation with Carlsberg in 1903, forming a very strong and large brewing industry in Denmark. United Breweries and Carlsberg merged in 1969.;x
 panama_canal_construction;Panama Canal Under Construction;x
@@ -7312,7 +7297,6 @@ massive_promote_clerks;Encourage Clerks;x
 gtfo_HAM_title;Grant Hamburg Independence;x
 EVTNAME91883;Central Powers Victory!;x
 EVTOPTA15100;We are not provoked by this drivel;x
-EVTDESC91307;Our overlord is considering granting us our freedom.;x
 preparing_for_war;Preparing for War;x
 CB_TOWARDS_US_DETECTED_4;against us by;x
 PTN_ADJ;Pattani;x
@@ -7366,7 +7350,6 @@ DIPLOMACY_TOTAL;Rank;x
 EVTNAME37216;The Dreyfus Affair I;x
 gtfo_TRI_title;Grant Tripoli Independence;x
 PROVINCEVIEW_FROM_ADMIN_SPENDING;From Administration Spending: §Y+;x
-EVTNAME91307;Freedom?;x
 EVTNAME37215;Flaubert in Court;x
 UOR_fascist_dictatorship_ADJ;Cascadian;x
 GUNBOAT_WE_ACCEPT_5;with §Y$VALUE$§W¤ each day.;x
@@ -7898,7 +7881,6 @@ EVTDESC19040;$FROMCOUNTRY$ has requested excavation rights in the Valley of The 
 ANY_OWNED_LIMITED;For Any province that is\n;x
 EXPELADVISORS_OTHER_ACCEPT_BTN2;OK;x
 IOM_socialist;Labour Party;x
-EVTDESC91704;We are able to force through another reform without the support of the upper house.;x
 coastal_desert_mine;Coastal Desert;x
 EVTDESC90034;The British have left India for good and now the fate of India lies in the hands of the Indians.;x
 REMOVE_EVTOPTA19035;Of course we will join!;x
@@ -7954,7 +7936,6 @@ army_schools;Army Training;x
 UNIT_REBEL_HUNT_NO_VALID;§REnemy rebels has been detected, but our army will not attack them, because they are too strong for us, or couldn't find a safe path to get there.§!;x
 EVTDESC19024;... and, yet, while some amongst our citizenry can't afford the bare minimums of food and clothing, our government spends wasteful millions on sending expeditions to God-forsaken corners of nowhere in search of colorful flowers!'\n\nA debate has broken out in the Upper House over the botanical expedition that we decided to fund some time ago. Liberals oppose the expenses that the expedition has accrued, claiming that $COUNTRYNAME$ can ill afford such luxuries.;x
 EVTNAME19024;House Debate on Botany;x
-EVTDESC91306;Trigger an event for each vassal which then triggers an event from them to us in which we can decide to free them or not.;x
 form_somalia_desc;We have united the Somali tribes along the coast of the Horn of Africa and can now claim the rightful throne of Somalia.;x
 AT_WAR_WITH;At war with:;x
 gtfo_PRI_desc;We've had a good run, but it's time to end our rulership of Puerto Rico: if you love something, let it go!;x
@@ -7970,7 +7951,6 @@ KHZ_parliamentary_republic;Arabistan;x
 REMOVE_NEUTRALITY_EFFECT;§Y$COUNTRY$§W loses §G$VALUE$§W in neutrality§W.\n;x
 EVTNAME19020;$PROVINCENAME$ Botanical Expedition?;x
 EVTNAME3752;Brick St. Gentlemen's Club;x
-EVTDESC91711;You can ask your opponent to unoccupy your provinces and to let you occupy their capital state in order to speed up peace conferences.;x
 EVTNAME19200;The Ems Dispatch;x
 beretta_desc;Small Arms Factory Throughput: §G+30%\n§WAmmunition Factory Throughput: §G+30%;x
 EVTOPTB10320;Certainly, this is only propaganda designed to exploit the working classes.;x
@@ -8404,7 +8384,6 @@ south_africa_union_title;South Africa Act of $YEAR$;x
 earth_scorched;Earth Scorched;x
 CRISIS_NO_SIDE_PICKED_HEADER;*;x
 nationalist_rebels_desc;Nationalist rebels seek freedom for their people. They are well led and equipped, and they will focus on achieving independence for their nation.;x
-EVTNAME91711;Negotiations;x
 expand_northern_cape_title;Expand Northern Cape;x
 colonial_mismanagement;Colonial Mismanagement;x
 EVTOPTA12220;Stockpile the extra tea;x
@@ -8524,7 +8503,6 @@ EVTDESC15000;Dissent has been growing among the $PROVINCECULTURE$ population in 
 EVTOPTB10250;Accuse them of opportunism;x
 SIEGEUSREBEL_2;$MONARCHTITLE$,;x
 NAVAL_COMBAT_DAMAGE_DESC_NOORG;Opponent has no organization: §Y$VAL$%§!;x
-country_suppression;Martial Law;x
 WETARGET_DISCREDIT_4;We suspect §Y$ACTOR$§W is behind this!;x
 EVTOPTB36925;Let's concentrate on the problems of poverty!;x
 REMOVE_EVTDESC14800;You brought us this disease! Our loved ones are dead because of you!'\n\nThe measles disease has claimed many, and the rest are in uproar. Revolts are spreading across the colony.;x
@@ -8990,7 +8968,6 @@ gtfo_HOL_title;Grant Holstein Independence;x
 EVTOPTA12120;Dig deep and greedily!;x
 EVTDESC12120;Not by speeches and votes of the majority, are the great questions of the time decided, but by iron and blood.'\n-Otto von Bismarck\n\nA new, rich lode of iron ore has been discovered in the $PROVINCENAME$ mine. While the ore is rich, it is also located on a perilous depth that is just beyond the reach of our present mining technology. We could attempt to extract the ore, but doing so will carry with it a cost in lives and blood.;x
 EVTOPTB12110;Send some to our neighbors!;x
-release_vassals_desc;Trigger an event for each vassal which then triggers an event from them to us in which we can decide to free them or not.;x
 federated_malay_states_title;Form the Federated Malay States;x
 EVTOPTB12100;Better living through chemistry!;x
 TENSION_DECAY;Base Decay: §Y$VAL$§!;x
@@ -9815,7 +9792,6 @@ desc_free_corps;Inspired by the Blackshirts, the Free Corps are a nuisance in yo
 BRY_reactionary;The Nationalist Faction;x
 turkish_nationalist_rebels_army;Turkish Nationalists;x
 writing_language_l;Writing System;x
-EVTNAME91706;End of forced reforms;x
 EVTDESC14010;The election debates in $COUNTRY$ have been going on for a few days now, and the issue that seems to be becoming the determining one for the outcome of the election is, perhaps unsurprisingly, the economy. Several theories are being advanced, but the voters want a clear statement on government policy. How will the government make sure that every $COUNTRY_ADJ$ citizen has a chicken in his pot, during the coming term in office?;x
 EVTOPTA19033;Most fortunate;x
 REMOVE_EVTNAME2070;Massive Naturalizations;x
@@ -10355,7 +10331,6 @@ california_gold_rush;California Gold Rush;x
 LIMITED_BY;Limited by:\n;x
 DECREASERELATION_THEY_ACCEPT_2;$MONARCHTITLE$, we all know that we really despise;x
 UW_SUPPLY_STATUS;This unit received §Y$VAL$§W% of the supplies needed in the last day. The current daily supply consumption is: $CON$;x
-EVTOPTB91308;Don't let them be free.;x
 REDUCE_POP_EFFECT;Population changed by $PERC$.\n;x
 small_promote_clerks;Encourage Clerks;x
 CHD_socialist;Independent Socialist Party;x
@@ -10431,7 +10406,6 @@ REMOVE_DISSENT_EFFECT;Lose §G$VALUE$§W in dissent§W.\n;x
 CRISIS_BACK_DOWN_OTHER_DECLINE_6;*;x
 build_gotthard_tunnel_desc;The Gotthard Rail Tunnel was built between 1871 and 1881, connecting the towns of Göschenen and Airolo. The first tunnel ever to be built under the Gotthard Massif, the Gotthard Tunnel was in its time considered an architectural achievement made possible by modern technology.;x
 EVTOPTB3300;Seek local support for reform;x
-EVTOPTC91711;Ask nothing.;x
 CREATE_VASSAL_EFFECT;§Y$TARGET_COUNTRY$§W becomes a puppet of §Y$COUNTRY$§W.\n;x
 ADD_PROVINCE_MONEY_EFFECT;Gain §G$VALUE$§W ¤ in §Y$PROVINCE$§W.\n;x
 REMOVE_PROVINCE_MONEY_EFFECT;Lose §R$VALUE$§W ¤ in §Y$PROVINCE$§W.\n;x
@@ -10670,7 +10644,6 @@ prussia_disagrees;Prussia upholds the Vienna Treaty;x
 REMOVE_lawless_suffragettes;Lawless Suffragettes;x
 BREAKCOUNTRYOTHER_LOG;$FACTION$ enforce their demands in $OTHER$!;x
 EVTDESC18090;The Liberal caucus has convened to further press the agenda for political reform. Citing concerns about alleged infringements of the state apparatus into the private lives of citizens, and a political system firmly lodged in the hands of the few at the expense of the many, the liberals have threatened to block all bills from passing the Upper House until their concerns have been addressed. A few members of other parties are considering aligning themselves with the liberals on the issues of political reform, and any delay on our part will most likely serve to further increase popular frustration over the slow pace of reform.;x
-EVTOPTA91714;Let them.;x
 UNB_communist;Communist Party;x
 REMOVE_EVTDESC11100;All around $COUNTRY$, jubilant crowds, waving the flag of $CULTURE_GROUP_UNION$, take to the streets in celebration, as news reach us from $FROMCOUNTRY$ that $FROMRULER$ has proclaimed himself the liberator of all $CULTURE_GROUP_UNION$.\n\n'For far too long have we let the machination and conspiracy of foreign powers set the course of our nation's life. Today, and forever -- here, in our ancient homeland -- we form the bonds of a more perfect union. Three Hurrahs for $CULTURE_GROUP_UNION$!'\n\nResisting these winds of change will be nigh on impossible.;x
 CANCELALLIANCE_THEY_ACCEPT_4;§Y$RECIPIENT$§W ;x
@@ -11179,7 +11152,6 @@ TB_MILITARY_MANPOWER;Manpower:;x
 EVTNAME3307;Post-War Promises!;x
 CEASECOLONIZATION_THEY_DECLINE_2;$MONARCHTITLE$, §Y$RECIPIENT$§W declined our request;x
 no_trade_policy_set;No Set Trade Policy;x
-EVTOPTA91308;Let them be free.;x
 INCREASE_RELATION_MAX;We cannot get better relations with ;x
 GIVEMILITARYACCESS_OTHER_DECLINE_2;$MONARCHTITLE$;x
 GIVEMILITARYACCESS_OTHER_DECLINE_HEADER;The Foreign Minister reports;x
@@ -11256,7 +11228,6 @@ miskatonic_campus;Miskatonic University;x
 GUNBOAT_THEY_ACCEPT_6;*;x
 CHD_conservative;Democratic Union;x
 common_army_0;Common Army;x
-EVTNAME91704;Pass Reform Reminder;x
 russify_baltic_states_desc;The Russian press took up the topic of German influence in the Baltic provinces. As early as the 1860s, the Slavophiles demanded the end of the autonomy in the Baltic provinces and a standardized administration. The unification of Germany and its subsequent development into a Great Power considerably increased the military-strategic importance of the Estonian and Latvian territories which bordered the Baltic Sea, between the extensively autonomous Finland and the rebellious Poland-Lithuania. The security of the capital St. Petersburg became a serious issue for the Russian Empire. Tsarist Russia’s government circles were afraid of the Baltic German's possible orientation towards Germany, especially worrying was the thought that by Germanizing the Estonians and Latvians, the Germans could become the majority nation in the Baltics.;x
 MODIFIER_RESEARCH_POINTS;Research Points;x
 BSQ_socialist;Abertzale Ekintza;x
@@ -11278,7 +11249,6 @@ EVTNAME90825;Opium Outlawed in China;x
 EVTNAME16190;Border Ruffians;x
 ATTACKUSREBEL_SETUP;When one of our land units is attacked by the Rebels;x
 ENABLES;Enables $WHICH$.\n;x
-EVTOPTB91705;Rescind martial law.;x
 EVTNAME35814;Japan-Korea Annexation Treaty;x
 CANCELASKMILITARYACCESS_THEY_ACCEPT_1;§Y$ACTOR$§W;x
 native_removal_act_policy_desc;Discriminatory policies aim to eliminate and push out the native population.;x
@@ -11384,7 +11354,6 @@ EVTDESC16420;With the influx of settlers into the Black Hills area, conflicts wi
 ALLIANCE_WE_DECLINE_BTN2;OK;x
 ALLIANCE_WE_DECLINE_BTN1;OK;x
 ALLIANCE_WE_DECLINE_6;*;x
-zcountry_suppression_desc;Add or remove the martial law modifier which gives -0.1 militancy/consciousness, -0.04% tax efficiency, and a debuff to POP promotion.;x
 ALLIANCE_WE_DECLINE_4;Military Alliance;x
 gtfo_KYR_title;Grant Kyrgyzstan Independence;x
 UNB_ADJ;Coloradan;x
@@ -11660,7 +11629,6 @@ disgruntled_rabble_army;$COUNTRY$ Revolters;x
 BP_TOOLTIP_REMOVE_PLAN;Delete currently selected plan.;x
 revolution_n_counter_researched;Revolution and Counterrevolution Researched;x
 disgruntled_rabble_name;Disgruntled Rabble;x
-EVTDESC91713;§R$FROMCOUNTRY$§b has agreed to unoccupy our territory in order to help speed up negotiations.;x
 disgruntled_rabble_title;Disgruntled Rabble;x
 PEACE_WE_DECLINE_LOG;We declined the peace offer from $ACTOR$.;x
 INCREASEOPINION_THEY_ACCEPT_BTN3;Go to;x
@@ -12442,7 +12410,6 @@ EVTOPTA91884;We will crush the Imperialists.;x
 free_state;Freistaat;x
 EVTNAME36942;Sepoy Rebellion;x
 gentry_l;Gentry;x
-EVTDESC91714;§R$FROMCOUNTRY$§b wants to occupy our capital so they have enough warscore to add wargoals.;x
 gtfo_TRK_desc;We've had a good run, but it's time to end our rulership of Turkestan: if you love something, let it go!;x
 unite_south_yemeni_colonies_desc;In order to better manage our colonies in Yemen, we should centralize administration of South Yemen in a single colony.;x
 DIPLOMACY_CANNOT_SET_PRIO_WAR;We cannot influence this nation while we have a war with them.;x
@@ -12456,7 +12423,6 @@ become_independent;Become Independent;x
 gtfo_DOM_title;Grant Dominican Republic Independence;x
 EVTDESC11105;With the Jewish state gone, Jews have no reason to migrate to Israel anymore.;x
 GREAT_WARS_ENABLED_DESC;Great Wars are discovered.\n;x
-EVTNAME91713;§R$FROMCOUNTRY$§b Accepts;x
 DECREASEOPINION_OTHER_ACCEPT_SETUP;When a nation decreases the opinion of another nation;x
 DAK_absolute_monarchy;Dakota Commonwealth;x
 EVTOPTA36005;Crush them!;x
@@ -12698,7 +12664,6 @@ NORMAL_WAR_HUMILIATE_NAME;$ORDER$$FIRST$-$SECOND$ War of Honor;x
 EVTOPTA45001;We have commercial interests to protect.;x
 EVTDESC44605;After the recent war the Argentines have taken Cochinoca and Tarija. Now with the post-war peace talks, our diplomats proposed that we raise the question of the settlement of the borders between Bolivia and Argentina. The best deal we can get by our diplomats calculations is to offer to renounce all our claims in Cochinoca, Uquia, Jujuy and Salta in exchange for their renouncement of their claims in Tarija.;x
 NORMAL_WAR_TAKE_CORE_NAME;$ORDER$$FIRST$ Liberation of $STATE$;x
-EVTOPTA91307;One can only hope.;x
 russification_of_finland_desc;Having enjoyed prosperity and control over their own affairs, and having remained loyal subjects for nearly a century, the manifesto which the $MONARCHTITLE$ issued on $YEAR$ was cause for Finnish despair. The manifesto was forced through the Finnish senate by the deciding vote of the senate president, an appointee of the $MONARCHTITLE$ — and after the governor-general of Finland, Nikolay Bobrikov, had threatened a military invasion and siege. While ostensibly affirming the Finns' rights in purely local matters, the manifesto asserted the authority of the state in any and all matters which could be considered to "come within the scope of the general legislation of the empire".;x
 EVTOPTB17590;Hey! That's unconstitutional!;x
 embrace_misri_minority_title;Embrace the Misri minority;x
@@ -13143,7 +13108,6 @@ john_cockerill;John Cockerill & Cie;x
 construct_germania_werft_desc;The Germaniawerft (Ger. Germania Wharf), was a major German shipbuilding wharf in Kiel, North Germany, which was responsible for constructing many of the German U-boats deployed by the German Kriegsmarine during WWI and WWII, as well as Kaiser Wilhelm II's personal yacht. Originally founded as the Norddeutsche Schiffbau-Gesellschaft in 1867, the wharf was bought by renowned German industrialist Friedrich Krupp in 1902, and renamed the Germaniawerft. By constructing the Germaniawerft in Kiel, we can ensure that the Fatherland never lacks the ships it needs.;x
 KYR_anarcho_liberal;The Radical Faction;x
 EVTDESC70004;When a province changes owners or is turned from a colony to a state, all old province modifiers are automatically removed. This province event adds an RGO expansion modifier to any recently acquired provinces and former colonies that previously had them.;x
-EVTOPTA91713;Good.;x
 ASY_ADJ;Assyrian;x
 white_rajah_desc;The White Rajahs were a dynastic monarchy of the English Brooke family, who founded and ruled the Kingdom of Sarawak, located on the island of Borneo, from 1841 to 1946. \n\nThe first ruler was an Englishman James Brooke. As a reward for helping the Sultanate of Brunei fight piracy and insurgency among the indigenous peoples, he was granted the landmass of Sarawak in 1841 and received independent kingdom status.;x
 INCREASERELATION_WE_ACCEPT_SETUP;When a nation increases their relations with us;x
@@ -13474,7 +13438,6 @@ build_suez_canal_title;Build the Suez Canal;x
 CRISIS_BACK_DOWN_WE_DECLINE_6;*;x
 gtfo_GNE_desc;We've had a good run, but it's time to end our rulership of Guinea: if you love something, let it go!;x
 gtfo_EST_desc;We've had a good run, but it's time to end our rulership of Estonia: if you love something, let it go!;x
-release_vassals_title;§YManage Vassals;x
 america_first_ww1_desc;America First refers to a populist political theory in the United States that emphasizes the fundamental notion of "putting America first", which involves disregarding global affairs and focusing solely on domestic policy. This generally denotes policies of isolationism, American nationalism, and protectionist trade.;x
 EVTNAME44469;The Fall of Egypt;x
 DECREASERELATION_WE_ACCEPT_SETUP;When a nation decreases their relations with us;x
@@ -13505,7 +13468,6 @@ build_addis_ababa_desc;The "New Flower" was founded in 1886 by Emperor Menelik I
 NORMAL_UNIFICATION_HUMILIATE_NAME;The $FIRST$-$SECOND$ Brother's War;x
 HAS_TECH_SCHOOL;Currently §Y$TECH$§W.\n;x
 EVTDESC91708;$FROMCOUNTRY$ has removed our cores from one of their states.;x
-EVTOPTA91712;Return their occupied provinces.;x
 acquire_siberian_state_short;Acquire $STATE$ from $RECIPIENT$;x
 BREAKCOUNTRY_BTN1;Horror!;x
 gtfo_KTI_desc;We've had a good run, but it's time to end our rulership of Kutai: if you love something, let it go!;x
@@ -13771,7 +13733,6 @@ EZO_conservative;Shinsengumi;x
 RALLY_POINT_PROVINCE_INFO;$PROV$ is a §Yrally point§!;x
 REMOVE_EVTDESC14730;Just a few rebels remain and your soldiers are eager to deal with them. $PROVINCENAME$ could be easy recovered with a couple of regiments.\n\nA man approaches you and offers you some information that will help you reconquer your former colony. He wants fifty pieces of gold for this information.;x
 EVTOPTB3501;Get back to work!;x
-EVTNAME91308;$FROMCOUNTRY$ Requests Independence;x
 WEGAINCB_4;against;x
 EVTDESC91521;We must decide how to govern our newly acquired colonies. The colonial policy of a state may be changed at any time by building a province selector in the selected state and enacting the "Colonial Policy" decision.;x
 rude_boy_desc;Force another §Ycountry§W, which has thrown off all pretenses of civilised conduct in the realm of international affairs, to vastly reduce its ambitions.;x
@@ -13806,7 +13767,6 @@ divided_society;Divided Society;x
 EVTNAME91520;Colonial Policy in $PROVINCENAME$;x
 EVTNAME1215;Spoil System - No Longer a Problem;x
 end_gaza_kingdom_desc;It is time to end the Gaza Kingdom and expand our colonial holdings in Mozambique.;x
-EVTOPTA91711;Ask to unoccupy your provinces.;x
 is_swiss;Switzerland;x
 EVTOPTA44103;It is right and proper to return it.;x
 kommandos_desc;In times of war, each town was responsible for raising a "Kommando" force of militia for self defence. After the Great Trek, enlistment in a local Kommando became mandatory for all able bodied men between the ages of 16 and 60.;x
@@ -14111,7 +14071,6 @@ UOR_conservative;New Democratic Party;x
 form_israel_title;The Balfour Declaration;x
 national_idea1;§GNational Idea;x
 gtfo_KMT_desc;We've had a good run, but it's time to end our rulership of Nationalist China: if you love something, let it go!;x
-EVTOPTB91712;Do not return their occupied provinces.;x
 gtfo_HAI_desc;We've had a good run, but it's time to end our rulership of Haiti: if you love something, let it go!;x
 CALLALLY_THEY_DECLINE_1;§Y$RECIPIENT$§W;x
 EVTDESC37715;We have once again secured our freedom from the cruel and vindictive Spaniards. The Spanish King and his corrupt Cortes court have failed to subjugate the $COUNTRY_ADJ$ people and we henceforth sever all ties with them.;x
@@ -14335,7 +14294,6 @@ CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_2;$MONARCHTITLE$;x
 hereditary_bureaucracy;Hereditary Bureaucracy;x
 EVTDESC44652;With the provinces of Costa Rica, Nicaragua, Honduras, and El Salvador having declared independence, the Federal Republic of Central America is no more.;x
 gtfo_WRI_title;Grant Warri Independence;x
-EVTOPTB91306;Do nothing.;x
 ZBW_liberal;United African National Council;x
 yes_foreign_artillery_l;Imported Artillery;x
 let_the_chips_fall_desc;We are not involved in this year election.;x
@@ -14460,7 +14418,6 @@ education_idea;Education National Idea;x
 EVTOPTA35300;Encore, Encore!;x
 EVTOPTA44465;Give in to their demands (become a puppet).;x
 PEACE_NOT_LEADER;You can only negotiate with the leader of your enemy;x
-EVTDESC91308;We can grant independence to $FROMCOUNTRY$.;x
 tanzimat_reforms_enacted;Tanzimat Reforms Enacted;x
 SAA_conservative;Zentrumspartei;x
 taxing_eic_desc;When this timer runs out, we can use the "Levy Indian Taxes" decision.;x
@@ -14472,7 +14429,6 @@ INFLUENCE_CHANGE;§Y$ACTIVE$§W influence with §Y$PASSIVE$§W changes by $MUCH$.\n;
 gtfo_GWA_desc;We've had a good run, but it's time to end our rulership of Gwalior: if you love something, let it go!;x
 GREAT_WARS_DISABLED_DESC;Great Wars are undiscovered yet.\n;x
 TRIGMODLOST_6;$EFFECT$;x
-VU_DESC;This scenario is optimized around multiplayer campaigns. There are less individual POPs (but same population), less cultures, different starting conditions, all countries start with compulsory school system, and some events are different from the regular Grand Campaign.;x
 EVTOPTA32508;A fantastic production!;x
 KML_reactionary;Kumul Fundamentalists;x
 AGRESSION_WAR_INDEPENDENCE_NAME;$ORDER$$FIRST$ War of Independence;x
@@ -14726,7 +14682,6 @@ gtfo_SAR_desc;We've had a good run, but it's time to end our rulership of Sardin
 EVTOPTA31308;Controversial ideas spreading.;x
 gtfo_PAP_desc;We've had a good run, but it's time to end our rulership of Papal States: if you love something, let it go!;x
 EVTOPTB15260;No, let them build and own houses;x
-EVTOPTA91706;OK.;x
 GW_DISCOVERED_6;*;x
 gtfo_BSH_title;Grant Lesotho Independence;x
 revoke_kht_autonomy_desc;Qa'inat has had autonomy for too long, central administration would stabilize it and ensure its rulers can never turn against us.\n\n§RCivilization Progress must be 95% in order to enact this decision.;x

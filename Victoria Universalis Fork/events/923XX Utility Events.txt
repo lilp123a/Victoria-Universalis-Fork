@@ -261,3 +261,214 @@ country_event = {
 		}
 	}
 }
+
+####################
+### FORCE REFORM ###
+####################
+
+# Clears force reform ability
+country_event = {
+	id = 92301
+	title = EVTNAME92301
+	desc = EVTDESC92301
+	picture = upper_house
+
+	trigger = {
+		has_country_flag = force_reform
+		NOT = { has_country_modifier = force_reform }
+	}
+	
+	immediate = {
+		clr_country_flag = force_reform
+	}
+	
+	option = {
+		name = EVTOPTA92301
+	}
+}
+
+# Clears forced reform restriction when it has lapsed
+country_event = {
+	id = 92302
+	title = EVTNAME92302
+	desc = EVTDESC92302
+	picture = upper_house
+
+	trigger = {
+		has_country_flag = reform_passed
+		NOT = { has_country_modifier = reform_passed }
+	}
+	
+	immediate = {
+		clr_country_flag = reform_passed
+	}
+	
+	option = {
+		name = EVTOPTA92302
+	}
+}
+
+#######################
+### RELEASE VASSALS ###
+#######################
+
+# Sent out to vassals to bounce an event back to the overlord
+country_event = {
+	id = 92303
+	title = EVTNAME92303
+	desc = EVTDESC92303
+	
+	is_triggered_only = yes
+	allow_multiple_instances = yes
+	
+	immediate = {
+		overlord = {
+			country_event = {
+				id = 92304
+				days = 0
+			}
+		}
+	}
+	
+	option = {
+		name = EVTOPTA92303
+	}
+}
+
+# Sent to the overlord by each vassal so they can choose which to release
+country_event = {
+	id = 92304
+	title = EVTNAME92304
+	desc = EVTDESC92304
+	
+	is_triggered_only = yes
+	allow_multiple_instances = yes
+	
+	# Keep as a vassal
+	option = {
+		name = EVTOPTA92304
+	}
+	
+	# Release
+	option = {
+		name = EVTOPTB92304
+		
+		release_vassal = FROM
+		
+		# Set a special flag if it was the EIC that was released
+		FROM = {
+			limit = { tag = EIC }
+			
+			set_country_flag = granted_independence
+		}
+	}
+}
+
+########################
+### WAR NEGOTIATIONS ###
+########################
+
+# Choose whether to ask the enemy to either unoccupy your country or let you occupy their capital
+country_event = {
+	id = 92305
+	title = EVTNAME92305
+	desc = EVTDESC92305
+	picture = cease_fire
+	
+	is_triggered_only = yes
+	
+	# Cancel
+	option = {
+		name = EVTOPTA92305
+	}
+	
+	# Ask to unoccupy country
+	option = {
+		name = EVTOPTB92305
+		
+		any_owned = {
+			limit = {
+				NOT = { controlled_by = THIS }
+				controller = { ai = no }
+			}
+			
+			controller = {
+				country_event = {
+					id = 92306
+					days = 0
+				}
+			}
+		}
+	}
+	
+	# Ask to occupy enemy capital
+	option = {
+		name = EVTOPTC92305
+		
+		any_country = {
+			limit = {
+				ai = no
+				war_with = THIS 
+			}
+			
+			country_event = {
+				id = 92307
+				days = 0
+			}
+		}
+	}
+}
+
+# Event to occupier requesting that they unoccupy occupied land
+country_event = {
+	id = 92306
+	title = EVTNAME92306
+	desc = EVTDESC92306
+	picture = cease_fire
+
+	is_triggered_only = yes
+	
+	# Deny
+	option = {
+		name = EVTOPTA92306
+	}
+	
+	# Accept
+	option = {
+		name = EVTOPTB92306
+		
+		FROM = {
+			any_owned = {
+				limit = {
+					controlled_by = THIS
+				}
+				
+				change_controller = FROM
+			}
+		}
+	}
+}
+
+# Event to enemy requesting to occupy their capital
+country_event = {
+	id = 92307
+	title = EVTNAME92307
+	desc = EVTDESC92307
+	picture = cease_fire
+	
+	is_triggered_only = yes
+	
+	# Deny
+	option = {
+		name = EVTOPTA92307
+	}
+	
+	# Accept
+	option = {
+		name = EVTOPTB92307
+		
+		capital_scope = {
+			change_controller = FROM
+		}
+	}
+}

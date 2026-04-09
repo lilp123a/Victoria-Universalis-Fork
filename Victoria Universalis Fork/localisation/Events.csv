@@ -20,3 +20,29 @@ EVTOPTE92300;Anarcho-Liberal;x
 EVTOPTF92300;Socialist;x
 EVTOPTG92300;Communist;x
 EVTOPTH92300;Fascist;x
+EVTNAME92301;End of Forced Reforms;x
+EVTDESC92301;We can no longer pass reforms without the approval of the Upper House.;x
+EVTOPTA92301;OK;x
+EVTNAME92302;Force Reform Available;x
+EVTDESC92302;We are able to pass reforms without the approval of the Upper House.;x
+EVTOPTA92302;OK;x
+EVTNAME92303;Freedom?;x
+EVTDESC92303;Our overlord is considering our independence.;x
+EVTOPTA92303;OK;x
+EVTNAME92304;Release $FROMCOUNTRY$?;x
+EVTDESC92304;Should we free $FROMCOUNTRY$ from our yoke?;x
+EVTOPTA92304;Keep them as they are;x
+EVTOPTB92304;§RRelease them§!;x
+EVTNAME92305;Negotiations;x
+EVTDESC92305;Choose your request below.;x
+EVTOPTA92305;Cancel;x
+EVTOPTB92305;Ask to unoccupy your country;x
+EVTOPTC92305;Ask to occupy their capital;x
+EVTNAME92306;Request to Unoccupy $FROMCOUNTRY$'s Provinces;x
+EVTDESC92306;If you agree, all of $FROMCOUNTRY$'s provinces which you have occupied in this war will revert back to their control.;x
+EVTOPTA92306;Deny their request;x
+EVTOPTB92306;Accept their request;x
+EVTNAME92307;Request from $FROMCOUNTRY$ to Occupy Capital;x
+EVTDESC92307;If you agree, your capital will be occupied by $FROMCOUNTRY$.;x
+EVTOPTA92307;Deny their request;x
+EVTOPTB92307;Accept their request;x
