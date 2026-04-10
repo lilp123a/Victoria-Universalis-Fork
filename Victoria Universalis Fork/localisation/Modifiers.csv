@@ -16,3 +16,27 @@ fascist_influence;Fascist Influence;x
 fascist_influence_desc;Fascist intellectuals and demagogues are influencing our nation.\n§YOur population will be swayed towards the Fascist ideology§!;x
 martial_law;Martial Law;x
 martial_law_desc;Our nation is in a state of martial law.\n§YPop promotion is decreased§!;x
+land_organisation_idea;National Idea: Land Organisation;x
+land_organisation_idea_desc; ;x
+naval_organisation_idea;National Idea: Naval Organisation;x
+naval_organisation_idea_desc; ;x
+organisation_regain_rate_idea;National Idea: Organisation Regain Rate;x
+organisation_regain_rate_idea_desc; ;x
+supply_consumption_and_experience_idea;National Idea: Supply Consumption and Experience;x
+supply_consumption_and_experience_idea_desc; ;x
+leadership_idea;National Idea: Leadership;x
+leadership_idea_desc; ;x
+farming_efficiency_idea;National Idea: Farming Efficiency;x
+farming_efficiency_idea_desc; ;x
+mining_efficiency_idea;National Idea: Mining Efficiency;x
+mining_efficiency_idea_desc; ;x
+factory_output_idea;National Idea: Factory Output;x
+factory_output_idea_desc; ;x
+education_efficiency_idea;National Idea: Education Efficiency;x
+education_efficiency_idea_desc; ;x
+assimilation_idea;National Idea: Assimilation;x
+assimilation_idea_desc;§Y+0.04 Assimilation Chance§!;x
+militancy_idea;National Idea: Militancy;x
+militancy_idea_desc; ;x
+infamy_idea;National Idea: Infamy Reduction;x
+infamy_idea_desc; ;x

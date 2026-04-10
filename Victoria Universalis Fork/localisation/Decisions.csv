@@ -50,8 +50,6 @@ utility_stop_controlling_vassal_armies_title;§YStop Controlling Vassal Armies§!;
 utility_stop_controlling_vassal_armies_desc;End the war with the fake target.;x
 utility_request_negotiations_title;§YRequest Negotiations§!;x
 utility_request_negotiations_desc;This will trigger an event that will allow you to ask other players that you are fighting to unoccupy land they've occupied from you or allow you to occupy their capital. This can be used to speed up the process of adding wargoals when a war has been won.\n\n§RDon't use this decision unless the enemy has surrendered.§!;x
-utility_force_reform_title;§YForce Reform§!;x
-utility_force_reform_desc;We can leverage our political capital to force through (or rescind) a reform of our choice. This will upset the public and hurt the ruling party's popularity, and we are only able to do this once every 10 years.;x
 utility_switch_to_traditional_academia_title;§YRestore the Academia§!;x
 utility_switch_to_traditional_academia_desc;Many within our academic circles feel that the present direction of our academia suffers from an undue bias, and that we should return to a more traditional academic profile.;x
 utility_switch_to_army_tech_title;§YMilitary-Industrial Complex§!;x
@@ -64,3 +62,9 @@ utility_switch_to_culture_tech_title;§YAvant-Garde Intelligentsia§!;x
 utility_switch_to_culture_tech_desc;A cultural and ideological avant-garde within our country has, during the past years, been undertaking a long march through our academic institutions. By steadily working their way up the rungs of the academic ladder, these radical new ideologues are now in a position to completely subvert our academic institutions to better suit their ideological agenda. By supporting their cause, we can increase the speed of our cultural research, to the detriment, however, of other spheres of intellectual progress.;x
 utility_switch_to_navy_tech_title;§YSea Power & The Merchant Marine§!;x
 utility_switch_to_navy_tech_desc;It has been said that the best way to get ahead in our country is to go via the naval schools. Much of our country's military and political elites have been educated navy men, or have served in the merchant marine. The navy's importance for a seafaring country like our own cannot be underestimated, and by promoting these groups and backgrounds politically, we can ensure that our naval technology will develop at an increased rate, at the expense, however, of other fields of research.;x
+utility_pick_national_idea_title;§YPick National Idea§!;x
+utility_pick_national_idea_desc;You can pick a national idea, providing your nation with a permanent buff of your choice. You can pick one national idea every 15 years, getting a new one in 1836, 1850, 1865, 1880, 1895, 1910 and 1925.;x
+utility_reset_ai_national_idea_picks_title;§YReset AI National Idea Picks§!;x
+utility_reset_ai_national_idea_picks_desc;Since one or more of your national ideas were picked by AI, you can use this decision to reset all of your national idea picks and make the choices you want.\n\n§RIf you take a new national idea yourself, you will lose this decision.§!;x
+utility_force_reform_title;§YForce Reform§!;x
+utility_force_reform_desc;We can leverage our political capital to force through (or rescind) a reform of our choice. This will upset the public and hurt the ruling party's popularity, and we are only able to do this once every 10 years.;x

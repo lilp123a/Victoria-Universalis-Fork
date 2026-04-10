@@ -85,7 +85,6 @@ diplomatic_isolation;Diplomatic Isolation;x
 WARSUBSIDIES_INCOME;War subsidies: §G$VAL$§W;x
 ATWARWITH;At war with $LIST$.;x
 ATTACKUSREBEL_1;Our forces are under attack!;x
-navy_experience_idea_desc;Each point of experience lowers the damage taken during combat at the same rate as one point of military tactics.;x
 PV_RAILROAD;Railroad;x
 EVTNAME14010;The Future of the Economy;x
 blanco_rebels_army;Blanco Rebels;x
@@ -1454,7 +1453,6 @@ KAM_socialist;The Socialists;x
 EVTOPTA11103;Long live Il Risorgimento!;x
 AGRESSION_WAR_NEUTRALITY_NAME;$ORDER$$FIRST$ Violation of $SECOND$ Neutrality;x
 communist_faction;Communist Faction;x
-navy_organisation_idea;Navy Organisation National Idea;x
 EVTOPTA44644;Support Julián Castro.;x
 corruption6;Corruption;x
 milyutin_army_reform;Milytun's Army Reforms;x
@@ -1624,7 +1622,6 @@ ADD_WARGOAL_SUCCESS;If we achieve this war goal, we will gain:;x
 PTN;Pattani;x
 WETARGET_EXPELADVISORS_BTN3;Go to;x
 EVTOPTA2010;Ignore them.;x
-domestic_idea_desc;Gives a -0.05 militancy modifier reduction to all POPs.;x
 secure_malaya_title;Secure Malaya;x
 EVTNAME2570;$COUNTRY_ADJ$ Lebensraum!;x
 BREAKCOUNTRY_6;*;x
@@ -1753,7 +1750,6 @@ EVTOPTB12280;Give them to the poor and replace them;x
 EVTOPTA90900;We are united again;x
 EVTOPTA3400;...and?;x
 PARTY_UNAVAIL_4;*;x
-army_experience_idea_desc;Each point of experience lowers the damage taken during combat at the same rate as one point of military tactics.;x
 PARTY_UNAVAIL_2;*;x
 BANEMBASSY_OTHER_ACCEPT_BTN3;Go to;x
 PARTY_UNAVAIL_SETUP;Political party defunct;x
@@ -3219,7 +3215,6 @@ EVTNAME16120;Abolitionist Pamphlets;x
 EVTDESC90814;With most of China under our control, the other warlords have no choice but to recognize our might and submit to our authority.;x
 EVTDESC37204;The body of Napoléon Bonaparte, who died in 1821 on St. Helena, was returned to France in December 1840. During the first days after his funeral in the Dôme des Invalides in Paris, hundreds of thousands paid him their respects.;x
 metis_twilight;The Twilight of the Metis;x
-military_supplies_idea_desc;This gives -10% Supply Consumption Bonus. For example, if the base supply consumption of your armies is increased to 200% from techs, this will lower it to 180%.;x
 EVTOPTA17140;I suggest that the local authorities force feed that hysterical woman;x
 CRISIS_BACK_DOWN_THEY_ACCEPT_SETUP;When a nation accepts your offer of solving a crisis;x
 EVTOPTB15030;Keep them ignorant;x
@@ -3794,7 +3789,6 @@ neutral_faction;Part of no Faction;x
 ISSUE_MOVE_EFFECT;§Y$PERCENTAGE$%§W of pops move from §YFROM§W to §YTO§W\n;x
 ai_acquire_core_state;Acquire core;x
 EVTNAME4424;Freemarketeering Criticized;x
-EVTDESC91601;You may pick from one of the following national idea groups.;x
 CB_TOWARDS_US_DETECTED_BTN2;OK;x
 sunni_country;Sunni Religion;x
 CREATE_REVOLT;§R$SIZE$§W brigade(s) rises up in revolt in §Y$WHERE$§W.\n;x
@@ -5189,7 +5183,6 @@ UIL_ADJ;New American;x
 HED_conservative_2;Konservative Partei;x
 desc_fascist_welfare; ;x
 EVTDESC36984;The British foreign office has agreed to not interfere in our annexation of Herat.;x
-farming_idea_desc;Increased Farming Efficiency.;x
 HED_socialist_2;Sozialdem. Arbeiterpartei ;x
 HED_socialist;Deutscher Arbeiterverein;x
 HED_liberal_3;Freisinnige Partei;x
@@ -5726,7 +5719,6 @@ embrace_albanian_minority_desc;It is time to grant equal rights to the Albanians
 irish_poverty;Irish Poverty;x
 PEACE_OTHER_DECLINE_BTN2;Fine!;x
 occupied;Occupied;x
-military_hospitals_idea_invention_desc;This bonus reduces POP deaths from combat casualties to a rate of 0.227 to 1, down from a base rate of 0.25 to 1. POP deaths from combat casualties is calculated as SOLDIER_TO_POP_DAMAGE/(1 + military_hospital modifier). The base SOLDIER_TO_POP_DAMAGE in this mod is 0.25, so a military hospital modifier of 10% or 0.1, reduces POP deaths to 0.25/(1 + 0.1) = 0.227.;x
 core;Core;x
 gtfo_KAM_desc;We've had a good run, but it's time to end our rulership of Kamchatka: if you love something, let it go!;x
 trade_city_desc;Located in this province is an important trade city, a hub of trade of the region, enjoying much economic prosperity.;x
@@ -5802,7 +5794,6 @@ GAB_anarcho_liberal;Defense of Gabonese Interests;x
 claim_greater_serbia_desc;Now that we have freed our bretheren from the Turks, we can lay claim to the rest of Greater Serbia.;x
 Owned by $owner$, but currently occupied by $control$;Owned by $owner$, but currently occupied by $control$;x
 NO_COMMANDER;(No Commander);x
-industrial_goods_idea_desc;Provides an output bonus to various factory produced industrial goods.;x
 GAIN;Gain;x
 full_mobilization;Full Mobilization;x
 MLY_hms_government;Malay Federation;x
@@ -6009,7 +6000,6 @@ PAN_prussian_constitutionalism;Sikh Empire;x
 TRADENO_PORTS;You cannot initiate overseas trading without both partners having a port to ship it through.;x
 PEACETO;to §Y$REC$§W;x
 PEACENEWPROVTHEM;§Y$NATION$§W will cede §G;x
-navy_organisation_idea_desc;This effect is multiplicative. The max organization of a naval unit is (base organization of unit + navy organization from techs) * (1 + navy organization). For example, a frigate has a base org of 30, and if it has +18 org from techs, the max org it will have with this modifier is (30 + 18) * (1 + 0.15) = 55.2.;x
 colonial_railroad_nerf1;Colonial Railroad Nerf;x
 EVTOPTA3101;This scandalous slander ends!;x
 EVTNAME90035;The Rise of India;x
@@ -7019,7 +7009,6 @@ EVTDESC1214;The idea behind the rotten boroughs was to create such small voting 
 CANAL_1;Kiel Canal;x
 CGO_conservative;UDDIA;x
 DISCREDIT_WE_ACCEPT_HEADER;The Foreign Minister reports;x
-military_supplies_idea;Military Supplies National Idea;x
 EVTOPTA14600;We must remain calm. This situation will pass.;x
 EVTOPTA36203;Pay him off and let's be done with him;x
 acquire_small_state;Acquire small state;x
@@ -7377,7 +7366,6 @@ EVTOPTB17050;We must express our cordial understanding of, and support for, thes
 EVTOPTA60160;Hurrah!;x
 EVTNAME37207;Louis Napoléon Flees!;x
 EVTOPTA37206;What a noise!;x
-army_experience_idea;Army Experience National Idea;x
 EVTDESC91881;The victorious Allies have enforced their demands on the vanquished nations of the Central Powers. Austria-Hungary is to be dismantled along ethnic lines, Bulgaria cedes its territories in Macedonia, and the Ottoman Empire is no more. Germany surrenders Alsace-Lorraine to France, its colonial Empire to Britain, and parts of its Eastern territories to the new Polish and Lithuanian states.;x
 paraguayan_war_short;Establish dominance over Río de la Plata.;x
 EVTNAME37206;Play the Sax!;x
@@ -9241,7 +9229,6 @@ EVTNAME19046;Tutankhamun's Tomb;x
 DIG_IN_TOOLTIP_1;Current dig-in level: $LEV$/$MAX$.;x
 EVTNAME23202;Expedition Disappears Without A Trace;x
 acquire_small_state_desc;Can use on states <150K population before 1860, <200k between 1860-1885, <300k between 1885-1910, <450k after 1910.;x
-assimilation_idea_desc;Assimilation rate is multiplied by the assimilation chance to determine the amount of assimilation in a POP. If either assimilation rate or chance is 0, or there is no assimilation target, then no assimilation will take place. POPs will never assimilate in a province they have a core in, so e.g. Romanian POPs in Romanian cored land won't assimilate but Romanian POPs in non Romanian land will assimilate.;x
 EVTOPTB23201;That's enough of this nonsense.;x
 gtfo_SEG_title;Grant Ségou Independence;x
 EVTOPTB18000;Exert political pressure;x
@@ -9843,14 +9830,12 @@ superpower;Superpower;x
 UOR_communist;Communist Party;x
 make_puppet_desc;Become a puppet;x
 BDN_ADJ;Hakkari;x
-military_hospitals_idea_desc;This bonus reduces POP deaths from combat casualties to a rate of 0.227 to 1, down from a base rate of 0.25 to 1. POP deaths from combat casualties is calculated as SOLDIER_TO_POP_DAMAGE/(1 + military_hospital modifier). The base SOLDIER_TO_POP_DAMAGE in this mod is 0.25, so a military hospital modifier of 10% or 0.1, reduces POP deaths to 0.25/(1 + 0.1) = 0.227.;x
 EVTOPTA32512;Suppress them immediately.;x
 EVTDESC1212;By investing more money in crime fighting we have increased our ability to respond to machine politics. Machine Politics is in essence the bribery of mainly minorities by politicians using their influence. It was common to use the appointment for government jobs as a means of bribery within this system.;x
 EVTNAME22011;Penal Colony Abolished;x
 EVTOPTA1210;Good;x
 IS_NOT_PRIMARY_CULTURE_POP;Is not §Y$NAME$§W\n;x
 EVTNAME35920;Dutch Punitive Expedition;x
-reinforce_rate_idea_desc;This bonus increases reinforce rate by +10%. No matter the reinforce rate however, your units' reinforce rate is multiplied by the amount of supplies they are getting, so if your armies aren't getting any supplies they won't reinforce even with a large reinforce rate bonus.;x
 war_minister_boulanger_desc;Georges Ernest Jean-Marie Boulanger was a French general and politician. As War Minister, Boulanger gained a tremendous amount of popularity. He introduced reforms for the benefit of soldiers (such as allowing soldiers to grow beards) and appealed to the French desire for revenge against Imperial Germany—in doing so, he came to be regarded as the man destined to serve that revenge earning is nickname 'Général Revanche';x
 BKF_anarcho_liberal;Voltaic Progressive Union;x
 LIV_reactionary_2;Nacionala Apvieniba;x
@@ -9859,7 +9844,6 @@ steppe;Steppe;x
 SEN_ADJ;Tohokuan;x
 EVTOPTA1209;Good;x
 POP_CULTURE;Culture;x
-national_idea1_desc;This invention unlocks another national idea.;x
 RAJ_proletarian_dictatorship_ADJ;Rajasthani;x
 EVTNAME1208;Trusts;x
 EVTOPTA1207;Ok;x
@@ -10718,7 +10702,6 @@ EVTDESC36898;On the 28th of June, 1838, princess Alexandrina Victoria of House H
 CANCEL_WARSUBSIDIES_OTHER_ACCEPT_BTN1;OK;x
 CANCEL_WARSUBSIDIES_OTHER_ACCEPT_6;*;x
 CANCEL_WARSUBSIDIES_OTHER_ACCEPT_5;*;x
-expansion_idea_desc;Increased Monthly Infamy Decay.;x
 desc_anaconda_plan;The Union is blockading our ports using Winfield Scott's Anaconda Plan. While they do, our war exhaustion will increase at an increased rate, slowly choking us to death. We must secure port access!;x
 CANCEL_WARSUBSIDIES_OTHER_ACCEPT_2;$MONARCHTITLE$, we heard that;x
 RHI_reactionary;Nationale Partei;x
@@ -10940,7 +10923,6 @@ LOS_communist;Partido Communist;x
 INTERVENTION_THEIR_SIDE_5;*;x
 CEASECOLONIZATION_WE_ACCEPT_6;*;x
 signed_the_geneva_convention_desc;Our country is a signatory of the Geneva Convention;x
-assimilation_idea;Assimilation National Idea;x
 REMOVEFROMSPHERE_THEY_ACCEPT_BTN3;Go to;x
 CEASECOLONIZATION_WE_ACCEPT_3;$RSTATE$. In return,;x
 ottoman_tobacco;Ottoman Tobacco Company;x
@@ -11062,7 +11044,6 @@ BANEMBASSY_THEY_ACCEPT_2;$MONARCHTITLE$, we managed to;x
 BANEMBASSY_THEY_ACCEPT_1;§Y$RECIPIENT$§W;x
 TRANSFER_SUB;Transfer;x
 EVTNAME4301;Landed Voting Criticized;x
-leadership_idea;Leadership National Idea;x
 EXPELADVISORS_OTHER_ACCEPT_BTN3;Go to;x
 low_envir_l;Some Standards;x
 REMOVE_EVTOPTB19035;No, we can handle this ourselves.;x
@@ -11610,7 +11591,6 @@ REB_CURRENT_SIZE_DESC;Number of brigades in revolt: §Y$VAL$§W;x
 gtfo_URU_title;Grant Uruguay Independence;x
 gtfo_UCA_title;Grant United States of Central America Independence;x
 EVTNAME36606;The Dry Year;x
-consumer_goods_idea_desc;Provides an output bonus to various factory produced consumer goods.;x
 treaty_of_tarbagatai_title;Treaty of Tarbagatai;x
 EVTOPTB12190;Turn down the offer;x
 disgruntled_rabble_army;$COUNTRY$ Revolters;x
@@ -11867,7 +11847,6 @@ NTA_reactionary_2;Country Party;x
 EVTOPTC17050;Clearly a sign that this public meetings nonsense has been going on for far too long;x
 support_biesterfelds_desc;The childless death of Woldemar, prince of Lippe-Detmold, in 1895, marked the beginning of a two decade long dispute between two branches of the house of Lippe, the Schaumburgs and the Biesterfelds. By willing the principality to either side, we can prevent the issue from ever arising.;x
 VIC_conservative_1;Conservative Party;x
-EVTNAME91601;New National Idea Researched;x
 VIC_fascist;Fascist Party;x
 annex_the_congo_desc;International pressure has been mounting over the issue of The Congo Free State. The Free State, which is governed as the personal property of our Monarch, is receiving a barrage of international criticism on account of the brutal colonial policies enforced there. Our best option at this stage is probably to annex the Free State and reform its administration.;x
 gtfo_MON_title;Grant Montenegro Independence;x
@@ -11920,7 +11899,6 @@ POP_DETAILS_UNEMPLOYED;Unemployed:;x
 tewodros_reforms_desc;While our current ruler Kassa Hailu might be one of the finest strategists in recent history, he was also a shifta, an outlaw, and this lowers our nation in the eyes of others.;x
 EVTDESC23302;The renowned French marine biologist Pierre Arronax was found washed up on the shores of $COUNTRY$ today. The professor has been gone for quite some time since joining an expedition sent out to discover the truth behind a mysterious whale said to sink and devour ships on the high seas. The professor is shocked by the profound experience he has had, and his story is indeed remarkable. Arronax claims that he was washed overboard during a close encounter between his ship and the creature, and that the creature is in fact a human ship, capable of under water travel. Arronax maintains that the ship is, or was, commanded by a freedom-loving vigilante who has sworn off all contact with terra firma in favor of a free life on the world's oceans aboard his ship. Whatever the truth, Professor Arronax's many detailed accounts of many strange new life forms -- supposedly encountered during his voyage as a guest aboard this strange vessel -- will be a boon for our scientific efforts for years to come.;x
 EVTOPTB23301;This sounds like something out of a children's book, and I will have none of it.;x
-leadership_idea_desc;Increased Monthly Base Leadership.;x
 acquire_all_cores_setup;Acquires all core territory;x
 TRIGMOD_BTN3;Details;x
 gtfo_ABU_desc;We've had a good run, but it's time to end our rulership of ABU: if you love something, let it go!;x
@@ -11976,7 +11954,6 @@ EVTDESC44632;The states of Rio Grande do Sul and Paraná have taken advantage of 
 GW_DISCOVERED_2;From now, each war that includes;x
 EVTOPTA36912;Is the shipwreck then a harvest, does tempest carry grain for thee?;x
 gtfo_GLM_title;Grant Galicia-Lodomeria Independence;x
-expansion_idea;Expansion National Idea;x
 CRISIS_OFFER_OTHER_ACCEPT_BTN3;Go to;x
 EVTNAME1210;Street Gangs - No Longer an Issue;x
 EVTNAME14710;War is a Racket;x
@@ -12163,7 +12140,6 @@ cancel_trade_agreements_25_desc;By cancelling our current trade agreement, we ar
 philantropic_work;Philanthropic Work;x
 EVTDESC90103;Despite our promise to allow public meetings, nothing has changed and the people are somewhat upset.;x
 conquest_of_borneo_title;Conquest of Borneo;x
-army_morale_idea_desc;This effect is additive, e.g. if your army morale is 200%, this will raise it to 230%.;x
 CONT_CONTINUE;Continue (no AI);x
 ZAM_anarcho_liberal;National Party;x
 EVTDESCmanifestdestiny;This tech gives you access to the Great Game cb which can be used on central asian nations.;x
@@ -12329,7 +12305,6 @@ TAS_conservative_2;Nationalist Party;x
 SAS_conservative_2;Nationalist Party;x
 ANG_conservative;FNLA;x
 EVTNAME17170;International Woman's Suffrage;x
-national_idea1_invented;1 National Idea;x
 penal_colony_desc;This province is home to a sizeable penal colony. Most of the poor strata are convicts or former convicts, leading to widespread poverty.;x
 USA_220;District of Columbia;x
 SAA_liberal;Liberaldem. Partei;x
@@ -12570,7 +12545,6 @@ EVTNAME44463;§R$FROMCOUNTRY$§b Pays Debt;x
 massive_promote_aristocrats;Encourage Landowners;x
 INCREASERELATION_OTHER_ACCEPT_BTN1;OK;x
 egyptological_excavations_desc;The Valley of the Kings, Egypt, is a potentially endless source of new archeological discoveries. By petitioning the Egyptian government for a monopoly to carry out excavations in The Valley of the Kings, we can ensure that we make these fantastic discoveries, rather than another Great Power.;x
-prestige_idea;Prestige National Idea;x
 EVTOPTA11100;Hurrah!;x
 EXPELADVISORS_OTHER_ACCEPT_BTN1;OK;x
 UTI_ADJ;Territories Exchange;x
@@ -12631,7 +12605,6 @@ gtfo_D30_title;Grant Dynamic Country 30 Independence;x
 SVY;Savoy;x
 no_controls_desc;There are no pollution controls whatsoever.;x
 EVTOPTA17630;Send out the military to restore order;x
-mining_idea;Mining National Idea;x
 annex_natalia_desc;The governor of Cape Colony has issued a proclamation declaring his intent to resume British military occupation of Port Natal.;x
 desert_mine;Desert;x
 yes_naval_schools;Navy Schools;x
@@ -12685,7 +12658,6 @@ TNT_fascist;Unity Party;x
 TRIGMODLOST_BTN3;Details;x
 EVTNAME17540;Sympathy Strike!;x
 treaty_port6;Six Unequal Treaties;x
-military_hospitals_idea;Military Hospital Idea\n§WMilitary Hospitals: §G+10%;x
 gtfo_SOM_title;Grant Somaliland Independence;x
 REMOVE_right_vote;Right to Vote;x
 po_reduce_prestige2;§YPrestige§W is reduced by §R$VALUE$§W;x
@@ -12750,7 +12722,6 @@ built_mine;Recently Built Mine;x
 CALLALLY_OTHER_ACCEPT_6;$VERSUS$;x
 TNZ_socialist;NCCR?Mageuzi;x
 EVTOPTA35816;We will make them comply!;x
-reinforce_rate_idea_invention_desc;Your units' reinforce rate is multiplied by the amount of supplies they are getting, so if your armies aren't getting any supplies they won't reinforce even with a large reinforce rate bonus.;x
 IS_NOT_PRIMARY_CULTURE;§Y$NAME$§W is NOT primary culture.\n;x
 crown_empress_of_india_desc;After the abolition of the Mughal Empire and the British East India Company, Queen Victoria was, in 1857, granted the title of Empress of India. The original initiative for the creation of the title is usually accredited to then Prime Minister Benjamin Disraeli. By establishing the British Raj in India, we can ensure a Place in the Sun for The British Empire!;x
 DRA;Dravidistan;x
@@ -13398,7 +13369,6 @@ CRISIS_BACK_DOWN_THEY_ACCEPT_2;$RECIPIENT$;x
 EVTOPTD14130;While objectionable, we can not consider more than limited accommodation;x
 crown_empress_of_india_title;The Empress of India;x
 national_tragedy;National Tragedy;x
-army_morale_idea;Army Morale National Idea;x
 MODIFIER_ADDED;$WHERE$ gets '§Y$WHAT$§W' until §Y$DATE$§W, giving the following effects:\n$EFFECT$\n\n;x
 gtfo_SLS_title;Grant Silesia Independence;x
 EVTDESC91885;Counterrevolutionary White Army forces originating in Kuban and Siberia have begun an offensive to destroy the Bolshevik government in Moscow. The nascent Soviet Republic has ordered a general conscription of all the industrial workers and peasants to defend the Motherland and the revolution.;x
@@ -13628,7 +13598,6 @@ EVTNAME91341;The $FROMCOUNTRY_ADJ$ Overlords;x
 MILITARYREFORM_BAD_5;*;x
 tewodros_ii_desc;While our current ruler Tewodros II might be one of the finest strategists of our recent history, he is also seen as a barbaric, cruel, unstable usurper amongst the eyes of many, and has the tendency to behave rashly.;x
 COLONY_SUCCESS_LOG;We successfully colonized $TARGET$.;x
-reinforce_rate_idea;Reinforce Rate Idea\n§WReinforcement: §G+10%;x
 MILITARYREFORM_BAD_2;$MONARCHTITLE$, we have now revoked benefits in;x
 CHANGE_TAG;Become §Y$NEW$§W.\n;x
 EVTNAME91709;Core Integration Disrupted in $PROVINCE$;x
@@ -13993,7 +13962,6 @@ refute_manifest_destiny_title;Refute Manifest Destiny;x
 expand_naval_base_title;§YExpand Naval Bases;x
 gtfo_SWE_title;Grant Sweden Independence;x
 embraced_ottomanism;Embraced Ottomanism;x
-farming_idea;Farming National Idea;x
 ALLIANCE_OTHER_DECLINE_SETUP;When a nation declines another nation's alliance offer;x
 EVTNAME13070;Sayings of The Dutch;x
 EVTOPTB35601;Never! We will fight the Americans if we must.;x
@@ -14040,7 +14008,6 @@ TOPBAR_AT_WAR_WITH;At war with §Y$COUNTRY$§W;x
 cancel_trade_agreements_5_title;§YCancel Trade Agreement;x
 annex_core_country_desc;Annex a foreign §Ycountry§W all provinces of which are your cores.;x
 DIPRELCH_TRADEAGREEMENT;Trade Agreement;x
-army_organisation_idea;Army Organisation National Idea;x
 aviation_company;Aviation Company;x
 NATIONALITY_MAJORITY_AT_PROVINCE;The national majority in §Y$PROV$§W are:;x
 muhammad_iv_reforms_title;Muhammad IV's Reforms;x
@@ -14054,7 +14021,6 @@ ZAM_reactionary;National Restoration Party;x
 CANCELASKMILITARYACCESS_WE_ACCEPT_BTN1;OK;x
 UOR_conservative;New Democratic Party;x
 form_israel_title;The Balfour Declaration;x
-national_idea1;§GNational Idea;x
 gtfo_KMT_desc;We've had a good run, but it's time to end our rulership of Nationalist China: if you love something, let it go!;x
 gtfo_HAI_desc;We've had a good run, but it's time to end our rulership of Haiti: if you love something, let it go!;x
 CALLALLY_THEY_DECLINE_1;§Y$RECIPIENT$§W;x
@@ -14355,7 +14321,6 @@ SMI_ADJ;Sami;x
 TAJ;Tajikistan;x
 gtfo_ASM_desc;We've had a good run, but it's time to end our rulership of Assam: if you love something, let it go!;x
 gtfo_PRU_title;Grant Prussia Independence;x
-prestige_idea_desc;Increased Monthly Base Prestige.;x
 LNN_conservative;Royal Faction;x
 yes_land_reform_desc;Redistribution of land rights resulting in more effective farming and mining.;x
 yes_land_reform;Land Reform;x
@@ -14399,7 +14364,6 @@ gtfo_UAL_desc;We've had a good run, but it's time to end our rulership of Alabam
 PEACE_THEY_DECLINE_SETUP;When a nation declines our peace offer;x
 franco_moroccan_war_desc;Béchar has become a destination for many a fleeing Algerian rebel. Abdelkader's army has fled there to launch guerilla attacks across the Moroccan border with impunity. We must act and demand that the Moroccans hand over Béchar to us so that we may combat the Algerians.;x
 EVTNAME35925;The Banjarmasin War;x
-education_idea;Education National Idea;x
 EVTOPTA35300;Encore, Encore!;x
 EVTOPTA44465;Give in to their demands (become a puppet).;x
 PEACE_NOT_LEADER;You can only negotiate with the leader of your enemy;x
@@ -14592,7 +14556,6 @@ gtfo_BAL_title;Grant Bali Independence;x
 emperor_meiji;Emperor Meiji;x
 EVTNAME14070_sub;Economy debated in $COUNTRY$!;x
 KRL_liberal;Nuorsuomalaiset;x
-domestic_idea;Militancy Reduction National Idea;x
 CANCELTRADETITLE;Cancel Trade Agreement;x
 WETARGET_DISCREDIT_6;*;x
 cancel_trade_agreements_24_title;§YCancel Trade Agreement;x
@@ -14737,7 +14700,6 @@ EVTNAME23301;Mysterious Whale Sinks Ship!;x
 turkish_population_exchange_desc;Greeks are being transferred from our country to Greece and Turks from all over the Balkans are coming to Turkey.;x
 SNZ_reactionary;Nationalist Party;x
 gtfo_NIG_title;Grant Niger Independence;x
-army_organisation_idea_desc;This effect is multiplicative. The max organization of a land unit is (base organization of unit + army organization from techs) * (1 + land organization). An infantry brigade has a base organization of 30, so without any techs researched the max org it will have with this modifier is (30 + 0) * (1 + 0.15) = 34.5.;x
 fugitive_slave_act_title;Fugitive Slave Act;x
 gtfo_MLT_desc;We've had a good run, but it's time to end our rulership of Malta: if you love something, let it go!;x
 gtfo_MLW_desc;We've had a good run, but it's time to end our rulership of Malawi: if you love something, let it go!;x
@@ -14821,7 +14783,6 @@ EVTDESC44633;The inhabitants of Canudos village in Bahia state have staged an in
 gtfo_CRS_title;Grant Corsica Independence;x
 EVTOPTA44469;This is a glorious day for $COUNTRY$.;x
 orange_capital_desc;Bloemfontein would make a suitable location for the capital of our new republic.;x
-education_idea_desc;Increased Education Efficiency.;x
 LUZ_reactionary;Nationalist Party;x
 BSQ_liberal;Alderdi Abertzale Errepublikanoa;x
 EVTNAME46300;O Navio Negreiro;x
@@ -14982,7 +14943,6 @@ ADDTOSPHERE_THEY_ACCEPT_BTN1;OK;x
 KNY_fascist;Fascist Party;x
 enact_the_homestead_act_desc;Signed into law by President Abraham Lincoln in 1862, the Homestead Act was designed to give eligible applicants freehold titles for lands of up to 160 acres in size. The act was one of several similar United States' laws, all contributing to the image and perception of America as a land of opportunity and new beginnings.;x
 disarming;Forced to Disarm;x
-mining_idea_desc;Increased Mining Efficiency.;x
 EVTDESC19362;Our time in the sun has ended, we are no longer the world's greatest power. The Hegemon country modifier will be removed until we can regain the #1 spot for 2 years.;x
 abolish_imperial_exams_desc;The imperial examinations are a civil service examination system for selecting candidates for the state bureacracy. It focuses mainly on classic literature and Confucianist philosophy while omitting or downplaying western science, mathematics, and military affairs. Rigid adherence to the imperial exams is stifling the adoption of western technology and it must be abolished if China is to modernize in a timely fashion.;x
 manufacturing_belt;The Manufacturing Belt;x
@@ -15071,7 +15031,6 @@ NEIGHBOR_PROVINCE_STARTS;Any neighboring province;x
 EVTDESC13190;With the European presence in our part of the world steadily increasing, the need for military reform becomes more dire every day. Where the Europeans field regiments of drilled professionals, we meet them with an army that is old and outdated, and organised along the lines of clan, family, nobility and personal loyalties.;x
 CW_WARNWARN;We have been warned by $COUNTRY$, so they may intervene.;x
 foreign_debt_timer_desc;If the §RRepay Foreign Debt§W decision is not enacted by the time this timer runs out, the nation that provided us the original loan will get an event to puppet us.;x
-navy_experience_idea;Navy Experience National Idea;x
 EVTOPTA3600;It was probably his own fault;x
 NTA_liberal_1;Liberal Party;x
 NSW_conservative_1;Protectionist Party;x

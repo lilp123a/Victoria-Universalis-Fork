@@ -340,10 +340,6 @@ haber_bosch_process;Haber-Bosch Process;x
 bergius_process;Bergius Process;x
 rayon;Rayon;x
 bakelite;Bakelite;x
-PS_unlocked;Farmland Building Unlocked;x
+farmland_unlocked;Farmland Unlocked;x
 qng_mil_nerf;Disorganised Army;x
 clr_qng_mil_nerf;Remove Disorganised Army;x
-military_hospitals_idea_invention;Military Hospitals Idea;x
-reinforce_rate_idea_invention;Reinforce Rate Idea;x
-consumer_goods_idea;Consumer Goods Idea;x
-industrial_goods_idea;Industrial Goods Idea;x

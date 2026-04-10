@@ -485,103 +485,126 @@ province_event = {
 	is_triggered_only = yes
 	
 	immediate = {
-		THIS = {
-			owner = {
-				# Set 1925 idea flag
-				random_owned = {
-					limit = {
-						owner = {
-							has_country_flag = national_idea_1910
-							NOT = { has_country_flag = national_idea_1925 }
-						}
-					}
-					
+		owner = {
+			# Set AI flag if applicable
+			random_owned = {
+				limit = {
 					owner = {
-						set_country_flag = national_idea_1925
+						ai = yes
 					}
 				}
 				
-				# Set 1910 idea flag
-				random_owned = {
-					limit = {
-						owner = {
-							has_country_flag = national_idea_1895
-							NOT = { has_country_flag = national_idea_1910 }
-						}
-					}
-					
+				owner = {
+					set_country_flag = ai_national_idea_pick
+				}
+			}
+			
+			random_owned = {
+				limit = {
 					owner = {
-						set_country_flag = national_idea_1910
+						ai = no
 					}
 				}
 				
-				# Set 1895 idea flag
-				random_owned = {
-					limit = {
-						owner = {
-							has_country_flag = national_idea_1880
-							NOT = { has_country_flag = national_idea_1895 }
-						}
-					}
-					
+				owner = {
+					clr_country_flag = ai_national_idea_pick
+				}
+			}
+			
+			# Set 1925 idea flag
+			random_owned = {
+				limit = {
 					owner = {
-						set_country_flag = national_idea_1895
+						has_country_flag = national_idea_1910
+						NOT = { has_country_flag = national_idea_1925 }
 					}
 				}
 				
-				# Set 1880 idea flag
-				random_owned = {
-					limit = {
-						owner = {
-							has_country_flag = national_idea_1865
-							NOT = { has_country_flag = national_idea_1880 }
-						}
-					}
-					
+				owner = {
+					set_country_flag = national_idea_1925
+				}
+			}
+			
+			# Set 1910 idea flag
+			random_owned = {
+				limit = {
 					owner = {
-						set_country_flag = national_idea_1880
+						has_country_flag = national_idea_1895
+						NOT = { has_country_flag = national_idea_1910 }
 					}
 				}
 				
-				# Set 1865 idea flag
-				random_owned = {
-					limit = {
-						owner = {
-							has_country_flag = national_idea_1850
-							NOT = { has_country_flag = national_idea_1865 }
-						}
-					}
-					
+				owner = {
+					set_country_flag = national_idea_1910
+				}
+			}
+			
+			# Set 1895 idea flag
+			random_owned = {
+				limit = {
 					owner = {
-						set_country_flag = national_idea_1865
+						has_country_flag = national_idea_1880
+						NOT = { has_country_flag = national_idea_1895 }
 					}
 				}
 				
-				# Set 1850 idea flag
-				random_owned = {
-					limit = {
-						owner = {
-							has_country_flag = national_idea_1836
-							NOT = { has_country_flag = national_idea_1850 }
-						}
-					}
-					
+				owner = {
+					set_country_flag = national_idea_1895
+				}
+			}
+			
+			# Set 1880 idea flag
+			random_owned = {
+				limit = {
 					owner = {
-						set_country_flag = national_idea_1850
+						has_country_flag = national_idea_1865
+						NOT = { has_country_flag = national_idea_1880 }
 					}
 				}
 				
-				# Set 1836 idea flag
-				random_owned = {
-					limit = {
-						owner = {
-							NOT = { has_country_flag = national_idea_1836 }
-						}
-					}
-					
+				owner = {
+					set_country_flag = national_idea_1880
+				}
+			}
+			
+			# Set 1865 idea flag
+			random_owned = {
+				limit = {
 					owner = {
-						set_country_flag = national_idea_1836
+						has_country_flag = national_idea_1850
+						NOT = { has_country_flag = national_idea_1865 }
 					}
+				}
+				
+				owner = {
+					set_country_flag = national_idea_1865
+				}
+			}
+			
+			# Set 1850 idea flag
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_flag = national_idea_1836
+						NOT = { has_country_flag = national_idea_1850 }
+					}
+				}
+				
+				owner = {
+					set_country_flag = national_idea_1850
+				}
+			}
+			
+			# Set 1836 idea flag
+			random_owned = {
+				limit = {
+					owner = {
+						NOT = { has_country_flag = national_idea_1836 }
+					}
+				}
+				
+				owner = {
+					set_country_flag = national_idea_1836
 				}
 			}
 		}
@@ -592,6 +615,702 @@ province_event = {
 		name = EVTOPTA92308
 		
 		# Pick was cancelled, so we want to remove the latest flag so they can re-pick
+		owner = {
+			# Remove 1836 idea flag
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_flag = national_idea_1836
+						NOT = { has_country_flag = national_idea_1850 }
+					}
+				}
+				
+				owner = {
+					clr_country_flag = national_idea_1836
+				}
+			}
+			
+			# Remove 1850 idea flag
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_flag = national_idea_1850
+						NOT = { has_country_flag = national_idea_1865 }
+					}
+				}
+				
+				owner = {
+					clr_country_flag = national_idea_1850
+				}
+			}
+			
+			# Remove 1865 idea flag
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_flag = national_idea_1865
+						NOT = { has_country_flag = national_idea_1880 }
+					}
+				}
+				
+				owner = {
+					clr_country_flag = national_idea_1865
+				}
+			}
+			
+			# Remove 1880 idea flag
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_flag = national_idea_1880
+						NOT = { has_country_flag = national_idea_1895 }
+					}
+				}
+				
+				owner = {
+					clr_country_flag = national_idea_1880
+				}
+			}
+			
+			# Remove 1895 idea flag
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_flag = national_idea_1895
+						NOT = { has_country_flag = national_idea_1910 }
+					}
+				}
+				
+				owner = {
+					clr_country_flag = national_idea_1895
+				}
+			}
+			
+			# Remove 1910 idea flag
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_flag = national_idea_1910
+						NOT = { has_country_flag = national_idea_1925 }
+					}
+				}
+				
+				owner = {
+					clr_country_flag = national_idea_1910
+				}
+			}
+			
+			# Remove 1925 idea flag
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_flag = national_idea_1925
+					}
+				}
+				
+				owner = {
+					clr_country_flag = national_idea_1925
+				}
+			}
+		}
+		
+		ai_chance = {
+			factor = 0
+		}
+	}
+	
+	# +15% Army Organisation
+	option = {
+		name = EVTOPTB92308
+		
+		owner = {
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_modifier = land_organisation_idea
+					}
+				}
+				
+				province_event = {
+					id = 92309
+					days = 0
+				}
+			}
+			
+			random_owned = {
+				limit = {
+					owner = {
+						NOT = { has_country_modifier = land_organisation_idea }
+					}
+				}
+				
+				owner = {
+					add_country_modifier = {
+						name = land_organisation_idea
+						duration = -1
+					}
+				}
+			}
+		}
+		
+		ai_chance = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				owner = {
+					has_country_modifier = land_organisation_idea
+				}
+			}
+		}
+	}
+	
+	# +20% Navy Organisation
+	option = {
+		name = EVTOPTC92308
+		
+		owner = {
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_modifier = naval_organisation_idea
+					}
+				}
+				
+				province_event = {
+					id = 92309
+					days = 0
+				}
+			}
+			
+			random_owned = {
+				limit = {
+					owner = {
+						NOT = { has_country_modifier = naval_organisation_idea }
+					}
+				}
+				
+				owner = {
+					add_country_modifier = {
+						name = naval_organisation_idea
+						duration = -1
+					}
+				}
+			}
+		}
+		
+		ai_chance = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				owner = {
+					has_country_modifier = naval_organisation_idea
+				}
+			}
+			
+			modifier = {
+				factor = 0
+				
+				owner = {
+					NOT = { num_of_ports = 1 }
+				}
+			}
+		}
+	}
+	
+	# +30% Organisation Regain Rate
+	option = {
+		name = EVTOPTD92308
+		
+		owner = {
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_modifier = organisation_regain_rate_idea
+					}
+				}
+				
+				province_event = {
+					id = 92309
+					days = 0
+				}
+			}
+			
+			random_owned = {
+				limit = {
+					owner = {
+						NOT = { has_country_modifier = organisation_regain_rate_idea }
+					}
+				}
+				
+				owner = {
+					add_country_modifier = {
+						name = organisation_regain_rate_idea
+						duration = -1
+					}
+				}
+			}
+		}
+		
+		ai_chance = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				owner = {
+					has_country_modifier = organisation_regain_rate_idea
+				}
+			}
+		}
+	}
+	
+	# -10% Supply Consumption & +10 Unit Starting Experience
+	option = {
+		name = EVTOPTE92308
+		
+		owner = {
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_modifier = supply_consumption_and_experience_idea
+					}
+				}
+				
+				province_event = {
+					id = 92309
+					days = 0
+				}
+			}
+			
+			random_owned = {
+				limit = {
+					owner = {
+						NOT = { has_country_modifier = supply_consumption_and_experience_idea }
+					}
+				}
+				
+				owner = {
+					add_country_modifier = {
+						name = supply_consumption_and_experience_idea
+						duration = -1
+					}
+				}
+			}
+		}
+		
+		ai_chance = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				owner = {
+					has_country_modifier = supply_consumption_and_experience_idea
+				}
+			}
+		}
+	}
+	
+	# +3 Monthly Leadership
+	option = {
+		name = EVTOPTF92308
+		
+		owner = {
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_modifier = leadership_idea
+					}
+				}
+				
+				province_event = {
+					id = 92309
+					days = 0
+				}
+			}
+			
+			random_owned = {
+				limit = {
+					owner = {
+						NOT = { has_country_modifier = leadership_idea }
+					}
+				}
+				
+				owner = {
+					add_country_modifier = {
+						name = leadership_idea
+						duration = -1
+					}
+				}
+			}
+		}
+		
+		ai_chance = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				owner = {
+					has_country_modifier = leadership_idea
+				}
+			}
+		}
+	}
+	
+	# +25% Farming Efficiency
+	option = {
+		name = EVTOPTG92308
+		
+		owner = {
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_modifier = farming_efficiency_idea
+					}
+				}
+				
+				province_event = {
+					id = 92309
+					days = 0
+				}
+			}
+			
+			random_owned = {
+				limit = {
+					owner = {
+						NOT = { has_country_modifier = farming_efficiency_idea }
+					}
+				}
+				
+				owner = {
+					add_country_modifier = {
+						name = farming_efficiency_idea
+						duration = -1
+					}
+				}
+			}
+		}
+		
+		ai_chance = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				owner = {
+					has_country_modifier = farming_efficiency_idea
+				}
+			}
+		}
+	}
+	
+	# +25% Mining Efficiency
+	option = {
+		name = EVTOPTH92308
+		
+		owner = {
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_modifier = mining_efficiency_idea
+					}
+				}
+				
+				province_event = {
+					id = 92309
+					days = 0
+				}
+			}
+			
+			random_owned = {
+				limit = {
+					owner = {
+						NOT = { has_country_modifier = mining_efficiency_idea }
+					}
+				}
+				
+				owner = {
+					add_country_modifier = {
+						name = mining_efficiency_idea
+						duration = -1
+					}
+				}
+			}
+		}
+		
+		ai_chance = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				owner = {
+					has_country_modifier = mining_efficiency_idea
+				}
+			}
+		}
+	}
+	
+	# +5% Factory Output
+	option = {
+		name = EVTOPTI92308
+		
+		owner = {
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_modifier = factory_output_idea
+					}
+				}
+				
+				province_event = {
+					id = 92309
+					days = 0
+				}
+			}
+			
+			random_owned = {
+				limit = {
+					owner = {
+						NOT = { has_country_modifier = factory_output_idea }
+					}
+				}
+				
+				owner = {
+					add_country_modifier = {
+						name = factory_output_idea
+						duration = -1
+					}
+				}
+			}
+		}
+		
+		ai_chance = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				owner = {
+					has_country_modifier = factory_output_idea
+				}
+			}
+			
+			modifier = {
+				factor = 0
+				
+				owner = {
+					civilized = no
+				}
+			}
+		}
+	}
+	
+	# +15% Education Efficiency
+	option = {
+		name = EVTOPTJ92308
+		
+		owner = {
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_modifier = education_efficiency_idea
+					}
+				}
+				
+				province_event = {
+					id = 92309
+					days = 0
+				}
+			}
+			
+			random_owned = {
+				limit = {
+					owner = {
+						NOT = { has_country_modifier = education_efficiency_idea }
+					}
+				}
+				
+				owner = {
+					add_country_modifier = {
+						name = education_efficiency_idea
+						duration = -1
+					}
+				}
+			}
+		}
+		
+		ai_chance = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				owner = {
+					has_country_modifier = education_efficiency_idea
+				}
+			}
+		}
+	}
+	
+	# +0.04 Assimilation Chance & +50% Assimilation Rate
+	option = {
+		name = EVTOPTK92308
+		
+		owner = {
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_modifier = assimilation_idea
+					}
+				}
+				
+				province_event = {
+					id = 92309
+					days = 0
+				}
+			}
+			
+			random_owned = {
+				limit = {
+					owner = {
+						NOT = { has_country_modifier = assimilation_idea }
+					}
+				}
+				
+				owner = {
+					add_country_modifier = {
+						name = assimilation_idea
+						duration = -1
+					}
+					
+					set_country_flag = assimilation_idea
+				}
+			}
+		}
+		
+		ai_chance = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				owner = {
+					has_country_modifier = assimilation_idea
+				}
+			}
+		}
+	}
+	
+	# -0.05 Militancy
+	option = {
+		name = EVTOPTL92308
+		
+		owner = {
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_modifier = militancy_idea
+					}
+				}
+				
+				province_event = {
+					id = 92309
+					days = 0
+				}
+			}
+			
+			random_owned = {
+				limit = {
+					owner = {
+						NOT = { has_country_modifier = militancy_idea }
+					}
+				}
+				
+				owner = {
+					add_country_modifier = {
+						name = militancy_idea
+						duration = -1
+					}
+				}
+			}
+		}
+		
+		ai_chance = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				owner = {
+					has_country_modifier = militancy_idea
+				}
+			}
+		}
+	}
+	
+	# -0.05 Infamy Decay
+	option = {
+		name = EVTOPTM92308
+		
+		owner = {
+			random_owned = {
+				limit = {
+					owner = {
+						has_country_modifier = infamy_idea
+					}
+				}
+				
+				province_event = {
+					id = 92309
+					days = 0
+				}
+			}
+			
+			random_owned = {
+				limit = {
+					owner = {
+						NOT = { has_country_modifier = infamy_idea }
+					}
+				}
+				
+				owner = {
+					add_country_modifier = {
+						name = infamy_idea
+						duration = -1
+					}
+				}
+			}
+		}
+		
+		ai_chance = {
+			factor = 1
+			
+			modifier = {
+				factor = 0
+				
+				owner = {
+					has_country_modifier = infamy_idea
+				}
+			}
+		}
+	}
+}
+
+# Event fired when the player picks a national idea they already have, removes the national idea taken flag so the player can re-pick
+province_event = {
+	id = 92309
+	title = EVTNAME92309
+	desc = EVTDESC92309
+	
+	is_triggered_only = yes
+	
+	immediate = {
 		THIS = {
 			owner = {
 				# Remove 1836 idea flag
@@ -694,8 +1413,7 @@ province_event = {
 		}
 	}
 	
-	#
 	option = {
-		name = EVTOPTB92308
+		name = EVTOPTA92309
 	}
 }

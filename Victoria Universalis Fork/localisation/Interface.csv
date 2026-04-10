@@ -1897,5 +1897,5 @@ no_background;No Traits;x
 POOR_STRATA;Lower Class;x
 MIDDLE_STRATA;Middle Class;x
 RICH_STRATA;Upper Class;x
-MODIFIER_LAND_ORGANISATION;Army Organisation;x
-MODIFIER_NAVAL_ORGANISATION;Navy Organisation;x
+MODIFIER_LAND_ORGANISATION;Land Organisation;x
+MODIFIER_NAVAL_ORGANISATION;Naval Organisation;x

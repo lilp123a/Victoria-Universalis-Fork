@@ -1570,95 +1570,89 @@ little_prussia = {
 	icon = 15
 }
 
-########## NATIONAL IDEAS ##########
+######################
+### NATIONAL IDEAS ###
+######################
 
-army_morale_idea = {
-	org_regain = 0.3
-	icon = 56
-}
+### MILITARY ###
 
-army_organisation_idea = {
-	land_organisation = 0.15
+land_organisation_idea = {
 	icon = 57
+	
+	land_organisation = 0.15
 }
 
-military_supplies_idea = {
-	supply_consumption = -0.1
+naval_organisation_idea = {
+	icon = 65
+	
+	naval_organisation = 0.2
+}
+
+organisation_regain_rate_idea = {
+	icon = 56
+	
+	org_regain = 0.3
+}
+
+supply_consumption_and_experience_idea = {
 	icon = 58
-}
-
-military_hospitals_idea = {
-	icon = 59
-}
-
-army_experience_idea = {
+	
+	supply_consumption = -0.1
 	land_unit_start_experience = 10
-	icon = 60
-}
-
-reinforce_rate_idea = {
-	icon = 61
+	naval_unit_start_experience = 10
 }
 
 leadership_idea = {
-	leadership = 3
 	icon = 62
+	
+	leadership = 3
 }
 
-prestige_idea = {
-	prestige = 0.3
-	icon = 63
+### ECONOMIC ###
+
+farming_efficiency_idea = {
+	icon = 68
+	
+	farm_RGO_eff = 0.25
 }
 
-
-navy_experience_idea = {
-	naval_unit_start_experience = 15
-	icon = 64
+mining_efficiency_idea = {
+	icon = 68
+	
+	mine_RGO_eff = 0.25
 }
 
-navy_organisation_idea = {
-	naval_organisation = 0.2
-	icon = 65
+factory_output_idea = {
+	icon = 69
+	
+	factory_output = 0.05
 }
 
-expansion_idea = {
-	badboy = -0.05
-	icon = 66
+### POLITICAL ###
+
+education_efficiency_idea = {
+	icon = 71
+	
+	education_efficiency_modifier = 0.15
 }
 
 assimilation_idea = {
-	global_assimilation_rate = 0.5
 	icon = 67
+	
+	global_assimilation_rate = 0.5
 }
 
-farming_idea = {
-	farm_RGO_eff = 0.25
-	icon = 68
-}
-
-mining_idea = {
-	mine_RGO_eff = 0.25
-	icon = 68
-}
-
-consumer_goods_idea = {
-	icon = 69
-}
-
-industrial_goods_idea = {
-	icon = 69
-}
-
-domestic_idea = {
-	global_pop_militancy_modifier = -0.05
+militancy_idea = {
 	icon = 70
+	
+	global_pop_militancy_modifier = -0.05
 }
 
-education_idea = {
-	education_efficiency_modifier = 0.15
-	icon = 71
+infamy_idea = {
+	icon = 66
+	
+	badboy = -0.05	
 }
-
 
 ########## COMPANIES ##########
 construction_company = {

@@ -579,12 +579,13 @@ hyperinflation = {
 ### EARLY CLASSICAL THEORY AND CRITIQUE ###
 ###########################################
 
-PS_unlocked = {
+farmland_unlocked = {
 	limit = { early_classical_theory_and_critique = 1 }
 	
 	chance = {
 		base = 100	
 	}
+	
 	effect = {
 		activate_building = farmland
 		max_farmland = 49
@@ -669,122 +670,6 @@ clr_qng_mil_nerf = {
 		cavalry = {
 			attack = 1.5
 			defence = 0.4
-		}
-	}
-}
-
-military_hospitals_idea_invention = {
-	limit = {
-		early_classical_theory_and_critique = 1
-		has_country_flag = military_hospitals_idea
-	}
-	
-	chance = {
-		base = 0
-		
-		modifier = {
-			factor = 100
-			has_country_flag = military_hospitals_idea
-		}
-	}
-	
-	effect = {
-		soldier_to_pop_loss = 0.1
-	}
-}
-
-reinforce_rate_idea_invention = {
-	limit = {
-		early_classical_theory_and_critique = 1
-		has_country_flag = reinforce_rate_idea
-	}
-	
-	chance = {
-		base = 0
-		
-		modifier = {
-			factor = 100
-			has_country_flag = reinforce_rate_idea
-		}
-	}
-	
-	effect = {
-		reinforce_rate = 0.1
-	}
-}
-
-consumer_goods_idea = {
-	limit = {
-		early_classical_theory_and_critique = 1
-		has_country_flag = consumer_goods_idea
-	}
-	
-	chance = {
-		base = 0
-		
-		modifier = {
-			factor = 100
-			has_country_flag = consumer_goods_idea
-		}
-	}
-	
-	effect = {
-		factory_goods_output = {
-			canned_food = 0.05
-			glass = 0.05
-			fertilizer = 0.05
-			explosives = 0.05
-			fabric = 0.05
-			lumber = 0.05
-			paper = 0.05
-			telephones = 0.05
-			wine = 0.05
-			liquor = 0.05
-			regular_clothes = 0.05
-			luxury_clothes = 0.05
-			furniture = 0.05
-			luxury_furniture = 0.05
-			radio = 0.05
-			pharmaceuticals = 0.05
-			cigarettes = 0.05
-			tea = 0.05
-			coffee = 0.05
-		}
-	}
-}
-
-industrial_goods_idea = {
-	limit = {
-		early_classical_theory_and_critique = 1
-		has_country_flag = industrial_goods_idea
-	}
-	
-	chance = {
-		base = 0
-		
-		modifier = {
-			factor = 100
-			has_country_flag = industrial_goods_idea
-		}
-	}
-	
-	effect = {
-		factory_goods_output = {
-			ammunition = 0.05
-			small_arms = 0.05
-			artillery = 0.05
-			barrels = 0.05
-			sulphur = 0.05
-			rubber = 0.05
-			oil = 0.05
-			steel = 0.05
-			cement = 0.05
-			machine_parts = 0.05
-			clipper_convoy = 0.05
-			steamer_convoy = 0.05
-			electric_gear = 0.05
-			automobiles = 0.05
-			aeroplanes = 0.05
 		}
 	}
 }

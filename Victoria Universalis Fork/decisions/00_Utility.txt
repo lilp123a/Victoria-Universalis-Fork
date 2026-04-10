@@ -622,7 +622,6 @@ political_decisions = {
 			ai = no
 			has_country_flag = utility_decisions_shown
 			
-			colonial_nation = yes
 			NOT = { colonial_migration = no_colonial_migration }
 		}
 		
@@ -1035,18 +1034,20 @@ political_decisions = {
 		}
 	}
 	
-	############################
-	### CHOOSE NATIONAL IDEA ###
-	############################
+	######################
+	### NATIONAL IDEAS ###
+	######################
 	# Fires the event to choose a national idea
 	# Not included in the utility decisions folder as it should be potentially visible at all times because it's important that players are alerted to it
 	
-	utility_take_national_idea = {
-		#picture = 
+	utility_pick_national_idea = {
+		picture = utility_national_ideas
 		alert = yes
 		
 		potential = {
 			OR = {
+				ai = no
+				
 				AND = {
 					NOT = { has_country_flag = national_idea_1836 }
 				}
@@ -1091,6 +1092,50 @@ political_decisions = {
 					id = 92308
 				}
 			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	# Decision to reset national ideas if at least one was chosen by AI
+	utility_reset_ai_national_idea_picks = {
+		picture = utility_national_ideas
+		alert = yes
+		
+		potential = {
+			ai = no
+			has_country_flag = ai_national_idea_pick
+		}
+		
+		allow = {}
+		
+		effect = {
+			clr_country_flag = ai_national_idea_pick
+			
+			clr_country_flag = national_idea_1836
+			clr_country_flag = national_idea_1850
+			clr_country_flag = national_idea_1865
+			clr_country_flag = national_idea_1880
+			clr_country_flag = national_idea_1895
+			clr_country_flag = national_idea_1910
+			clr_country_flag = national_idea_1925
+			
+			remove_country_modifier = land_organisation_idea
+			remove_country_modifier = naval_organisation_idea
+			remove_country_modifier = organisation_regain_rate_idea
+			remove_country_modifier = supply_consumption_and_experience_idea
+			remove_country_modifier = leadership_idea
+			remove_country_modifier = farming_efficiency_idea
+			remove_country_modifier = mining_efficiency_idea
+			remove_country_modifier = factory_output_idea
+			remove_country_modifier = education_efficiency_idea
+			remove_country_modifier = assimilation_idea
+			remove_country_modifier = militancy_idea
+			remove_country_modifier = infamy_idea
+			
+			clr_country_flag = assimilation_idea
 		}
 	}
 	

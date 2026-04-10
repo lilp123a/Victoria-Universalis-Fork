@@ -46,3 +46,21 @@ EVTNAME92307;Request from $FROMCOUNTRY$ to Occupy Capital;x
 EVTDESC92307;If you agree, your capital will be occupied by $FROMCOUNTRY$.;x
 EVTOPTA92307;Deny their request;x
 EVTOPTB92307;Accept their request;x
+EVTNAME92308;Pick National Idea;x
+EVTDESC92308;Pick a national idea from the list below. This is a permanent bonus which cannot be changed later. The first option will cancel the event, and you can re-take the decision at any time to pick a national idea. You cannot take the same idea twice, and if you accidentally do, you will have the option to re-pick.;x
+EVTOPTA92308;Cancel;x
+EVTOPTB92308;+15% Land Organisation;x
+EVTOPTC92308;+20% Naval Organisation;x
+EVTOPTD92308;+30% Organisation Regain Rate;x
+EVTOPTE92308;-10% Supply Consumption & +10 Unit Experience;x
+EVTOPTF92308;+3 Monthly Leadership;x
+EVTOPTG92308;+25% Farming Efficiency;x
+EVTOPTH92308;+25% Mining Efficiency;x
+EVTOPTI92308;+5% Factory Output;x
+EVTOPTJ92308;+15% Education Efficiency;x
+EVTOPTK92308;+0.04 Assimilation Chance & +50% Assimilation Rate;x
+EVTOPTL92308;-0.05 Monthly Militancy;x
+EVTOPTM92308;-0.05 Monthly Infamy;x
+EVTNAME92309;Invalid National Idea Pick;x
+EVTDESC92309;You chose a national idea you already have. You can re-take the decision to pick again.;x
+EVTOPTA92309;OK;x
