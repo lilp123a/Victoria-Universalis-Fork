@@ -8,6 +8,7 @@ province_event = {
 
 
 	trigger = {
+		always = no
 		owner = {
 			year = 1836
 			NOT = { has_country_flag = national_idea1 }

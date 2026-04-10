@@ -1035,6 +1035,65 @@ political_decisions = {
 		}
 	}
 	
+	############################
+	### CHOOSE NATIONAL IDEA ###
+	############################
+	# Fires the event to choose a national idea
+	# Not included in the utility decisions folder as it should be potentially visible at all times because it's important that players are alerted to it
+	
+	utility_take_national_idea = {
+		#picture = 
+		alert = yes
+		
+		potential = {
+			OR = {
+				AND = {
+					NOT = { has_country_flag = national_idea_1836 }
+				}
+				
+				AND = {
+					year = 1850
+					NOT = { has_country_flag = national_idea_1850 }
+				}
+				
+				AND = {
+					year = 1865
+					NOT = { has_country_flag = national_idea_1865 }
+				}
+				
+				AND = {
+					year = 1880
+					NOT = { has_country_flag = national_idea_1880 }
+				}
+				
+				AND = {
+					year = 1895
+					NOT = { has_country_flag = national_idea_1895 }
+				}
+				
+				AND = {
+					year = 1910
+					NOT = { has_country_flag = national_idea_1910 }
+				}
+				
+				AND = {
+					year = 1925
+					NOT = { has_country_flag = national_idea_1925 }
+				}
+			}
+		}
+		
+		allow = {}
+		
+		effect = {
+			random_owned = {
+				province_event = {
+					id = 92308
+				}
+			}
+		}
+	}
+	
 	####################
 	### FORCE REFORM ###
 	####################

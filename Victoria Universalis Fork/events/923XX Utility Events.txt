@@ -472,3 +472,230 @@ country_event = {
 		}
 	}
 }
+
+###########################
+### NATIONAL IDEA EVENT ###
+###########################
+
+province_event = {
+	id = 92308
+	title = EVTNAME92308
+	desc = EVTDESC92308
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		THIS = {
+			owner = {
+				# Set 1925 idea flag
+				random_owned = {
+					limit = {
+						owner = {
+							has_country_flag = national_idea_1910
+							NOT = { has_country_flag = national_idea_1925 }
+						}
+					}
+					
+					owner = {
+						set_country_flag = national_idea_1925
+					}
+				}
+				
+				# Set 1910 idea flag
+				random_owned = {
+					limit = {
+						owner = {
+							has_country_flag = national_idea_1895
+							NOT = { has_country_flag = national_idea_1910 }
+						}
+					}
+					
+					owner = {
+						set_country_flag = national_idea_1910
+					}
+				}
+				
+				# Set 1895 idea flag
+				random_owned = {
+					limit = {
+						owner = {
+							has_country_flag = national_idea_1880
+							NOT = { has_country_flag = national_idea_1895 }
+						}
+					}
+					
+					owner = {
+						set_country_flag = national_idea_1895
+					}
+				}
+				
+				# Set 1880 idea flag
+				random_owned = {
+					limit = {
+						owner = {
+							has_country_flag = national_idea_1865
+							NOT = { has_country_flag = national_idea_1880 }
+						}
+					}
+					
+					owner = {
+						set_country_flag = national_idea_1880
+					}
+				}
+				
+				# Set 1865 idea flag
+				random_owned = {
+					limit = {
+						owner = {
+							has_country_flag = national_idea_1850
+							NOT = { has_country_flag = national_idea_1865 }
+						}
+					}
+					
+					owner = {
+						set_country_flag = national_idea_1865
+					}
+				}
+				
+				# Set 1850 idea flag
+				random_owned = {
+					limit = {
+						owner = {
+							has_country_flag = national_idea_1836
+							NOT = { has_country_flag = national_idea_1850 }
+						}
+					}
+					
+					owner = {
+						set_country_flag = national_idea_1850
+					}
+				}
+				
+				# Set 1836 idea flag
+				random_owned = {
+					limit = {
+						owner = {
+							NOT = { has_country_flag = national_idea_1836 }
+						}
+					}
+					
+					owner = {
+						set_country_flag = national_idea_1836
+					}
+				}
+			}
+		}
+	}
+	
+	# Cancel
+	option = {
+		name = EVTOPTA92308
+		
+		# Pick was cancelled, so we want to remove the latest flag so they can re-pick
+		THIS = {
+			owner = {
+				# Remove 1836 idea flag
+				random_owned = {
+					limit = {
+						owner = {
+							has_country_flag = national_idea_1836
+							NOT = { has_country_flag = national_idea_1850 }
+						}
+					}
+					
+					owner = {
+						clr_country_flag = national_idea_1836
+					}
+				}
+				
+				# Remove 1850 idea flag
+				random_owned = {
+					limit = {
+						owner = {
+							has_country_flag = national_idea_1850
+							NOT = { has_country_flag = national_idea_1865 }
+						}
+					}
+					
+					owner = {
+						clr_country_flag = national_idea_1850
+					}
+				}
+				
+				# Remove 1865 idea flag
+				random_owned = {
+					limit = {
+						owner = {
+							has_country_flag = national_idea_1865
+							NOT = { has_country_flag = national_idea_1880 }
+						}
+					}
+					
+					owner = {
+						clr_country_flag = national_idea_1865
+					}
+				}
+				
+				# Remove 1880 idea flag
+				random_owned = {
+					limit = {
+						owner = {
+							has_country_flag = national_idea_1880
+							NOT = { has_country_flag = national_idea_1895 }
+						}
+					}
+					
+					owner = {
+						clr_country_flag = national_idea_1880
+					}
+				}
+				
+				# Remove 1895 idea flag
+				random_owned = {
+					limit = {
+						owner = {
+							has_country_flag = national_idea_1895
+							NOT = { has_country_flag = national_idea_1910 }
+						}
+					}
+					
+					owner = {
+						clr_country_flag = national_idea_1895
+					}
+				}
+				
+				# Remove 1910 idea flag
+				random_owned = {
+					limit = {
+						owner = {
+							has_country_flag = national_idea_1910
+							NOT = { has_country_flag = national_idea_1925 }
+						}
+					}
+					
+					owner = {
+						clr_country_flag = national_idea_1910
+					}
+				}
+				
+				# Remove 1925 idea flag
+				random_owned = {
+					limit = {
+						owner = {
+							has_country_flag = national_idea_1925
+						}
+					}
+					
+					owner = {
+						clr_country_flag = national_idea_1925
+					}
+				}
+			}
+		}
+	}
+	
+	#
+	option = {
+		name = EVTOPTB92308
+	}
+}
