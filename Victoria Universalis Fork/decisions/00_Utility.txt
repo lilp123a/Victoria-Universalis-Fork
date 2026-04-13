@@ -1046,11 +1046,7 @@ political_decisions = {
 		
 		potential = {
 			OR = {
-				ai = no
-				
-				AND = {
-					NOT = { has_country_flag = national_idea_1836 }
-				}
+				NOT = { has_country_flag = national_idea_1836 }
 				
 				AND = {
 					year = 1850
