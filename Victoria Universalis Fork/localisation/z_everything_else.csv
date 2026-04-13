@@ -9569,7 +9569,6 @@ GIVEMILITARYACCESS_WE_DECLINE_SETUP;When we reject a military access offer from 
 NGR_conservative;Northern People's Congress;x
 GUNBOAT_OTHER_ACCEPT_LOG;$ACTOR$ is using gunboats to force $RECIPIENT$ to pay their debt!;x
 EVTOPTA3404;Allow the union boss to mediate;x
-built_naval_base;Recently Built Naval Base;x
 RGR_conservative;Partido Conservador;x
 EVTNAME37211;Through the Air!;x
 botanical_expedition_threatened;Botanical Expedition Threatened;x

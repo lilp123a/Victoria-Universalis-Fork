@@ -776,13 +776,6 @@ country_event = {
 				annex_to = ---
 			}
 			any_country = {
-				limit = { ai = no }
-				any_owned = {
-					limit = { has_building = naval_base }
-					add_province_modifier = { name = built_naval_base duration = -1 }
-				}
-			}
-			any_country = {
 				limit = { battleship_column_doctrine = 1 }
 				set_country_flag = battleship_column_doctrine_invented
 			}

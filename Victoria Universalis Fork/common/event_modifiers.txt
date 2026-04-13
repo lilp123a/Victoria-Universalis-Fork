@@ -670,10 +670,6 @@ overcrowded = {
 	icon = 20
 }
 
-built_naval_base = {
-	icon = 24
-}
-
 prov_core_check = {
 	icon = 1
 }
