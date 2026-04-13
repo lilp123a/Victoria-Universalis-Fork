@@ -132,126 +132,126 @@ serfdom;Serfdom;x
 peonage;Peonage;x
 debtors_prisons;Debtors' Prisons;x
 bankruptcy;Bankruptcy;x
-high_colonial_migration;High Colonial Migration;x
-medium_colonial_migration;Medium Colonial Migration;x
-low_colonial_migration;Low Colonial Migration;x
 no_colonial_migration;No Colonial Migration;x
+low_colonial_migration;Low Colonial Migration;x
+medium_colonial_migration;Medium Colonial Migration;x
+high_colonial_migration;High Colonial Migration;x
 capitalist_building_permission_on;Capitalist Building Enabled;x
 capitalist_building_permission_off;Capitalist Building Disabled;x
-protectionism_desc;Trade between nations is restricted;x
-free_trade_desc;Merchants are able to act and transact without interference from the government;x
-laissez_faire_desc;Industry is free from government interference;x
-interventionism_desc;In general this is a free market economy but the government reserves the right to intervene when the national interest requires it;x
-state_capitalism_desc;The State controls the commanding heights of the economy but limited free enterprise is allowed;x
-planned_economy_desc;The government makes all decisions on the production and consumption of goods and services;x
-pro_atheism_desc;Total separation between church and state, religion is purely a private matter;x
-secularized_desc;Religion is not explicitly part of state policy, but the state tips its hat to traditional religious values;x
-pluralism_desc;The state religion is actively promoted but other religions are tolerated;x
-moralism_desc;Church and state are a single body, and religious minorities face discrimination;x
-residency_desc;This party supports politics to limit citizenship and political rights of minorities and immigrants;x
-limited_citizenship_desc;This party supports politics to limit citizenship and political rights to people of the same cultural group of this nation;x
-full_citizenship_desc;This party supports every vote being equal;x
-jingoism_desc;The military is the centrepiece of the state and military spending is prioritised;x
-pro_military_desc;The government is a strong supporter of the armed forces;x
-anti_military_desc;The armed forces are a drain on the state coffers and the government feels money is better spent elsewhere;x
-pacifism_desc;The government is actively hostile to the interests of the military, feeling they are opposed to the government policies;x
-no_minimum_wage_desc;No minimum level for wages;x
-trinket_wage_desc;Minimum wages are very low;x
-low_minimum_wage_desc;Minimum wages are low;x
-acceptable_minimum_wage_desc;Minimum wages are acceptable to most people;x
-good_minimum_wage_desc;Minimum wages are above the normal;x
+protectionism_desc;Trade between nations is restricted.;x
+free_trade_desc;Merchants are able to act and transact without interference from the government.;x
+laissez_faire_desc;Industry is free from government interference.;x
+interventionism_desc;In general this is a free market economy but the government reserves the right to intervene when the national interest requires it.;x
+state_capitalism_desc;The State controls the commanding heights of the economy but limited free enterprise is allowed.;x
+planned_economy_desc;The government makes all decisions on the production and consumption of goods and services.;x
+pro_atheism_desc;Total separation between church and state, religion is purely a private matter.;x
+secularized_desc;Religion is not explicitly part of state policy, but the state tips its hat to traditional religious values.;x
+pluralism_desc;The state religion is actively promoted but other religions are tolerated.;x
+moralism_desc;Church and state are a single body, and religious minorities face discrimination.;x
+residency_desc;This party supports politics to limit citizenship and political rights of minorities and immigrants.;x
+limited_citizenship_desc;This party supports politics to limit citizenship and political rights to people of the same cultural group of this nation.;x
+full_citizenship_desc;This party supports every vote being equal.;x
+jingoism_desc;The military is the centrepiece of the state and military spending is prioritised.;x
+pro_military_desc;The government is a strong supporter of the armed forces.;x
+anti_military_desc;The armed forces are a drain on the state coffers and the government feels money is better spent elsewhere.;x
+pacifism_desc;The government is actively hostile to the interests of the military, feeling they are opposed to the government policies.;x
+no_minimum_wage_desc;No minimum level for wages.;x
+trinket_wage_desc;Minimum wages are very low.;x
+low_minimum_wage_desc;Minimum wages are low.;x
+acceptable_minimum_wage_desc;Minimum wages are acceptable to most people.;x
+good_minimum_wage_desc;Minimum wages are above the normal.;x
 no_work_hour_limit_desc;No limit on working hours per day. Workers have virtually no rights and employers do as they please with their workers. Conditions in some workplaces are analogue to slavery.;x
-fourteen_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. At fourteen hours per day, most workers have barely any time for their families;x
-twelve_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. At twelve hours per day, workers are starting to have time to spend with their families and are quickly becoming common visitors of taverns and cabarets after work;x
-ten_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. Weekends without work are a common occurrence and white-collar workers have a system of annual vacations;x
-eight_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. At eight hours per day, almost all workers have the right to weekends off and annual vacations. Free time for leisure is at an all time high and the entertainment industry is in the middle of a boom. All over our country resorts emerge thanks to cheap hotels and inexpensive railway fares, widespread banking holidays and we watch the fading of many religious prohibitions against secular activities on Sundays;x
-no_safety_desc;Death or grievous injuries in the workplace isn't a rare occurrence as employers don't need to think about safety, only profit. The government has no governing legislation covering safety in the workplace and workers rarely manage to sue their employers over accidents;x
-trinket_safety_desc;Factories are required to provide proper ventilation and a regularly cleaned workspace. Workers can sue their employers in case of an accident but they rarely win any compensation. When they do the amount is usually negligible. Safety regulations only applies to factories;x
-low_safety_desc;Safety regulations extend to the agricultural, civil construction and mining sectors. In mines, the use of safety lamps is mandatory. Employees suing their employers still have a hard time winning any significant compensation, but the government offers help to the affected families, albeit the amount given is barely enough to scrap an existence;x
-acceptable_safety_desc;Safety regulations extend to all workplaces in our country. Government agencies label agricultural chemicals for toxicity and potential health impacts, mining and construction workers are required to use protection gear and hand brakes operated by workers riding on top of train cars were abolished. Employees have their rights guaranteed and getting compensation for accidents that happen due to employer negligence is a common occurrence. Government help to the victims is reasonable;x
-good_safety_desc;Safety regulations extend to all workplaces in our country and cover potential psychological problems due to extended isolation and even minor injuries. Employers are obliged to supply workers with protection equipment and safety training. Warnings and reminders are spread through the workplace to guarantee workers remember their safety instructions. Getting compensation for employer negligence in the workplace is easy and the government supports victims with a good amount of money;x
-no_subsidies_desc;No unemployment subsidies;x
-trinket_subsidies_desc;Very low unemployment subsidies;x
-low_subsidies_desc;Low unemployment subsidies;x
-acceptable_subsidies_desc;Extended unemployment subsidies;x
-good_subsidies_desc;Generous unemployment subsidies;x
+fourteen_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. At fourteen hours per day, most workers have barely any time for their families.;x
+twelve_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. At twelve hours per day, workers are starting to have time to spend with their families and are quickly becoming common visitors of taverns and cabarets after work.;x
+ten_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. Weekends without work are a common occurrence and white-collar workers have a system of annual vacations.;x
+eight_hours_desc;Working hours legislation aims to not only reduce the workload, but it also gives the right to a minimum number of holidays each year, restricts excessive night work and establishes the right to vacations, all this without a reduction of the workers' salaries. While wages grow and working hours decline, the people have more time for leisure and for consuming, driving demand up. At eight hours per day, almost all workers have the right to weekends off and annual vacations. Free time for leisure is at an all time high and the entertainment industry is in the middle of a boom. All over our country resorts emerge thanks to cheap hotels and inexpensive railway fares, widespread banking holidays and we watch the fading of many religious prohibitions against secular activities on Sundays.;x
+no_safety_desc;Death or grievous injuries in the workplace isn't a rare occurrence as employers don't need to think about safety, only profit. The government has no governing legislation covering safety in the workplace and workers rarely manage to sue their employers over accidents.;x
+trinket_safety_desc;Factories are required to provide proper ventilation and a regularly cleaned workspace. Workers can sue their employers in case of an accident but they rarely win any compensation. When they do the amount is usually negligible. Safety regulations only apply to factories.;x
+low_safety_desc;Safety regulations extend to the agricultural, civil construction and mining sectors. In mines, the use of safety lamps is mandatory. Employees suing their employers still have a hard time winning any significant compensation, but the government offers help to the affected families, albeit the amount given is barely enough to scrap an existence.;x
+acceptable_safety_desc;Safety regulations extend to all workplaces in our country. Government agencies label agricultural chemicals for toxicity and potential health impacts, mining and construction workers are required to use protection gear and hand brakes operated by workers riding on top of train cars were abolished. Employees have their rights guaranteed and getting compensation for accidents that happen due to employer negligence is a common occurrence. Government help to the victims is reasonable.;x
+good_safety_desc;Safety regulations extend to all workplaces in our country and cover potential psychological problems due to extended isolation and even minor injuries. Employers are obliged to supply workers with protection equipment and safety training. Warnings and reminders are spread through the workplace to guarantee workers remember their safety instructions. Getting compensation for employer negligence in the workplace is easy and the government supports victims with a good amount of money.;x
+no_subsidies_desc;No unemployment subsidies.;x
+trinket_subsidies_desc;Very low unemployment subsidies.;x
+low_subsidies_desc;Low unemployment subsidies.;x
+acceptable_subsidies_desc;Extended unemployment subsidies.;x
+good_subsidies_desc;Generous unemployment subsidies.;x
 no_schools_desc;There's no organized school system or budget for education. The scarce literacy gain that is achieved comes from religious schools or it is based on informal community teaching, though these places get some funding, indirectly, from the government. Higher education institutions are either non existent or completely religious and medieval.\n\n§YThis reform increases the cap on intellectuals to 2%§!;x
 low_schools_desc;A rudimentary school system exists in the capital and a few important cities but enrollment is completely optional. Schools limits themselves to teaching pupils how to read and write. There's no government agency to inspect schools and they have no common standards for teaching, with the few courses that exist being overcrowded. Private schools are commonly in the same conditions. Teachers don't have professional formation and are often just literate men, while pupils often leave school without being properly schooled.\n\n§YThis reform raises the cap on intellectuals to 2.5%§!;x
 acceptable_schools_desc;Schools can be found in every major and most of the medium cities. A government agency exists to ensure quality standards in education and to inspect that proper facilities are used for it. Enrollment is encouraged and sometimes it's outright mandatory, but it's not properly enforced and pupils often don't go to school for a variety of reasons. Children are also taught math and a few other subjects. Education institutions for teenagers are starting to appear, and secular, higher education institutions for adults are common. Teachers are formally trained, but oftentimes poorly.\n\n§YThis reform raises the cap on intellectuals to 3%§!;x
 good_schools_desc;Schools can be found in almost every city. Government agencies take education with the utmost seriousness, and enrollment is often mandatory and tightly controlled. Children and teenagers are taught a variety of subjects besides reading and writing and teachers are taught pedagogy during their formation. Literacy campaigns for adults and the elderly are a part of the government's effort to eradicate illiteracy. Higher education institutions are considered good, with opportunities for the poor classes to enroll.\n\n§YThis reform raises the cap on intellectuals to 3.5%§!;x
 compulsory_schools_desc;Free public education is available to all and attendance is mandatory. Teachers are certified to a standardized curricula by either the government or a teachers' organisation. Higher education institutions are excellent and poor students are given subsidies by the government in order to attend.\n\n§YThis reform raises the cap on intellectuals to 4%§!;x
-no_pensions_desc;No state pensions;x
-trinket_pensions_desc;Very low state pensions;x
-low_pensions_desc;Low state pensions;x
-acceptable_pensions_desc;Acceptable state pensions;x
-good_pensions_desc;High state pensions;x
-no_health_care_desc;The government doesn't care about healthcare and no funding for it exists. The few health institutions that exist are inherited from medieval times and are equipped accordingly. The medical career is an informal profession, mainly linked to the church. Hospitals use rudimentary lighting, facilities are overcrowded and infectious diseases round the halls and corners of the buildings. Prayers are commonly recommended to treat ailments;x
-trinket_health_care_desc;Doctors and nurses have a rudimentary understanding of wounds and diseases, partially relying on old beliefs when treating patients, but they do have formal training. Hospitals have rules to reduce overcrowding (beds are spaced a meter apart), provisions for ventilation, and the sewers leading from the hospital are flushed several times a day while the latrines/drains are disinfected with peat charcoal. There is meager collection of patient data but there aren't any proper sanitation standards for hospitals nor government agencies to check them. Healthcare facilities are hard to find\n\n§YThe year must be at least 1855 and we must have researched Medicine to enact this level of reform§!;x
-low_health_care_desc;Doctors and nurses are starting to understand wounds and diseases better during their studies and apply the principles of the so-called "germ theory" when treating patients. A Sanitary Commission was founded and its agents can be seen patrolling the hospitals, albeit infrequently, to guarantee a rudimentary sanitation standard. Healthcare facilities are starting to become common\n\n§YThe year must be at least 1870 and we must have researched Inorganic Chemistry to enact this level of reform§!;x
-acceptable_health_care_desc;Medicine is a fully-fledged profession, with doctors and nurses graduating with complete understanding of the human body and a vast knowledge of diseases and how to treat them. Sterilization of the facilities and equipment is common, with Chamberland Filters used to filter water and the Chamberland Autoclave used for heating solutions above their boiling point to destroy dangerous microorganisms. Government agencies exist to enforce sanitation controls and ensure there's no overcrowding. Finding a clinic in an urban center is a relatively easy job and hospitals abandoned oil lamps in favor of gaslights that increase the efficiency of staff\n\n§YThe year must be at least 1885 and we must have researched Organic Chemistry to enact this level of reform§!;x
-good_health_care_desc;The discovery of several vaccines revolutionized medicine, with vaccination being mandatory or strongly encouraged by the government. Doctors now use pharmaceuticals to treat patients and full sterilization of all medical equipment and facilities, quarantine procedures for infectious diseases and proper disposal of medical waste are mandatory practices enforced by the sanitation standards of the government agencies. Finding clinics or hospitals in smaller population centers is common, overcrowding is rare and some smaller health centers are starting to appear even in rural areas. Hospitals are equipped with modern electric lights and informational posters for staff\n\n§YThe year must be at least 1900 and we must have researched Electricity to enact this level of reform§!;x
-universal_health_care_desc;Universal healthcare is a health care system in which all residents of a particular country or region are assured access to health care. It is generally organized around providing either all residents or only those who cannot afford on their own with either health services or the means to acquire them, with the end goal of improving health outcomes\n\n§YThe year must be at least 1915 and we must have researched Synthetic Polymers to enact this level of reform§!;x
-capital_punishment_desc;Convicts are killed for relatively minor crimes;x
-punitive_labour_desc;Prisoners are forced to perform hard labour as a form of punishment beyond imprisonment alone. Punitive labour encompasses two types: productive labour, such as industrial work, and intrinsically pointless tasks used as primitive occupational therapy, punishment and/or physical torment;x
+no_pensions_desc;No state pensions.;x
+trinket_pensions_desc;Very low state pensions.;x
+low_pensions_desc;Low state pensions.;x
+acceptable_pensions_desc;Acceptable state pensions.;x
+good_pensions_desc;High state pensions.;x
+no_health_care_desc;The government doesn't care about healthcare and no funding for it exists. The few health institutions that exist are inherited from medieval times and are equipped accordingly. The medical career is an informal profession, mainly linked to the church. Hospitals use rudimentary lighting, facilities are overcrowded and infectious diseases round the halls and corners of the buildings. Prayers are commonly recommended to treat ailments.\n\n§RHealthcare reforms are controlled via decision§!;x
+trinket_health_care_desc;Doctors and nurses have a rudimentary understanding of wounds and diseases, partially relying on old beliefs when treating patients, but they do have formal training. Hospitals have rules to reduce overcrowding (beds are spaced a meter apart), provisions for ventilation, and the sewers leading from the hospital are flushed several times a day while the latrines/drains are disinfected with peat charcoal. There is meager collection of patient data but there aren't any proper sanitation standards for hospitals nor government agencies to check them. Healthcare facilities are hard to find.\n\n§RHealthcare reforms are controlled via decision§!\n§YThe year must be at least 1855 and we must have researched Medicine to enact this level of reform§!;x
+low_health_care_desc;Doctors and nurses are starting to understand wounds and diseases better during their studies and apply the principles of the so-called "germ theory" when treating patients. A Sanitary Commission was founded and its agents can be seen patrolling the hospitals, albeit infrequently, to guarantee a rudimentary sanitation standard. Healthcare facilities are starting to become common.\n\n§RHealthcare reforms are controlled via decision§!\n§YThe year must be at least 1870 and we must have researched Inorganic Chemistry to enact this level of reform§!;x
+acceptable_health_care_desc;Medicine is a fully-fledged profession, with doctors and nurses graduating with complete understanding of the human body and a vast knowledge of diseases and how to treat them. Sterilization of the facilities and equipment is common, with Chamberland Filters used to filter water and the Chamberland Autoclave used for heating solutions above their boiling point to destroy dangerous microorganisms. Government agencies exist to enforce sanitation controls and ensure there's no overcrowding. Finding a clinic in an urban center is a relatively easy job and hospitals abandoned oil lamps in favor of gaslights that increase the efficiency of staff.\n\n§RHealthcare reforms are controlled via decision§!\n§YThe year must be at least 1885 and we must have researched Organic Chemistry to enact this level of reform§!;x
+good_health_care_desc;The discovery of several vaccines revolutionized medicine, with vaccination being mandatory or strongly encouraged by the government. Doctors now use pharmaceuticals to treat patients and full sterilization of all medical equipment and facilities, quarantine procedures for infectious diseases and proper disposal of medical waste are mandatory practices enforced by the sanitation standards of the government agencies. Finding clinics or hospitals in smaller population centers is common, overcrowding is rare and some smaller health centers are starting to appear even in rural areas. Hospitals are equipped with modern electric lights and informational posters for staff.\n\n§RHealthcare reforms are controlled via decision§!\n§YThe year must be at least 1900 and we must have researched Electricity to enact this level of reform§!;x
+universal_health_care_desc;Universal healthcare is a health care system in which all residents of a particular country or region are assured access to health care. It is generally organized around providing either all residents or only those who cannot afford on their own with either health services or the means to acquire them, with the end goal of improving health outcomes.\n\n§RHealthcare reforms are controlled via decision§!\n§YThe year must be at least 1915 and we must have researched Synthetic Polymers to enact this level of reform§!;x
+capital_punishment_desc;Convicts are killed for relatively minor crimes.;x
+punitive_labour_desc;Prisoners are forced to perform hard labour as a form of punishment beyond imprisonment alone. Punitive labour encompasses two types: productive labour, such as industrial work, and intrinsically pointless tasks used as primitive occupational therapy, punishment and/or physical torment.;x
 incarceration_desc;Convicts are imprisoned with the intent of removing undesirables from society, though they aren't used for hard manual labour most of the times.\n§YThis reform is neutral - no effects;x
-rehabilitation_desc;Convicts are imprisoned with the intent of reforming them and reintroducing them into society;x
-underground_parties_desc;The government actively prevents other parties from publicly campaigning for votes;x
-harassment_desc;The ruling party harasses people into voting for them;x
-gerrymandering_desc;Electoral district or constituency boundaries are deliberately modified for electoral purposes, meaning the votes for the ruling party are worth more. The ruling party can use gerrymandering in order to get people to vote for them;x
-non_secret_ballots_desc;The voter's choices are non-confidential. The ruling party knows who the people vote for and can use pressure in order to get the people to vote for them;x
-secret_ballots_desc;The voter's choices are confidential in order to prevent others from influencing the voter by bribery or intimidation. The ruling party can't affect the way people votes;x
-party_appointed_desc;Only members of the ruling party with the same ideology can be appointed to represent the party in the Upper House;x
-appointed_desc;Aristocrats or capitalists have been assigned seats in the Upper House by the leader of the country;x
-state_equal_weight_desc;Each state has two votes to appoint representatives to the Upper House;x
-population_equal_weight_desc;Representatives are determined by the collected ideologies of the population;x
+rehabilitation_desc;Convicts are imprisoned with the intent of reforming them and reintroducing them into society.;x
+underground_parties_desc;The government actively prevents other parties from publicly campaigning for votes.;x
+harassment_desc;The ruling party harasses people into voting for them.;x
+gerrymandering_desc;Electoral district or constituency boundaries are deliberately modified for electoral purposes, meaning the votes for the ruling party are worth more. The ruling party can use gerrymandering in order to get people to vote for them.;x
+non_secret_ballots_desc;The voter's choices are non-confidential. The ruling party knows who the people vote for and can use pressure in order to get the people to vote for them.;x
+secret_ballots_desc;The voter's choices are confidential in order to prevent others from influencing the voter by bribery or intimidation. The ruling party can't affect the way people votes.;x
+party_appointed_desc;Only members of the ruling party with the same ideology can be appointed to represent the party in the Upper House.;x
+appointed_desc;Aristocrats or capitalists have been assigned seats in the Upper House by the leader of the country.;x
+state_equal_weight_desc;Each state has two votes to appoint representatives to the Upper House.;x
+population_equal_weight_desc;Representatives are determined by the collected ideologies of the population.;x
 mandatory_service_desc;Mobilisation Size: §G+6.0%§W;x
 four_year_draft_desc;Mobilisation Size: §G+4.0%§W;x
 two_year_draft_desc;Mobilisation Size: §G+2.0%§W;x
 one_year_draft_desc;Mobilisation Size: §G+1.0%§W;x
-no_draft_desc;No conscription;x
-no_trade_unions_desc;No trade unions are allowed;x
-state_controlled_desc;The government controls the trade unions;x
-non_socialist_desc;Non-Socialist trade unions are allowed;x
-all_trade_unions_desc;All trade unions are allowed;x
-none_voting_desc;No one is allowed to vote;x
-landed_voting_desc;Only Aristocrats and Capitalists may vote;x
-wealth_weighted_voting_desc;Only the wealthy (clerks and above) may vote, but the rich men's votes are worth twice as much as middle-class votes;x
-wealth_voting_desc;Only the middle and upper classes may vote;x
-universal_weighted_voting_desc;Everyone is allowed to vote, but the rich men's votes are worth more;x
-universal_voting_desc;Everyone is allowed to vote;x
-totalitarianism_desc;A political system where the state recognizes no limits to its authority and strives to regulate every aspect of public and private life wherever feasible. While the organs of powers can be nomally separated, in effect everything is controlled by a uniform central administration and its legions of prefects, all headed by members of the political apparatus\nMobilisation Size: §G+2.0%§W;x
-regionalism_desc;Regionalism occurs when a government has a weak central authority and parts of the country generally have strong levels of autonomy by the local leaders, while these regions do technically answer to the state, the level of control over these regions is usually limited and ineffective\nMobilisation Size: §R-1.0%§W;x
-confederalism_desc;A confederation (also known as a confederacy or league) is a union of sovereign states, united for purposes of common action often in relation to other states. Since the member states of a confederation retain their sovereignty, they have an implicit right of secession, in contrast with a federal one, the central authority of a Confederation is relatively weak and makes for a slow and inefficient government\nMobilisation Size: §R-1.0%§W;x
-federalism_desc;A federation is a political entity characterized by a union of partially self-governing states or regions under a central government. Sovereign power is formally divided between a central authority and a number of constituent regions so that each region retains some degree of control over its internal affairs.. What we lose in simplicity and efficiency, we gain in flexibility and adaptability;x
-unitary_desc;A unitary state is a state governed as one single power in which the central government is ultimately supreme. Subnational units are created and abolished, and their powers may be broadened and narrowed by the central authority. What we lose in flexibility and adaptability, we gain in simplicity and efficiency;x
-primary_culture_only_desc;Only the first class citizens of the country are allowed to participate in the political life, all the other groups are segregated. Becoming a first class citizen is hard and extremely limited;x
-culture_voting_only_desc;Persons from the country's culture are allowed to participate in the political life of the country and citizenship is greatly facilitated for these people;x
-all_voting_pops_desc;All legal immigrants, regardless of the culture, are allowed to vote. Acquiring citizenship status is facilitated;x
-first_past_the_post_desc;The candidate with the most votes wins;x
-jefferson_method_desc;The Jefferson Method is a highest averages method for allocating seats;x
-proportional_representation_desc;The percentage of votes that groups of candidates obtain in elections equals the percentage of seats they receive;x
-no_meeting_desc;Public meetings are prohibited;x
-yes_meeting_desc;Public meetings and rallies are allowed;x
-child_labor_legal_desc;No child labour regulation exists;x
-child_labor_restricted_desc;Children cannot work in certain dangerous professions;x
-child_labor_illegal_desc;Child labour is viewed as immoral and is illegal;x
+no_draft_desc;No conscription.;x
+no_trade_unions_desc;No trade unions are allowed.;x
+state_controlled_desc;The government controls the trade unions.;x
+non_socialist_desc;Non-Socialist trade unions are allowed.;x
+all_trade_unions_desc;All trade unions are allowed.;x
+none_voting_desc;No one is allowed to vote.;x
+landed_voting_desc;Only Aristocrats and Capitalists may vote.;x
+wealth_weighted_voting_desc;Only the wealthy (clerks and above) may vote, but the rich men's votes are worth twice as much as middle-class votes.;x
+wealth_voting_desc;Only the middle and upper classes may vote.;x
+universal_weighted_voting_desc;Everyone is allowed to vote, but the rich men's votes are worth more.;x
+universal_voting_desc;Everyone is allowed to vote.;x
+totalitarianism_desc;A political system where the state recognizes no limits to its authority and strives to regulate every aspect of public and private life wherever feasible. While the organs of powers can be nomally separated, in effect everything is controlled by a uniform central administration and its legions of prefects, all headed by members of the political apparatus.\nMobilisation Size: §G+2.0%§W;x
+regionalism_desc;Regionalism occurs when a government has a weak central authority and parts of the country generally have strong levels of autonomy by the local leaders, while these regions do technically answer to the state, the level of control over these regions is usually limited and ineffective.\nMobilisation Size: §R-1.0%§W;x
+confederalism_desc;A confederation (also known as a confederacy or league) is a union of sovereign states, united for purposes of common action often in relation to other states. Since the member states of a confederation retain their sovereignty, they have an implicit right of secession, in contrast with a federal one, the central authority of a Confederation is relatively weak and makes for a slow and inefficient government.\nMobilisation Size: §R-1.0%§W;x
+federalism_desc;A federation is a political entity characterized by a union of partially self-governing states or regions under a central government. Sovereign power is formally divided between a central authority and a number of constituent regions so that each region retains some degree of control over its internal affairs. What we lose in simplicity and efficiency, we gain in flexibility and adaptability.;x
+unitary_desc;A unitary state is a state governed as one single power in which the central government is ultimately supreme. Subnational units are created and abolished, and their powers may be broadened and narrowed by the central authority. What we lose in flexibility and adaptability, we gain in simplicity and efficiency.;x
+primary_culture_only_desc;Only the first class citizens of the country are allowed to participate in the political life, all the other groups are segregated. Becoming a first class citizen is hard and extremely limited.;x
+culture_voting_only_desc;Persons from the country's culture are allowed to participate in the political life of the country and citizenship is greatly facilitated for these people.;x
+all_voting_pops_desc;All legal immigrants, regardless of the culture, are allowed to vote. Acquiring citizenship status is facilitated.;x
+first_past_the_post_desc;The candidate with the most votes wins.;x
+jefferson_method_desc;The Jefferson Method is a highest averages method for allocating seats.;x
+proportional_representation_desc;The percentage of votes that groups of candidates obtain in elections equals the percentage of seats they receive.;x
+no_meeting_desc;Public meetings are prohibited.;x
+yes_meeting_desc;Public meetings and rallies are allowed.;x
+child_labor_legal_desc;No child labour regulation exists.;x
+child_labor_restricted_desc;Children cannot work in certain dangerous professions.;x
+child_labor_illegal_desc;Child labour is viewed as immoral and is illegal.;x
 closed_borders_desc;People aren't allowed in or out of our country.\n§RPOPs will suffer a penalty to promotion§!;x
-quota_immigration_desc;Foreign nationals are allowed to immigrate to our country, as long as they have a literacy above 60% and aren't citizens of countries that were recently or are currently at war with our country. There are no restrictions for emigration;x
-open_borders_desc;Our country is completely open for immigration and emigration, either by deliberate choice or because of the lack of appropriate border controls;x
-state_press_desc;Only state-controlled press is allowed;x
-censored_press_desc;While allowed a relative amount of freedom, the press is still censored by the government;x
-free_press_desc;Free press is allowed without interference from the government;x
-yes_slavery_desc;Slavery is allowed\n§RThis reform affects POP promotion chance - promotion will be slower, both globally and even more in slave states§!\n§YPops in Slave states will be more conservative and less liberal. Immigrants are less likely to choose slave states§!\n§GThe slave population will grow§!;x
-freedom_of_womb_desc;Slaves' children are freed at birth and, in most cases, old slaves are also freed. The slave population stops growing\n§RThis reform affects POP promotion chance - promotion will be slower, both globally and even more in slave states§!\n§YPops in Slave states will be more conservative and less liberal. Immigrants are less likely to choose slave states§!\n§RThe slave population will stop growing§!;x
-no_slavery_desc;Slavery is forbidden;x
-serfdom_desc;Serfs are bound to the land and subject to the will of its owner and work the fields under a feudal system;x
-peonage_desc;Peonage is a debt system under which the debtor is forced to work off his debt. This often leads to a perpetual cycle of involuntary labour called peonage;x
-debtors_prisons_desc;Debtors are confined to jail until such time as their debt is resolved\n§YThis reform is neutral - no effects§!;x
-bankruptcy_desc;Debtors are allowed to declare bankruptcy and have their previous debts declared null and void;x
-high_colonial_migration_desc;Gives a large bonus to colonial migration to accepted culture POPs. The bonus scales up for lower population countries;x
-medium_colonial_migration_desc;Gives a bonus to colonial migration to accepted culture POPs. The bonus scales up for lower population countries;x
-low_colonial_migration_desc;Gives a small bonus to colonial migration to accepted culture POPs. The bonus scales up for lower population countries;x
-no_colonial_migration_desc;No POPs will migrate to the colonies;x
+quota_immigration_desc;Foreign nationals are allowed to immigrate to our country, as long as they have a literacy above 60% and aren't citizens of countries that were recently or are currently at war with our country. There are no restrictions for emigration.;x
+open_borders_desc;Our country is completely open for immigration and emigration, either by deliberate choice or because of the lack of appropriate border controls.;x
+state_press_desc;Only state-controlled press is allowed.;x
+censored_press_desc;While allowed a relative amount of freedom, the press is still censored by the government.;x
+free_press_desc;Free press is allowed without interference from the government.;x
+yes_slavery_desc;Slavery is allowed\n§RThis reform affects POP promotion chance - promotion will be slower, both globally and even more in slave states.§!\n§YPops in Slave states will be more conservative and less liberal. Immigrants are less likely to choose slave states§!\n§GThe slave population will grow§!;x
+freedom_of_womb_desc;Slaves' children are freed at birth and, in most cases, old slaves are also freed. The slave population stops growing\n§RThis reform affects POP promotion chance - promotion will be slower, both globally and even more in slave states§!\n§YPops in Slave states will be more conservative and less liberal. Immigrants are less likely to choose slave states.§!\n§RThe slave population will stop growing§!;x
+no_slavery_desc;Slavery is forbidden.;x
+serfdom_desc;Serfs are bound to the land and subject to the will of its owner and work the fields under a feudal system.;x
+peonage_desc;Peonage is a debt system under which the debtor is forced to work off his debt. This often leads to a perpetual cycle of involuntary labour called peonage.;x
+debtors_prisons_desc;Debtors are confined to jail until such time as their debt is resolved.\n§YThis reform is neutral - no effects§!;x
+bankruptcy_desc;Debtors are allowed to declare bankruptcy and have their previous debts declared null and void.;x
+no_colonial_migration_desc;No POPs will migrate to the colonies.\n\n§RColonial migration reforms are controlled via decision§!;x
+low_colonial_migration_desc;Gives a small bonus to colonial migration to accepted culture POPs. The bonus scales up for lower population countries.\n\n§RColonial migration reforms are controlled via decision§!;x
+medium_colonial_migration_desc;Gives a bonus to colonial migration to accepted culture POPs. The bonus scales up for lower population countries.\n\n§RColonial migration reforms are controlled via decision§!;x
+high_colonial_migration_desc;Gives a large bonus to colonial migration to accepted culture POPs. The bonus scales up for lower population countries.\n\n§RColonial migration reforms are controlled via decision§!;x
 protectionism_l;Protectionism;x
 free_trade_l;Free Trade;x
 laissez_faire_l;Laissez Faire;x
