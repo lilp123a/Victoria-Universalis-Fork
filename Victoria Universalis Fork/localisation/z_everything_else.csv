@@ -8166,7 +8166,6 @@ EVTDESC16430;Sitting Bull and his braves have surrendered, and the Sioux have be
 EVTNAME16430;End of the Sioux Wars;x
 ALLIANCE_OTHER_DECLINE_5;Military Alliance;x
 EVTOPTA16410;Rejoice!;x
-expand_naval_base_desc;Build up to 10 naval bases in random provinces that already have a naval base. If you don't have enough money to pay for all 10 then you'll only build up to the amount that you can afford. Despite what the tooltip may say, the effects will not target the same province twice. Provinces affected by this decision get a modifier called "Recently Built Naval Base" that tell the decision not to target it in the future. This modifier gets removed from all provinces when you research a new naval tech.;x
 EVTOPTA14100;That's rubbish!;x
 chinese_civil_war_acquire_state_desc;Acquire an enemy §Ystate§W where we have §Ycore provinces§W;x
 OUR_CB_DETECTED_1;War Justification;x
@@ -13958,7 +13957,6 @@ CB_JUSTIFY_NO_LONGER_VALID_HEADER;$MONARCHTITLE$;x
 EVT91737OPTJ;Change province to produce Silk.;x
 WARTAX_TIP;Raise War Taxes;x
 refute_manifest_destiny_title;Refute Manifest Destiny;x
-expand_naval_base_title;§YExpand Naval Bases;x
 gtfo_SWE_title;Grant Sweden Independence;x
 embraced_ottomanism;Embraced Ottomanism;x
 ALLIANCE_OTHER_DECLINE_SETUP;When a nation declines another nation's alliance offer;x
