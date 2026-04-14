@@ -1282,8 +1282,8 @@ early_interwar_fighters = {
 ### TANK EXPERIMENTS ###
 ########################
 
-tank_experiments = {
-	limit = { barrel_experiments = 1 }
+i_tank_experiments = {
+	limit = { tank_experiments = 1 }
 	
 	chance = {
 		base = 10
@@ -1291,7 +1291,7 @@ tank_experiments = {
 		modifier = {
 			factor = 90
 			war = yes
-			war_countries = { invention = tank_experiments }
+			war_countries = { invention = i_tank_experiments }
 		}
 		modifier = {
 			factor = -60
@@ -1307,12 +1307,12 @@ tank_experiments = {
 	
 	effect = {
 		activate_unit = tank
-		activate_building = barrel_factory 
+		activate_building = tank_factory 
 	}
 }
 
 tank_exploits = {
-	limit = { barrel_experiments = 1 }
+	limit = { tank_experiments = 1 }
 	
 	chance = {
 		base = 2
@@ -1328,7 +1328,7 @@ tank_exploits = {
 		}
 		modifier = {
 			factor = -100
-			not = { invention = tank_experiments }
+			not = { invention = i_tank_experiments }
 		}
 	}
 	

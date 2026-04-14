@@ -33,7 +33,7 @@ aeroplane_factory = {
 	advanced_factory = yes
 }
 
-barrel_factory = {
+tank_factory = {
 	type = factory
 	on_completion = factory
 	completion_size = 0.2
@@ -50,7 +50,7 @@ barrel_factory = {
 	visibility = yes
 	onmap = no
 
-	production_type = barrel_factory
+	production_type = tank_factory
 	pop_build_factory = yes
 	advanced_factory = yes
 }

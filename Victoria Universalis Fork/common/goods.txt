@@ -20,7 +20,7 @@ military_goods = {
 		cost = 8.00 
 		color = { 255 39 12 }
 	}
-	barrels = {	
+	tanks = {	
 		cost = 110.00 
 		color = { 55 41 9 }
 		available_from_start = no 

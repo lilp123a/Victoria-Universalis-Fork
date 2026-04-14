@@ -1217,7 +1217,7 @@ aeronautics = {
 	}
 }
 
-barrel_experiments = {
+tank_experiments = {
 	area = military_science
 	year = 1910
 	cost = 21600

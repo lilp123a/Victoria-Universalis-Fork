@@ -155,7 +155,7 @@ aeroplane_factory = {
 	}
 }
 
-barrel_factory = {
+tank_factory = {
 	template = machine_part_user_template	#9.8
 	
 	input_goods = {
@@ -165,7 +165,7 @@ barrel_factory = {
 		steel = 4			#20	total input+maint = 67
 	}
 	
-	output_goods = barrels 
+	output_goods = tanks 
 	value = 0.6				#66
 	
 	bonus = {

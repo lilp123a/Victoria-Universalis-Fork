@@ -594,7 +594,7 @@ production_focus = {
 		
 		automobiles = 100
 		aeroplanes = 100
-		barrels = 100
+		tanks = 100
 	}
 	
 	electrical_focus = {

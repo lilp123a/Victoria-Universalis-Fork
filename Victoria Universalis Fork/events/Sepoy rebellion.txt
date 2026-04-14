@@ -102,10 +102,10 @@ country_event = {
 			}
 			AND = {
 				NOT = { aeronautics = 1 }
-				ENG = { barrel_experiments = 1 }
+				ENG = { tank_experiments = 1 }
 			}
 			AND = {
-				NOT = { barrel_experiments = 1 }
+				NOT = { tank_experiments = 1 }
 				ENG = { combined_arms_experiments = 1 }
 			}
 			AND = {
@@ -339,7 +339,7 @@ country_event = {
 			limit = {
 				owner = {
 					NOT = { aeronautics = 1 }
-					overlord = { barrel_experiments = 1 }
+					overlord = { tank_experiments = 1 }
 				}
 			}	
 			owner = { activate_technology = aeronautics }
@@ -347,11 +347,11 @@ country_event = {
 		random_owned = {
 			limit = {
 				owner = {
-					NOT = { barrel_experiments = 1 }
+					NOT = { tank_experiments = 1 }
 					overlord = { combined_arms_experiments = 1 }
 				}
 			}	
-			owner = { activate_technology = barrel_experiments }
+			owner = { activate_technology = tank_experiments }
 		}
 		random_owned = {
 			limit = {

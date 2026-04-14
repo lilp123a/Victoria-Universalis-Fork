@@ -1,5 +1,5 @@
 aeroplane_factory;Aeroplane Factory;x
-barrel_factory;Tank Factory;x
+tank_factory;Tank Factory;x
 automobile_factory;Automobile Factory;x
 radio_factory;Radio Factory;x
 telephone_factory;Telephone Factory;x
@@ -41,7 +41,7 @@ urban_center;Urban Centre;x
 farmland;Farmland;x
 mines;Mines;x
 aeroplane_factory_desc;Machine parts, electric gear and rubber are needed to produce aeroplanes;x
-barrel_factory_desc;Tanks were little more than artillery mounted on a moving chassis. Therefore, automobiles and artillery are required to produce tanks;x
+tank_factory_desc;Tanks were little more than artillery mounted on a moving chassis. Therefore, automobiles and artillery are required to produce tanks;x
 automobile_factory_desc;Machine parts, electric gear and rubber are needed to produce automobiles;x
 radio_factory_desc;Radios were one of the first mass consumer goods of the 20th century. Glass and electric gears are required for this;x
 telephone_factory_desc;The telephone is a major breakthrough in communications technology. Glass and electric gear is needed in this factory;x
