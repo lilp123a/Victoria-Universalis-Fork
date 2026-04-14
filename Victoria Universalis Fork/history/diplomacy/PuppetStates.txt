@@ -599,30 +599,3 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1931.1.1
 }
-
-#########1861
-
-#########1913
-# Serbia-Montenegro
-vassal = {
-	first = SER
-	second = MON
-	start_date = 1913.1.1
-	end_date = 1936.1.1
-}
-
-# Turkey-Senussi
-vassal = {
-	first = TUR
-	second = TRI
-	start_date = 1913.1.1
-	end_date = 1936.1.1
-}
-
-# Turkey-Dervish
-vassal = {
-	first = TUR
-	second = SOM
-	start_date = 1913.1.1
-	end_date = 1936.1.1
-}
