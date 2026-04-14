@@ -891,7 +891,6 @@ country_event = {
 			ai = yes
 			is_greater_power = yes
 		}
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 	
 	option = {

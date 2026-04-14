@@ -333,7 +333,6 @@ country_event = {
 	trigger = {
 		owns = 549 #Berlin
 		year = 1880
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 	
 	fire_only_once = yes
@@ -363,7 +362,6 @@ country_event = {
 		}
 		NOT = { has_country_flag = bismarck_reforms }
 		year = 1880
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 	
 	mean_time_to_happen = { days = 14 }

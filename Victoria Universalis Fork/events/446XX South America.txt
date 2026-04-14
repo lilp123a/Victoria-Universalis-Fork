@@ -59,7 +59,6 @@ country_event = {
 	trigger = {
 		tag = BOL
 		war = no
-		NOT = { has_global_flag = 1913_bookmark }
 		NOT = { has_global_flag = cultures_setup }
 		is_our_vassal = PEU
 		NOT = { has_country_flag = peru_bolivian_union }
@@ -95,7 +94,6 @@ country_event = {
 	trigger = {
 		tag = BOL
 		war = no
-		NOT = { has_global_flag = 1913_bookmark }
 		NOT = { is_our_vassal = PEU }
 		NOT = { has_country_flag = peru_bolivian_union_dismantled }
 	}
@@ -1726,7 +1724,6 @@ country_event = {
 
 	trigger = {
 		tag = UCA
-		NOT = { has_global_flag = 1913_bookmark }
 		NOT = {
 			owns = 2201
 			owns = 2199

@@ -13,7 +13,6 @@ country_event = {
 		colonial_nation = yes
 		NOT = { has_country_flag = is_now_colonial }
 		NOT = { has_country_flag = deciding_colonial_migration }
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	immediate = {
@@ -141,7 +140,6 @@ country_event = {
 			has_country_flag = is_now_colonial
 		}
 		colonial_nation = no
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 	
 	mean_time_to_happen = {
@@ -987,7 +985,6 @@ country_event = {
 				}
 			}
 		}
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	option = {

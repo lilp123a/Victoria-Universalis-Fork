@@ -1421,7 +1421,7 @@ IS_NOT;Is NOT ;x
 IS;Is ;x
 HAS_NOT_CULTURE_CORE;$CUL$ is NOT a core-culture of $WHERE$\n;x
 HAS_CULTURE_CORE;$CUL$ is a core-culture of $WHERE$\n;x
-OR_TRIG_SHORT;Either..;x
+OR_TRIG_SHORT;Either...;x
 IS_NOT_ON_THE_CONTINET; is NOT on the continent ;x
 IS_ON_THE_CONTINET; is on the continent ;x
 MODIFIER_TECHNOLOGY_COST;Technology Cost;x

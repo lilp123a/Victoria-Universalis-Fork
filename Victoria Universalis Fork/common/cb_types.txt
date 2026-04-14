@@ -107,67 +107,6 @@ liberate_puppet_no_infamy
 dismantle_cb
 }
 
-break_neutrality = {
-	sprite_index = 1
-	is_triggered_only = yes
-	months = 12
-	construction_speed = 1
-	crisis = no
-
-	can_use = {
-		has_country_flag = neutral
-		NOT = {
-			THIS = { has_country_flag = neutral }
-		}
-		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
-		}
-		NOT = { is_our_vassal = THIS }
-		NOT = {
-			OR = {
-				tag = JAN
-				tag = GHO
-			}
-		}
-		THIS = {
-			NOT = {
-				OR = {
-					tag = JAN
-					tag = GHO
-				}
-			}
-		}
-	}
-
-	break_truce_prestige_factor = 0
-	break_truce_infamy_factor = 0
-	break_truce_militancy_factor = 0
-	truce_months = 60
-	
-	badboy_factor = 5
-	prestige_factor = 0
-	peace_cost_factor = 0
-	penalty_factor = 0
-	
-	on_add = {
-		FROM = { clr_country_flag = neutral }
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-	}
-	
-	po_remove_prestige = yes
-	
-	war_name = WAR_NEUTRALITY_NAME
-}
-
 gunboat = {
 	sprite_index = 1
 	is_triggered_only = yes
@@ -177,12 +116,7 @@ gunboat = {
 	
 	can_use = {
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		NOT = { is_our_vassal = THIS }
 		OR =
@@ -273,19 +207,8 @@ conquest = {
 	crisis = no
 	
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		THIS = {
 			OR = {
@@ -529,19 +452,8 @@ add_to_sphere = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		NOT = { is_our_vassal = THIS }
 		this = { is_greater_power = yes }
@@ -604,12 +516,7 @@ take_from_sphere = {
 
 	can_use = {
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		NOT = { is_our_vassal = THIS }
 		this = { is_greater_power = yes }
@@ -679,24 +586,13 @@ acquire_all_cores = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		OR = {
 			NOT = { has_country_flag = chinese }
 			has_global_flag = taiping_has_happened
 		}
 		NOT = { relation = { who = THIS value = 100 } }
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}	
 		any_owned_province = { is_core = THIS }
 		any_owned_province = { NOT = { is_core = THIS } }
@@ -769,12 +665,6 @@ acquire_core_state = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		OR = {
 			THIS = { ai = no }
 			NOT = { brigades_compare = 1 }
@@ -786,12 +676,7 @@ acquire_core_state = {
 		}
 		NOT = { relation = { who = THIS value = 100 } }
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		number_of_states = 2 # annex if you want their last state
 		any_owned_province = {
@@ -824,7 +709,6 @@ acquire_core_state = {
 				has_country_flag = hasmanifestdestiny
 				NOT = { has_country_flag = mex_usa_war }
 			}
-			has_global_flag = 1913_bookmark
 		}
 	}
 	
@@ -931,24 +815,13 @@ annex_core_country = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		OR = {
 			NOT = { has_country_flag = chinese }
 			has_global_flag = taiping_has_happened
 		}
 		NOT = { relation = { who = THIS value = 100 } }
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		any_owned_province = {
 			is_core = THIS
@@ -1030,12 +903,6 @@ acquire_substate_region = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		num_of_substates = 1 # if has any substate
 		any_substate = {
 			number_of_states = 1
@@ -1117,20 +984,8 @@ acquire_state = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
-		NOT = { has_country_flag = neutral }
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		THIS = {
 			OR = {
@@ -1164,13 +1019,6 @@ acquire_state = {
 			}
 			AND = {
 				has_country_flag = sub_saharan_africa
-				THIS = {
-					civilized = yes
-				}
-			}
-			AND = {
-				tag = JAP
-				has_global_flag = mp_1836_literacy_setup
 				THIS = {
 					civilized = yes
 				}
@@ -1446,19 +1294,8 @@ place_in_the_sun = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		THIS = {
 			NOT = { has_country_flag = jan_mayen }
@@ -1628,19 +1465,8 @@ cut_down_to_size = {
 	war_name = WAR_NAME
 	
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		NOT = { is_our_vassal = THIS }
 		is_disarmed = no
@@ -1680,12 +1506,7 @@ cut_down_to_size_boxer = {
 	
 	can_use = {
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		NOT = { is_our_vassal = THIS }
 		is_disarmed = no
@@ -1762,20 +1583,8 @@ demand_reparations = {
 	war_name = WAR_NAME
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
 			ai = no
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
 		}
 		NOT = {
 			OR = {
@@ -1824,19 +1633,8 @@ free_peoples = {
 	
 	
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		NOT = { is_our_vassal = THIS }
 		NOT = {
@@ -1935,19 +1733,8 @@ liberate_country = {
 	
 	
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		NOT = { is_our_vassal = THIS }
 		NOT = {
@@ -2097,19 +1884,8 @@ dismantle_forts = {
 	
 	
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		NOT = { is_our_vassal = THIS }
 		NOT = {
@@ -2176,19 +1952,8 @@ release_puppet = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		NOT = { is_our_vassal = THIS }
 		num_of_vassals_no_substates = 1
@@ -2252,19 +2017,8 @@ make_puppet = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		NOT = {
 			OR = {
@@ -2387,12 +2141,7 @@ become_independent = {
 
 	can_use = {
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		is_our_vassal = THIS
 		NOT = {
@@ -2468,19 +2217,8 @@ humiliate = {
 	war_name = WAR_HUMILIATE_NAME
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		NOT = { is_our_vassal = THIS }
 		has_recently_lost_war = no
@@ -2533,19 +2271,8 @@ demand_concession_casus_belli = {
 	always = no
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		THIS = {
 			NOT = { has_country_flag = jan_mayen }
@@ -2818,19 +2545,8 @@ establish_protectorate_casus_belli = {
 	always = no
 	
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		THIS = {
 			NOT = { has_country_flag = jan_mayen }
@@ -2932,20 +2648,9 @@ establish_small_protectorate_casus_belli = {
 	always = no
 	
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		NOT = { total_pops = 150000 }
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		THIS = {
 			NOT = { has_country_flag = jan_mayen }
@@ -3047,12 +2752,7 @@ unification_humiliate_cb = {
 	
 	can_use = {
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		NOT = { is_our_vassal = THIS }
 		THIS = {
@@ -3122,12 +2822,7 @@ unification_release_puppet_cb = {
 
 	can_use = {
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		NOT = { is_our_vassal = THIS }
 		num_of_vassals_no_substates = 1
@@ -3206,19 +2901,8 @@ unification_casus_belli = {
 	always = yes
 	
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		THIS = {
 			OR = {
@@ -3358,19 +3042,8 @@ unification_annex_casus_belli = {
 	always = yes
 	
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		THIS = {
 			OR = {
@@ -3492,12 +3165,7 @@ rude_boy = {
 
 	can_use = {
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		NOT = { is_our_vassal = THIS }
 		badboy = 1
@@ -3555,12 +3223,7 @@ install_communist_gov_cb = {
 
 	can_use = {
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		THIS = {
 			is_greater_power = yes
@@ -3636,12 +3299,7 @@ uninstall_communist_gov_cb = {
 
 	can_use = {
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		THIS = {
 			# If actor ruling party is not communist
@@ -3692,12 +3350,7 @@ great_war_penalty_cb = {
 
     can_use = {
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
         great_wars_enabled = yes
         war_with = THIS
@@ -3777,19 +3430,8 @@ take_capital = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		THIS = {
 			OR = {
@@ -3824,13 +3466,6 @@ take_capital = {
 			}
 			AND = {
 				has_country_flag = sub_saharan_africa
-				THIS = {
-					civilized = yes
-				}
-			}
-			AND = {
-				tag = JAP
-				has_global_flag = mp_1836_literacy_setup
 				THIS = {
 					civilized = yes
 				}
@@ -3966,19 +3601,8 @@ acquire_small_state = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		THIS = {
 			OR = {
@@ -4008,13 +3632,6 @@ acquire_small_state = {
 				civilized = yes
 				THIS = {
 					civilized = no
-				}
-			}
-			AND = {
-				tag = JAP
-				has_global_flag = mp_1836_literacy_setup
-				THIS = {
-					civilized = yes
 				}
 			}
 			AND = {
@@ -4213,19 +3830,8 @@ acquire_mid_state = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		THIS = {
 			OR = {
@@ -4259,13 +3865,6 @@ acquire_mid_state = {
 			}
 			AND = {
 				has_country_flag = sub_saharan_africa
-				THIS = {
-					civilized = yes
-				}
-			}
-			AND = {
-				tag = JAP
-				has_global_flag = mp_1836_literacy_setup
 				THIS = {
 					civilized = yes
 				}
@@ -4467,19 +4066,8 @@ conquest_small = {
 	crisis = no
 	
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		THIS = {
 			OR = {
@@ -4627,19 +4215,8 @@ conquest_tiny = {
 	crisis = no
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		THIS = {
 			OR = {
@@ -4788,19 +4365,8 @@ demand_for_ally = {
 	# war target country of goal is scope
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		THIS = { ai = no }
 		NOT = {
@@ -4905,12 +4471,7 @@ opium_war = {
 
 	can_use = {
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		THIS = {
 			NOT = { has_country_flag = jan_mayen }
@@ -5005,19 +4566,8 @@ demand_chinese_concession_casus_belli = {
 	always = no
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		THIS = {
 			NOT = { has_country_flag = jan_mayen }
@@ -5155,12 +4705,6 @@ great_game = {
 	always = yes
 	
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
 			NOT = { has_country_flag = jan_mayen }
 		}
@@ -5289,12 +4833,6 @@ european_acquire_african_state = {
 	always = yes
 	
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
 			NOT = { has_country_flag = jan_mayen }
 		}
@@ -5386,12 +4924,6 @@ european_african_conquest = {
 	always = yes
 	
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
 			NOT = { has_country_flag = jan_mayen }
 		}
@@ -6278,12 +5810,6 @@ restore_puppet_province = {
 	can_use = {
 		NOT = {
 			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
-		NOT = {
-			OR = {
 				tag = GHO
 				tag = JAN
 			}
@@ -6562,12 +6088,7 @@ remove_cores = {
 
 	can_use = {
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		NOT = { is_our_vassal = THIS }
 		NOT = {
@@ -6644,19 +6165,8 @@ liberate_puppet_no_infamy = {
 
 	can_use = {
 		THIS = { is_greater_power = yes }
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
-			OR = {
-				NOT = { has_global_flag = ww1_bookmark }
-				has_global_flag = central_victory
-				has_global_flag = allied_victory
-				ai = no
-			}
+			ai = no
 		}
 		NOT = { is_our_vassal = THIS }
 		NOT = {
@@ -6849,18 +6359,6 @@ dismantle_cb = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
-		NOT = {
-			OR = {
-				has_country_flag = neutral
-				THIS = { has_country_flag = neutral }
-			}
-		}
 		THIS = {
 			has_global_flag = dismantlement_enabled
 		}

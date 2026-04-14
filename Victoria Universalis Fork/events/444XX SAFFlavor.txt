@@ -196,7 +196,6 @@ country_event = {
 	major = yes
 	
 	trigger = {
-		NOT = { has_global_flag = 1913_bookmark }
 		tag = SAF
 		owns = 2100
 		NOT = { has_global_flag = die_groot_trek }
@@ -263,7 +262,6 @@ country_event = {
 
 	trigger = {
 		tag = JAN
-		NOT = { has_global_flag = 1913_bookmark }
 		has_global_flag = die_groot_trek
 		OR = {
 			TRN = {

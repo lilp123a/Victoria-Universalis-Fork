@@ -6,10 +6,7 @@ country_event = {
 	picture = "TemperanceLeague"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		NOT = {
 			OR = {

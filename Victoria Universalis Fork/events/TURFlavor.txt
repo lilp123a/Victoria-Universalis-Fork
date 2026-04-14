@@ -101,7 +101,6 @@ country_event = {
 	trigger = {
 		tag = TUR
 		NOT = { is_greater_power = yes }
-		NOT = { has_global_flag = 1913_bookmark }
 		capital = 860
 		NOT = { owns = 817 }
 		NOT = { owns = 816 }

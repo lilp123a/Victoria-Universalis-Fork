@@ -1265,7 +1265,6 @@ russian_army_desc;The Russian Army may be the biggest land force of Europe, but 
 POP_DETAIL_LIFENEEDS;Life Needs;x
 EVTOPTA44473;We will crush them!;x
 EVTOPTA17540;Time is on our side. Let us wait them out with vague promises, but little or no action.;x
-break_neutrality_setup;Remove Neutral status from $RECIPIENT$.;x
 PAYED_POPS;即$NUM$劬 即$TYPE$s劬 getting 即$MONEY$劬;x
 VIC_reactionary_2;Victorian Farmers Union;x
 BE_PROVINCES;Provinces:;x
@@ -1297,7 +1296,6 @@ FJN_anarcho_liberal;Freedom Party;x
 EVTDESC36940;A treaty formalizing the nation of New Zealand was signed, wherein the Maori Chiefs recognized the sovereignty of Her Majesty Queen Victoria, and in turn she guaranteed the chiefs their lands, estates, forests and fisheries.;x
 REMOVE_nuwss_women_education;Education for Women;x
 MODIFIER_SELF_UNCIV_MILITARY;Military reform cost;x
-declare_neutrality_desc;If we declare neutrality, we will instantly peace out of all wars and other nations will not be able to justify regular casus bellis against us and vice versa. Upon declaring neutrality, a new "Break Neutrality" decision will appear that will remove the neutrality modifier at the cost of 15 infamy. Neighbouring nations can justify a new casus belli against us called "Violate Neutrality" that will remove our neutral status when added against us.;x
 PGG_socialist;Shehuidang;x
 highlander_raids_desc;Highlander raiders are looting our provinces in numbers.;x
 EVTOPTB3500;Leave him be;x
@@ -1421,7 +1419,6 @@ baby_booming_desc;Baby boom cooldown timer.;x
 Ideology;Ideology;x
 SELLLICENCEDESC;Request to build a number of units developed by another country.;x
 GMJ_conservative;Kuomintang Faction;x
-DIP_THEY_TO_NEUTR;Their neutrality is too high. It is currently 即$NOW$劬 and needs to be below 即$LIM$劬.;x
 CHAT_FILTER;Click to change if the user gets messages or not;x
 EVTDESC10290;And yet he saw the privations of a people denied that ancient breath of fresh air accorded by tradition as the birthright of the free sons of $COUNTRY$, liberty, and he wept.'\n\nOne of our country's most lauded authors has published a book recently, which critics have referred to as the most scathing condemnation of the $COUNTRY_ADJ$ political system ever to make it past censors. The author's work is a passionate argument for liberty and the disestablishment of the established monarchical order of the old world, in favor of the rights of peoples and republics.;x
 EVTNAME36623;Dissolution of the Union;x
@@ -1451,7 +1448,6 @@ PEACE_WE_ACCEPT_SETUP;When we accept a peace offer;x
 promote_clerks;Encourage Clerks ;x
 KAM_socialist;The Socialists;x
 EVTOPTA11103;Long live Il Risorgimento!;x
-AGRESSION_WAR_NEUTRALITY_NAME;$ORDER$$FIRST$ Violation of $SECOND$ Neutrality;x
 communist_faction;Communist Faction;x
 EVTOPTA44644;Support Juli嫕 Castro.;x
 corruption6;Corruption;x
@@ -2198,7 +2194,6 @@ REVOLTALLIANCE_2;$MONARCHTITLE$ the nation of;x
 EVTOPTB21030;Not really, why?;x
 EVTNAME60120;Increasing Federalism;x
 build_the_eiffel_tower_desc;Built as the entrance arch to the 1889 world's fair, the Eiffel tower is one of the most enduring and iconic symbols of Paris and of French architecture. Named for its designer Gustave Eiffel, the Eiffel tower was the tallest man made structure in the world until the 1930 completion of New York City's Chrysler Building.;x
-enforce_neutrality_title;即Enforce Neutality;x
 NOT_ABLE_TO_REINFORCE;This pop is now too small to reinforce this brigade.;x
 WEX_EFFECTS;Current Effects;x
 EVTNAME31514;Germany for Germans;x
@@ -3225,7 +3220,6 @@ EVTOPTB4430;Can't we give ourselves one more chance?;x
 EVTNAME34604;Jews Have Duties, Too!;x
 WETARGET_REMOVEFROMSPHERE_SETUP;When a nation removes another nation from our Sphere of Influence;x
 CRISIS_BACK_DOWN_WE_ACCEPT_BTN2;Fine!;x
-break_neutrality_short;Remove Neutral status from $RECIPIENT$. This effect happens whether this casus belli is enforced during a peace deal or not.;x
 LXA_liberal;The Liberal Faction;x
 plantation;Plantations and Mines;x
 CRISIS_BACK_DOWN_WE_ACCEPT_LOG;We accepted the offer to resolve the crisis from $ACTOR$.;x
@@ -3486,7 +3480,6 @@ EVTNAME1105;Diamond Fever - $PROVINCENAME$;x
 EVTOPTA90903;Play as the Revolutionaries. 刪If you win, the Warlord Era will begin.;x
 CRISIS_OFFER_THEY_DECLINE_2;$RECIPIENT$ declined to join talks over the current crisis.;x
 BKF_liberal;UNDD;x
-break_neutrality_desc;Using this casus belli to declare war on a country will remove their neutral status and allow normal casus bellis to be used against them. The effect is immediate and does not need to be enforced in the peace deal in order to take effect.;x
 CRISIS_OFFER_THEY_DECLINE_HEADER;The Foreign Minister reports;x
 EVTOPTA32514;We will sue for peace.;x
 PROVINCELOST_SETUP;When you lose control of a province;x
@@ -3950,7 +3943,6 @@ GIVEMILITARYACCESS_THEY_DECLINE_4;has somehow refused our generous offer of Mili
 COLONY_ABORT_5;We can no longer colonize this region.;x
 DECLINE;Decline;x
 INCREASERELATION_WE_ACCEPT_4;Our relation increased by 佈$CHANGE$劬 to 即$RELATION$劬.;x
-NEUTRALITY_EFFECT;The nation becomes neutral, dissolving all alliances and setting all satellites free.;x
 TRADE_SELL;Sell;x
 IS_EMPTY; has no owner;x
 form_arabia_desc;Brothers, freedom is here, we have won the battle for our destiny. Now the Arab people are on the way to resurrection!;x
@@ -4408,7 +4400,6 @@ NAVALATTACKTHEM_BTN1;OK;x
 EVTOPTD14170;Full citizenship is, sadly, not an option;x
 NAVALATTACKTHEM_LOG;Our navy has engaged a hostile fleet in $PROV$.;x
 EVTNAME4406;Yellow Journalism;x
-EVTNAME91338;刪Neutrality Enforcement呆;x
 NAVALATTACKTHEM_5;$ATTUNIT$\nattacking\n$DEFUNIT$;x
 REMOVE_EVTDESC10105;Our crops came up healthy in $PROVINCENAME$ this spring. The potato blight that has been plaguing $PROVINCENAME$ has finally ended.;x
 yes_to_congo;Voted Yes in the Congo Question;x
@@ -4802,7 +4793,6 @@ PV_POP_MIL;Mil;x
 PV_POP_CON;Con;x
 WARGOAL_THEY_ACCEPT_5;*;x
 EVTNAME2090;Segregation;x
-ADD_NEUTRALITY_EFFECT;即$COUNTRY$劬 gains 刪$VALUE$劬 in neutrality劬.\n;x
 PV_POP_ISSUES;Issu;x
 puppet_acquire_state_short;Acquire $STATE$ from $RECIPIENT$;x
 gtfo_CHK_title;Grant Champassak Independence;x
@@ -5212,7 +5202,6 @@ BAY_conservative_2;Konservative Partei;x
 EVTOPTB44613;Fight for the rebels.;x
 BAY_socialist;Deutscher Arbeiterverein;x
 KUB;Kuba;x
-EVTDESC91338;We are unable to fight in wars as a neutral nation. Enact the "佈Cancel Neutrality呆" decision to be able to fight wars.;x
 YZW_prussian_constitutionalism_ADJ;Uesugi;x
 REMOVE_EVTNAME14740;Peace in Colony;x
 OUR_CB_DETECTED_4;against;x
@@ -6172,7 +6161,6 @@ EVTDESC37700;To consolidate the budget, the government in Madrid ordered that Ch
 ATTACKTHEMREBEL_SETUP;When one of our land units attacks the rebellion.;x
 OFFERALLIANCEDESC;If a country accepts our Alliance offer, it may come to our assistance during wars.;x
 foreign_officers;Officer Training;x
-DIP_TO_NEUTR;Our neutrality is too high. It is currently 即$NOW$劬 and needs to be below 即$LIM$劬.;x
 WETARGET_REMOVEFROMSPHERE_1;即$RECIPIENT$劬;x
 annex_herat_desc;Since Herat's independence from the late Afghan Durrani Empire, it has been constantly under threat of conquest from Iran. In order to safeguard our western border and restore order to Afghanistan, we should bring Herat under our control. We must however ask permission from Britain before we make our move, as they have been protecting Herat until now.\n\n刪Civilization Progress must be 35% in order to enact this decision.;x
 EVTDESC37206;The Belgian instrument maker Adolphe Sax registered a patent on the so-called Saxophone. However, French competitors file several lawsuits, preventing Sax from effectively marketing his creation.;x
@@ -7928,7 +7916,6 @@ gtfo_LSK_title;Grant Alaska Independence;x
 EVTOPTA19020;Send the expedition!;x
 EVTDESC19020;The flora of $PROVINCENAME$ is spectacular, unique and mostly unknown to science. Here, in the vast spaces of uncharted land, an untold affluence of botanical riches awaits the discoverer who dares brave the harsh and unforgiving climate in search of it. The $COUNTRY_ADJ$ Botanical Society is considering sending an expedition to $PROVINCENAME$, but, as is so often the case, funds are lacking. Sending an expedition could further the cause of science, but, beware, we might get competition...;x
 KHZ_parliamentary_republic;Arabistan;x
-REMOVE_NEUTRALITY_EFFECT;即$COUNTRY$劬 loses 佈$VALUE$劬 in neutrality劬.\n;x
 EVTNAME19020;$PROVINCENAME$ Botanical Expedition?;x
 EVTNAME3752;Brick St. Gentlemen's Club;x
 EVTNAME19200;The Ems Dispatch;x
@@ -7941,7 +7928,6 @@ EVTDESC35925;A succession crisis in the Sultanate of Bandjar has erupted into an
 EVTNAME23435;Attend The Ninth Olympic Games?;x
 EVTNAME19005;Tensions in $FROMCOUNTRY$;x
 EVTOPTB2010;Encourage local business to employ;x
-break_neutrality;Violate Neutrality;x
 EVTOPTA44466;Excellent.;x
 gtfo_SLS_desc;We've had a good run, but it's time to end our rulership of Silesia: if you love something, let it go!;x
 EVTNAME19000;Great Power Contention;x
@@ -8223,7 +8209,7 @@ isolationist_foreign_naval_schools_desc;We might be able to use this military re
 EVTNAME30005;The Colonial Exposition Is Opened;x
 EVTNAME16160;The Liberator;x
 EVTOPTA16150;We have more important concerns;x
-EVTDESC16150;The 'Copperheads' were a group of Democrats in the Northern United States who, during the Civil War, opposed the war, and favored a peace settlement with the South. The moniker came originally from Unionists likening them to poisonous snakes, but it soon struck home with the Copperheads themselves. While there is no war yet, there is staunch resistance to abolitionism within some democratic circles in $PROVINCENAME$. Stepping up the local political campaigning could probably neutralize them, but only at the cost of offending southern sentiments.;x
+EVTDESC16150;The 'Copperheads' were a group of Democrats in the Northern United States who, during the Civil War, opposed the war, and favored a peace settlement with the South. The moniker came originally from Unionists likening them to poisonous snakes, but it soon struck home with the Copperheads themselves. While there is no war yet, there is staunch resistance to abolitionism within some democratic circles in $PROVINCENAME$. Stepping up the local political campaigning could probably neutralise them, but only at the cost of offending southern sentiments.;x
 SHO;Shonaland;x
 yazidi_country;Yazidi Religion;x
 EVTNAME16150;Copperheads;x
@@ -9890,7 +9876,6 @@ terrorist_cells;Terrorist Cells;x
 mafia;Mafia;x
 bleeding_state;Bleeding State;x
 immoral_business;Immoral Business;x
-cancel_neutrality_desc;Remove the neutrality status of our nation and allow casus bellis to be used by and against us.;x
 ALLIANCE_WE_ACCEPT_SETUP;When we accept another nation's alliance offer;x
 anarchic_bomb_throwers;Anarchic Bomb Throwers;x
 BP_TOOL_COLOR_YELLOW;Yellow;x
@@ -10234,12 +10219,8 @@ EVTNAME10105;Potato Famine Debated;x
 muhammad_alis_reforms;Muhammad Ali's Reforms;x
 EVTOPTA17550;I shall suggest down at the club that they start a subscription. Gin, anyone?;x
 install_communist_gov_sov_desc;Install a communist government.;x
-REMOVE_desc_neutral_suffrage;You are neutral towards the NUWSS and NSWRV.;x
 TAJ_socialist;The Socialist Faction;x
 BANEMBASSY_OTHER_ACCEPT_4;in 即$RECIPIENT$劬.;x
-REMOVE_neutral_suffrage;Neutral;x
-REMOVE_nswvr_suffrage;National Society of Women's Right to Vote;x
-REMOVE_nuwss_suffrage;National Union of Women's Suffrage Society;x
 ikea_desc;Furniture Factory Throughput: 佈+30%\n劬Sawmill Throughput: 佈+20%;x
 desc_copperhead_democrats;Pro-secessionist Democrats are active in this province;x
 acceptable_envir_desc;Most pollutants that could cause a threat to public health are heavily regulated.;x
@@ -10635,7 +10616,6 @@ abolish_cultuurstelsel_title;Abolish Cultuurstelsel;x
 CRISIS_BECAME_WAR_LOG;A crisis has escalated into war.;x
 indian_nationalists_desc;Indian nationalists seek to unify the sub-continent into a free and independent nation-state, by any means necessary. This includes breaking free from foreign oppressors and uniting with their cultural kin.;x
 WETARGET_REMOVEFROMSPHERE_2;$MONARCHTITLE$, someone is tampering with our empire!;x
-DIP_WAR_NEUTR;We cannot declare war because our neutrality is higher than the present threat. Our neutrality is currently 即$NEUT$劬 and the effective threat between us and $THEM$ allows us to declare war when our neutrality is at 即$THREAT$劬.;x
 gtfo_CRI_title;Grant Crimea Independence;x
 gunboat_setup;Will force them to honor their debts to us.;x
 EVTOPTA91887;Long live Russia!;x
@@ -10704,7 +10684,6 @@ desc_anaconda_plan;The Union is blockading our ports using Winfield Scott's Anac
 CANCEL_WARSUBSIDIES_OTHER_ACCEPT_2;$MONARCHTITLE$, we heard that;x
 RHI_reactionary;Nationale Partei;x
 CANCEL_WARSUBSIDIES_OTHER_ACCEPT_1;即$RECIPIENT$劬;x
-declare_neutrality_title;即Declare Neutrality;x
 CANCEL_WARSUBSIDIES_OTHER_ACCEPT_HEADER;The Foreign Minister reports;x
 GW_DISCOVERED_LOG;Great Wars discovered;x
 CANCEL_WARSUBSIDIES_WE_ACCEPT_BTN1;OK;x
@@ -10853,7 +10832,6 @@ custers_expedition_desc;The Black Hills, Dakota Territory, has been recognized b
 EVTOPTA12150;Reimburse the widows with pensions.;x
 INCREASEOPINION_OTHER_ACCEPT_HEADER;The Foreign Minister reports;x
 INCREASEOPINION_WE_ACCEPT_BTN3;Go to;x
-cancel_neutrality_title;即Cancel Neutrality;x
 colonial_focus;Colonisation;x
 EVTNAME30001;The World's Fair Is Opened;x
 EVTDESC31120;Turkey and its European neighbors have agreed to a compulsory exchange of nationalities to their respective countries.;x
@@ -13349,7 +13327,6 @@ OTHERDEFECT_HEADER;Defection!;x
 kongo_empire_desc;Before the Portuguese weakened us, we once ruled over the lands now inhabited by the Ngoyo and Kakango tribes. Now is the time to restore the great Kongo Empire.\n\n刪Civilization Progress must be 30% to enact this decision.;x
 RWA_liberal;Liberal Party;x
 PEACE_WE_DECLINE_HEADER;$MESSENGER$;x
-EVTOPTA91338;Understood.;x
 form_indonesia_desc;We have a dominant position in the Indonesian archipelago, and it is time we united the Malay, Javan, Moluccan and Melanesian people of the East Indies under a common banner.;x
 SRD_ADJ;Sardinian;x
 GENERAL;General;x
@@ -13396,7 +13373,6 @@ america_first_ww1_desc;America First refers to a populist political theory in th
 EVTNAME44469;The Fall of Egypt;x
 DECREASERELATION_WE_ACCEPT_SETUP;When a nation decreases their relations with us;x
 will_influence_elections_desc;We are following this year election.;x
-enforce_neutrality_desc;Forcibly peace out of all wars. Only nations with the Neutrality flag modifier can use this decision.;x
 gtfo_off_desc;Your decision list will now be uncluttered!;x
 request_trade_deal_title;即Request Trade Deal;x
 gtfo_TRE_title;Grant Trieste Independence;x
@@ -14859,7 +14835,6 @@ ADMIRAL;Admiral;x
 annex_south_africa_title;Annex Cape Colony;x
 gtfo_DAM_desc;We've had a good run, but it's time to end our rulership of Damagaram: if you love something, let it go!;x
 neighbor_bonus;Neighbour bonus;x
-NORMAL_WAR_NEUTRALITY_NAME;$ORDER$$FIRST$ Violation of $SECOND$ Neutrality;x
 finance_reform_two_desc;We can now borrow money from other nations;x
 DECREASEOPINION_THEY_ACCEPT_BTN1;OK;x
 EVTOPTA31520;Demand independence.;x

@@ -16,7 +16,6 @@ country_event = {
 		not = { owns = 2019 } # Entebbe, where direct source of Nile is located
 		is_greater_power = yes # Nation is a great power
 		year = 1866 # Will happen sometime after 1866
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	mean_time_to_happen =  {
@@ -69,7 +68,6 @@ country_event = {
 		not = { has_global_flag = NileDiscovered }
 		not = { has_country_flag = NoGoToNile }
 		year = 1868 # Will happen sometime after 1868
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 	
 	mean_time_to_happen =  {
@@ -118,7 +116,6 @@ country_event = {
 		not = { has_global_flag = NileDiscovered }
 		not = { has_country_flag = NoGoToNile }
 		year = 1869 # Will happen sometime after 1869
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	mean_time_to_happen =  {
@@ -174,7 +171,6 @@ country_event = {
 		not = { has_global_flag = NileDiscovered }
 		not = { has_country_flag = NoGoToNile }
 		year = 1870 # Will happen sometime after 1870
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	mean_time_to_happen =  {
@@ -221,7 +217,6 @@ country_event = {
 		not = { has_country_flag = YesGoToNorthPoleThird }
 		is_greater_power = yes # Nation is a great power
 		year = 1895 # Will happen sometime after 1895
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	mean_time_to_happen =  {
@@ -273,7 +268,6 @@ country_event = {
 		not = { has_global_flag = NorthPoleDiscovered }
 		not = { has_country_flag = NoGoToNorthPole }
 		year = 1897 # Will happen sometime after 1897
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	mean_time_to_happen = {
@@ -321,7 +315,6 @@ country_event = {
 		not = { has_global_flag = NorthPoleDiscovered }
 		not = { has_country_flag = NoGoToNorthPole }
 		year = 1899 # Will happen sometime after 1899
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	mean_time_to_happen = {
@@ -377,7 +370,6 @@ country_event = {
 		not = { has_global_flag = NorthPoleDiscovered }
 		not = { has_country_flag = NoGoToNorthPole }
 		year = 1900 # Will happen sometime after 1900
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	mean_time_to_happen =  {
@@ -423,7 +415,6 @@ country_event = {
 		not = { has_country_flag = YesGoToSouthPoleThird }
 		is_greater_power = yes # Nation is a great power
 		year = 1906 # Will happen sometime after 1906
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	mean_time_to_happen =  {
@@ -475,7 +466,6 @@ country_event = {
 		not = { has_global_flag = SouthPoleDiscovered }
 		not = { has_country_flag = NoGoToSouthPole }
 		year = 1908 # Will happen sometime after 1908
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	mean_time_to_happen =  {
@@ -524,7 +514,6 @@ country_event = {
 		not = { has_global_flag = SouthPoleDiscovered }
 		not = { has_country_flag = NoGoToSouthPole }
 		year = 1910 # Will happen sometime after 1910
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	mean_time_to_happen =  {
@@ -580,7 +569,6 @@ country_event = {
 		not = { has_global_flag = SouthPoleDiscovered }
 		not = { has_country_flag = NoGoToSouthPole }
 		year = 1910 # Will happen sometime after 1910
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	mean_time_to_happen =  {
@@ -620,7 +608,6 @@ country_event = {
 
 	trigger = { 
 		civilized = yes
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	mean_time_to_happen = {
@@ -658,7 +645,6 @@ country_event = {
 		not = { has_global_flag = SouthPoleDiscovered }
 		not = { has_country_flag = NoGoToSouthPole }
 		year = 1908 # Will happen sometime after 1908
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	mean_time_to_happen =  {

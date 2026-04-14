@@ -1079,12 +1079,6 @@ promote_to =
 			total_pops = 4000000
 			soldiers = 0.02
 		}
-		modifier = {
-			factor = -100
-			soldiers = 0.01
-			location = { is_colonial = yes }
-			country = { has_global_flag = 1913_bookmark }
-		}
 	}
 	craftsmen = {
 		factor = 0.01

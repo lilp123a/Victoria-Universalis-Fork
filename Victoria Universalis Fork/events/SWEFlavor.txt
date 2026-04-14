@@ -835,7 +835,6 @@ country_event = {
 	trigger = {
 		tag = JAN
 		year = 1880
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	option = {

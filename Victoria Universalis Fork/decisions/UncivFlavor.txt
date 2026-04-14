@@ -49,12 +49,6 @@ political_decisions = {
 			NOT = { has_country_flag = foreign_military_advisors }
 			NOT = {
 				OR = {
-					has_global_flag = 1913_bookmark
-					has_global_flag = ww1_bookmark
-				}
-			}
-			NOT = {
-				OR = {
 					primary_culture = british
 					primary_culture = boer
 				}

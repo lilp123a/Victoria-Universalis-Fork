@@ -369,10 +369,7 @@ country_event = {
 
 	trigger = {
 		NOT = {
-			OR = {
-				has_global_flag = 1913_bookmark
-				has_country_flag = 1848_polish_uprising
-			}
+			has_country_flag = 1848_polish_uprising
 		}
 		OR = {
 			owns = 699 # Posen - PRU
@@ -489,7 +486,6 @@ country_event = {
 		year = 1848
 		NOT = { year = 1850 }
 		NOT = { has_country_flag = hungarian_revolution_1848 }
-		NOT = { has_global_flag = 1913_bookmark }
 		NOT = { has_global_flag = cultures_setup }
 	}
 

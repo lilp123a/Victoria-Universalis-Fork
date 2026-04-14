@@ -529,7 +529,6 @@ country_event = {
     option = {
         name = "EVTOPTA31311"
 		clr_country_flag = confederalism
-		clr_country_flag = neutral
 		political_reform = federalism
 		set_country_flag = federalism
 		all_core = { add_core = SDB }
@@ -556,7 +555,6 @@ country_event = {
     option = {
         name = "EVTOPTB31311"
 		clr_country_flag = confederalism
-		clr_country_flag = neutral
 		political_reform = federalism
 		set_country_flag = federalism
 		all_core = { add_core = SDB }
@@ -595,7 +593,6 @@ country_event = {
 			has_country_flag = sonderbund
 		}
 		SDB = { exists = no }
-		NOT = { has_global_flag = 1913_bookmark }
     }
 
     option = {

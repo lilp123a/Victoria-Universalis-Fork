@@ -503,7 +503,6 @@ country_event = {
 			POL = { involved_in_crisis = yes }
 			exists = POL
 		}
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 	
 	fire_only_once = yes
@@ -537,7 +536,6 @@ country_event = {
 	trigger = {
 		tag = RUS
 		has_global_flag = tsar_of_all_slavs
-		NOT = { has_global_flag = 1913_bookmark }
 		war_with = TUR
 		OR = {
 			TUR = { national_provinces_occupied = 0.3 }
@@ -970,7 +968,6 @@ country_event = {
 		has_global_flag = tsar_of_all_slavs
 		RUS = { NOT = { war_with = TUR } }
 		NOT = { has_global_flag = congress_of_berlin }
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	option = {
@@ -1025,7 +1022,6 @@ country_event = {
 	trigger = {
 		tag = RUS
 		NOT = { has_country_flag = circassian_genocide }
-		NOT = { has_global_flag = 1913_bookmark }
 		owns = 1049
 		owns = 1051
 		owns = 1052
@@ -1069,7 +1065,6 @@ country_event = {
 		tag = JAN
 		RUS = { has_country_flag = circassian_genocide }
 		1056 = { NOT = { has_province_modifier = circassian_genocide } }
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	fire_only_once = yes

@@ -505,7 +505,6 @@ country_event = {
 	picture = generic_map
 
 	trigger = {
-		NOT = { has_global_flag = 1913_bookmark }
 		year = 1900
 		tag = JAN
 		NOT = { has_country_flag = 1900_pop_recession }
@@ -4163,7 +4162,6 @@ country_event = {
 		year = 1837
 		NOT = {
 			year = 1913
-			has_global_flag = 1913_bookmark
 		}
 		NOT = { has_country_modifier = baby_booming }
 		NOT = { has_country_flag = baby_boom_reminder }
@@ -4307,7 +4305,6 @@ country_event = {
 		tag = JAN
 		year = 1846
 		NOT = { has_country_flag = reb_tech_1 }
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	option = {
@@ -4330,7 +4327,6 @@ country_event = {
 		tag = JAN
 		year = 1856
 		NOT = { has_country_flag = reb_tech_2 }
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	option = {
@@ -4353,7 +4349,6 @@ country_event = {
 		tag = JAN
 		year = 1870
 		NOT = { has_country_flag = reb_tech_3 }
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	option = {
@@ -4376,7 +4371,6 @@ country_event = {
 		tag = JAN
 		year = 1890
 		NOT = { has_country_flag = reb_tech_4 }
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	option = {
@@ -4399,7 +4393,6 @@ country_event = {
 		tag = JAN
 		year = 1910
 		NOT = { has_country_flag = reb_tech_5 }
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	option = {
@@ -4483,31 +4476,6 @@ country_event = {
 		}
 	}
 }
-
-#########################################################################
-# 							END NEUTRAL WAR								#
-#########################################################################
-
-country_event = {
-	id = 91338
-	title = "EVTNAME91338"
-	desc = "EVTDESC91338"
-	picture = upper_house
-
-	trigger = {
-		has_country_flag = neutral
-		war = yes
-	}
-
-	immediate = {
-		any_country = { end_war = THIS }
-	}
-
-	option = {
-		name = "EVTOPTA91338"
-	}
-}
-
 
 #########################################################################
 # 						GREAT WAR PENALTY CB							#

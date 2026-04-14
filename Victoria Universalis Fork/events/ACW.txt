@@ -941,7 +941,6 @@ country_event = {
 		war = no
 		NOT = { war_exhaustion = 5 }
 		has_country_flag = mex_usa_war
-		NOT = { has_global_flag = 1913_bookmark }
 	}
 
 	option = {

@@ -139,7 +139,6 @@ political_decisions = {
 		potential = {
 			tag = TUR
 			NOT = { has_country_flag = embraced_ottomanism }
-			NOT = { has_global_flag = 1913_bookmark }
 		}
 		allow = {
 			NOT = { average_militancy = 2 }

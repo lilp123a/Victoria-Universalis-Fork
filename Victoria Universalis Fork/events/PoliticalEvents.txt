@@ -7,10 +7,7 @@ country_event = {
 	picture = "News"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		press_rights = state_press
 		average_consciousness = 3
@@ -76,10 +73,7 @@ country_event = {
 	picture = "News"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		press_rights = free_press
 		has_pop_type = capitalists
@@ -174,10 +168,7 @@ country_event = {
 	picture = "News"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		political_parties = underground_parties
 	}
@@ -250,10 +241,7 @@ country_event = {
 	picture = "Harassment"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		political_parties = harassment 
 	}
@@ -333,10 +321,7 @@ country_event = {
 	picture = "treaty"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		political_parties = gerrymandering
 		ruling_party_ideology = conservative
@@ -402,10 +387,7 @@ country_event = {
 	picture = "Voting"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		political_parties = non_secret_ballots
 	}
@@ -473,10 +455,7 @@ country_event = {
 	picture = "treaty"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		political_parties = secret_ballots
 	}
@@ -548,10 +527,7 @@ country_event = {
 	picture = "Revolution"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		trade_unions = no_trade_unions
 		civilized = yes
 		is_ideology_enabled = socialist
@@ -624,10 +600,7 @@ country_event = {
 	picture = "Strike"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		trade_unions = state_controlled
 	}
@@ -685,10 +658,7 @@ country_event = {
 	picture = "Strike"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		trade_unions = non_socialist
 		has_pop_type = capitalists
@@ -746,10 +716,7 @@ country_event = {
 	picture = "Demonstration"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		trade_unions = all_trade_unions
 		is_ideology_enabled = socialist
@@ -820,10 +787,7 @@ country_event = {
 	picture = "Policeaction"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		public_meetings = no_meeting
 	}
@@ -881,10 +845,7 @@ country_event = {
 	picture = "Revolution"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		public_meetings = no_meeting
 		plurality = 7
@@ -933,10 +894,7 @@ country_event = {
 	picture = "Finepeople"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		public_meetings = yes_meeting
 		plurality = 4
 		civilized = yes
@@ -1017,10 +975,7 @@ country_event = {
 	picture = "Demonstration"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		average_militancy = 5
 		public_meetings = yes_meeting
@@ -1077,10 +1032,7 @@ country_event = {
 	picture = "meeting3"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		public_meetings = yes_meeting
 		NOT = {
@@ -1138,10 +1090,7 @@ country_event = {
 	picture = "Factoryattack"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		OR = {
 			unemployment_subsidies = no_subsidies
@@ -1214,10 +1163,7 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		public_meetings = yes_meeting
 		political_reform_want = 0.15
@@ -1297,10 +1243,7 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		upper_house_composition = party_appointed
 		political_reform_want = 0.3
@@ -1358,10 +1301,7 @@ country_event = {
 	picture = "Demonstration"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		upper_house_composition = appointed
 		political_reform_want = 0.2
@@ -1432,10 +1372,7 @@ country_event = {
 	picture = "Demonstration"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		upper_house_composition = state_equal_weight
 		political_reform_want = 0.2
@@ -1500,10 +1437,7 @@ country_event = {
 	picture = "meeting3"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		voting_system = first_past_the_post
 		civilized = yes
 	}
@@ -1547,10 +1481,7 @@ country_event = {
 	picture = "meeting3"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		voting_system = jefferson_method
 	}
@@ -1602,10 +1533,7 @@ country_event = {
 	picture = "treaty"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		voting_system = proportional_representation
 		upper_house = {
@@ -1672,10 +1600,7 @@ country_event = {
 	picture = "Demonstration"
 	
 	trigger = {
-		OR = {
-			NOT = { has_global_flag = 1913_bookmark }
-			war = no
-		}
+		war = no
 		civilized = yes
 		vote_franschise = none_voting
 		average_militancy = 8
