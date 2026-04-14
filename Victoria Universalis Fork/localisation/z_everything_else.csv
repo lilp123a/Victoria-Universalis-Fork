@@ -3187,7 +3187,6 @@ establish_korean_protectorate_desc;Our advisors believe that any enroachment upo
 gtfo_KGR_title;Grant Kingdom of Greece Independence;x
 GUNBOAT_OTHER_ACCEPT_2;$ACTOR$;x
 yes_western_shipyards_l;Western Shipyards;x
-change_nv_title;§YChange National Value;x
 BACK_CRISIS_OTHER_ACCEPT_3;It seems that $RECIPIENT$;x
 iwakura_mission_desc;The Iwakura Mission was a Japanese diplomatic voyage to the United States and Europe by leading statesmen and scholars of the Meiji period. The aim of the mission was threefold: to gain recognition for the newly reinstated imperial dynasty under the Emperor Meiji, to begin preliminary renegotiation of the unequal treaties with the dominant world powers, and to make a comprehensive study of modern industrial, political, military and educational systems and structures in the United States and Europe.;x
 gtfo_CIR_desc;We've had a good run, but it's time to end our rulership of Circassia: if you love something, let it go!;x
@@ -14014,7 +14013,6 @@ GAB_fascist;People's Unity Party;x
 BA_WORK_FORCE;Work Force;x
 accept_trade_deal_26_desc;If we enter into a trade deal with the chosen country, we will get a decision that allows us to send goods from our stockpile to our trading partner.;x
 desc_ruhr_boom_city;Cities all across Germany are growing and changing from rural townships to modern centers of industry thanks to the examples set by the burgeoning Ruhr industrialism.;x
-change_nv_desc;Choose a new national value for your nation.;x
 PARTY_UNAVAIL_BTN3;Go to;x
 historical_congo;Historical Congo;x
 YAK_communist;The Communists;x
@@ -14936,3 +14934,4 @@ second_power;Secondary Power;x
 NOT_EXIST;$TAG$ does not exist at this time.;x
 partisans_army;$CULTURE$ Partisans;x
 grant_requests_enabled;Grant Requests Enabled;x
+nv_industry;Industry;x

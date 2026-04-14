@@ -22,10 +22,24 @@ nv_liberty = {
 
 nv_equality = {
 	mobilisation_economy_impact = 1.0
-	culture_tech_research_bonus = 0.05
+	culture_tech_research_bonus = 0.1
 	commerce_tech_research_bonus = -0.05
 	global_assimilation_rate = 0.5
 	social_reform_desire = 0.2
 	non_accepted_pop_militancy_modifier = -0.01
 	global_pop_consciousness_modifier = 0.01
+}
+
+nv_autocracy = {}
+
+nv_tradition = {}
+
+nv_industry = {
+    tax_efficiency = 0.1
+    factory_throughput = 0.05
+    RGO_throughput = 0.05
+    artisan_throughput = 0.05
+    commerce_tech_research_bonus = 0.05
+    industry_tech_research_bonus = 0.05
+    mobilisation_economy_impact = 0.9
 }

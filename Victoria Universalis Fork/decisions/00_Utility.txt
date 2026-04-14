@@ -837,6 +837,38 @@ political_decisions = {
 		}
 	}
 	
+	#############################
+	### CHANGE NATIONAL VALUE ###
+	#############################
+	# Decision to change national value (after researching Revolution & Counter-revolution)
+	
+	utility_change_national_value = {
+		picture = utility_change_national_value
+		alert = no
+		
+		potential = {
+			ai = no
+			has_country_flag = utility_decisions_shown
+			
+			revolution_n_counterrevolution = 1
+			NOT = { has_country_modifier = national_confusion }
+		}
+		
+		allow = {}
+		
+		effect = {
+			add_country_modifier = {
+				name = national_confusion
+				duration = 7300
+			}
+			
+			country_event = {
+				id = 92310
+				days = 0
+			}
+		}
+	}
+	
 	###########################
 	### TECH SCHOOL CHANGES ###
 	###########################

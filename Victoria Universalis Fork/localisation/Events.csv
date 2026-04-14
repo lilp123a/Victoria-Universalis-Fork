@@ -64,3 +64,10 @@ EVTOPTM92308;§B-0.05 Monthly Infamy§!;x
 EVTNAME92309;Invalid National Idea Pick;x
 EVTDESC92309;You chose a national idea you already have. You can re-take the decision to pick again.;x
 EVTOPTA92309;OK;x
+EVTNAME92310;National Value Selection;x
+EVTDESC92310;Choose a new national value from the list below.;x
+EVTOPTA92310;Cancel;x
+EVTOPTB92310;Order;x
+EVTOPTC92310;Liberty;x
+EVTOPTD92310;Equality;x
+EVTOPTE92310;Industry;x

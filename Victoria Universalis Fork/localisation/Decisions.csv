@@ -50,6 +50,8 @@ utility_stop_controlling_vassal_armies_title;§YStop Controlling Vassal Armies§!;
 utility_stop_controlling_vassal_armies_desc;End the war with the fake target.;x
 utility_request_negotiations_title;§YRequest Negotiations§!;x
 utility_request_negotiations_desc;This will trigger an event that will allow you to ask other players that you are fighting to unoccupy land they've occupied from you or allow you to occupy their capital. This can be used to speed up the process of adding wargoals when a war has been won.\n\n§RDon't use this decision unless the enemy has surrendered.§!;x
+utility_change_national_value_title;§YChange National Value§!;x
+utility_change_national_value_desc;Choose a new national value for your nation.;x
 utility_switch_to_traditional_academia_title;§YRestore the Academia§!;x
 utility_switch_to_traditional_academia_desc;Many within our academic circles feel that the present direction of our academia suffers from an undue bias, and that we should return to a more traditional academic profile.;x
 utility_switch_to_army_tech_title;§YMilitary-Industrial Complex§!;x

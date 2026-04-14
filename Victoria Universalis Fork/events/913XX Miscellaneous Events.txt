@@ -4180,34 +4180,6 @@ country_event = {
 }
 
 #########################################################################
-# 							NATIONAL VALUES								#
-#########################################################################
-country_event = {
-	id = 91311
-	title = "National Values"
-	desc = "Choose a new national value for your nation."
-	picture = Upperhouse
-
-	is_triggered_only = yes
-
-	option = {
-		name = "Equality"
-		nationalvalue = nv_equality
-	}
-
-	option = {
-		name = "Liberty"
-		nationalvalue = nv_liberty
-	}
-
-	option = {
-		name = "Order"
-		nationalvalue = nv_order
-	}
-}
-
-
-#########################################################################
 # 						REFORMS AND DEMOCRACY							#
 #########################################################################
 country_event = {

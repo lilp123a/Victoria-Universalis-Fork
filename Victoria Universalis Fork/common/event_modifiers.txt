@@ -2,14 +2,17 @@
 # scriptable and usable for event-system below.
 ##################################################################################################
 
-##### POLITICAL EVENTS ######
+##### POLITICAL ######
 government_sanitarium = {
 	population_growth = 0.005
 	icon = 19
 }
 
-##### TECH SCHOOLS ######
 academic_confusion = {
+	icon = 6
+}
+
+national_confusion = {
 	icon = 6
 }
 

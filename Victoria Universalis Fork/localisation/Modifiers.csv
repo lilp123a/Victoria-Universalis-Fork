@@ -40,3 +40,5 @@ militancy_idea;National Idea: Militancy;x
 militancy_idea_desc; ;x
 infamy_idea;National Idea: Infamy Reduction;x
 infamy_idea_desc; ;x
+national_confusion;National Confusion;x
+national_confusion_desc;We have recently changed our national value.;x

@@ -1417,3 +1417,51 @@ province_event = {
 		name = EVTOPTA92309
 	}
 }
+
+#############################
+### CHANGE NATIONAL VALUE ###
+#############################
+
+country_event = {
+	id = 92310
+	title = EVTNAME92310
+	desc = EVTDESC92310
+	picture = upper_house
+	
+	is_triggered_only = yes
+	
+	# Cancel
+	option = {
+		name = EVTOPTA92310
+		
+		remove_country_modifier = national_confusion
+	}
+	
+	# Order
+	option = {
+		name = EVTOPTB92310
+		
+		nationalvalue = nv_order
+	}
+	
+	# Liberty
+	option = {
+		name = EVTOPTC92310
+		
+		nationalvalue = nv_liberty
+	}
+	
+	# Equality
+	option = {
+		name = EVTOPTD92310
+		
+		nationalvalue = nv_equality
+	}
+	
+	# Industry
+	option = {
+		name = EVTOPTE92310
+		
+		nationalvalue = nv_industry
+	}
+}
