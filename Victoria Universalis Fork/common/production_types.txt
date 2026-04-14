@@ -152,14 +152,6 @@ aeroplane_factory = {
 		trigger = { has_building = lumber_mill }
 		value = 0.05
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = aviation_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = mitsubishi } }
-		value = 0.1
-	}
 }
 
 barrel_factory = {       
@@ -183,18 +175,6 @@ barrel_factory = {
 	bonus = {
 		trigger = { has_building = electric_gear_factory }
 		value = 0.05
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = motor_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = ford_motors } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = fiat } }
-		value = 0.2
 	}
 }
 
@@ -221,18 +201,6 @@ automobile_factory = {
 		trigger = { has_building = steel_factory }
 		value = 0.05
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = motor_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = ford_motors } }
-		value = 0.3
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = fiat } }
-		value = 0.3
-	}
 }
 
 radio_factory = {       
@@ -251,14 +219,6 @@ radio_factory = {
 		trigger = { has_building = glass_factory }
 		value = 0.1
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = electronics_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = philips } }
-		value = 0.3
-	}
 }
 
 telephone_factory = {       
@@ -276,14 +236,6 @@ telephone_factory = {
 	bonus = {
 		trigger = { has_building = glass_factory }
 		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = electronics_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = philips } }
-		value = 0.2
 	}
 }
 
@@ -310,18 +262,6 @@ electric_gear_factory = {
 		trigger = { has_building = steel_factory }
 		value = 0.1
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = tooling_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = aviation_company } }
-		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = john_cockerill } }
-		value = 0.2
-	}
 }
 
 machine_parts_factory = {       
@@ -340,18 +280,6 @@ machine_parts_factory = {
 		trigger = { trade_goods_in_state = coal }
 		value = 0.1
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = tooling_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = aviation_company } }
-		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = john_cockerill } }
-		value = 0.3
-	}
 }
 
 synthetic_oil_factory = {       
@@ -364,22 +292,6 @@ synthetic_oil_factory = {
 	bonus = {
 		trigger = { trade_goods_in_state = coal }
 		value = 0.25
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = oil_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = persian_oil } }
-		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = caribbean_petroleum } }
-		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = aguila } }
-		value = 0.1
 	}
 }
 
@@ -406,14 +318,6 @@ synthetic_rubber_factory = {
 		}
 		value = 0.1
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = chemical_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = basf } }
-		value = 0.2
-	}
 }
 
 synthetic_nitrate_factory = {       
@@ -431,14 +335,6 @@ synthetic_nitrate_factory = {
 	bonus = {
 		trigger = { trade_goods_in_state = iron }
 		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = chemical_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = basf } }
-		value = 0.3
 	}
 }
 
@@ -459,22 +355,6 @@ fuel_refinery = {
 			}
 		}
 		value = 0.25
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = oil_company } }
-		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = persian_oil } }
-		value = 0.3
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = caribbean_petroleum } }
-		value = 0.3
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = aguila } }
-		value = 0.3
 	}
 }
 
@@ -501,18 +381,6 @@ steamer_shipyard = {
 		value = 0.05
 	}
 	bonus = {
-		trigger = { owner = { has_country_flag = shipyard_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = thames_ironworks } }
-		value = 0.3
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = mitsubishi } }
-		value = 0.3
-	}
-	bonus = {
 		trigger = { owner = { ai = yes } }
 		value = 0.5
 	}
@@ -536,14 +404,6 @@ luxury_clothes_factory = {
 		trigger = { trade_goods_in_state = silk }
 		value = 0.1
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = luxury_goods_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = house_of_worth } }
-		value = 0.3
-	}
 }
 
 luxury_furniture_factory = {       
@@ -562,14 +422,6 @@ luxury_furniture_factory = {
 		trigger = { trade_goods_in_state = tropical_wood }
 		value = 0.1
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = luxury_goods_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = house_of_worth } }
-		value = 0.2
-	}
 }
 
 ############# MEDIUM FACTORIES
@@ -587,12 +439,8 @@ pharmaceutical_plant = {
 		value = 0.15
 	}
 	bonus = {
-		trigger = { trade_goods_in_state = glass }
+		trigger = { has_building = glass_factory }
 		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = drug_company } }
-		value = 0.2
 	}
 }
 
@@ -614,34 +462,6 @@ steel_factory = {
 		trigger = { trade_goods_in_state = coal }
 		value = 0.1
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = construction_company } }
-		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = carnegie_steel } }
-		value = 0.3
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = krupp_steelworks } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = manfred_weiss } }
-		value = 0.3
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = putilov_plant } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = altos_vizcaya } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = william_sandford } }
-		value = 0.3
-	}
 }
 
 artillery_factory = {       
@@ -659,18 +479,6 @@ artillery_factory = {
 	bonus = {
 		trigger = { has_building = explosives_factory }
 		value = 0.15
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = heavy_armament_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = krupp_steelworks } }
-		value = 0.3
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = skoda_works } }
-		value = 0.3
 	}
 }
 
@@ -696,14 +504,6 @@ clipper_shipyard = {
 		trigger = { has_building = lumber_mill }
 		value = 0.1
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = shipyard_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = thames_ironworks } }
-		value = 0.2
-	}
 }
 
 small_arms_factory = {       
@@ -723,14 +523,6 @@ small_arms_factory = {
 		trigger = { has_building = lumber_mill }
 		value = 0.15
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = firearm_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = beretta } }
-		value = 0.3
-	}
 }
 
 ammunition_factory = {       
@@ -749,14 +541,6 @@ ammunition_factory = {
 		trigger = { has_building = steel_factory }
 		value = 0.1
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = firearm_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = beretta } }
-		value = 0.3
-	}
 }
 
 ############# COMMON FACTORIES
@@ -772,14 +556,6 @@ furniture_factory = {
 		trigger = { has_building = lumber_mill }
 		value = 0.25
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = furniture_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = ikea } }
-		value = 0.3
-	}
 }
 
 paper_mill = {       
@@ -793,22 +569,6 @@ paper_mill = {
 		trigger = { trade_goods_in_state = timber }
 		value = 0.25
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = tobacco_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = tetley } }
-		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = ottoman_tobacco } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = fazenda_fortaleza } }
-		value = 0.1
-	}
 }
 
 regular_clothes_factory = {       
@@ -821,26 +581,6 @@ regular_clothes_factory = {
 	bonus = {
 		trigger = { has_building = fabric_factory }
 		value = 0.25
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = clothing_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = mitsui } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = espana_industrial } }
-		value = 0.3
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = companhia_mocambique } }
-		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = hudson_bay } }
-		value = 0.2
 	}
 }
   
@@ -859,18 +599,6 @@ explosives_factory = {
 	bonus = {
 		trigger = { has_building = ammunition_factory }
 		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = heavy_armament_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = skoda_works } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = monopolio_del_salitre } }
-		value = 0.2
 	}
 }
 
@@ -894,26 +622,6 @@ fabric_factory = {
 				}
 			}
 		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = clothing_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = espana_industrial } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = mitsui } }
-		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = companhia_mocambique } }
-		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = hudson_bay } }
-		value = 0.2
 	}
 }
 
@@ -946,18 +654,6 @@ canned_food_factory = {
 		trigger = { trade_goods_in_state = iron }
 		value = 0.05
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = grocery_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = bunge_born } }
-		value = 0.3
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = hudson_bay } }
-		value = 0.1
-	}
 }
 
 dye_factory = {       
@@ -970,14 +666,6 @@ dye_factory = {
 	bonus = {
 		trigger = { trade_goods_in_state = coal }
 		value = 0.25
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = chemical_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = basf } }
-		value = 0.3
 	}
 }
 
@@ -997,22 +685,6 @@ cigarette_factory = {
 		trigger = { has_building = paper_mill }
 		value = 0.1
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = tobacco_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = mitsui } }
-		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = companhia_mocambique } }
-		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = ottoman_tobacco } }
-		value = 0.3
-	}
 }
 
 tea_packaging_factory = {
@@ -1029,22 +701,6 @@ tea_packaging_factory = {
 	}
 	bonus = {
 		trigger = { has_building = paper_mill }
-		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = beverage_company } }
-		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = tetley } }
-		value = 0.4
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = mitsui } }
-		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = companhia_mocambique } }
 		value = 0.1
 	}
 }
@@ -1064,18 +720,6 @@ coffee_packaging_factory = {
 	bonus = {
 		trigger = { has_building = paper_mill }
 		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = beverage_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = companhia_mocambique } }
-		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = fazenda_fortaleza } }
-		value = 0.4
 	}
 }
 
@@ -1098,18 +742,6 @@ liquor_distillery = {
 		trigger = { trade_goods_in_state = grain }
 		value = 0.1
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = brewing_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = vodka_monopoly } }
-		value = 0.4
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = confederation_vignerons } }
-		value = 0.1
-	}
 }
 
 winery = {       
@@ -1128,18 +760,6 @@ winery = {
 		trigger = { trade_goods_in_state = fruit }
 		value = 0.1
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = brewing_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = vodka_monopoly } }
-		value = 0.1
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = confederation_vignerons } }
-		value = 0.4
-	}
 }
 
 lumber_mill = {       
@@ -1154,14 +774,6 @@ lumber_mill = {
 		trigger = { trade_goods_in_state = timber }
 		value = 0.25
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = furniture_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = ikea } }
-		value = 0.2
-	}
 }
 
 cement_factory = {       
@@ -1174,30 +786,6 @@ cement_factory = {
 	bonus = {
 		trigger = { trade_goods_in_state = coal }
 		value = 0.25
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = construction_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = carnegie_steel } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = manfred_weiss } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = putilov_plant } }
-		value = 0.3
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = altos_vizcaya } }
-		value = 0.3
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = william_sandford } }
-		value = 0.2
 	}
 }
 
@@ -1212,18 +800,6 @@ glass_factory = {
 		trigger = { trade_goods_in_state = coal }
 		value = 0.25
 	}
-	bonus = {
-		trigger = { owner = { has_country_flag = grocery_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = drug_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = bunge_born } }
-		value = 0.2
-	}
 }
 
 fertilizer_factory = {       
@@ -1236,18 +812,6 @@ fertilizer_factory = {
 	bonus = {
 		trigger = { trade_goods_in_state = sulphur }
 		value = 0.25
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = chemical_company } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = basf } }
-		value = 0.2
-	}
-	bonus = {
-		trigger = { owner = { has_country_flag = monopolio_del_salitre } }
-		value = 0.3
 	}
 }
 
