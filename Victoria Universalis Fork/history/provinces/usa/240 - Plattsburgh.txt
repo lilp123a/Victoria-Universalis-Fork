@@ -1,5 +1,13 @@
 owner = USA
-controller = USA
-add_core = USA
+
+
+controller = USA
+
+
+add_core = USA
+
+
 trade_goods = timber
+
 life_rating = 35
+

@@ -9,8 +9,3 @@ terrain = mountain_mine
 	controller = PBC
 	add_core = PBC
 }
-1913.1.1 = {
-	owner = PEU
-	controller = PEU
-	remove_core = PBC
-}

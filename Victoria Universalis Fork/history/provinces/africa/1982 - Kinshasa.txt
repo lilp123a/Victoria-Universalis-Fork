@@ -3,8 +3,3 @@ controller = KON
 add_core = KON
 trade_goods = grain
 life_rating = 30
-1913.1.1 = {
-	owner = BEL
-	controller = BEL
-	colonial = 2
-}

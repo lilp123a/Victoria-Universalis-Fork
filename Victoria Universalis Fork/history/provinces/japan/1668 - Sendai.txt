@@ -10,9 +10,3 @@ naval_base = 1
 	add_core = JAP
 	remove_core = TKG
 }
-1913.1.1 = {
-	owner = JAP
-	controller = JAP
-	colonial = 0
-	naval_base = 6
-}

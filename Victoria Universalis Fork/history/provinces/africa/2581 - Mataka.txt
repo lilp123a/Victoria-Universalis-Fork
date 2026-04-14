@@ -3,9 +3,3 @@ controller = CIV
 add_core = AGC
 trade_goods = cattle
 life_rating = 15
-1913.1.1 = {
-	owner = POR
-	controller = POR
-	colonial = 2
-	life_rating = 35
-}

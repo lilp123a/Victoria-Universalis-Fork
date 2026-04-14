@@ -9,11 +9,3 @@ life_rating = 35
 	controller = PBC
 	add_core = PBC
 }
-1913.1.1 = {
-	owner = BOL
-	controller = BOL
-	remove_core = PBC
-}
-1913.1.1 = {
-	remove_core = ARC
-}

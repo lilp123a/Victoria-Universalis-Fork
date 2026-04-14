@@ -9,7 +9,3 @@ life_rating = 40
 	controller = PRU
 	add_core = PRU
 }
-1913.1.1 = {
-	owner = GER
-	controller = GER
-}

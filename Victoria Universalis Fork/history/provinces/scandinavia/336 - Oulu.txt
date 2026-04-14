@@ -7,22 +7,3 @@ life_rating = 40
 1836.1.2 = {
 	add_core = KSN
 }
-1913.1.1 = {
-	owner = RUS
-	controller = RUS
-	remove_core = SWE
-	remove_core = KSN
-}
-1913.1.1 = {
-	state_building = {
-		level = 2
-		building = lumber_mill
-		upgrade = yes
-	}
-	state_building = {
-		level = 1
-		building = furniture_factory
-		upgrade = yes
-	}
-	naval_base = 5
-}

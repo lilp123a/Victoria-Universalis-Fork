@@ -11,11 +11,3 @@ terrain = forest_mine
 	controller = KSN
 	add_core = KSN
 }
-1913.1.1 = {
-	owner = SWE
-	controller = SWE
-	remove_core = KSN
-}
-1913.1.1 = { 
-	naval_base = 6
-}

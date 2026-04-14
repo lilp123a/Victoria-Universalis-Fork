@@ -8,13 +8,3 @@ life_rating = 35
 	controller = AFG
 	add_core = AFG
 }
-1913.1.1 = {
-	owner = AFG
-	controller = AFG
-	colonial = 0
-	state_building = {
-		level = 1
-		building = canned_food_factory
-		upgrade = yes
-	}
-}

@@ -7,8 +7,3 @@ add_core = HND
 add_core = PAK
 trade_goods = wool
 life_rating = 35
-1913.1.1 = {
-	owner = EIC
-	controller = EIC
-	colonial = 0
-}

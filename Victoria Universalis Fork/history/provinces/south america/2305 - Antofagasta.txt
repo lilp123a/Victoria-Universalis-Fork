@@ -10,20 +10,3 @@ terrain = desert_mine
 	controller = PBC
 	add_core = PBC
 }
-1913.1.1 = {
-	owner = CHL
-	controller = CHL
-	remove_core = BOL
-	remove_core = PBC
-	state_building = {
-		level = 1
-		building = ammunition_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 1
-		building = canned_food_factory
-		upgrade = yes
-	}
-	naval_base = 5
-}

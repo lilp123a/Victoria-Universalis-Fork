@@ -9,8 +9,3 @@ life_rating = 40
 	controller = KSN
 	add_core = KSN
 }
-1913.1.1 = {
-	owner = SWE
-	controller = SWE
-	remove_core = KSN
-}

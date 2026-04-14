@@ -12,20 +12,3 @@ terrain = mountain_mine
 	controller = TUR
 	colonial = 0
 }
-1913.1.1 = {
-	state_building = {
-		level = 1
-		building = steel_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 1
-		building = artillery_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 1
-		building = canned_food_factory
-		upgrade = yes
-	}
-}

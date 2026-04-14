@@ -9,16 +9,3 @@ terrain = jungle_mine
 	owner = BRZ
 	controller = BRZ
 }
-1913.1.1 = {
-	state_building = {
-		level = 1
-		building = cigarette_factory
-		upgrade = yes
-	}
-	naval_base = 5
-}
-1913.1.1 = {
-	owner = BRZ
-	controller = BRZ
-	remove_core = GRP
-}

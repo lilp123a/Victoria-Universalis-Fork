@@ -4,9 +4,3 @@ trade_goods = cattle
 life_rating = 32
 owner = XIN
 controller = XIN
-1913.1.1 = {
-	owner = CHI
-	controller = CHI
-	add_core = CHI
-	remove_core = QNG
-}

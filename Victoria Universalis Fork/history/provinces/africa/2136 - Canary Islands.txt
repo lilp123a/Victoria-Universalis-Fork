@@ -9,6 +9,3 @@ colonial = 0
 1836.1.2 = {
 	remove_core = SPC
 }
-1913.1.1 = {
-	naval_base = 5
-}

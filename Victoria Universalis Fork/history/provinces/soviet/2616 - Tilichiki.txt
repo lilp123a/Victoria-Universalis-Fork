@@ -8,15 +8,3 @@ life_rating = 35
 	owner = AFG
 	controller = AFG
 }
-1913.1.1 = {
-	owner = AFG
-	controller = AFG
-	colonial = 0
-}
-1913.1.1 = {
-	state_building = {
-		level = 1
-		building = lumber_mill
-		upgrade = yes
-	}
-}

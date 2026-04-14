@@ -10,10 +10,3 @@ terrain = coastal_desert
 	owner = PER
 	controller = PER
 }
-1913.1.1 = {
-	owner = PER
-	controller = PER
-}
-1913.1.1 = {
-	naval_base = 3
-}

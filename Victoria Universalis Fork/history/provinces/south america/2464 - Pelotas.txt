@@ -9,8 +9,3 @@ terrain = plains_mine
 	owner = BRZ
 	controller = BRZ
 }
-1913.1.1 = {
-	owner = BRZ
-	controller = BRZ
-	remove_core = RGS
-}

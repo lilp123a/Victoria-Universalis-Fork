@@ -11,9 +11,3 @@ terrain = mountain_mine
 	controller = AUS
 	add_core = AUS
 }
-1913.1.1 = {
-	owner = KUK
-	controller = KUK
-	remove_core = AUS
-	add_core = KUK
-}

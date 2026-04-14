@@ -5,9 +5,3 @@ add_core = DAR
 trade_goods = wool
 life_rating = 15
 terrain = desert
-1913.1.1 = {
-owner = ENG
-controller = ENG
-colonial = 2
-life_rating = 35
-}

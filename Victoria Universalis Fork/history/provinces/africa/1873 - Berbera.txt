@@ -6,8 +6,3 @@ add_core = GEL
 add_core = SOM
 trade_goods = cotton
 life_rating = 35
-1913.1.1 = {
-	owner = SOM
-	controller = SOM
-	colonial = 0
-}

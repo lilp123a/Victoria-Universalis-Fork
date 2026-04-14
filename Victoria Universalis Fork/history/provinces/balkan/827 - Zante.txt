@@ -9,11 +9,3 @@ life_rating = 40
 	controller = GRE
 	remove_core = ION
 }
-1913.1.1 = {
-owner = GRE
-controller = GRE
-remove_core = ION
-}
-1914.7.28 = {
-add_core = KGR
-}
