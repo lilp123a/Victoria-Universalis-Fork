@@ -2301,10 +2301,7 @@ demand_concession_casus_belli = {
 				}
 			}
 		}
-		OR = {
-			NOT = { tag = JAP }
-			NOT = { has_global_flag = mp_1836_literacy_setup }
-		}
+		NOT = { tag = JAP }
 	}
 	
 	allowed_states = {
@@ -2917,13 +2914,7 @@ unification_casus_belli = {
 				primary_culture = platinean
 				is_culture_group = east_asian
 			}
-			OR = {
-				nationalism_n_imperialism = 1
-				AND = {
-					is_culture_group = italian
-					has_global_flag = mp_1836_literacy_setup
-				}
-			}
+			nationalism_n_imperialism = 1
 			is_cultural_union = no
 			OR = {
 				NOT = { is_culture_group = germanic }
@@ -3051,13 +3042,7 @@ unification_annex_casus_belli = {
 				primary_culture = platinean
 				is_culture_group = east_asian
 			}
-			OR = {
-				nationalism_n_imperialism = 1
-				AND = {
-					is_culture_group = italian
-					has_global_flag = mp_1836_literacy_setup
-				}
-			}
+			nationalism_n_imperialism = 1
 			is_cultural_union = no
 			OR = {
 				NOT = { is_culture_group = germanic }

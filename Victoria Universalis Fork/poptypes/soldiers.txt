@@ -221,13 +221,11 @@ country_migration_target =
 		factor = 10
 		is_culture_group = american_cultures
 		THIS = { has_pop_culture = irish }
-		NOT = { has_global_flag = mp_1836_literacy_setup }
 	}
 	modifier = {
 		factor = 0.01
 		NOT = { is_culture_group = american_cultures }
 		NOT = { is_culture_group = neo_european_cultures }
-		NOT = { has_global_flag = mp_1836_literacy_setup }
 		THIS = { has_pop_culture = irish }
 	}
 	modifier = {

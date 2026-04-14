@@ -29,13 +29,8 @@ political_decisions = {
 	reconquista_mex = {
 		picture = reconquista_mex
 		potential = {
-			OR = {
-				tag = SPC
-				AND = {
-					tag = SPA
-					has_global_flag = mp_1836_literacy_setup
-				}
-			}
+			tag = SPC
+			
 			OR = {
 				government = absolute_monarchy
 				government = prussian_constitutionalism
@@ -142,13 +137,8 @@ political_decisions = {
 	reconquista_gco = {
 		picture = reconquista_gco
 		potential = {
-			OR = {
-				tag = SPC
-				AND = {
-					tag = SPA
-					has_global_flag = mp_1836_literacy_setup
-				}
-			}
+			tag = SPC
+			
 			OR = {
 				government = absolute_monarchy
 				government = prussian_constitutionalism
@@ -258,13 +248,8 @@ political_decisions = {
 	reconquista_pbc = {
 		picture = reconquista_pbc
 		potential = {
-			OR = {
-				tag = SPC
-				AND = {
-					tag = SPA
-					has_global_flag = mp_1836_literacy_setup
-				}
-			}
+			tag = SPC
+			
 			OR = {
 				government = absolute_monarchy
 				government = prussian_constitutionalism
@@ -392,13 +377,8 @@ political_decisions = {
 	reconquista_lpl = {
 		picture = reconquista_lpl
 		potential = {
-			OR = {
-				tag = SPC
-				AND = {
-					tag = SPA
-					has_global_flag = mp_1836_literacy_setup
-				}
-			}
+			tag = SPC
+			
 			OR = {
 				government = absolute_monarchy
 				government = prussian_constitutionalism
@@ -614,13 +594,8 @@ political_decisions = {
 	integrate_viceroyalty = {
 		picture = cross_of_burgundy
 		potential = {
-			OR = {
-				tag = SPC
-				AND = {
-					tag = SPA
-					has_global_flag = mp_1836_literacy_setup
-				}
-			}
+			tag = SPC
+			
 			OR = {
 				government = absolute_monarchy
 				government = prussian_constitutionalism

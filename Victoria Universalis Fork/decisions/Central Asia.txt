@@ -54,7 +54,6 @@ political_decisions = {
             tag = PER
             NOT = { has_country_flag = kurdish_states_integrated }
             is_our_vassal = MKN
-			NOT = { has_global_flag = mp_1836_literacy_setup }
         }
 
         allow = {
@@ -116,7 +115,6 @@ political_decisions = {
 					NOT = { has_country_flag = arabistan_annexed }
 				}
 			}
-			NOT = { has_global_flag = mp_1836_literacy_setup }
 		}
 		
 		allow = {
@@ -221,7 +219,6 @@ political_decisions = {
 					NOT = { has_country_flag  = lengeh_regained }
 				}
 			}
-			NOT = { has_global_flag = mp_1836_literacy_setup }
 		}
 		
 		allow = {
@@ -367,7 +364,6 @@ political_decisions = {
             KHT = { vassal_of = THIS }
 			2663 = { owned_by = KHT }
 			1148 = { owned_by = KHT }
-			NOT = { has_global_flag = mp_1836_literacy_setup }
         }
 
         allow = {
@@ -580,7 +576,6 @@ political_decisions = {
 			tag = AFG
 			NOT = { has_country_flag = invasion_of_knd }
 			KND = { vassal_of = THIS }
-			NOT = { has_global_flag = mp_1836_literacy_setup }
 		}
 
 		allow = {
