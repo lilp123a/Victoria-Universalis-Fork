@@ -9,6 +9,7 @@ political_decisions = {
 	# Shows/hides utility decisions
 	
 	show_utility_decisions = {
+		picture = utility_decisions_toggle
 		alert = no
 		
 		potential = {
@@ -25,6 +26,7 @@ political_decisions = {
 	}
 	
 	hide_utility_decisions = {
+		picture = utility_decisions_toggle
 		alert = no
 		
 		potential = {
