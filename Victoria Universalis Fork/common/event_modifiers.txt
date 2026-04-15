@@ -1652,3 +1652,23 @@ infamy_idea = {
 	
 	badboy = -0.05	
 }
+
+###############################
+### NATIONAL VALUE PREVIEWS ###
+###############################
+
+nv_order_preview = {
+	icon = 10
+}
+
+nv_liberty_preview = {
+	icon = 10
+}
+
+nv_equality_preview = {
+	icon = 10
+}
+
+nv_industry_preview = {
+	icon = 10
+}

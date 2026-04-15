@@ -54,7 +54,7 @@ BP_TOOLTIP_TOOL_ICON;Choose icon type, and draw it on the map with §YLMB§!.\nHol
 EVTNAME37204;Napoléon I returns;x
 gtfo_D01_desc;We've had a good run, but it's time to end our rulership of D01: if you love something, let it go!;x
 lend_egypt_title;Lend to Egypt;x
-EVTDESC15140;A committee of $PROVINCECULTURE$ businessmen and traders from $PROVINCENAME$ have approached the government in $CAPITAL$, wishing to lodge a formal complaint with the open discrimination they face in competition for government contracts. Our government currently pursues a favorization policy -- preferring $COUNTRY_ADJ$ contractors wherever possible -- and this is causing discontent in the $PROVINCECULTURE$ provinces. The committee represents equally the interests of the artisan and capitalist classes of the province, and we could try to sow discontent among them.;x
+EVTDESC15140;A committee of $PROVINCECULTURE$ businessmen and traders from $PROVINCENAME$ have approached the government in $CAPITAL$, wishing to lodge a formal complaint with the open discrimination they face in competition for government contracts. Our government currently pursues a favorization policy -- preferring $COUNTRY_ADJ$ contractors wherever possible -- and this is causing discontent in the $PROVINCECULTURE$ provinces. The committee represents equally the interests of the artesan and capitalist classes of the province, and we could try to sow discontent among them.;x
 EVTOPTA13140;Blast!;x
 little_prussia_desc;Bulgaria was almost constantly at war throughout its existence, lending to its nickname as "the Balkan Prussia". For several years Bulgaria mobilised an army of more than 1 million people from its population of about 5 million, and in the 1910s, it engaged in three wars – the First and Second Balkan Wars, and the First World War.;x
 gtfo_D13_title;Grant Dynamic Country 13 Independence;x
@@ -238,7 +238,7 @@ PEACE_WE_DECLINE_2;We have declined the peace offer from;x
 EVTDESC11102;All around $COUNTRY$, jubilant crowds, waving the flag of $CULTURE_GROUP_UNION$, take to the streets in celebration, as the government in $CAPITAL$ has proclaimed the unification of all of $CULTURE_GROUP_UNION$ under the $COUNTRY_ADJ$ flag.\n\n'For far too long have we let the machination and conspiracy of foreign powers set the course of our nation's life. Today, and forever -- here, in our ancient homeland -- we form the bonds of a more perfect union. Three Hurrahs for $CULTURE_GROUP_UNION$!'\n\n;x
 embrace_mashriqi_minority_title;Embrace the Mashriqi minority;x
 WARDIALOG_PRESTIGE;$VALUE$ Prestige;x
-EVTDESCcraftsmen_bonus1;This tech reduces the chance of your POPs promoting into artisans.;x
+EVTDESCcraftsmen_bonus1;This tech reduces the chance of your POPs promoting into artesans.;x
 EVTNAME4419;Bread Queues;x
 THEY_BANKRUPTCY_SETUP;another country has a bankruptcy;x
 EVTNAME3751;Public Meeting Held!;x
@@ -6346,7 +6346,7 @@ UW_NO_GUNBOAT_POSSIBLE;No valid target for gunboat diplomacy;x
 INCREASEOPINION_THEY_ACCEPT_MAP;Opinion increased;x
 EVTDESC3703;And, while our labour conditions are generally considered to be among the most generous in the world, I still can not see that an unproductive mentality is something to be proud of. The only reasonable step is to undo some of these reforms.'\n\nThe debates in parliament have, for the past week or so, been focused almost exclusively on our work hour limits. Conservatives are arguing that the time to move forward with a more business friendly policy is now.;x
 UW_ATEMPT_GUNBOAT;Attempt gunboat diplomacy against §Y$OTHER$§W;x
-CHANGE_NATIONALVALUE;National value changes to §Y$NATIONALVALUE$§W.\n;x
+CHANGE_NATIONALVALUE;National value changes to §Y$NATIONALVALUE$§W\n;x
 tank_short;Arm;x
 EVTNAME91302;Colonial Liferating Normalization;x
 UNCOLONIZED_DO_INVEST_LVL4;Build settlement;x
@@ -6464,7 +6464,7 @@ promote_craftsmen;Encourage Craftsmen ;x
 promote_capitalists;Encourage Capitalists ;x
 sino_portuguese_treaty_of_peking_signataire;Signatory of the Treaty of Peking;x
 promote_bureaucrats;Encourage Bureaucrats ;x
-promote_artisans;Encourage Artisans ;x
+promote_artisans;Encourage Artesans ;x
 promotion_focus;Promotion;x
 EVTOPTE14110;We will help you.;x
 EVTDESC15080;The writing on the wall has been plain to see for some time, but officials in $PROVINCENAME$ now have definite confirmation that the locals are plotting an insurgency against $COUNTRY_ADJ$ rule. The Secret Police has managed to secure detailed plans for the insurgency through informants and double-agents, and needs to know how to act. Our options are to fight the insurgents in one concentrated battle, or to try to divide them up and dissipate their forces out into the surrounding countryside.;x
@@ -11895,7 +11895,7 @@ the_yard;The Scotland Yard;x
 abolish_cultuurstelsel_desc;The Cultivation System (cultuurstelsel) was a Dutch government policy for its colonies that required a portion of agricultural production to be devoted to export crops. Instead of land taxes, 20% of village land had to be devoted to government crops for export or, alternatively, peasants had to work in government-owned plantations for 60 days of the year. Ending this practice will encourage private enterprise and attract more entrepreneurial settlers to the colonies.;x
 EVTNAME14210_sub;All They're Saying is 'Give Peace a Chance!';x
 SIDEMENU_menubar_msg_unit;Left-click to show all §YUnit§W messages. Right-click to dismiss all.;x
-PRODUCTIONVIEW_ARTISAN;§YArtisan§W;x
+PRODUCTIONVIEW_ARTISAN;§YArtesan§W;x
 SIDEMENU_menubar_msg_combat;Left-click to show all §YCombat§W messages. Right-click to dismiss all.;x
 OUTLINER_TOOLTIP_EMPLOYED;§Y$COUNT$§! Employed in factories (§Y$PERC$§!%);x
 temperate_climate_large_mine;Large Ore Deposits;x
@@ -12523,7 +12523,7 @@ NORMAL_WAR_TAKE_CORE_NAME;$ORDER$$FIRST$ Liberation of $STATE$;x
 russification_of_finland_desc;Having enjoyed prosperity and control over their own affairs, and having remained loyal subjects for nearly a century, the manifesto which the $MONARCHTITLE$ issued on $YEAR$ was cause for Finnish despair. The manifesto was forced through the Finnish senate by the deciding vote of the senate president, an appointee of the $MONARCHTITLE$ — and after the governor-general of Finland, Nikolay Bobrikov, had threatened a military invasion and siege. While ostensibly affirming the Finns' rights in purely local matters, the manifesto asserted the authority of the state in any and all matters which could be considered to "come within the scope of the general legislation of the empire".;x
 EVTOPTB17590;Hey! That's unconstitutional!;x
 embrace_misri_minority_title;Embrace the Misri minority;x
-nv_liberty;Liberty\n§WCraftsmen promotion chance: §G+5%\n§WBase max soldier cap: §R4%\n§WSoldier promotion chance: §R-5%;x
+nv_liberty;Liberty\n§WCraftsmen promotion chance: §G+5.0%\n§WBase max soldier cap: §R4.0%\n§WSoldier promotion chance: §R-5.0%§!;x
 philippines_n_cuba_desc;Having secured a dominant position in North America after defeating the United States, it is time to venture outside the continent and conquer the last remaining strongholds of Spanish colonialism in the Philippines and Caribbean.;x
 REVOLTALLIANCE_5;All our alliances with them are broken and our influences with them has gone to waste.;x
 EVTOPTA37707;Desamortise because we need cash.;x
@@ -13390,7 +13390,7 @@ BACK_CRISIS_OTHER_ACCEPT_SETUP;When someone backs the other side of a crisis;x
 gtfo_AWA_desc;We've had a good run, but it's time to end our rulership of Awadh: if you love something, let it go!;x
 gtfo_KAG_title;Grant Ishikawa Independence;x
 unciv_reactionary_rebels_title;Reactionary;x
-convert_artisans_title;§GConvert Artisans to Labourers;x
+convert_artisans_title;§GConvert Artesans to Labourers;x
 DECREASE_RELATION_MAX;We cannot get worse relations with ;x
 EVTNAME2000;Ethnic Flavor;x
 POP_MIL_CHANGE_REBEL;This pop is living in §Y$PROV$§W that is under §RRebels§W control.\nIt's militancy change cannot be estimated.;x
@@ -13979,7 +13979,7 @@ GW_INTERVENE_MIN_RELATIONS;Our relations with §Y$TARGET$§! must be at least §G$M
 THEY_BANKRUPTCY_6;*;x
 MORE_THAN_THREE_PROV;more than 3 provinces.;x
 KER_conservative;Conservative Party;x
-EVTDESCcraftsmen_bonus2;This tech reduces the chance of your POPs promoting into artisans.;x
+EVTDESCcraftsmen_bonus2;This tech reduces the chance of your POPs promoting into artesans.;x
 GLC_ADJ;Galician;x
 WARGOAL_WE_ACCEPT_5;*;x
 YAK_liberal;The Liberals;x
@@ -14468,7 +14468,7 @@ EVTNAME31201;Albanian Uprising;x
 MLW_communist;Communist Party of Malawi;x
 EVTOPTA44312;From sea to sea.;x
 gtfo_GRE_title;Grant Greece Independence;x
-EVTOPTC15140;Favor the artisans;x
+EVTOPTC15140;Favor the artesans;x
 zprovince_blood_and_iron_desc;Gives a permanent RGO efficiency bonus and +0.03 militancy modifier to the selected province. Cannot use on gold mines and has a 10 year cooldown.;x
 anglo_afghan_war_title;Begin the Anglo-Afghan War;x
 SAA_liberal_2;Nationalliberale ;x
@@ -14722,7 +14722,7 @@ DAN_socialist;Socialdemokratiet;x
 wahhabism_in_nejd_desc;The "pivotal idea" of Wahhabism teaching was that people who called themselves Muslims but who participated in such innovations were not just misguided or committing a sin, but were "outside the pale of Islam altogether", as were Muslims who disagreed with his definition. This included not just lax, unlettered, nomadic Bedu, but Shia, Sufi, and Ottomans.;x
 EVTOPTB4402;The merchant is a free man;x
 EVTDESCmilitarylogistics;This tech allows you to enact four year draft.;x
-EVTDESCcraftsmen_bonus3;This tech reduces the chance of your POPs promoting into artisans.;x
+EVTDESCcraftsmen_bonus3;This tech reduces the chance of your POPs promoting into artesans.;x
 AOT_fascist;Kawanatanga Whakahawini;x
 cult_of_personality;Cult of Personality;x
 EVTOPTA14610;Excellent!;x
