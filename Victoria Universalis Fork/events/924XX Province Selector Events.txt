@@ -77,6 +77,15 @@ province_event = {
 				limit = {
 					is_core = JAN
 					is_colonial = no
+					
+					# Cannot turn capital state into colony
+					NOT = {
+						state_scope = {
+							any_owned_province = {
+								is_capital = yes
+							}
+						}
+					}
 				}
 				
 				owner = {
@@ -91,7 +100,16 @@ province_event = {
 			random_owned = {
 				limit = {
 					is_core = JAN
-					is_colonial = yes
+					
+					OR = {
+						is_colonial = yes
+						
+						state_scope = {
+							any_owned_province = {
+								is_capital = yes
+							}
+						}
+					}
 				}
 				
 				remove_core = JAN

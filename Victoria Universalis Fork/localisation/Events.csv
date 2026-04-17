@@ -84,6 +84,7 @@ EVTNAME92401;Rescinding Statehood;x
 EVTDESC92401;Are you sure you want to rescind the statehood of the selected province's state?\n\nBe warned that you will only be able to re-state the region through normal game mechanics, requiring you to have 1.0% Bureaucrats of an accepted culture in the state.;x
 EVTOPTA92401;Cancel;x
 EVTOPTB92401;§RConfirm§!;x
+EVTNAME92402;Rescind Statehood;x
 EVTNAME92403;Change RGO in $PROVINCENAME$;x
 EVTDESC92403;Choose an RGO to switch production to. This will cost ¤250.000 and RGO output will suffer a 50% penalty for 15 years. During that time, you will not be able to switch production in this province again.\n\n§RBe careful to not pick the resource already produced in this province.§!;x
 EVTOPTA92403;Cancel;x
