@@ -23,11 +23,11 @@ political_parties = non_secret_ballots
 
 # Social Reforms
 wage_reform = trinket_wage
-work_hours = ten_hours
+work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
-unemployment_subsidies = trinket_subsidies
-pensions = low_pensions 
+unemployment_subsidies = no_subsidies
+pensions = no_pensions 
 school_reforms = good_schools
 
 #New Reforms
