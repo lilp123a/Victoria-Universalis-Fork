@@ -285,7 +285,7 @@ PLAYER_KICKED;$NAME$ was kicked by the host.;x
 EIC_independent_liberal;Responsible Rule Party;x
 sioux_nation_name;Sioux Nation;x
 earthquake_devastation;Earthquake Devastation;x
-tonghak_reforms_desc;The peasant class of Korea has suffered as of late under the corrupt officials of the current system. In response to this, the government has instituted a number of social, economic and military reforms based on the Japanese bureaucratic system in order to placate the peasantry.\n\n§RCivilization Progress must be 70% in order to enact this decision.;x
+tonghak_reforms_desc;The peasant class of Korea has suffered as of late under the corrupt officials of the current system. In response to this, the government has instituted a number of social, economic and military reforms based on the Japanese bureaucratic system in order to placate the peasantry.\n\n§RCivilisation Progress must be 70% in order to enact this decision.;x
 gtfo_TAR_title;Grant Tatarstan Independence;x
 PARTY_UNAVAIL_HEADER;Political party defunct;x
 EVTDESC37707;In 1855, needing cash for the state, the Minister of Public Wealth, Pascual Madoz, ordered the desamortisation of all communal and public lands, and this led to a greater degree of centralization of state power and fostered unhappiness among farmers who now had no public lands to use.;x
@@ -1042,7 +1042,7 @@ sand_river_convention_desc;By delimiting our borders with the British Cape Colon
 zcountry_liberal_change_ideology_desc;Adds a +0.1 militancy modifier and large population drift towards the chosen ideology.;x
 FE_SETTING_TECHNOLOGY;Technology;x
 monetary_reform_l;Currency Reform;x
-end_sakoku_desc;Sakoku was the isolationist foreign policy of the Japanese Tokugawa shogunate under which, relations and trade between Japan and other countries were severely limited, nearly all foreign nationals were barred from entering Japan and common Japanese people were kept from leaving the country.\n\n§RCivilization Progress must be 5% in order to enact this decision.;x
+end_sakoku_desc;Sakoku was the isolationist foreign policy of the Japanese Tokugawa shogunate under which, relations and trade between Japan and other countries were severely limited, nearly all foreign nationals were barred from entering Japan and common Japanese people were kept from leaving the country.\n\n§RCivilisation Progress must be 5% in order to enact this decision.;x
 end_fake_war_desc;Ends the current fake war.;x
 yes_monetary_reform;Official Currencies;x
 EVTOPTA14520;Naturally, a new factory can only be a good thing;x
@@ -1648,7 +1648,7 @@ EVTNAME34608;Child Labour Law Passed;x
 EVTOPTA2050;Interesting, let us listen to them...;x
 NOT_IN_SOCIAL_MOVEMENT;not in social movement\n;x
 gelugpa_country;Gelugpa Religion;x
-claim_herat_desc;In order to safeguard our western frontier and restore the borders of the former Afghan Empire, we should press our claim on Herat.\n\n§RCivilization Progress must be 35% in order to enact this decision.;x
+claim_herat_desc;In order to safeguard our western frontier and restore the borders of the former Afghan Empire, we should press our claim on Herat.\n\n§RCivilisation Progress must be 35% in order to enact this decision.;x
 SIEGEUS_HEADER;$MESSENGER$;x
 first_balkan_war_desc;This cb will liberate the territoties Bulgaria, Serbia, Montenegro, and Greece from the Ottoman Empire.;x
 REMOVE_desc_anti_propaganda;You handled the criticism great.;x
@@ -2519,7 +2519,7 @@ SAS_anarcho_liberal;Radical Liberals;x
 WAS_conservative;Conservative Faction;x
 POP_PRODUCING;Producing;x
 NOV_fascist_dictatorship_adj;Albannaich;x
-EVTDESC14540;From the Congo Basin to the deepest fathoms of the Bengal, from the jungles of India to the coasts of Java, scientific taxonomy is making new advances daily. As the light of civilization spreads to even the darkest corners of the earth, the Creator's secrets are, little by little, being unraveled. Turn over any old rock in the colonies, and you will find yet another spectacular piece of miraculous fauna looking back at you, with at least one of its fifteen eyes.'\n\nNew species of exotic fauna are being discovered in the colonies, and a suggestion has been proposed to establish a Colonial Museum of Natural History.;x
+EVTDESC14540;From the Congo Basin to the deepest fathoms of the Bengal, from the jungles of India to the coasts of Java, scientific taxonomy is making new advances daily. As the light of civilisation spreads to even the darkest corners of the earth, the Creator's secrets are, little by little, being unraveled. Turn over any old rock in the colonies, and you will find yet another spectacular piece of miraculous fauna looking back at you, with at least one of its fifteen eyes.'\n\nNew species of exotic fauna are being discovered in the colonies, and a suggestion has been proposed to establish a Colonial Museum of Natural History.;x
 SAS_conservative;Conservative Faction;x
 TAS_conservative;Conservative Faction;x
 gtfo_JAL_desc;We've had a good run, but it's time to end our rulership of Jallon: if you love something, let it go!;x
@@ -2543,7 +2543,7 @@ TAS_conservative_1;Anti-Socialist Party;x
 EVTDESC20102;Dispute over $CRISISAREA$ has now escalated into an international crisis. $CRISISTAKER$ claims the area as an integral part of their nation, while $CRISISTARGET$ denies they have any claim to it and insists the state should remain under their control. At a recent conference on the matter our ambassador made several rather militant remarks that greatly raised the tempers of all present.\nShould we endorse his position, or issue an apology for his actions and disavow his remarks?;x
 EVTOPTB20101;Concede their point.;x
 CANCELALLIANCE_DI;Alliance Broken;x
-TRIGGER_CIV_PROGRESS_LESS;Civilization Progress;x
+TRIGGER_CIV_PROGRESS_LESS;Civilisation Progress;x
 EVTDESC20101;Recently the international community has become increasingly aware of the so-called 'plight of the poor oppressed people in $STATE$. It is claimed we have no legitimate right to rule the area, and nearby Great Powers are starting to take an interest in the claims;x
 gtfo_SER_desc;We've had a good run, but it's time to end our rulership of Serbia: if you love something, let it go!;x
 EVTNAME20101;Tensions in $STATE$;x
@@ -2774,7 +2774,7 @@ PROCEED;Proceed;x
 EVTNAME17160;Study Circle;x
 ARMY_RECON_TOOLTIP;Recon Efficiency: §Y$VAL$§!%;x
 SIEGEUS_6;will soon be driven off by the might of our armies.;x
-EVTOPTA44811;We will bring "civilization" to these lands.;x
+EVTOPTA44811;We will bring civilisation to these lands.;x
 gtfo_DAH_title;Grant Dahomey Independence;x
 LXA_absolute_monarchy;Lan Xang;x
 FOR_AI;For AI:;x
@@ -3390,7 +3390,7 @@ BACK_CRISIS_WE_ACCEPT_4;*;x
 gtfo_URU_desc;We've had a good run, but it's time to end our rulership of Uruguay: if you love something, let it go!;x
 exile_house_of_saud_title;Banish the House of Saud;x
 EVTOPTA111011928;Of course!;x
-revoke_kurdish_autonomy_desc;The Kurdish states on the edge of our empire long have enjoyed an autonomy. If we are to compete with the Great Powers of the world, we need to revoke that status, end tribal rule and reform these lands in a central $COUNTRY_ADJ$ administration.\n\n§RCivilization Progress must be 70% in order to enact this decision.§W;x
+revoke_kurdish_autonomy_desc;The Kurdish states on the edge of our empire long have enjoyed an autonomy. If we are to compete with the Great Powers of the world, we need to revoke that status, end tribal rule and reform these lands in a central $COUNTRY_ADJ$ administration.\n\n§RCivilisation Progress must be 70% in order to enact this decision.§W;x
 subjugation_of_sulawesi_desc;It is time we brought the rest of Sulawesi under our control.;x
 DEMAND_PEACE;Demand peace terms;x
 BACK_CRISIS_WE_ACCEPT_2;We have decided to back $ACTOR$ in the current crisis.;x
@@ -3415,7 +3415,7 @@ EVTDESC3900;The proletarians have nothing to lose but their chains. They have a 
 CRISIS_OFFER_OTHER_DECLINE_4;has declined to join the current crisis;x
 blanco_sympathies;Blanco Agitation;x
 ATR;Asturias;x
-invade_herat_desc;The Emirate of Herat has been closely aligning with the British and Afghans in recent years. In order to secure our eastern border, Herat must come under Iranian control. Attempting to conquer the Emirate may bring us to war with the British however.\n\n§RCivilization Progress must be 50% in order to enact this decision.;x
+invade_herat_desc;The Emirate of Herat has been closely aligning with the British and Afghans in recent years. In order to secure our eastern border, Herat must come under Iranian control. Attempting to conquer the Emirate may bring us to war with the British however.\n\n§RCivilisation Progress must be 50% in order to enact this decision.;x
 EVTNAME45006;President Heureaux Assassinated;x
 local_economic_downturn;Local Economic Downturn;x
 ATTRITION;Attrition;x
@@ -4231,7 +4231,7 @@ METASERVER_GAME_INFO;Creator: $CREATOR$ \n Date: $DATE$;x
 OTHER_MOBILIZE_BTN2;OK;x
 EVTDESC31526;Italian patriots in Milan have risen up against their Austrian oppressors and asked us to help them in their fight to unify Italy.;x
 EVTOPTA17670;Denounce the campaign;x
-manifest_destiny_desc;To bring civilization from coast to shining coast has always been the grand mission of our great republic. Let the Eagle spread it's wings.;x
+manifest_destiny_desc;To bring civilisation from coast to shining coast has always been the grand mission of our great republic. Let the Eagle spread it's wings.;x
 REMOVE_EVTNAME10105;The Blight Ends!;x
 OTHER_MOBILIZE_5;*;x
 CEASECOLONIZATION_WE_DECLINE_BTN3;Go to;x
@@ -5284,7 +5284,7 @@ imperial_decay8_desc;Our POPs gain +0.005 militancy per month and our tax effici
 EVTNAMEcolonialnegotiations;Colonial Negotiations Tech Flag;x
 communists_ruling_desc;Our nation is now headed by the proletariat, capitalists have no place here!;x
 EVTOPTA18160;Things will get better;x
-end_the_javanese_sultanates_desc;The Sultanates of Yogyakarta and Surakarta have long been under our protection. It would be in our best interests to convince them to come under our direct rule, so we might bring civilization to their people more effectively, and so that we might secure their lands from other powers.;x
+end_the_javanese_sultanates_desc;The Sultanates of Yogyakarta and Surakarta have long been under our protection. It would be in our best interests to convince them to come under our direct rule, so we might bring civilisation to their people more effectively, and so that we might secure their lands from other powers.;x
 EVTDESC90841;A succession of riots among the muslim Hui population in Xian has turned into full blown rebellion. The revolt quickly spread through the rest of Shaanxi and Gansu, but fortunately for us local forces have managed to kill and expel most of Hui from these lands. However, news of further planned ethnic cleansing against Muslims has reached Xinjiang province, causing the muslims there to declare independence from Qing rule.;x
 INCREASEOPINION_OTHER_ACCEPT_BTN1;OK;x
 NOV_conservative;Conservative Party;x
@@ -5539,7 +5539,7 @@ LOCAL_TRADE_INCOME_MODIFIER;Local Trade Income Modifier;x
 ABANDON_GAME;Abandon Game;x
 fire_eaters;Fire-Eaters;x
 REMOVEFROMSPHERE_WE_ACCEPT_BTN3;Go to;x
-EVTDESC46601;This book, first published in 1845, used the story of the dictator Facundo, to expose an opposition between European 'civilization' and native 'barbarism'. As angry and condemning as Sarmiento was towards Facundo Quiroga, Rosas, and the people of the Pampas, there emerged in the book a wonderful, and at times admiring portrait of that part of Argentina that Sarmiento believed had to be killed off.;x
+EVTDESC46601;This book, first published in 1845, used the story of the dictator Facundo, to expose an opposition between European 'civilisation' and native 'barbarism'. As angry and condemning as Sarmiento was towards Facundo Quiroga, Rosas, and the people of the Pampas, there emerged in the book a wonderful, and at times admiring portrait of that part of Argentina that Sarmiento believed had to be killed off.;x
 GOTO_GOTO;Go to;x
 heart_of_darkness;Heart of Darkness;x
 central_great_war_demands_desc;Dismantle Allied Powers;x
@@ -6111,7 +6111,7 @@ ATTACKTHEMREBEL_SETUP;When one of our land units attacks the rebellion.;x
 OFFERALLIANCEDESC;If a country accepts our Alliance offer, it may come to our assistance during wars.;x
 foreign_officers;Officer Training;x
 WETARGET_REMOVEFROMSPHERE_1;§Y$RECIPIENT$§W;x
-annex_herat_desc;Since Herat's independence from the late Afghan Durrani Empire, it has been constantly under threat of conquest from Iran. In order to safeguard our western border and restore order to Afghanistan, we should bring Herat under our control. We must however ask permission from Britain before we make our move, as they have been protecting Herat until now.\n\n§RCivilization Progress must be 35% in order to enact this decision.;x
+annex_herat_desc;Since Herat's independence from the late Afghan Durrani Empire, it has been constantly under threat of conquest from Iran. In order to safeguard our western border and restore order to Afghanistan, we should bring Herat under our control. We must however ask permission from Britain before we make our move, as they have been protecting Herat until now.\n\n§RCivilisation Progress must be 35% in order to enact this decision.;x
 EVTDESC37206;The Belgian instrument maker Adolphe Sax registered a patent on the so-called Saxophone. However, French competitors file several lawsuits, preventing Sax from effectively marketing his creation.;x
 gtfo_MAH_title;Grant Kolhapur Independence;x
 gtfo_SAX_title;Grant Saxony Independence;x
@@ -6549,7 +6549,7 @@ EVTNAME48300;Leopold IV of Anhalt-Dessau is Duke of All Anhalt!;x
 EVTOPTA46601;Dangerous Ideas Afloat!;x
 TIME_AHEAD;This technology is $NUMBER$ years ahead of its time, so it is more difficult to reach.;x
 EVTDESC17150;The (so-called) Cat and Mouse Act was an infamous British law passed in 1912 in order to combat the suffragette tactic of using hunger strikes as a means to build sympathy for the Suffragette cause. The law stated that a person could be released from jail to recover from any serious illness, only to be jailed again on recovery, thereby washing the government's hands of any harm caused to the woman in question by the hunger strike. A similar ordinance has found its way into the legislature of one of our states, where suffragette hunger strikes are handled in this exact same way.;x
-EVTNAME46601;Facundo: or, Civilization and Barbarism;x
+EVTNAME46601;Facundo: or, Civilisation and Barbarism;x
 EVTOPTB46600;Suppress Alberdi's Supporters!;x
 GAB;Gabon;x
 EVTOPTB11101;We will not have our ancestral rights infringed!;x
@@ -7154,7 +7154,7 @@ EVTDESC44631;We have been crushed by the Triple Alliance -- our dreams of Greate
 EVTOPTA36603;Call out the troops!;x
 EVTNAME37708;La Guardia Civil;x
 EVTDESC44712;The $FROMCOUNTRY_ADJ$ have agreed to sell us Flores in exchange for 200,000 florins.;x
-EVTDESC17530;A strike today in one of our states, initiated by communist troublemakers and revolutionaries, was swiftly put down by local police. The event has caused a massive backlash against the socialist movement in the state, as local farmers & peasants perceive the red ideology as being vehemently opposed to the traditions and histories of civilization in general, and , $COUNTRY$, more importantly.;x
+EVTDESC17530;A strike today in one of our states, initiated by communist troublemakers and revolutionaries, was swiftly put down by local police. The event has caused a massive backlash against the socialist movement in the state, as local farmers & peasants perceive the red ideology as being vehemently opposed to the traditions and histories of civilisation in general, and, $COUNTRY$, more importantly.;x
 EVTOPTB37707;The people need those lands!;x
 kiel_canal_construction_desc;Our nation is dedicating its resources to build a great Canal.;x
 SIB_hms_government;Siberia;x
@@ -7682,7 +7682,7 @@ EVTDESC22030;$COUNTRY$ is in a state of collective shock, as news broke today of
 opium_war_short;Force an unequal treaty.;x
 ATTACKUSREBEL_LOG;We have been attacked in $PROV$.;x
 EVTOPTC22020;We must first secure a majority in the upper house;x
-EVTOPTB19345;We have come as bringers of civilization, not as looters.;x
+EVTOPTB19345;We have come as bringers of civilisation, not as looters.;x
 NSW_reactionary_1;Farmers and Settlers Party;x
 TRIGGER_BUILD_IN_CAPITAL_DESC;§RConstruction is not allowed for now.§!;x
 EVTOPTB22020;Certain reforms are arguably in order;x
@@ -8536,7 +8536,7 @@ accept_trade_deal_22_title;§YAccept Trade Deal;x
 tanzimat_reforms_title;The 'Tanzimat' Reforms;x
 ALL_;All ;x
 EVTOPTA37228;Vive la France!;x
-EVTDESC14560;Here, in these far flung places, forgotten, it seems, by both God and Civilization, barbaric native practices, foreign to the mind of any civilised man, still persist, along with widespread illiteracy, unsanitary living conditions and the sheer ignorance of unenlightened minds.'\n\nThe Colonial Office has published a report on the social conditions in the colonies, and it is not exactly sunny reading. Many of the people in the colonies still live under the conditions of a European Dark Age, or worse, and the Colonial Office strongly suggests that something be done about it.;x
+EVTDESC14560;Here, in these far flung places, forgotten, it seems, by both God and Civilisation, barbaric native practices, foreign to the mind of any civilised man, still persist, along with widespread illiteracy, unsanitary living conditions and the sheer ignorance of unenlightened minds.'\n\nThe Colonial Office has published a report on the social conditions in the colonies, and it is not exactly sunny reading. Many of the people in the colonies still live under the conditions of a European Dark Age, or worse, and the Colonial Office strongly suggests that something be done about it.;x
 yes_army_schools;Army Schools;x
 accept_trade_deal_23_desc;If we enter into a trade deal with the chosen country, we will get a decision that allows us to send goods from our stockpile to our trading partner.;x
 EVTOPTB14550;Long live the captains of industry and technology!;x
@@ -9193,7 +9193,7 @@ EVTNAME31521;Hungarian Revolution of 1848;x
 EVTOPTB17560;Naturally we support this fine display of international solidarity between workers;x
 POP_DETAILS_INCOME;Income:;x
 EVTOPTB4414;Free trade, and free industries;x
-EVTDESC13000;Once the wind of Western civilization blows to the East, every blade of grass and every tree in the East follow what the Western wind brings.'\n\nWe call them omens, the strange things that have transpired lately. Off our coastlines, strange ships have begun appearing. Strange ships, with masts so tall as to seem to touch the face of God. At first a curiosity, soon every so often -- increasing in intensity as gale grows to storm -- and tomorrow? Strange are their ships, and stranger still their customs, but there can be no doubt that we must adopt a policy with regards to the foreigners from 'Europe'.;x
+EVTDESC13000;Once the wind of Western civilisation blows to the East, every blade of grass and every tree in the East follow what the Western wind brings.'\n\nWe call them omens, the strange things that have transpired lately. Off our coastlines, strange ships have begun appearing. Strange ships, with masts so tall as to seem to touch the face of God. At first a curiosity, soon every so often -- increasing in intensity as gale grows to storm -- and tomorrow? Strange are their ships, and stranger still their customs, but there can be no doubt that we must adopt a policy with regards to the foreigners from 'Europe'.;x
 EVTNAME4414;Protectionist Lobby;x
 EVTOPTB90950;Let them be;x
 EVTNAME14180_sub;Militarism Debated in Election Campaign;x
@@ -9831,7 +9831,7 @@ EVTDESC44611;Our armies are destroyed and our capital has been captured by the B
 EVTDESC1001;We want, no, we NEED a free society, where no one is considered to be superior, no one is left behind and where mankind is free from oppression and scarcity. We need a society without a government, without class divisions and where the workers control the means of production.';x
 gtfo_ENG_title;Grant The United Kingdom Independence;x
 NORMAL_WAR_CONQUEST_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;x
-EVTDESC16040;There was a land of Cavaliers and Cotton Fields called the Old South. Here in this pretty world, Gallantry took its last bow. Here was the last ever to be seen of Knights and their Ladies Fair, of Master and of Slave. Look for it only in books, for it is no more than a dream remembered, a Civilization gone with the wind... ' -- Gone With The Wind\n\nThe agrarian economy of the southern United States in many ways resembled the roman villa system, or medieval feudalism, with local economic and political power concentrated to the villas and manors of local landholding 'aristocrats', and in this it differed from the more industrialized North. A different sense of life, while not in itself enough to trigger a civil war, had at some point been one foundations upon which the distinctions between Dixies and Yanks were built.;x
+EVTDESC16040;There was a land of Cavaliers and Cotton Fields called the Old South. Here in this pretty world, Gallantry took its last bow. Here was the last ever to be seen of Knights and their Ladies Fair, of Master and of Slave. Look for it only in books, for it is no more than a dream remembered, a Civilisation gone with the wind... ' -- Gone With The Wind\n\nThe agrarian economy of the southern United States in many ways resembled the roman villa system, or medieval feudalism, with local economic and political power concentrated to the villas and manors of local landholding 'aristocrats', and in this it differed from the more industrialized North. A different sense of life, while not in itself enough to trigger a civil war, had at some point been one foundations upon which the distinctions between Dixies and Yanks were built.;x
 REMOVE_satisified_soldiers;Satisified Soldiers;x
 gtfo_MOS_desc;We've had a good run, but it's time to end our rulership of Mossi: if you love something, let it go!;x
 EVTNAME14620;Civil Violence;x
@@ -10416,7 +10416,7 @@ INTERVENTION_OTHER_SIDE_4;$WAR$;x
 SIB_communist;Social Democratic;x
 PEACE_OTHER_ACCEPT_MAP;Peace!;x
 NOT_SELECT;All players must select a country.;x
-regain_omani_coast_desc;By the early 19th century, the powerful, maritime Sultanate of Muscat-Oman had managed to to force Persia to lease it's coastal lands around the Persian Gulf unfavorable terms. It is time to renegotiate the terms of their lease.\n\n§RCivilization Progress must be 60% the first time this decision is enacted and 85% the second time.;x
+regain_omani_coast_desc;By the early 19th century, the powerful, maritime Sultanate of Muscat-Oman had managed to to force Persia to lease it's coastal lands around the Persian Gulf unfavorable terms. It is time to renegotiate the terms of their lease.\n\n§RCivilisation Progress must be 60% the first time this decision is enacted and 85% the second time.;x
 INTERVENTION_OTHER_SIDE_HEADER;$MESSENGER$;x
 INTERVENTION_THEIR_SIDE_BTN3;Goto;x
 INTERVENTION_THEIR_SIDE_BTN2;Oh no!;x
@@ -10434,7 +10434,7 @@ OL_LAND_COMBAT_DEFEND;We are defending against an attack which has progressed §R
 acquire_core_state_setup;Acquire core $STATE$ from $RECIPIENT$;x
 GIVEMILITARYACCESS_WE_DECLINE_4;invitation to host our troops was unworthy;x
 gtfo_KRA_desc;We've had a good run, but it's time to end our rulership of Krakow: if you love something, let it go!;x
-afg_attack_knd_desc;Kandahar has grown ever closer to Persia and ever further from us. The time has come to fully integrate these unruly vassals.\n\n§RCivilization Progress must be 30% in order to enact this decision.;x
+afg_attack_knd_desc;Kandahar has grown ever closer to Persia and ever further from us. The time has come to fully integrate these unruly vassals.\n\n§RCivilisation Progress must be 30% in order to enact this decision.;x
 BACK_CRISIS_OTHER_DECLINE_6;*;x
 INTERVENTION_OUR_SIDE_HEADER;$MESSENGER$;x
 TAJ_fascist;The Fascist Faction;x
@@ -10480,7 +10480,7 @@ desc_the_homestead_act;The Homestead Act allows any eligible applicant a freehol
 EVTOPTB16120;Aye!;x
 EVTNAME5000;First FA Cup Played;x
 PEACE_OTHER_ACCEPT_6;Terms: $TERMS$;x
-the_boshin_war_desc;The Boshin War was a civil war in Japan, fought between forces of the Tokugawa shogunate and those seeking to return political power to the Imperial Court.\n\n§RCivilization Progress must be 50% in order to enact this decision.;x
+the_boshin_war_desc;The Boshin War was a civil war in Japan, fought between forces of the Tokugawa shogunate and those seeking to return political power to the Imperial Court.\n\n§RCivilisation Progress must be 50% in order to enact this decision.;x
 EVTNAME29905;Artificial Fertilizers;x
 PEACE_OTHER_ACCEPT_5;*;x
 EVTDESCcommonarmy;The new equal status conferred to one of our minorities allows them to establish their own national army independent of the Common Army.;x
@@ -11015,7 +11015,7 @@ CEASECOLONIZATION_OTHER_ACCEPT_1;§Y$RECIPIENT$§W;x
 rebuilding_city_desc;Our city is rebuilding.;x
 GIVEMILITARYACCESS_THEY_DECLINE_BTN3;Go to;x
 EVTNAME111011928;Form Arabia;x
-revoke_coastal_emirate_autonomy_desc;The Persian Coast for many years has been effectively controlled by Emirs loyal to the Shah only in name, in order to centralize Persian control over the coast, we must revoke the automony of these Emirates.\n\n§RCivilization Progress must be 55% in order to annex al-Mazkur Sheikhdom and 90% to annex Arabistan.§W;x
+revoke_coastal_emirate_autonomy_desc;The Persian Coast for many years has been effectively controlled by Emirs loyal to the Shah only in name, in order to centralize Persian control over the coast, we must revoke the automony of these Emirates.\n\n§RCivilisation Progress must be 55% in order to annex al-Mazkur Sheikhdom and 90% to annex Arabistan.§W;x
 ASKMILITARYACCESS_THEY_ACCEPT_BTN3;Go to;x
 GIVEMILITARYACCESS_THEY_DECLINE_1;§Y$RECIPIENT$§W;x
 EVTDESC19025;... thus, our expedition has now catalogued an additional 20 species of plantlife hereto unknown to science. During the past months two additional men have been claimed by the foul odors of malaria and dysentery, but, despite absent friends, morale among the men continues to be high. With best wishes, and love. Signed, ... '\n\nThe botanical expedition we dispatched has reported back. It is clear that, while they are making progress, they could use some additional support.;x
@@ -12601,7 +12601,7 @@ meiji_constitution_desc;Enacted after the Meiji Restoration, it provided for a f
 FE_METASERVER;Metaserver;x
 turkish_nationalist_rebels_title;Turkish Nationalist;x
 EVTOPTA17130;Okay.;x
-EVTDESC17130;Four broken windows, attempted arson, technical assault of two police officers... The police officers weren't hurt, but I bet their pride was. What in the world compelled you to do such a thing?'\n\nA more militant wing of the $COUNTRY_ADJ$ suffragette movement has conducted a violent protest campaign against government authorities in one of our states. Local conservatives speak gloomily about the unraveling of the nation's moral fabric, and the end of Western Civilization.;x
+EVTDESC17130;Four broken windows, attempted arson, technical assault of two police officers... The police officers weren't hurt, but I bet their pride was. What in the world compelled you to do such a thing?'\n\nA more militant wing of the $COUNTRY_ADJ$ suffragette movement has conducted a violent protest campaign against government authorities in one of our states. Local conservatives speak gloomily about the unraveling of the nation's moral fabric, and the end of Western Civilisation.;x
 take_capital_setup;Take capital;x
 cannot_pass_reform_desc;Our upper house has fallen into gridlock and no reforms can be passed in the near future.;x
 WHA_ADJ;Welsh;x
@@ -13123,7 +13123,7 @@ socialist_rebels_name;Militant Socialists;x
 EVTOPTA33401;Scandalous!;x
 la_tache_noire_desc;Due to the loss of Alsace and Lorraine following defeat against her German neighbours, France developed a deep sense of bitterness, hatred and demand for revenge against Germany. Alsace-Lorraine was often depicted on French maps as a black spot on maps following its loss, hence the name "La Tache Noire";x
 TOTAL_TAX_EFFICIENCY_BASED;Calculated from:;x
-EVTDESC44810;Diplomats from §R$FROMCOUNTRY$§b have asked the Great Powers to recognize their sovereignty over the Congo basin via their International Association of the Congo. They claim that they will establish a neutral free trade zone that would work to bring civilization to the people of the Congo. If 5 or more great powers vote yes, §R$FROMCOUNTRY$§b will establish a puppet state in the Congo. If 4 or more vote no, then the lands will remain free to be colonized by anyone.;x
+EVTDESC44810;Diplomats from §R$FROMCOUNTRY$§b have asked the Great Powers to recognize their sovereignty over the Congo basin via their International Association of the Congo. They claim that they will establish a neutral free trade zone that would work to bring civilisation to the people of the Congo. If 5 or more great powers vote yes, §R$FROMCOUNTRY$§b will establish a puppet state in the Congo. If 4 or more vote no, then the lands will remain free to be colonized by anyone.;x
 TOTAL_TAX_EFFICIENCY;Tax Efficiency: §Y$VAL$§W;x
 YEARS_OF_RESEARCH_EFFECT;$DIRECTION$ $VALUE$ research points.\n;x
 WAR_THEY_ACCEPT_HEADER;The Foreign Minister reports;x
@@ -13204,7 +13204,7 @@ BSQ_communist;Mugimendu Komunista;x
 WARGOAL_WE_ACCEPT_BTN3;Go to;x
 high_pressure_steam_engine;High-Pressure Steam Engine;x
 OTHERDEFECT_HEADER;Defection!;x
-kongo_empire_desc;Before the Portuguese weakened us, we once ruled over the lands now inhabited by the Ngoyo and Kakango tribes. Now is the time to restore the great Kongo Empire.\n\n§RCivilization Progress must be 30% to enact this decision.;x
+kongo_empire_desc;Before the Portuguese weakened us, we once ruled over the lands now inhabited by the Ngoyo and Kakango tribes. Now is the time to restore the great Kongo Empire.\n\n§RCivilisation Progress must be 30% to enact this decision.;x
 RWA_liberal;Liberal Party;x
 PEACE_WE_DECLINE_HEADER;$MESSENGER$;x
 form_indonesia_desc;We have a dominant position in the Indonesian archipelago, and it is time we united the Malay, Javan, Moluccan and Melanesian people of the East Indies under a common banner.;x
@@ -13443,7 +13443,7 @@ ENFORCE_DEMANDS_TRIGGER;These rebels will win if the following is true:;x
 FSM_reactionary;Nationalist Party;x
 CIVILIZE_DESC;Fully embrace western ideas. This will give us access to the technological advances of our sphere leader;x
 gtfo_KUT_desc;We've had a good run, but it's time to end our rulership of Kutch: if you love something, let it go!;x
-MODIFIER_CIVILIZATION_PROGRESS;Civilization Progress;x
+MODIFIER_CIVILIZATION_PROGRESS;Civilisation Progress;x
 local_distribution_channels_und_electricity;Commercial Retailers and Electrical Lighting;x
 ZOOM_IN;Zoom in;x
 EVTNAME91341;The $FROMCOUNTRY_ADJ$ Overlords;x
@@ -13915,7 +13915,7 @@ BLC_ADJ;Baluchi;x
 CLC_ADJ;Cilician;x
 REMOVE_EVTNAME2050;Naturalization;x
 PO_PD_NEG_99;The enemy has won a devastating victory, and we can expect them to demand the fulfillment of several war goals in the peace negotiations.;x
-integrate_adamawa_desc;Adamawa has existed as our vassal for decades, but as our country modernizes, we must also centralize the administration. It's time to bring them in the fold.\n\n§RCivilization Progress must be 80% in order to enact this decision.;x
+integrate_adamawa_desc;Adamawa has existed as our vassal for decades, but as our country modernizes, we must also centralize the administration. It's time to bring them in the fold.\n\n§RCivilisation Progress must be 80% in order to enact this decision.;x
 SORT_BY_STANCE_DESC;Sort ships by their §Ycurrent action§!.;x
 end_the_caudillos_desc;For most of $COUNTRY$'s history, caudillos (strongmen) have ruled with an iron fist. Their rule has been marked by constant civil war and stifling of free markets in favor of their conservative gaucho supporters. The move away from caudillo style leadership is necessary if this country is to progress on the world stage.;x
 form_union_nation_title;Form $CULTURE_GROUP_UNION$;x
@@ -14362,7 +14362,7 @@ CANCELGIVEMILITARYACCESS_WE_ACCEPT_2;$MONARCHTITLE$ we are outraged to discover 
 gtfo_XIN_title;Grant Xinjiang Independence;x
 gtfo_FIN_title;Grant Finland Independence;x
 EVTOPTA37234;Give in to their demands. §R(Game Over);x
-EVTDESC2020;Romance is in the air in $PROVINCENAME$, where a marriage between one of the province's immigrant sons, and a young local girl, is being celebrated by friends and family. Some decry the development as the end of $COUNTRY_ADJ$ civilization, but the young couple sure do look happy. Immigration is changing $PROVINCENAME$ in ways both big and small.;x
+EVTDESC2020;Romance is in the air in $PROVINCENAME$, where a marriage between one of the province's immigrant sons, and a young local girl, is being celebrated by friends and family. Some decry the development as the end of $COUNTRY_ADJ$ civilisation, but the young couple sure do look happy. Immigration is changing $PROVINCENAME$ in ways both big and small.;x
 EVTOPTB18550;Liberty shall not perish;x
 islamic_law_triggered;Islamic Law;x
 EVTOPTB14790;Cover up the report, lest the capitalists get uppity!;x
@@ -14460,7 +14460,7 @@ gtfo_PAP_desc;We've had a good run, but it's time to end our rulership of Papal 
 EVTOPTB15260;No, let them build and own houses;x
 GW_DISCOVERED_6;*;x
 gtfo_BSH_title;Grant Lesotho Independence;x
-revoke_kht_autonomy_desc;Qa'inat has had autonomy for too long, central administration would stabilize it and ensure its rulers can never turn against us.\n\n§RCivilization Progress must be 95% in order to enact this decision.;x
+revoke_kht_autonomy_desc;Qa'inat has had autonomy for too long, central administration would stabilize it and ensure its rulers can never turn against us.\n\n§RCivilisation Progress must be 95% in order to enact this decision.;x
 October;October;x
 demand_chinese_concession_casus_belli;Demand Chinese Concession;x
 gtfo_JOR_desc;We've had a good run, but it's time to end our rulership of Jordan: if you love something, let it go!;x
@@ -14470,7 +14470,7 @@ KRL_anarcho_liberal;Aktivistinen vastustuspuolue;x
 LUZ;Lusatia;x
 mahayana_country;Mahayana Religion;x
 complete_circassian_pacification_desc;A supply route to our holdings in Transcaucasia must be established via the annexation of the North Caucasian imamates if we are to consolidate our rule in the region.;x
-EVTDESC23400;The combination of renewed interest in Ancient Greek civilization and the idea of sport as an important part of social development has led a French aristocrat, Baron Pierre de Coubertin, to propose reviving the Olympic Games as a way to promote international peace through friendly athletic competition between nations. Should our nation join his International Olympic Committee to organize the first games?;x
+EVTDESC23400;The combination of renewed interest in Ancient Greek civilisation and the idea of sport as an important part of social development has led a French aristocrat, Baron Pierre de Coubertin, to propose reviving the Olympic Games as a way to promote international peace through friendly athletic competition between nations. Should our nation join his International Olympic Committee to organize the first games?;x
 EVTDESC17080;A married woman owns no personal property, and her legal identity ceases to exist as husband and wife are joined in one person under law and marriage. We want to change this, we want women to be able to dispose of their own property as they wish. We want the courts of law to recognize a husband and wife as two separate legal entities.'\n\nThe suffragette movement in $COUNTRY$ has organized a rally in one of our states, campaigning for the right of women to receive recognition of the rights, deeds and titles of property that they in many cases already, de facto, hold.;x
 ALLYTAKEOVERWE_6;from now on, we will handle all negotiations.;x
 czechoslovakian;Czechoslovakian;x
@@ -14758,7 +14758,7 @@ EVTDESC44702;The Siamese have sent an invasion force to oust our regency in Camb
 MAY_NOT_RETREAT;It is not possible, nor would it be honorable, to retreat from a battle while the battle is still starting up.;x
 help_ai_arc;AI: Spain buff;x
 accept_trade_deal_21_desc;If we enter into a trade deal with the chosen country, we will get a decision that allows us to send goods from our stockpile to our trading partner.;x
-texan_manifest_destiny_desc;To bring civilization from coast to shining coast has always been the grand mission of our lone star republic. Remember the Alamo!;x
+texan_manifest_destiny_desc;To bring civilisation from coast to shining coast has always been the grand mission of our lone star republic. Remember the Alamo!;x
 gtfo_AGC_desc;We've had a good run, but it's time to end our rulership of Angoche: if you love something, let it go!;x
 EVTOPTA44813;$COUNTRY$ apologizes for nothing.;x
 ADDTOSPHERE_THEY_ACCEPT_BTN1;OK;x
