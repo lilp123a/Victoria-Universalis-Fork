@@ -730,6 +730,7 @@ iron_muzzle_loaded_artillery = {
 	unciv_military = yes
 	
 	artillery = {
+		support = 0.2
 		defence = 0.5
 		supply_consumption = 0.05
 	}
@@ -775,6 +776,7 @@ iron_breech_loaded_artillery = {
 	unciv_military = yes
 	
 	artillery = {
+		support = 0.2
 		defence = 0.5
 		supply_consumption = 0.1
 	}
@@ -820,6 +822,7 @@ steel_breech_loaded_artillery = {
 	unciv_military = yes
 	
 	artillery = {
+		support = 0.2
 		defence = 1
 		supply_consumption = 0.1
 	}
@@ -865,6 +868,7 @@ indirect_artillery_fire = {
 	unciv_military = yes
 	
 	artillery = {
+		support = 0.2
 		defence = 1.5
 		supply_consumption = 0.15
 	}
@@ -910,6 +914,7 @@ creeping_barrage = {
 	unciv_military = yes
 	
 	artillery = {
+		support = 0.2
 		defence = 1.5
 		supply_consumption = 0.15
 	}
@@ -953,7 +958,9 @@ railway_gun = {
 	year = 1920
 	cost = 21600
 	unciv_military = yes
+	
 	artillery = {
+		support = 0.2
 		attack = 1
 		defence = 1
 		supply_consumption = 0.25
