@@ -1640,17 +1640,17 @@ infamy_idea = {
 ###############################
 
 nv_order_preview = {
-	icon = 10
+	icon = 3
 }
 
 nv_liberty_preview = {
-	icon = 10
+	icon = 3
 }
 
 nv_equality_preview = {
-	icon = 10
+	icon = 3
 }
 
 nv_industry_preview = {
-	icon = 10
+	icon = 3
 }
