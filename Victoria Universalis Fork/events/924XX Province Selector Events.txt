@@ -1,0 +1,532 @@
+# *######################################*
+# *###### PROVINCE SELECTOR EVENTS ######*
+# *######################################*
+
+# Base Province Selector Event
+province_event = {
+	id = 92400
+	title = EVTNAME92400
+	desc = EVTDESC92400
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		owner = {
+			any_owned = {
+				limit = {
+					has_building = province_selector
+				}
+				
+				province_selector = -1
+			}
+		}
+	}
+	
+	# Cancel
+	option = {
+		name = EVTOPTA92400
+	}
+	
+	# Add/Remove Migration Attraction
+	option = {
+		name = EVTOPTB92400
+		
+		add_core = JAN
+		
+		# Remove modifier
+		owner = {
+			random_owned = {
+				limit = {
+					is_core = JAN
+					
+					has_province_modifier = province_attract_immigrants
+				}
+				
+				remove_province_modifier = province_attract_immigrants
+			}
+		}
+		
+		# Add modifier
+		owner = {
+			random_owned = {
+				limit = {
+					is_core = JAN
+					is_colonial = no
+					
+					NOT = { has_province_modifier = province_attract_immigrants }
+				}
+				
+				add_province_modifier = {
+					name = province_attract_immigrants
+					duration = -1
+				}
+			}
+		}
+		
+		remove_core = JAN
+	}
+	
+	# Make state a colony
+	option = {
+		name = EVTOPTC92400
+		
+		add_core = JAN
+		
+		owner = {
+			random_owned = {
+				limit = {
+					is_core = JAN
+					is_colonial = no
+				}
+				
+				owner = {
+					country_event = {
+						id = 92401
+						days = 0
+					}
+				}
+			}
+			
+			# Remove special flag core if invalid
+			random_owned = {
+				limit = {
+					is_core = JAN
+					is_colonial = yes
+				}
+				
+				remove_core = JAN
+			}
+		}
+	}
+	
+	# Set colony settlement policy
+	option = {
+		name = EVTOPTD92400
+		
+		add_core = JAN
+		
+		owner = {
+			random_owned = {
+				limit = {
+					is_core = JAN
+					is_colonial = yes
+				}
+				
+				province_event = {
+					id = 91520
+					days = 0
+				}
+			}
+		}
+		
+		remove_core = JAN
+	}
+	
+	# Create Supply Depot
+	option = {
+		name = EVTOPTE92400
+		
+		add_core = JAN
+		
+		owner = {
+			random_owned = {
+				limit = {
+					is_core = JAN
+				}
+				
+				owner = {
+					any_owned = {
+						limit = {
+							has_province_modifier = supply_depot
+						}
+						
+						remove_province_modifier = supply_depot
+					}
+				}
+				
+				add_province_modifier = {
+					name = supply_depot
+					duration = -1
+				}
+			}
+		}
+		
+		remove_core = JAN
+	}
+	
+	# Change agricultural RGO
+	option = {
+		name = EVTOPTF92400
+		
+		add_core = JAN
+		
+		owner = {
+			random_owned = {
+				limit = {
+					owner = { money = 250000 }
+					
+					is_core = JAN
+					
+					NOT = {
+						OR = {
+							trade_goods = coal
+							trade_goods = iron
+							trade_goods = sulphur
+							trade_goods = oil
+							trade_goods = rubber
+							trade_goods = tropical_wood
+							trade_goods = market_goods
+							trade_goods = precious_metal
+						}
+					}
+					
+					NOT = { has_province_modifier = switched_production }
+				}
+				
+				province_event = {
+					id = 92403
+					days = 0
+				}
+			}
+		}
+		
+		remove_core = JAN
+	}
+	
+	# Integrate State
+	option = {
+		name = EVTOPTG92400
+		
+		add_core = JAN
+		
+		owner = {
+			random_owned = {
+				limit = {
+					is_core = JAN
+					has_global_flag = province_selector_integration_enabled
+					
+					owner = {
+						NOT = { has_modifier = active_integration }
+					}
+				}
+				
+				owner = {
+					add_country_modifier = {
+						name = active_integration
+						duration = 3650
+					}
+				}
+				
+				state_scope = {
+					any_owned = {
+						add_province_modifier = {
+							name = integrating_province
+							duration = -1
+						}
+					}
+				}
+			}
+		}
+		
+		remove_core = JAN
+	}
+}
+
+# Event for player to confirm statehood removal
+country_event = {
+	id = 92401
+	title = EVTNAME92401
+	desc = EVTDESC92401
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTA92401
+	}
+	
+	option = {
+		name = EVTOPTB92401
+		
+		random_owned = {
+			limit = {
+				is_core = JAN
+				is_colonial = no
+			}
+			
+			CIV = {
+				country_event = {
+					id = 92402
+					days = 0
+				}
+			}
+			
+			state_scope = {
+				any_owned = {
+					secede_province = CIV
+				}
+			}
+		}
+	}
+}
+
+# Event sent to utility CIV tag by player to rescind statehood
+country_event = {
+	id = 92402
+	title = EVTNAME92402
+	desc = EVTDESC92402
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTA92402
+		
+		CIV = {
+			civilized = no
+			annex_to = FROM
+		}
+	}
+}
+
+# Change agricultural RGO event
+province_event = {
+	id = 92403
+	title = EVTNAME92403
+	desc = EVTDESC92403
+	
+	is_triggered_only = yes
+	
+	# Cancel
+	option = {
+		name = EVTOPTA92403
+	}
+	
+	# Wool
+	option = {
+		name = EVTOPTB92403
+		
+		owner = { treasury = -250000 }
+		
+		trade_goods = wool
+		add_province_modifier = {
+			name = switched_production
+			duration = 5475
+		}
+	}
+	
+	# Fruit
+	option = {
+		name = EVTOPTC92403
+		
+		owner = { treasury = -250000 }
+		
+		trade_goods = fruit
+		add_province_modifier = {
+			name = switched_production
+			duration = 5475
+		}
+	}
+	
+	# Cotton
+	option = {
+		name = EVTOPTD92403
+		
+		owner = { treasury = -250000 }
+		
+		trade_goods = cotton
+		add_province_modifier = {
+			name = switched_production
+			duration = 5475
+		}
+	}
+	
+	# Cattle
+	option = {
+		name = EVTOPTE92403
+		
+		owner = { treasury = -250000 }
+		
+		trade_goods = cattle
+		add_province_modifier = {
+			name = switched_production
+			duration = 5475
+		}
+	}
+	
+	# Grain
+	option = {
+		name = EVTOPTF92403
+		
+		owner = { treasury = -250000 }
+		
+		trade_goods = grain
+		add_province_modifier = {
+			name = switched_production
+			duration = 5475
+		}
+	}
+	
+	# Tea Leaves
+	option = {
+		name = EVTOPTG92403
+		
+		owner = { treasury = -250000 }
+		
+		trade_goods = tea_leaves
+		add_province_modifier = {
+			name = switched_production
+			duration = 5475
+		}
+	}
+	
+	# Coffee Beans
+	option = {
+		name = EVTOPTH92403
+		
+		owner = { treasury = -250000 }
+		
+		trade_goods = coffee_beans
+		add_province_modifier = {
+			name = switched_production
+			duration = 5475
+		}
+	}
+	
+	# Opium
+	option = {
+		name = EVTOPTI92403
+		
+		owner = { treasury = -250000 }
+		
+		trade_goods = opium
+		add_province_modifier = {
+			name = switched_production
+			duration = 5475
+		}
+	}
+	
+	# Dye
+	option = {
+		name = EVTOPTJ92403
+		
+		owner = { treasury = -250000 }
+		
+		trade_goods = dye
+		add_province_modifier = {
+			name = switched_production
+			duration = 5475
+		}
+	}
+	
+	# Silk
+	option = {
+		name = EVTOPTK92403
+		
+		owner = { treasury = -250000 }
+		
+		trade_goods = silk
+		add_province_modifier = {
+			name = switched_production
+			duration = 5475
+		}
+	}
+	
+	# Tobacco
+	option = {
+		name = EVTOPTL92403
+		
+		owner = { treasury = -250000 }
+		
+		trade_goods = tobacco
+		add_province_modifier = {
+			name = switched_production
+			duration = 5475
+		}
+	}
+	
+	# Fish
+	option = {
+		name = EVTOPTM92403
+		
+		owner = { treasury = -250000 }
+		
+		trade_goods = fish
+		add_province_modifier = {
+			name = switched_production
+			duration = 5475
+		}
+	}
+	
+	# Timber
+	option = {
+		name = EVTOPTN92403
+		
+		owner = { treasury = -250000 }
+		
+		trade_goods = timber
+		add_province_modifier = {
+			name = switched_production
+			duration = 5475
+		}
+	}
+}
+
+# State integration complete
+province_event = {
+	id = 92404
+	title = EVTNAME92404
+	desc = EVTDESC92404
+	
+	trigger = {
+		owner = {
+			NOT = { has_country_modifier = active_integration }
+		}
+		
+		has_province_modifier = integrating_province
+	}
+	
+	immediate = {
+		state_scope = {
+			any_owned = {
+				limit = {
+					has_province_modifier = integrating_province
+				}
+				
+				remove_province_modifier = integrating_province
+				
+				add_core = THIS
+			}
+		}
+	}
+	
+	option = {
+		name = EVTOPTA92404
+	}
+}
+
+# Event disrupting state integration if occupied
+province_event = {
+	id = 92405
+	title = EVTNAME92405
+	desc = EVTDESC92405
+	
+	trigger = {
+		has_province_modifier = integrating_province
+		NOT = { controlled_by = THIS }
+	}
+	
+	immediate = {
+		state_scope = {
+			any_owned = {
+				remove_province_modifier = integrating_province
+			}
+		}
+		
+		owner = {
+			remove_country_modifier = active_integration
+		}
+	}
+	
+	option = {
+		name = EVTOPTA92406
+	}
+}

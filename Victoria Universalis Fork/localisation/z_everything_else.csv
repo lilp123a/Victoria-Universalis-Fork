@@ -35,7 +35,6 @@ low_envir;Some Standards;x
 underground_railroad;Underground Railroad;x
 gtfo_BEN_title;Grant Benin Independence;x
 opium_war;Opium War;x
-EVT91737OPTH;Change province to produce Opium.;x
 EVTDESC3402;And with this years budget, our payments to the unemployment programs will, again, exceed budget by several percentages. And this is what this is really all about, gentlemen, percentages. Those critical percentages that stand between us and bankruptcy.'\n\nOur unemployment programs are starting to run at a heavier loss than expected, and some taxpayers are becoming extremely concerned with these runaway strains on the budget. A committee acting out of one of our states has formed a coalition for the revocation of unemployment benefits, and are making national headlines with their efforts.;x
 DECREASEOPINION_WE_ACCEPT_6;*;x
 EVTDESC91880;The victorious Allies have enforced their demands on the vanquished nations of the Central Powers. Austria-Hungary is to be dismantled along ethnic lines, Bulgaria cedes its territories in Macedonia, and the Ottoman Empire is no more. Germany surrenders East Prussia to Russia, Alsace-Lorraine to France, and its colonial Empire to Britain.;x
@@ -474,7 +473,6 @@ platine_war_short;Establish control over Platinean breakaway states.;x
 EVTNAME91006;Tutorial: Generals;x
 ADDTOSPHERE_THEY_ACCEPT_2;$MONARCHTITLE$, we have included;x
 CALLALLY_THEY_DECLINE_BTN2;OK;x
-EVT91737OPTI;Change province to produce Dye.;x
 gtfo_HDU_desc;We've had a good run, but it's time to end our rulership of Hindustan: if you love something, let it go!;x
 greater_germany;Großdeutschland;x
 EVTNAME14100;Who Produces What, and Where?;x
@@ -647,13 +645,11 @@ EVTOPTE14180;Mama says a pistol is the Devil's right hand.;x
 EVTOPTA10050;We pray for the fallen;x
 carl_bosch_desc;Carl Bosch attended the University of Leipzig, and this is where he studied under Johannes Wislicenus, and he obtained his doctorate in 1898 for research in organic chemistry. After he left In 1899 he took an entry level job at BASF, then Germany's largest chemical and dye firm. From 1909 until 1913 he transformed Fritz Haber's tabletop demonstration of a method to fix nitrogen using high pressure chemistry into an important industrial process to produce megatons of fertilizer and explosives.;x
 GLC_conservative;Partido Moderado;x
-supply_depot_destroyed;Supply Depot Recently Destroyed;x
 MESSAGE_HEAD_CHAN;The Foreign Office reports;x
 TTB_socialist;People's Partnership;x
 NORMAL_GREAT_WAR_NAME;War of Austro-Hungarian Aggression;x
 embrace_swahili_desc;The Swahilis of Zanzibar have been invaluable to the growth and prosperity of Oman. It is time we embraced them as equals.;x
 ADD_WARGOAL_MILITANCY;If we fail to achieve this war goal, our entire population will gain $MILITANCY$ §YMilitancy§W;x
-province_attract_immigrants;Immigration Focus;x
 gtfo_VEN_desc;We've had a good run, but it's time to end our rulership of Venice: if you love something, let it go!;x
 REMOVE_PEACE_THEY_DECLINE_5;*;x
 CONFIRMBUILDTITLE;Confirm build.;x
@@ -824,7 +820,6 @@ MSG_FILTER_SPHERE;Sphere;x
 NMB_socialist;SWANU;x
 MNP;Manipur;x
 EVTNAME10160;Banquet Campaign;x
-EVTNAME91708;Removal of Cores;x
 naval_schools;Naval Training;x
 SOCIAL_MOVEMENT_STRENGTH_TR;Social movement strength is higher than §Y$VAL$§W.\n;x
 cancel_trade_agreements_16_desc;By cancelling our current trade agreement, we are free to enter into a new a trade agreement with another country.;x
@@ -947,7 +942,6 @@ EVTDESC60160;As an independent nation we are now free to appoint our own governm
 ABK_ADJ;Abkhazian;x
 VIC_liberal_1;Liberal Party;x
 GIVEMILITARYACCESS_WE_DECLINE_1;Military Access.;x
-diplomatic_cores;Core Integration in Progress;x
 FJN_reactionary;Beiyang Faction;x
 EVTNAME23413;The Games of The Third Olympiad;x
 EVTOPTA13170;Dispatch a punitive expedition;x
@@ -1231,7 +1225,6 @@ NO_MIGRATIONS_FOUND3_TOOLTIP;(Select province to see details);x
 POPULATION_DENSITY_AT_PROVINCE;Total population in §Y$PROV$§W:;x
 GNE_communist;Guinean People's Assembly;x
 african_deserts_desc;Send an expedition to an uncharted African province and stake our claim over the area.;x
-EVTOPTA91709;Damnit!;x
 free_press_promised;Free press promised;x
 european_african_conquest;Scramble for Africa Conquest;x
 LEADERDIED_MAP;*;x
@@ -1410,7 +1403,6 @@ INVENTION_MAP;*;x
 gtfo_D22_title;Grant Dynamic Country 22 Independence;x
 gtfo_CLM_title;Grant Colombia Independence;x
 gtfo_MGL_title;Grant MGL Independence;x
-baby_booming_desc;Baby boom cooldown timer.;x
 Ideology;Ideology;x
 SELLLICENCEDESC;Request to build a number of units developed by another country.;x
 GMJ_conservative;Kuomintang Faction;x
@@ -1540,7 +1532,6 @@ MILITARY_REFORM_COST_DESC;Cost modifier for military reforms: ;x
 enact_anaconda_plan_desc;Originally devised by General-in-chief Winfield Scott, the Anaconda plan was a plan for subduing the Confederacy by means of a massive naval blockade, and a military advance along the Mississippi river. By initiating blockades of CSA ports, we can increase their war exhaustion by denying them essential goods.;x
 EVTNAME14050_sub;Tariff Policies Debated in $COUNTRY$;x
 gtfo_TMR_title;Grant Timor Independence;x
-small_baby_boom;Small Baby Boom;x
 IS_NOT_OUR_VASSAL; is NOT our Puppet;x
 EVTOPTA2100;Dire news!;x
 OCC;Occitania;x
@@ -1588,7 +1579,6 @@ EVTOPTA3503;Break up the strike;x
 caucasian_truce_local_title;The Caucasian War - Truce;x
 ERT_liberal;The Liberal Faction;x
 EVTDESC4400;It is my wish, therefore, that my collected fortune, in the forms of bonds, land, stocks and shareholds, be bequeathed to a foundation which is to further and advance the causes of human liberty, and freedom.'\n\nOurs is the era of Laissez-Faire. The free-trade policies our government embraces cause goods to flow across our borders, and wealth to flow into our coffers. As Adam Smith rightly predicted, an invisible hand seems to guide the fate of our nation toward a future of ever-increasing prosperity, and for the first time in centuries, famine is becoming a thing of the past. A wealthy trader has died in one of our states, and has bequeathed his fortune to advance the cause of free trade.;x
-EVTDESC91737;Choose to change a province to the following RGO types.;x
 EVTOPTA35705;We will deal with him.;x
 BRT_liberal;Strollad Liberal;x
 cancel_trade_agreements_7_desc;By cancelling our current trade agreement, we are free to enter into a new a trade agreement with another country.;x
@@ -1990,7 +1980,6 @@ WAR_THEY_ACCEPT_1;We declared war on;x
 PARTY_WITH_IDEOLOGY_NOT_EXIST;There is no active party with §Y$IDEOLOGY$§W ideology.;x
 DON_fascist;The Nationalist Faction;x
 DECISIONUS_BTN3;*;x
-EVT91737OPTE;Change province to produce Grain.;x
 EVTNAME32511;Russia Declines!;x
 EVTOPTA46302;Target practice! ;x
 yes_foreign_officers_desc;Our troops are now trained, assisted and sometimes led by foreign officers.;x
@@ -2391,7 +2380,6 @@ MNG_ADJ;Mongo;x
 EVTOPTC14080;We will deal with it if the production quota becomes a problem.;x
 EVTDESC90009;While the hubris of $CB_TARGET_NAME$ is evident to us, apparently others fail to see it. Their so-called “sovereignty” apparently allows them to have their own army and to do as they will without deferring to us. It has even been implied that we are the arrogant ones!;x
 JNG_ADJ;Channel Islander;x
-diplomatic_cores_desc;If the provinces in a state still have the "Removing Cores" or "Adding Cores" province modifier when this country modifier runs out, then an event will trigger to remove other countries' cores or add this country's cores to said state. All province modifiers are automatically removed when a state changes owners, so if the state changes owners before this timer runs out then the event to add or remove cores will not trigger.;x
 EVTNAMEelectricity;Electricity Tech Flag;x
 NIP_liberal;Liberal Faction;x
 jewish_farms;Jewish Farmlands;x
@@ -2996,7 +2984,6 @@ EVTNAME35811;Treaty of Ganghwa - Korea Agrees;x
 EVTDESC17630;Reports have reached $CAPITAL$ that the Blackshirts, the paramilitary wing of the fascist party, have begun marching down the country, toward $CAPITAL$, intent on seizing power in $COUNTRY$. The military has thus far not attempted to intervene, and we suspect that this might be due to the fact that several leading members of our armed forces have fascist sympathies themselves. This is definitely a crisis for the young $COUNTRY_ADJ$ democracy.;x
 LANDBATTLEOVER_SETUP;When a land battle is over;x
 CRISIS_NO_SIDE_PICKED_2;Because of our failure to act;x
-EVT91737OPTM;Change province to produce Timber.;x
 cancel_trade_agreements_29_title;§YCancel Trade Agreement;x
 restore_argentina_title;Restore Order to Argentina;x
 CRISIS_NO_SIDE_PICKED_1;Diplomatic Indecisiveness;x
@@ -3522,7 +3509,6 @@ bad_boy_desc;We are justifying our aggression to the international court;x
 CRISIS_OFFER_THEY_ACCEPT_BTN2;OK;x
 CRISIS_OFFER_THEY_ACCEPT_BTN1;OK;x
 abolish_prohibition_title;Repeal Prohibition;x
-EVT91737OPTK;Change province to produce Tobacco.;x
 EVTDESC32505;In 1880, Fyodor Dostoevsky completed his magnum opus, 'The Brothers Karamazov'. One of the most arresting works in the entire history of literature, 'The Brothers Karamazov' was a comedy that developed the major themes of Dostoevsky's post-Socialist career as a writer. A comedy, perhaps, but arguably the most serious comedy ever written. In his memoir, 'The Diary of a Writer', Dostoevsky dismissed leftist criticisms of his work by remarking that no leftist had ever provided as damaging a critique of Christianity as his Chapters 'Rebellion' and 'The Grand Inquisitor' in The Brothers Karamazov. Dostoevsky's works were hugely influential not only in Russia but also throughout the West,  and not only in literary circles, but in philosophical and religious ones as well.;x
 EVTDESC45100;Relations with the Church were improved through the Concordat of 1860, which allows the return of French clergy and the establishment of parochial schools.;x
 zstate_colonial_policy_desc;Triggers a province event that allows you to choose a colonial policy for the selected state.;x
@@ -4762,7 +4748,6 @@ EVTNAME44710;The White Raja;x
 EVTNAMEpositivism;Positivism Tech Flag;x
 gtfo_PAR_title;Grant Parma Independence;x
 EVTOPTA44602;The Peru-Bolivian Confederation will prevail.;x
-new_world_province_attract_immigrants;Immigration Focus;x
 POP_DEMOTION_TARGET;Change employment to:;x
 POP_PROMOTION_FACTORS;Promotion factors:;x
 PV_POP_MIL;Mil;x
@@ -5509,7 +5494,6 @@ AGRESSION_WAR_PROTECTORATE_NAME;$ORDER$ Acquisition of $FIRST$ $SECOND_COUNTRY$;
 EVTOPTB17580;They must stop infringing on organizational freedoms;x
 desc_the_walhalla;The Walhalla commemorates famous personalities from German history from Arminius to Copernicus.;x
 gtfo_ITA_title;Grant Italy Independence;x
-literacy_campaign;Literacy Campaign;x
 PW_RESET;Reset;x
 EVTNAME35705;Expedition of the Thousand;x
 CD_HASACCESS;Has military access through $LIST$.;x
@@ -6552,7 +6536,6 @@ EVTDESC44469;The Great Powers have agreed to let us reclaim some of our lands st
 EVTOPTA60010;Viva!;x
 BP_TOOL_ARROW_SLIM;Slim Arrow;x
 MODIFIER_OVERSEAS;Overseas penalty: $VALUE$;x
-zstate_literacy_campaign_title;§GLiteracy Campaign;x
 EVTDESC13110;We have decided to open our doors to the West, and if we expect our subjects to embrace this policy, it becomes important that we ourselves, the Royal family, set good examples. Well educated leaders will be absolutely essential if we are to fully take our rightful place in the court of nations, and by sending our progeny abroad for education in Europe, or by hiring Westerners to educate them here, we can accomplish just that. What say you, your majesty?;x
 EVTOPTA44646;Support the Granadine Confederation.;x
 MLT_reactionary;Azzjoni Nazzjonali;x
@@ -6835,7 +6818,6 @@ EVTNAME36900;The Reform Club;x
 EVTDESC36706;In 1865, Father Damiaan De Veuster, a priest from Tienen in Brabant, departed with a ship to the island of Molokai in Hawaii to aid the lepers colony there. He worked and lived with the lepers on Molokai for more than 20 years before he died from the same disease in 1889.;x
 EVTNAME36706;Father Damiaan Departs For Hawaii;x
 EVTNAME44640;Revolution of $YEAR$;x
-supply_depot;Supply Depot\n§WSupply Depots will be destroyed if a battle is started in its province, the province is occupied, or the province changes ownership.;x
 EVTOPTA36705;Brilliant work;x
 EVTDESC36705;Ernest Solvay (1838-1922) was one of the world's most talented chemists. Today, one of the biggest chemical companies in the world and the biggest one in Belgium is named after him. In 1862 Solvay invented the ammonia process (or Solvay process) for the industrial production of soda. Industrial production of the product started in 1865.;x
 gtfo_D23_title;Grant Dynamic Country 23 Independence;x
@@ -6965,7 +6947,6 @@ WE_DEMOBILIZE_MAP;*;x
 EVTNAME36203;The Forced Emigration of Louis Pio;x
 FLASHPOINT_TENSION;Flashpoint tension: §Y$VALUE$§!%;x
 EVTOPTB12240;Sadly we cannot make any guarantees.;x
-zcreate_supply_depot_title;§GCreate Supply Depot;x
 MNG_reactionary;Empire Faction;x
 EVTNAME36202;The Battle on the Copenhagen Common;x
 EVTNAME44109;Alfred Thayer Mahan;x
@@ -7170,7 +7151,6 @@ EVTOPTB37708;We are satisfied with the National Militia;x
 sikkim_protectorate_title;Establish Sikkim Protectorate;x
 EVTOPTA37708;Create the Civil Guard;x
 EVTDESC44631;We have been crushed by the Triple Alliance -- our dreams of Greater Paraguay are over.;x
-zstate_literacy_campaign_desc;Adds a Literacy Campaign modifier to every province in the selected state for 10 years. At the start of every year, each pop in a province with an active Literacy Campaign will gain 1 - (POP Literacy/100) literacy per year, e.g. 0% literacy POP will gain 1% and an 80% literacy POP will gain 0.2% every year. §BCosts $50,000 per every 100k POPs in a state.;x
 EVTOPTA36603;Call out the troops!;x
 EVTNAME37708;La Guardia Civil;x
 EVTDESC44712;The $FROMCOUNTRY_ADJ$ have agreed to sell us Flores in exchange for 200,000 florins.;x
@@ -7250,7 +7230,6 @@ restore_puppet_province_short;Make $RECIPIENT$ transfer $STATE$ to a puppet.;x
 INTERVENTION_THEIR_SIDE_2;$RECIPIENT$;x
 agar_maqnat_title;Complete the Agar Maqnat;x
 EVTNAME16001;The American Civil War;x
-EVTNAME91707;Core Integration Complete;x
 CALLALLY_WE_DECLINE_4;is not really in our interest at this time;x
 niederwald_denkmal_desc;The Niederwalddenkmal is a monument in the Niederwald park, Hesse, Germany. The monument's central figure is a ten meter high statue of Germania, the personification of the German nation, holding aloft the recovered Imperial crown of Germany, flanked by two statues representing War and Peace respectively. Built between 1871 and 1883, the monument was commissioned after the Franco-Prussian war, to commemorate the founding of the German Empire. Let us all rejoice in the glory of our nation united by erecting a monument to stand the tests of time!;x
 EVTNAME18200;Parliamentary Agitation;x
@@ -7978,7 +7957,6 @@ ADDTOSPHERE_OTHER_ACCEPT_4;Sphere of Influence of §Y$ACTOR$§W.;x
 COLONIZE_MAX_SLOTS;No more then §Y$NUM$§! countries can compete for province colonization.;x
 demand_chinese_concession_casus_belli_short;Demand Chinese Concession;x
 EVTOPTB18120;Crack goes the whip!;x
-EVT91737OPTA;Change province to produce Wool.;x
 badboy5;45 Infamy Penalty;x
 EVTDESC1207;With less security personnel around in the province, terrorists have an easier time hiding and waiting for opportunities to strike.;x
 EVTNAME18120;Conservative Swing in The Upper House;x
@@ -8304,7 +8282,6 @@ expand_northern_cape_title;Expand Northern Cape;x
 colonial_mismanagement;Colonial Mismanagement;x
 EVTOPTA12220;Stockpile the extra tea;x
 EVTDESC15210;The hands on the clock point five minutes to twelve. His eyes peer across the town square, seemingly undaunted by the commotion, and the risk. He climbs to the podium, and begins to speak. For hours, he talks. Of the $PROVINCECULTURE$ nation, its oppression, its cause, and its future, in a language that reverberates with nothing save the clear tones of a just cause. The $COUNTRY_ADJ$ gendarmes storm the square, and soon he is gone. Somewhere, far away in the city, a bell strikes twelve. A young $PROVINCECULTURE$ nationalist is in our custody. What should we do with him?;x
-EVTOPTA91708;Too bad.;x
 CRISIS_BACK_DOWN_WE_DECLINE_1;$ACTOR$;x
 EVTOPTA15200;Get rid of the ring-leaders;x
 MS_LOGOUT;Logout;x
@@ -8485,7 +8462,6 @@ gtfo_BIK_desc;We've had a good run, but it's time to end our rulership of Bikane
 EVTOPTA14710;Get out of my hair you profiteering scumbags;x
 EVTDESC14710;So, you see, if $CAPITAL$ could, perhaps, be able to lend us a hand in this little venture of ours, we would be very, very pleased.'\n\nThe government has been approached by several leading members of the country's industrialist elite, who believe that they have found a new possibly profitable racket to dip their fingers in. The proposal concerns one of our colonies, where several acres of viable farmland could potentially be exploited more efficiently under new and industrialized forms of agriculture. Naturally, this proposal would require the expropriation by the state of said land, to then be sold at a fair market price to the interests of capital. Mere technicalities, am I right?;x
 DAK_conservative;Traditionalists;x
-EVT91737OPTD;Change province to produce Cattle.;x
 totalitarian_system;Totalitarianism;x
 EVTOPTA10110;Bloody revolutionaries.;x
 gtfo_ARU_title;Grant Arab Union Independence;x
@@ -8629,7 +8605,6 @@ po_reduce_prestige;Prestige is reduced by §R$VALUE$§b;x
 recent_safari_desc;We have had a safari recently;x
 PPG;Papua New Guinea;x
 EVTDESC13050;A sweet, pungent stench hangs over the backstreets and alleys in $PROVINCENAME$, emanating and spreading in every direction from an epicenter at the foreign trade station. The European traders have brought with them the habit of opium smoking, and our subjects have taken to it on a scale that threatens to become epidemic. It seems that, for every new ship that lands, more and more of our people get caught in the deadly and pacifying web of addiction. What should we do?;x
-EVT91737OPTC;Change province to produce Cotton.;x
 gtfo_ETH_title;Grant Ethiopia Independence;x
 EVTOPTA37713;We will restore the Spanish Empire to its former glory!;x
 EVTOPTC13300;Signal a welcome;x
@@ -8693,7 +8668,6 @@ EVTNAME44402;Battle of Blood River;x
 REMOVE_desc_change_name;Immigrants may have to change their name in order to get a job.;x
 iwakura_mission_title;Send The Iwakura Mission;x
 great_eastern_crisis_desc;The Great Powers of Europe are convening to decide the fate of the Ottoman Empire;x
-EVTDESC91707;We have finished integrating the state of $STATE$.;x
 negotiated_transfer_desc;Transfer a state or colonial region to another country with no effect on infamy, prestige, or jingoism;x
 EVTOPTC14110;Interesting.;x
 chinese_civil_war_short;Annex $RECIPIENT$;x
@@ -9734,7 +9708,6 @@ REMOVE_EVTOPTB2000;Too much trouble. No community.;x
 REMOVE_EVTNAME2000;Institutional Community;x
 EVTNAME46801;Wealth From Guano;x
 EVTOPTA5001;Glory to Uruguay!;x
-EVT91737OPTF;Change province to produce Tea Leaves.;x
 EVTDESC1217;By increasing the amount of government investments into crime fighting we have managed to distribute the wealth in $PROVINCENAME$ more evenly. The gap between rich and poor is no longer as dramatic as it was some time ago.;x
 YZW;Yonezawa;x
 EVTDESC1216;With an increased number of security personnel in $PROVINCENAME$, terrorists won't find as many opportunities to strike and will also have a harder time hiding.;x
@@ -9854,7 +9827,6 @@ GIVEMILITARYACCESS_OTHER_DECLINE_1;§Y$RECIPIENT$§W;x
 REMOVE_EVTDESC1002;Anarcho-Liberals are campaigning on the streets: 'Instead of the state controlling the law enforcement, the courts and the national defence, the different law systems should be provided by voluntarily-founded private competitors. Money should be privately and competitively provided in an open market and personal and economic activities should be regulated by the natural laws of the market and through private law rather than through politics.'\n\nAnarcho-Liberals try to get their voices heard among the other politicians in the country.;x
 EVTNAME1002;Anarcho-Liberals;x
 REMOVE_desc_rebel_workers;Rebelling workers complain about the low security levels;x
-zdismantle_supply_depot_title;§RDismantle Supply Depot;x
 EVTDESC44611;Our armies are destroyed and our capital has been captured by the Brazilians. What hope do we have left to win this war?;x
 EVTDESC1001;We want, no, we NEED a free society, where no one is considered to be superior, no one is left behind and where mankind is free from oppression and scarcity. We need a society without a government, without class divisions and where the workers control the means of production.';x
 gtfo_ENG_title;Grant The United Kingdom Independence;x
@@ -10091,7 +10063,6 @@ cut_down_to_size_boxer_setup;Force China to pay for the crimes of the Boxer rebe
 yes_foreign_artillery_desc;Our artillery is imported from western powers.;x
 REMOVE_desc_own_home;To own a house may do wonders for the assimilation of immigrants.;x
 NORMAL_WAR_BLOCKADE_NAME;$ORDER$$FIRST$ Blockade of $SECOND$;x
-EVT91737OPTL;Change province to produce Fish.;x
 BANKRUPTCY_5;and we have lost much prestige in the eyes of the world.;x
 massive_promote_soldiers;Encourage Soldiers;x
 REMOVE_desc_intermarriage;An immigrant and a native has married each other.;x
@@ -10303,7 +10274,6 @@ CREATE_VASSAL_EFFECT;§Y$TARGET_COUNTRY$§W becomes a puppet of §Y$COUNTRY$§W.\n;x
 ADD_PROVINCE_MONEY_EFFECT;Gain §G$VALUE$§W ¤ in §Y$PROVINCE$§W.\n;x
 REMOVE_PROVINCE_MONEY_EFFECT;Lose §R$VALUE$§W ¤ in §Y$PROVINCE$§W.\n;x
 MODIFIER_NAVAL_ATTACK;Naval Unit Attack;x
-EVT91737OPTZ;I'd rather not change anything.;x
 EVTOPTA3100;Stop publishing this nonsense!;x
 NO_REBELS;You are always at war with rebels.;x
 EVTNAME37234;The Treaty of Bado;x
@@ -11213,7 +11183,6 @@ CANCELALLIANCE_WE_ACCEPT_6;*;x
 BACK_CRISIS_WE_ACCEPT_5;*;x
 KRY;Krasnoyarsk;x
 BNB_ADJ;Babani;x
-adding_cores;Adding Cores\n§WIf this province does not get occupied or change owners for 10 years after this province modifier is added, then it's owners cores will be added to this province.;x
 FE_NATION_TO_PLAY;Click the nation you wish to play...;x
 REORGANISE_UNITS;Reorganise these two units;x
 EVTNAME15310;The Flying University;x
@@ -11442,7 +11411,6 @@ EVTOPTB14170;Full citizenship, with only minor qualifications, is the way forwar
 GREAT_WARS_ENABLE_DESC;Wars can get the status of The Great Wars!;x
 SNZ_fascist_dictatorship;Zealandia;x
 concede_finland_title;Abandon Finland;x
-EVTNAME91737;Agriculture RGO Change in §G$PROVINCENAME$;x
 conservative_focus;Party loyalty towards §Yconservative§! ;x
 form_germany_desc;By controlling, directly or indirectly, the manifold principalities, duchies and free cities that make up the German Nation, we can unite our people into one singular nation state. Three Hurrahs for the German Empire!;x
 form_germany_title;Three Hurrahs For Germany!;x
@@ -12146,7 +12114,6 @@ congo_company_desc;With its residence on the Congo, the company was made to expl
 EVTDESC37212;On May 15th,1855, the World's Fair was opened in Paris. 20,839 exhibitors showcase their products, winning 11,073 awards and drawing 4.5 million visitors.;x
 welfare_state_l;Full Welfare State;x
 FSA_prussian_constitutionalism;The Free American Empire;x
-baby_booming;Baby Booming;x
 POLITICS_SHOW_REFORMS;Show Reforms;x
 desc_muhammad_alis_reforms;We have instituted the reforms of Muhammad Ali, and our research fares better because of it.;x
 REMOVE_women_suffrage;Women's Suffrage;x
@@ -12255,7 +12222,6 @@ gtfo_TOO_title;Grant Tooro Independence;x
 WAR_WE_ACCEPT_SETUP;When a nation declares war on us;x
 IS_ACCEPTED_CULTURE_POP;belong to an accepted culture.\n;x
 EVTOPTA17580;An excellent initiative that can only be applauded!;x
-EVT91737OPTG;Change province to produce Coffee Beans.;x
 gtfo_TSW_title;Grant Botswana Independence;x
 EVTOPTA31522;Hurrah!;x
 EVTOPTA19027;Excellent!;x
@@ -12803,7 +12769,6 @@ NEWS_TOOLTIP_UNREAD;You have §G$NUM$§! unread newspapers out of §G$MAX$§! printe
 EVTOPTB10300;I refuse to submit to political demands by the entrenched elites;x
 EVTOPTB10290;Such a voice must be heard in all of $COUNTRY$!;x
 gtfo_TRK_title;Grant Turkestan Independence;x
-supply_depot_destroyed_desc;We require time to procure new supplies before we can build another supply depot.;x
 MSG_FILTER_TITLE;We are interested in:;x
 gtfo_SHI_desc;We've had a good run, but it's time to end our rulership of Shimla: if you love something, let it go!;x
 agar_maqnat_desc;The Agar Maqnat ('Cultivation' of land) means to incorporate lands from the era of Amda Seyon I, prior to the Ethiopian–Adal War and Oromo migrations into Greater Ethiopia.;x
@@ -12925,7 +12890,6 @@ EVTNAME46400;Jose Batlle y Ordonez;x
 EVTDESC44629;Recent governmental reforms have finally allowed the Blancos and Colorados to settle their differences politically rather than militariliy.;x
 EVTNAME23200;Where is the Source of the Nile?;x
 FIU_communist;Partito Comunista di Fiume;x
-zdismantle_supply_depot_desc;Removes the Supply Depot modifier from all provinces.;x
 form_kellys_irish_brigade_desc;Did those cowardly lincolnites tremble, when they met with the Irish brigade?'\n\nWhile most Irish immigrants to the USA fought for the Union during the Civil War, some decided instead to side with the Confederacy, seeing, perhaps, the southern secession as running parallel to Ireland's own struggles to win independence from England.;x
 MLW_hms_government_ADJ;Nyasa;x
 cancel_trade_agreements_15_desc;By cancelling our current trade agreement, we are free to enter into a new a trade agreement with another country.;x
@@ -12946,7 +12910,7 @@ EVTNAME91521;Choosing a Colonial Policy;x
 flores_purchase_desc;Our East India Company is looking to expand their holdings in the Sunda Islands by purchasing Flores.;x
 YZW_absolute_monarchy_ADJ;Uesugi;x
 EVTDESC29901;Mother, Mother! Have you seen the lights on Main Street? They're putting new lights in the lamp posts! They say that they're powered by 'electricity'!'\n\nElectricity, in the form of street lights, have arrived in $COUNTRY$. This new type of lighting illuminates our cities in ways that have hereto only been dreamt of, increasing the efficiency and productivity of local industry, as well as the local quality of life.;x
-EVTOPTA37230;Sign the treay.;x
+EVTOPTA37230;Sign the treaty.;x
 EVTOPTA31303;The vox populi has spoken.;x
 EVTDESC13305;The foreigners tell many stories. Many of them tell the story of a man who rode into a city on the back of a donkey. Perhaps this was the man who rode into $PROVINCENAME$ today? We do not know yet why this strange foreigner has come to $PROVINCENAME$, but he has been contacting local officials, and seems intent on staying.;x
 embrace_czech_minority_desc;It is time to grant equal rights to Czechs;x
@@ -13313,7 +13277,6 @@ gtfo_MOD_title;Grant Modena Independence;x
 build_addis_ababa_desc;The "New Flower" was founded in 1886 by Emperor Menelik II, Addis Ababa would become the capital of Ethiopia and the site of the Imperial Palace.;x
 NORMAL_UNIFICATION_HUMILIATE_NAME;The $FIRST$-$SECOND$ Brother's War;x
 HAS_TECH_SCHOOL;Currently §Y$TECH$§W.\n;x
-EVTDESC91708;$FROMCOUNTRY$ has removed our cores from one of their states.;x
 acquire_siberian_state_short;Acquire $STATE$ from $RECIPIENT$;x
 BREAKCOUNTRY_BTN1;Horror!;x
 gtfo_KTI_desc;We've had a good run, but it's time to end our rulership of Kutai: if you love something, let it go!;x
@@ -13489,7 +13452,6 @@ tewodros_ii_desc;While our current ruler Tewodros II might be one of the finest 
 COLONY_SUCCESS_LOG;We successfully colonized $TARGET$.;x
 MILITARYREFORM_BAD_2;$MONARCHTITLE$, we have now revoked benefits in;x
 CHANGE_TAG;Become §Y$NEW$§W.\n;x
-EVTNAME91709;Core Integration Disrupted in $PROVINCE$;x
 abandon_iberian_union_desc;Enacting this decision will turn off the Unite Iberia decisions for all countries.;x
 annex_luxembourg_title;Integrate Luxembourg;x
 MILITARYREFORM_MAP;*;x
@@ -13539,7 +13501,6 @@ EVTNAMEorganicchemistry;Organic Chemistry Tech Flag;x
 PROVINCEVIEW_RGOOWNER;State RGO owner presence: §Y$VALUE$% $TYPE$§W;x
 EVTNAME15230;Literary Association of Friends;x
 CONNECTING;Connecting...;x
-zcreate_supply_depot_desc;A province with a supply depot will reduce attrition to 0 regardless of supply cap and should be used as a rallying point for mobilised troops. You can only have one regular supply depot and one capital supply depot at a time, if a battle occurs in a province with a regular supply depot or the province is occupied by an enemy army it will be destroyed.;x
 UYG_hms_government;Kashgaria;x
 gtfo_AOT_title;Grant Aotearoa Independence;x
 BAD_SAVE;Error: Bad save.;x
@@ -13841,7 +13802,6 @@ balkan_war_title;The Balkan War;x
 GAB_ADJ;Gabonese;x
 colonial_railroad_nerf3;Colonial Railroad Nerf;x
 CB_JUSTIFY_NO_LONGER_VALID_HEADER;$MONARCHTITLE$;x
-EVT91737OPTJ;Change province to produce Silk.;x
 WARTAX_TIP;Raise War Taxes;x
 refute_manifest_destiny_title;Refute Manifest Destiny;x
 gtfo_SWE_title;Grant Sweden Independence;x
@@ -14052,7 +14012,6 @@ india_civil_service_desc;The ICS was an administrative unit that was responsible
 EVTDESC90042;Our local sepoys have risen up against company rule and pledged allegiance to the new Indian state.;x
 EVTOPTC14510;A conservative upper house ensures colonial order;x
 proclaim_second_empire_title;Proclaim Second French Empire;x
-switched_production;Switched Production;x
 EVTOPTA17500;We will not turn the arms of our soldiers against the citizens they exist to defend;x
 EVTDESC36942;We must break British tyranny in India!;x
 EVTOPTA1204;Ok;x
@@ -14156,7 +14115,6 @@ SLS_ADJ;Silesian;x
 EVTNAME36934;Purchase of Army Commissions Abolished;x
 EVTOPTA44613;Crush the rebels.;x
 UNM_proletarian_dictatorship;The Pueblo People's Republic;x
-EVT91737OPTB;Change province to produce Fruit.;x
 gtfo_SLO_desc;We've had a good run, but it's time to end our rulership of Slovenia: if you love something, let it go!;x
 SHA_conservative;National Party;x
 EVTNAME31120;Turkish Population Exchange;x
@@ -14445,7 +14403,6 @@ EVTDESC37721;Since 1840, the $FROMCOUNTRY_ADJ$ cities of Ceuta and Melilla often
 EVTNAME35710;Death of Said bin Sultan Al-Said;x
 gtfo_GWA_title;Grant Gwalior Independence;x
 SAVE;Save;x
-EVTOPTA91707;Excellent.;x
 save_the_nation3_china;Revanchism;x
 mormon_country;Mormon Religion;x
 ASKMILITARYACCESS_THEY_DECLINE_BTN2;OK;x
@@ -14536,7 +14493,6 @@ TTB_fascist;Fascist Party;x
 gtfo_SPU_desc;We've had a good run, but it's time to end our rulership of South Peru: if you love something, let it go!;x
 REMOVE_diaspora;Diaspora;x
 ASKDEBTREQDESC;§Y$ACTOR$§W is requesting to be allowed to run a debt when trading with us.\nThis means that when they trade with us during wartime, we do not get paid in cash but instead they will owe us. The debt will be paid over time after the war.\nShould we allow them this?;x
-EVTDESC92101;§B1.§b Adds bonus interal migration attraction to province.\n§B2.§b Cancels bonus migration attraction to province.\n§B3.§b Choose colonial policy of colony.\n§B4.§b Grants statehood to colony if average literacy >50%.\n§B5.§b Pay 500k to make a supply depot. Creating new depots, battles, and occupation will destroy depots.\n§B6.§b Adds 1% - (pop literacy/200) literacy per year for 10 years to state. Costs 50k per 100k POPs rounded up.\n§B7.§b Changes farm RGO. Adds a debuff for 15 years, costs 200k per 100k POPs in province rounded up.\n§B8.§b Lasts 10 years - (state pops/100k), 25 year cooldown.\n§B9.§b Adds your cores, removes foreign cores from state. 10 year cooldown, occupation cancels the progress.\n§B10.§b Resets province selector.;x
 ERT;Eritrea;x
 gtfo_LUB_title;Grant Lübeck Independence;x
 BP_TOOL_ICON_BOMB_2;Large bomb icon;x
@@ -14683,7 +14639,6 @@ EVTOPTA160001;Play as the Qing Empire.;x
 EVTNAME90046;The Offer of Agency;x
 WETARGET_EXPELADVISORS_4;We suspect §Y$ACTOR$§W is behind this!;x
 gtfo_INO_desc;We've had a good run, but it's time to end our rulership of Indonesia: if you love something, let it go!;x
-EVTDESC91709;$PROVINCE$ has been recently occupied by foreign armies. After their people had a taste of freedom from our rule, they are no longer sympathetic to our nation.;x
 EVTOPTA31120;What could go wrong.;x
 scottish;Scottish;x
 independence_of_norway_title;The Independence of Norway;x

@@ -50,3 +50,9 @@ nv_equality_preview;Equality Preview:\n§WAssimilation Rate: §G+50.0%\n§WSocial R
 nv_equality_preview_desc; ;x
 nv_industry_preview;Industry Preview:\n§WTax Efficiency: §G+5.0%\n§WFactory Throughput: §G+5.0%\n§WRGO Throughput: §G+5.0%\n§WArtesan Throughput: §G+5.0%\n§WMobilisation Impact: §G90.0%\n§WIndustry Tech Research: §G+5.0%§!\n;x
 nv_industry_preview_desc; ;x
+province_attract_immigrants;Immigration Focus;x
+supply_depot;Supply Depot\n§WSupply Depots will be destroyed if a battle is started in its province, the province is occupied, or the province changes ownership§!;x
+switched_production;Switched Production;x
+active_integration;State Integration in Progress;x
+active_integration_desc;We are in the process of integrating a state. When this modifier expires, the provinces we are integrating will be cored, and foreign cores will be removed from them.;x
+integrating_province;Integrating Province\n§WWe are in the process of integrating this province. Check the national modifier for time remaining. If this province, or any other province in the state is occupied, integration will be disrupted§!;x

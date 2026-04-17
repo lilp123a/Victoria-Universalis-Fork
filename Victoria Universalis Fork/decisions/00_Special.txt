@@ -41,7 +41,7 @@ political_decisions = {
 					}
 					
 					province_event = {
-						id = 92101
+						id = 92400
 						days = 0
 					}
 				}

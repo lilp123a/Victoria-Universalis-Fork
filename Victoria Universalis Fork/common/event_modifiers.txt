@@ -677,25 +677,16 @@ prov_core_check = {
 	icon = 1
 }
 
-########## PROVINCE SELECTOR DECISIONS ##########
+##################################
 
 land_bridge = {
 	movement_cost = -0.95
 	icon = 17
 }
 
-supply_depot = {
-	max_attrition = -100
-	icon = 17
-}
-
 capital_supply_depot = {
 	max_attrition = -100
 	icon = 17
-}
-
-supply_depot_destroyed = {
-	icon = 16
 }
 
 scorched_earth_10 = {
@@ -762,14 +753,39 @@ earth_scorched = {
 	icon = 16
 }
 
-rgo_changed = {
-	icon = 12
+#########################
+### PROVINCE SELECTOR ###
+#########################
+
+province_attract_immigrants = {
+	icon = 9
+	
+	immigrant_attract = 400
+	immigrant_push = -1	
+}
+
+supply_depot = {
+	icon = 17
+	
+	max_attrition = -100
 }
 
 switched_production = {
-	local_RGO_output = -0.50
-	local_RGO_throughput = -0.50
 	icon = 14
+	
+	local_RGO_output = -0.50
+}
+
+# National modifier
+active_integration = {
+	icon = 1
+}
+
+# Province modifier
+integrating_province = {
+	icon = 1
+	
+	pop_militancy_modifier = 0.1
 }
 
 #############################
@@ -833,19 +849,6 @@ reform_passed = {
 	icon = 6
 }
 
-baby_booming = {
-	icon = 17
-}
-
-literacy_campaign = {
-	icon = 7
-}
-
-small_baby_boom = {
-	population_growth = 0.001
-	icon = 19
-}
-
 ###################
 ### MARTIAL LAW ###
 ###################
@@ -860,29 +863,8 @@ martial_law = {
 
 ######
 
-province_attract_immigrants = {
-	immigrant_attract = 400
-	immigrant_push = -1
-	icon = 9
-}
-
-new_world_province_attract_immigrants = {
-	immigrant_attract = 50
-	immigrant_push = -1
-	icon = 9
-}
-
 force_reform = {
 	icon = 5
-}
-
-diplomatic_cores = {
-	icon = 1
-}
-
-adding_cores = {
-	pop_militancy_modifier = 0.1
-	icon = 1
 }
 
 ########## BACKGROUND STUFF ##########

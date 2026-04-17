@@ -71,3 +71,38 @@ EVTOPTB92310;Order;x
 EVTOPTC92310;Liberty;x
 EVTOPTD92310;Equality;x
 EVTOPTE92310;Industry;x
+EVTNAME92400;$PROVINCENAME$ Province Selector Menu;x
+EVTDESC92400;§B1.§! Bonus internal migration attraction to province (Non-Colonial).\n§B2.§! Turn state into colony.\n§B3.§! Select colony's settlement policy.\n§B4.§! Build a supply depot. Can only have one in your country. Battles and occupation will destroy the depot.\n§B5.§! Change any agricultural-type RGO. Costs ¤250.000 and reduces output by 50% for 15 years.\n§B6.§! Adds your cores to the state. 10 year cooldown, occupation cancels integration.;x
+EVTOPTA92400;Cancel;x
+EVTOPTB92400;§B1.§! Add/Remove Migration Attraction;x
+EVTOPTC92400;§B2.§! Rescind Statehood;x
+EVTOPTD92400;§B3.§! Select Colonial Policy;x
+EVTOPTE92400;§B4.§! Build Supply Depot;x
+EVTOPTF92400;§B5.§! Change Agricultural RGO;x
+EVTOPTG92400;§B6.§! Integrate State;x
+EVTNAME92401;Rescinding Statehood;x
+EVTDESC92401;Are you sure you want to rescind the statehood of the selected province's state?\n\nBe warned that you will only be able to re-state the region through normal game mechanics, requiring you to have 1.0% Bureaucrats of an accepted culture in the state.;x
+EVTOPTA92401;Cancel;x
+EVTOPTB92401;§RConfirm§!;x
+EVTNAME92403;Change RGO in $PROVINCENAME$;x
+EVTDESC92403;Choose an RGO to switch production to. This will cost ¤250.000 and RGO output will suffer a 50% penalty for 15 years. During that time, you will not be able to switch production in this province again.\n\n§RBe careful to not pick the resource already produced in this province.§!;x
+EVTOPTA92403;Cancel;x
+EVTOPTB92403;Wool;x
+EVTOPTC92403;Fruit;x
+EVTOPTD92403;Cotton;x
+EVTOPTE92403;Cattle;x
+EVTOPTF92403;Grain;x
+EVTOPTG92403;Tea Leaves;x
+EVTOPTH92403;Coffee Beans;x
+EVTOPTI92403;Opium;x
+EVTOPTJ92403;Dye;x
+EVTOPTK92403;Silk;x
+EVTOPTL92403;Tobacco;x
+EVTOPTM92403;Fish;x
+EVTOPTN92403;Timber;x
+EVTNAME92404;State Integration Complete;x
+EVTDESC92404;We have finished integrating the state of $STATE$.;x
+EVTOPTA92404;Excellent!;x
+EVTNAME92405;State Integration Disrupted;x
+EVTDESC92405;The integration of $STATE$ has been disrupted by hostile occupations.;x
+EVTOPTA92405;Unfortunate;x

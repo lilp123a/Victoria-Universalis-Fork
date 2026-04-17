@@ -11,7 +11,7 @@ gamerules_enable_dismantlement_desc;This will enable the dismantle casus belli.;
 gamerules_enable_manual_economic_control_title;§CEnable Manual Economic Control§!;x
 gamerules_enable_manual_economic_control_desc;This will enable manual economic control, allowing all players to build and manage factories, build railroads, and invest in pop projects regardless of their ruling party's economic policy. This will also allow players to toggle Total Control, which bars capitalist pops from messing with factories, allowing for better micromanagement of industry.;x
 gamerules_enable_province_selector_integration_title;§CEnable Province Selector Integration§!;x
-gamerules_enable_province_selector_integration_desc;This will enable state-wide core integration using the province selector. This takes 10 years to add the owner's cores and remove all other countries' cores from a state.\n\n§RThis will disable the regular RNG-based coring events.§!;x
+gamerules_enable_province_selector_integration_desc;This will enable state-wide core integration using the province selector. This takes 10 years to add the owner's cores to a state.\n\n§RThis will disable the regular RNG-based coring events.§!;x
 gamerules_enable_extra_infamy_decay_title;§CEnable Extra Infamy Decay§!;x
 gamerules_enable_extra_infamy_decay_desc;This will enable extra infamy decay, granting an extra -0.05 infamy decay per month to all countries.;x
 show_utility_decisions_title;§GShow Utility Decisions§!;x
