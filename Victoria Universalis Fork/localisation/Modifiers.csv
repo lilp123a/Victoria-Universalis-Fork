@@ -44,7 +44,7 @@ national_confusion;National Confusion;x
 national_confusion_desc;We have recently changed our national value.;x
 nv_order_preview;Order Preview:\n§WRuling Party Support: §G+50.0%\n§WMobilisation Impact: §Y100.0%\n§WConsciousness: §G-0.01\n§WMilitancy in Non-Colonial: §G-0.01\n§WSuppression Point Gain: §G+50.0%\n§WArmy Tech Research: §G+5.0%\n§WNavy Tech Research: §G+5.0%\n§WCulture Tech Research: §R-5.0%§!\n;x
 nv_order_preview_desc; ;x
-nv_liberty_preview;Liberty Preview:\n§WCraftsmen promotion chance: §G+5.0%\n§WBase max soldier cap: §R4.0%\n§WSoldier promotion chance: §R-5.0%\n§WPolitical Reform Desire: §Y+20.0%\n§WMobilisation Impact: §Y100.0%§!\n§WConsciousness: §R+0.02\n§WMilitancy for Non-Accepted: §R+0.02§!\n§WArmy Tech Research: §R-5.0%\n§WNavy Tech Research: §R-5.0%\n§WCommerce Tech Research: §G+5.0%§!\n§WIndustry Tech Research: §G+5.0%§!\n;x
+nv_liberty_preview;Liberty Preview:\n§WCraftsmen promotion chance: §G+5.0%\n§WPolitical Reform Desire: §Y+20.0%\n§WMobilisation Impact: §Y100.0%§!\n§WConsciousness: §R+0.02\n§WMilitancy for Non-Accepted: §R+0.02§!\n§WArmy Tech Research: §R-5.0%\n§WNavy Tech Research: §R-5.0%\n§WCommerce Tech Research: §G+5.0%§!\n§WIndustry Tech Research: §G+5.0%§!\n;x
 nv_liberty_preview_desc; ;x
 nv_equality_preview;Equality Preview:\n§WAssimilation Rate: §G+50.0%\n§WSocial Reform Desire: §Y+20.0%\n§WMobilisation Impact: §Y100.0%\n§WConsciousness: §R+0.01\n§WMilitancy for Non-Accepted: §G-0.01\n§WCommerce Tech Research: §R-5.0%\n§WCulture Tech Research: §G+10.0%§!\n;x
 nv_equality_preview_desc; ;x
