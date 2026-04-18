@@ -4,8 +4,3 @@ add_core = PEU
 trade_goods = fruit
 life_rating = 35
 terrain = steppe_mine
-1836.1.2 = {
-	owner = PBC
-	controller = PBC
-	add_core = PBC
-}

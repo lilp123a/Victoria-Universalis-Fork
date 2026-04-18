@@ -32,10 +32,3 @@ name = "War of the Confederation"
 		receiver = CHL
 	}
 }
-
-1836.1.2 = {
-	rem_attacker = CHL
-	rem_attacker = ARG
-	rem_defender = BOL
-	rem_defender = PEU
-}

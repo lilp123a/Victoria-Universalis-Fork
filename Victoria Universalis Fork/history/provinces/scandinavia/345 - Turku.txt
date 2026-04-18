@@ -5,6 +5,3 @@ add_core = SWE
 trade_goods = fish
 life_rating = 40
 naval_base = 2
-1836.1.2 = {
-	add_core = KSN
-}

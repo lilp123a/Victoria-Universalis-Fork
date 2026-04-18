@@ -4,6 +4,3 @@ add_core = AGC
 trade_goods = coffee_beans
 life_rating = 15
 colonial = 2
-1836.1.2 = {
-	colonial = 0
-}

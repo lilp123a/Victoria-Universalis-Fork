@@ -6,8 +6,3 @@ add_core = CZH
 trade_goods = coal
 life_rating = 35
 terrain = mountain_mine
-1836.1.2 = {
-	owner = AUS
-	controller = AUS
-	add_core = AUS
-}

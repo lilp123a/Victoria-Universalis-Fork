@@ -5,7 +5,3 @@ add_core = BRZ
 trade_goods = iron
 life_rating = 35
 terrain = jungle_mine
-1836.1.2 = {
-	owner = BRZ
-	controller = BRZ
-}

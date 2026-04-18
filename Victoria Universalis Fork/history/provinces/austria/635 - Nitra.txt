@@ -5,8 +5,3 @@ add_core = HUN
 add_core = CZH
 trade_goods = cattle
 life_rating = 35
-1836.1.2 = {
-	owner = AUS
-	controller = AUS
-	add_core = AUS
-}

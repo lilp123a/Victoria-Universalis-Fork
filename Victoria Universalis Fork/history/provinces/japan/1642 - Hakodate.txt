@@ -4,9 +4,3 @@ add_core = TKG
 trade_goods = coal
 life_rating = 35
 terrain = plains_mine
-1836.1.2 = {
-	owner = JAP
-	controller = JAP
-	add_core = JAP
-	remove_core = TKG
-}

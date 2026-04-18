@@ -5,8 +5,3 @@ add_core = ROM
 add_core = SIE
 trade_goods = fruit
 life_rating = 35
-1836.1.2 = {
-	owner = AUS
-	controller = AUS
-	add_core = AUS
-}

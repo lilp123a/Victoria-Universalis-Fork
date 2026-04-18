@@ -6,8 +6,3 @@ trade_goods = iron
 life_rating = 40
 naval_base = 1
 terrain = forest_mine
-1836.1.2 = {
-	owner = KSN
-	controller = KSN
-	add_core = KSN
-}

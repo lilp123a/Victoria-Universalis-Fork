@@ -5,6 +5,3 @@ add_core = SWE
 trade_goods = iron
 life_rating = 40
 terrain = arctic_mine
-1836.1.2 = {
-	add_core = KSN
-}

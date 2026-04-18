@@ -9,8 +9,3 @@ state_building = {
 	building = lumber_mill
 	upgrade = yes
 }
-1836.1.2 = {
-	owner = KSN
-	controller = KSN
-	add_core = KSN
-}

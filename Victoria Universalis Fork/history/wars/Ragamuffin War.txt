@@ -25,8 +25,3 @@ name = "The Ragamuffin War"
 		receiver = BRZ
 	}
 }
-
-1836.1.2 = {
-	rem_attacker = BRZ
-	rem_defender = RGS
-}
