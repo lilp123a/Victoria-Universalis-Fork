@@ -5452,9 +5452,6 @@ allied_great_war_demands = {
 		BUL = {
 			set_country_flag = great_war_lost
 		}
-		KGR = {
-			set_country_flag = great_war_lost
-		}
 		JAN = {
 			set_global_flag = allied_victory
 		}

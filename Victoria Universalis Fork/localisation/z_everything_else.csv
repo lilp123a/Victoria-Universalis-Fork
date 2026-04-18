@@ -3166,7 +3166,6 @@ CRISIS_BACK_DOWN_THEY_ACCEPT_3;accepted our offer of a solution to the current c
 KRL_conservative;Suomalainen puolue;x
 EVTOPTA44620;Make the Brazilian emperor our butler!;x
 establish_korean_protectorate_desc;Our advisors believe that any enroachment upon Korea by foreign powers will threaten the security of Japan itself, thus it would be prudent to establish a Japanese protectorate over the Korea before the western powers can.;x
-gtfo_KGR_title;Grant Kingdom of Greece Independence;x
 GUNBOAT_OTHER_ACCEPT_2;$ACTOR$;x
 yes_western_shipyards_l;Western Shipyards;x
 BACK_CRISIS_OTHER_ACCEPT_3;It seems that $RECIPIENT$;x
@@ -3875,7 +3874,6 @@ ACW_DESC;Civil war rages in North America as the Conferate States attempt to sec
 MSG_FILTER_TOOLTIP_HEADER;In message filter settings window, you can select countries that you are interested in. All the messages and alerts will be shown only for those important countries.;x
 sphere_eic_desc;When India is in your sphere they have access to your goods and will be able to better reinforce their armies. However, having India in your sphere also lowers your tariff income. It is best sphere India while at war or if you need access to a specific good that India produces and unsphere them during times of peace.;x
 NAVAL_COMBAT_STACK_PENALTY_DESC;§YCoordination penalty §R$PEN$%§Y caused by poor communication in the fleet, it makes it more difficult for our ships to find targets. Affected by amount of our ships and potential targets.§!;x
-gtfo_KGR_desc;We've had a good run, but it's time to end our rulership of Kingdom of Greece: if you love something, let it go!;x
 trail_of_tears_title;The Trail of Tears;x
 UNDER_SIEGE;Province is under occupation!;x
 small_immigration_boom;Immigration Boom;x

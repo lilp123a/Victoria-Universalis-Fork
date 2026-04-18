@@ -326,7 +326,6 @@ XHO		= "countries/Xhosa.txt"
 ##Europe
 DNB		= "countries/Danubian Federation.txt"
 GLM		= "countries/Galicia-Lodomeria.txt"
-KGR		= "countries/Kingdom of Greece.txt"
 KSN		= "countries/Sweden-Norway.txt"
 SDB		= "countries/Sonderbund.txt"
 SPC		= "countries/Carlist Spain.txt"
