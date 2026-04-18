@@ -1,4 +1,5 @@
 color = { 152  85  92 }
+colonial_company = { 205 205 205 }
 graphical_culture = AustriaHungaryGC
 
 party = {
