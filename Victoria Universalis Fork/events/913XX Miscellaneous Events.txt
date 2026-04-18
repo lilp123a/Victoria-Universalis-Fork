@@ -2132,15 +2132,6 @@ country_event = {
 					war = yes
 				}
 			}
-			ION = {
-				is_greater_power = no
-				exists = no
-				OR = {
-					total_amount_of_divisions = 1
-					is_mobilised = yes
-					war = yes
-				}
-			}
 			IRE = {
 				is_greater_power = no
 				exists = no

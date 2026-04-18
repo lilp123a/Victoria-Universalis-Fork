@@ -119,11 +119,6 @@ BEL = {
 	level = 5
 	influence_value = 25
 }
-ION = {
-	value = 125		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
 
 AWA = {
 	value = 125

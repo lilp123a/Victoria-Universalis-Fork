@@ -818,21 +818,37 @@ political_decisions = {
 	ionian_islands_question = {
 		potential = {
 			tag = ENG
-			ION = {
-				vassal_of = ENG
+			
+			OR = {
+				owns = 826 # Corfu
+				owns = 827 # Zante
 			}
-			ION = { ai = yes }
-			NOT = {
-				truce_with = GRE
-			}			
+			
+			GRE = {
+				exists = yes
+			}
 		}
-
+		
 		allow = {
 			nationalism_n_imperialism = 1
 			war = no
 		}
-
+		
 		effect = {
+			prestige = 10
+			badboy = -4
+			
+			any_owned = {
+				limit = {
+					OR = {
+						province_id = 826
+						province_id = 827
+					}
+				}
+				
+				secede_province = GRE
+			}
+			
 			relation = {
 				who = GRE
 				value = 50
@@ -841,28 +857,20 @@ political_decisions = {
 				who = GRE
 				value = 50
 			}
-			prestige = 10
-			badboy = -4
+			
 			GRE = {
-				inherit = ION
-				## Audax Validator "." Ignore_NEXT
 				any_owned = {
-					limit = { has_building = province_selector }
+					limit = {
+						has_building = province_selector
+					}
+					
 					province_selector = -1
 				}
 			}
 		}
+		
 		ai_will_do = {
 			factor = 1
-			modifier = {
-				factor = 0
-				NOT = {
-					AND = {
-						year = 1864 
-						month = 4
-					}
-				}
-			}
 		}
 	}
 

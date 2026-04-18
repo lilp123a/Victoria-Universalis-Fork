@@ -74,14 +74,6 @@ vassal = {
 	end_date = 1837.1.1
 }
 
-# United Kingdom-Ionian Islands
-vassal = {
-	first = ENG
-	second = ION
-	start_date = 1815.11.9
-	end_date = 1836.1.2
-}
-
 #######################
 #      EAST ASIA      #
 #######################

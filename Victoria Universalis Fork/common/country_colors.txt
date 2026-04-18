@@ -151,13 +151,6 @@ IRE = {
     color3= { 117 127 174  }
 }
 
-# Ionian Islands FIXED
-ION = {
-    color1= { 69 80 169  }
-    color2= { 248 199 67  }
-    color3= { 131 101 85  }
-}
-
 # Scotland
 SCO = {
     color1= { 199 175 12  }
