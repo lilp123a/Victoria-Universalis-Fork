@@ -151,30 +151,22 @@ political_decisions = {
 		potential = {
 			ai = no
 			tag = ENG
-			OR = {
-				CAN = {
-					exists = yes
-					vassal_of = THIS
-					government = colonial_company
-				}
-				RPL = {
-					exists = yes
-					vassal_of = THIS
-					government = colonial_company
-				}
+			CAN = {
+				exists = yes
+				vassal_of = THIS
+				government = colonial_company
 			}
 			NOT = { has_country_flag = canada_annexed }
 		}
-
+		
 		allow = {
 			CAN = { government = colonial_company }
 			money = 1500000
 		}
-
+		
 		effect = {
 			treasury = -1500000
 			inherit = CAN
-			inherit = RPL
 			## Audax Validator "." Ignore_NEXT
 			any_owned = {
 				limit = { has_building = province_selector }
@@ -182,7 +174,6 @@ political_decisions = {
 			}
 			set_country_flag = canada_annexed
 		}
-		ai_will_do = { factor = 0 }
 	}
 
 	annex_south_africa = {

@@ -21,12 +21,6 @@ CAN = {
 	influence_value = 100
 }
 
-RPL = {
-	value = 200
-	level = 5
-	influence_value = 100
-}
-
 AST = {
 	value = 200
 	level = 5

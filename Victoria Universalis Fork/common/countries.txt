@@ -337,7 +337,6 @@ SGM		= "countries/Sigmaringen.txt"
 ##North America
 WIF 	= "countries/West Indies Federation.txt"
 JAM		= "countries/Jamaica.txt"
-RPL		= "countries/Rupert's Land.txt"
 YUC		= "countries/Yucatan.txt"
 ULA		= "countries/Louisiana.txt"
 

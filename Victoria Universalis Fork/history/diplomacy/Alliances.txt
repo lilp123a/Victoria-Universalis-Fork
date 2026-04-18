@@ -4,84 +4,77 @@ alliance = {
 	start_date = "1836.1.1"
 	end_date = "1895.4.17"
 }
-	
+
 alliance = {
 	first = "TRN"
 	second = "ORA"
 	start_date = "1836.1.1"
 	end_date = "1902.1.1"
 }
-	
+
 alliance = {
 	first = "DAG"
 	second = "CIR"
 	start_date = "1836.1.1"
 	end_date = "1859.1.1"
 }
-	
+
 alliance = {
 	first = "TUR"
 	second = "WAL"
 	start_date = "1836.1.1"
 	end_date = "1848.1.1"
 }
-	
+
 alliance = {
 	first = "TUR"
 	second = "MOL"
 	start_date = "1836.1.1"
 	end_date = "1848.1.1"
 }
-	
+
 alliance = {
 	first = "TUR"
 	second = "TUN"
 	start_date = "1836.1.1"
 	end_date = "1881.1.1"
 }
-	
+
 alliance = {
 	first = "BOL"
 	second = "PEU"
 	start_date = "1836.1.1"
 	end_date = "1936.1.1"
 }
-	
+
 alliance = {
 	first = "ENG"
 	second = "EIC"
 	start_date = "1836.1.1"
 	end_date = "1936.1.1"
 }
-	
+
 alliance = {
 	first = "ENG"
 	second = "CAN"
 	start_date = "1836.1.1"
 	end_date = "1936.1.1"
 }
-	
-alliance = {
-	first = "ENG"
-	second = "RPL"
-	start_date = "1836.1.1"
-	end_date = "1936.1.1"
-}
-	
+
 alliance = {
 	first = "ENG"
 	second = "AST"
 	start_date = "1836.1.1"
 	end_date = "1936.1.1"
 }
-	
+
 alliance = {
 	first = "ENG"
 	second = "NZL"
 	start_date = "1836.1.1"
 	end_date = "1936.1.1"
 }
-	
+
 alliance = {
 	first = "ENG"
 	second = "SAF"

@@ -44,18 +44,8 @@ political_decisions = {
 	explore_north_western_territory = {
 		picture = ruperts_land_act
 		potential = {
-			OR = {
-				AND = {
-					tag = CAN
-					RPL = { exists = no }
-				}
-				tag = RPL
-				AND = {
-					tag = ENG
-					CAN = { exists = no }
-					RPL = { exists = no }
-				}
-			}
+			tag = CAN
+			
 			NOT = { has_global_flag = north_western_territory_explored }
 			7 = { empty = yes }
 			12 = { empty = yes }
@@ -75,47 +65,7 @@ political_decisions = {
 			12 = { secede_province = THIS }
 		}
 	}
-
-	ruperts_land_act = {
-		picture = ruperts_land_act
-		potential = {
-			tag = CAN
-			RPL = {
-				exists = yes
-				vassal_of = ENG
-			}
-			CAN = {
-				exists = yes
-				OR = {
-					vassal_of = ENG
-					in_sphere = ENG
-				}
-			}
-			NOT = { has_country_flag = ruperts_land_act }
-		}
-
-		allow = {
-			war = no
-			OR = {
-				money = 300000
-				ai = yes
-			}
-			NOT = { government = colonial_company }
-			RPL = {
-				exists = yes
-				vassal_of = ENG
-			}
-		}
-
-		effect = {
-			treasury = -300000
-			set_country_flag = ruperts_land_act
-			ENG = { country_event = { id = 44310 days = 0 } }
-		}
-		
-		ai_will_do = { factor = 1 }
-	}
-
+	
 	australian_federation = {
 		picture = australian_federation
 		potential = {
