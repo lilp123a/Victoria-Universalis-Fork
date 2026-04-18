@@ -330,7 +330,6 @@ KSN		= "countries/Sweden-Norway.txt"
 SDB		= "countries/Sonderbund.txt"
 SPC		= "countries/Carlist Spain.txt"
 WRS		= "countries/White Russia.txt"
-SGM		= "countries/Sigmaringen.txt"
 
 ##North America
 WIF 	= "countries/West Indies Federation.txt"
