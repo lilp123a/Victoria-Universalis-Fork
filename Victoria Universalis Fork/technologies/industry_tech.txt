@@ -1034,8 +1034,6 @@ early_railroad = {
 	year = 1840
 	cost = 7200
 	
-	activate_building = urban_center
-	
 	max_railroad = 1
 	
 	ai_chance = {
