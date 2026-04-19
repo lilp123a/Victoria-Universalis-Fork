@@ -13,244 +13,7 @@ country_event = {
 	
 	is_triggered_only = yes
 	
-	immediate = {
-		############################
-		############################
-		###### CULTURES SETUP ######
-		############################
-		############################
-		
-		any_country = {
-			limit = {
-				civilized = no
-				ai = no
-				NOT = {
-					primary_culture = beifaren
-					primary_culture = nanfaren
-					primary_culture = tibetan
-					primary_culture = manchu
-				}
-			}
-			research_points = 5000
-		}
-		any_country = {
-			limit = {
-				civilized = no
-				ai = no
-				NOT = {
-					primary_culture = beifaren
-					primary_culture = nanfaren
-					primary_culture = tibetan
-					primary_culture = manchu
-					tag = JAP
-					tag = PER
-					tag = EGY
-					tag = PNJ
-				}
-			}
-			research_points = 10000
-		}
-		any_country = {
-			limit = {
-				primary_culture = south_italian
-			}
-			primary_culture = north_italian
-		}
-		BOS = { primary_culture = serb }
-		SLO = { primary_culture = croat }
-		LIT = { primary_culture = polish }
-		CAT = { primary_culture = spanish }
-		SLV = { primary_culture = czech }
-		FIN = { primary_culture = swedish }
-		NOR = { primary_culture = danish }
-		ALB = { primary_culture = turkish }
-		BEL = { primary_culture = french }
-		SWI = {
-			primary_culture = french
-			add_accepted_culture = south_german
-			add_accepted_culture = north_italian
-		}
-		KSN = { add_accepted_culture = danish }
-		DEN = { add_accepted_culture = swedish }
-		SDB = {
-			primary_culture = french
-			add_accepted_culture = north_german
-			add_accepted_culture = north_italian
-		}
-		any_country = {
-			limit = {
-				primary_culture = latvian
-			}
-			primary_culture = estonian
-		}
-		any_country = {
-			limit = {
-				OR = {
-					primary_culture = byelorussian
-					primary_culture = ukrainian
-					primary_culture = ugrian
-				}
-			}
-			primary_culture = estonian
-		}
-		any_country = {
-			limit = {
-				primary_culture = georgian
-			}
-			primary_culture = armenian
-		}
-		AZB = { primary_culture = persian }
-		HAZ = { primary_culture = pashtun }
-		EGY = { primary_culture = mashriqi }
-		DAR = { primary_culture = sudanese }
-		any_country = {
-			limit = {
-				OR = {
-					primary_culture = maghrebi
-					primary_culture = maures
-				}
-			}
-			primary_culture = berber
-		}
-		any_country = {
-			limit = {
-				OR = {
-					primary_culture = wolof
-					primary_culture = bambara
-				}
-			}
-			primary_culture = fulbe
-		}
-		KNG = { primary_culture = mossi }
-		DND = { primary_culture = mossi }
-		ASH = { primary_culture = yoruba }
-		DAH = { primary_culture = yoruba }
-		CLA = { primary_culture = tiv }
-		BEN = { primary_culture = tiv }
-		WRI = { primary_culture = tiv }
-		ARO = { primary_culture = tiv }
-		KBO = { primary_culture = hausa }
-		WAD = { primary_culture = ubangian }
-		SOK = { add_accepted_culture = tiv }
-		any_country = {
-			limit = {
-				primary_culture = bakongo
-			}
-			primary_culture = south_forest_bantu
-		}
-		SHK = { primary_culture = sudanese }
-		TIG = { primary_culture = amhara }
-		AWS = { primary_culture = cushitic }
-		SHW = { primary_culture = amhara }
-		KAF = { primary_culture = cushitic }
-		any_country = {
-			limit = {
-				primary_culture = swahili
-			}
-			primary_culture = lacustrine_bantu
-		}
-		any_country = {
-			limit = {
-				primary_culture = nguni
-			}
-			primary_culture = southern_bantu
-		}
-		XHO = { primary_culture = southern_bantu }
-		BSH = { primary_culture = southern_bantu }
-		ZUL = { primary_culture = southern_bantu }
-		any_country = {
-			limit = {
-				primary_culture = baluchi
-			}
-			primary_culture = panjabi
-		}
-		NEP = { primary_culture = tibetan }
-		SIK = { primary_culture = tibetan }
-		SIN = { primary_culture = panjabi }
-		KAS = { primary_culture = panjabi }
-		BHP = { primary_culture = panjabi }
-		MAK  = { primary_culture = panjabi }
-		KAL = { primary_culture = panjabi }
-		any_country = {
-			limit = {
-				OR = {
-					primary_culture = rajput
-					primary_culture = gujarati
-				}
-			}
-			primary_culture = marathi
-		}
-		HYD = { primary_culture = marathi }
-		any_country = {
-			limit = {
-				OR = {
-					primary_culture = kanauji
-					primary_culture = bihari
-				}
-			}
-			primary_culture = avadhi
-		}
-		ORI = { primary_culture = avadhi }
-		MYS = { primary_culture = telegu }
-		KRN = { primary_culture = telegu }
-		TRA = { primary_culture = telegu }
-		ASM = { primary_culture = bengali }
-		any_country = {
-			limit = {
-				OR = {
-					primary_culture = uzbek
-					primary_culture = tajik
-					primary_culture = kazak
-					primary_culture = kirgiz
-					primary_culture = tatar
-				}
-			}
-			primary_culture = turkmen
-		}
-		any_country = {
-			limit = {
-				primary_culture = lao
-			}
-			primary_culture = thai
-		}
-		any_country = {
-			limit = {
-				primary_culture = nanfaren
-			}
-			primary_culture = beifaren
-		}
-		any_country = {
-			limit = {
-				primary_culture = yue
-			}
-			primary_culture = beifaren
-		}
-		BRU = {
-			add_accepted_culture = asian_minor
-			remove_accepted_culture = yue
-			}
-		TMR = { primary_culture = polynesian }
-		any_country = {
-			limit = {
-				OR = {
-					primary_culture = texan
-					primary_culture = cherokee
-				}
-			}
-			primary_culture = dixie
-		}
-		any_country = {
-			limit = {
-				OR = {
-					primary_culture = afro_antillean
-					primary_culture = caribeno
-				}
-			}
-			primary_culture = afro_caribbean
-		}
-		
-		YUC = { primary_culture = central_american }
-		
+	immediate = {		
 		############################
 		############################
 		###### LITERACY SETUP ######
@@ -795,6 +558,22 @@ country_event = {
 				capital_scope = {
 					add_province_modifier = { name = capital_supply_depot duration = -1 }
 				}
+			}
+			# Starting research points boost for player uncivs
+			any_country = {
+				limit = {
+					ai = no
+					civilized = no
+					
+					NOT = {
+						primary_culture = beifaren
+						primary_culture = nanfaren
+						primary_culture = tibetan
+						primary_culture = manchu
+					}
+				}
+				
+				research_points = 5000
 			}
 			META_1 = {
 				limit = {

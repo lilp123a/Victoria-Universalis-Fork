@@ -2096,15 +2096,6 @@ country_event = {
 					war = yes
 				}
 			}
-			ICL = {
-				is_greater_power = no
-				exists = no
-				OR = {
-					total_amount_of_divisions = 1
-					is_mobilised = yes
-					war = yes
-				}
-			}
 			IND = {
 				is_greater_power = no
 				exists = no
