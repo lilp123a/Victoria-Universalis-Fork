@@ -56,3 +56,22 @@ switched_production;Switched Production;x
 active_integration;State Integration in Progress;x
 active_integration_desc;We are in the process of integrating a state. When this modifier expires, the provinces we are integrating will be cored, and foreign cores will be removed from them.;x
 integrating_province;Integrating Province\n§WWe are in the process of integrating this province. Check the national modifier for time remaining. If this province, or any other province in the state is occupied, integration will be disrupted§!;x
+literacy_researchpoints_5;5% Literacy;x
+literacy_researchpoints_10;10% Literacy;x
+literacy_researchpoints_15;15% Literacy;x
+literacy_researchpoints_20;20% Literacy;x
+literacy_researchpoints_25;25% Literacy;x
+literacy_researchpoints_30;30% Literacy;x
+literacy_researchpoints_35;35% Literacy;x
+literacy_researchpoints_40;40% Literacy;x
+literacy_researchpoints_45;45% Literacy;x
+literacy_researchpoints_50;50% Literacy;x
+literacy_researchpoints_55;55% Literacy;x
+literacy_researchpoints_60;60% Literacy;x
+literacy_researchpoints_65;65% Literacy;x
+literacy_researchpoints_70;70% Literacy;x
+literacy_researchpoints_75;75% Literacy;x
+literacy_researchpoints_80;80% Literacy;x
+literacy_researchpoints_85;85% Literacy;x
+literacy_researchpoints_90;90% Literacy;x
+literacy_researchpoints_95;95% Literacy;x

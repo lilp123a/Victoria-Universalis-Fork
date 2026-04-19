@@ -880,7 +880,6 @@ badboy6 = {
 	tax_efficiency = -0.12
 }
 
-
 lacks_writing_system = {
 	trigger = {
 		ai = yes
@@ -891,4 +890,179 @@ lacks_writing_system = {
 		NOT = { has_country_flag = education_reform }
 	}
 	research_points_modifier = -0.5
+}
+
+###############################
+### LITERACY RESEARCH BUFFS ###
+###############################
+# 0.1 Research Points per 5% Literacy, up to 95% (+1.9 RP)
+
+literacy_researchpoints_5 = {
+	trigger = {
+		literacy = 0.05
+		NOT = { literacy = 0.1 }
+	}
+	
+	research_points = 0.1
+}
+
+literacy_researchpoints_10 = {
+	trigger = {
+		literacy = 0.1
+		NOT = { literacy = 0.15 }
+	}
+	
+	research_points = 0.2
+}
+
+literacy_researchpoints_15 = {
+	trigger = {
+		literacy = 0.15
+		NOT = { literacy = 0.2 }
+	}
+	
+	research_points = 0.3
+}
+
+literacy_researchpoints_20 = {
+	trigger = {
+		literacy = 0.2
+		NOT = { literacy = 0.25 }
+	}
+	
+	research_points = 0.4
+}
+
+literacy_researchpoints_25 = {
+	trigger = {
+		literacy = 0.25
+		NOT = { literacy = 0.3 }
+	}
+	
+	research_points = 0.5
+}
+
+literacy_researchpoints_30 = {
+	trigger = {
+		literacy = 0.3
+		NOT = { literacy = 0.35 }
+	}
+	
+	research_points = 0.6
+}
+
+literacy_researchpoints_35 = {
+	trigger = {
+		literacy = 0.35
+		NOT = { literacy = 0.4 }
+	}
+	
+	research_points = 0.7
+}
+
+literacy_researchpoints_40 = {
+	trigger = {
+		literacy = 0.4
+		NOT = { literacy = 0.45 }
+	}
+	
+	research_points = 0.8
+}
+
+literacy_researchpoints_45 = {
+	trigger = {
+		literacy = 0.45
+		NOT = { literacy = 0.5 }
+	}
+	
+	research_points = 0.9
+}
+
+literacy_researchpoints_50 = {
+	trigger = {
+		literacy = 0.5
+		NOT = { literacy = 0.55 }
+	}
+	
+	research_points = 1
+}
+
+literacy_researchpoints_55 = {
+	trigger = {
+		literacy = 0.55
+		NOT = { literacy = 0.6 }
+	}
+	
+	research_points = 1.1
+}
+
+literacy_researchpoints_60 = {
+	trigger = {
+		literacy = 0.6
+		NOT = { literacy = 0.65 }
+	}
+	
+	research_points = 1.2
+}
+
+literacy_researchpoints_65 = {
+	trigger = {
+		literacy = 0.65
+		NOT = { literacy = 0.7 }
+	}
+	
+	research_points = 1.3
+}
+
+literacy_researchpoints_70 = {
+	trigger = {
+		literacy = 0.7
+		NOT = { literacy = 0.75 }
+	}
+	
+	research_points = 1.4
+}
+
+literacy_researchpoints_75 = {
+	trigger = {
+		literacy = 0.75
+		NOT = { literacy = 0.8 }
+	}
+	
+	research_points = 1.5
+}
+
+literacy_researchpoints_80 = {
+	trigger = {
+		literacy = 0.8
+		NOT = { literacy = 0.85 }
+	}
+	
+	research_points = 1.6
+}
+
+literacy_researchpoints_85 = {
+	trigger = {
+		literacy = 0.85
+		NOT = { literacy = 0.9 }
+	}
+	
+	research_points = 1.7
+}
+
+literacy_researchpoints_90 = {
+	trigger = {
+		literacy = 0.9
+		NOT = { literacy = 0.95 }
+	}
+	
+	research_points = 1.8
+}
+
+literacy_researchpoints_95 = {
+	trigger = {
+		literacy = 0.95
+	}
+	
+	research_points = 1.9
 }
