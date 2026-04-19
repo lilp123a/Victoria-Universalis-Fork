@@ -1,5 +1,5 @@
 infantry = {
-	icon = 3
+	icon = 1
 	
 	type = land
 	sprite = Infantry

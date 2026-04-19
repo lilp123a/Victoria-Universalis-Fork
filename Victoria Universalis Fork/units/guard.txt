@@ -1,5 +1,5 @@
 guard = {
-	icon = 4
+	icon = 16
 	
 	type = land
 	sprite = Guard

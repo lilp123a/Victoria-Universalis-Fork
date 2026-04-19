@@ -1,5 +1,5 @@
 artillery = { 
-	icon = 5
+	icon = 3
 	
 	type = land
 	sprite = Artillery

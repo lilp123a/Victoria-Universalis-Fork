@@ -1,5 +1,5 @@
 hussar = {
-	icon = 6
+	icon = 2
 	
 	type = land
 	sprite = Hussar

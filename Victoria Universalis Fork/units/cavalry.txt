@@ -1,5 +1,5 @@
 cavalry = {
-	icon = 2
+	icon = 12
 	
 	type = land
 	sprite = Cavalry

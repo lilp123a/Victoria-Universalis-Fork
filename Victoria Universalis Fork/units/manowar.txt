@@ -1,5 +1,5 @@
 manowar = {
-	icon = 16
+	icon = 4
 	naval_icon = 1
 	
 	sail = yes
