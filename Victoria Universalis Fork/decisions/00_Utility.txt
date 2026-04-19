@@ -587,13 +587,13 @@ political_decisions = {
 		allow = {}
 		
 		effect = {
-			# No Colonial Migration -> Low Colonial Migration
+			# Medium Colonial Migration -> High Colonial Migration
 			random_owned = {
 				limit = {
-					owner = { colonial_migration = no_colonial_migration }
+					owner = { colonial_migration = medium_colonial_migration }
 				}
 				
-				owner = { political_reform = low_colonial_migration }
+				owner = { political_reform = high_colonial_migration }
 			}
 			
 			# Low Colonial Migration -> Medium Colonial Migration
@@ -605,13 +605,13 @@ political_decisions = {
 				owner = { political_reform = medium_colonial_migration }
 			}
 			
-			# Medium Colonial Migration -> High Colonial Migration
+			# No Colonial Migration -> Low Colonial Migration
 			random_owned = {
 				limit = {
-					owner = { colonial_migration = medium_colonial_migration }
+					owner = { colonial_migration = no_colonial_migration }
 				}
 				
-				owner = { political_reform = high_colonial_migration }
+				owner = { political_reform = low_colonial_migration }
 			}
 		}
 	}
