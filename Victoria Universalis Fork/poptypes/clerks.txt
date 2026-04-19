@@ -7,7 +7,7 @@ can_work_factory = yes
 factory = yes
 
 research_points = 4
-research_optimum = 0.04
+research_optimum = 0.035
 
 workplace_input = -0.1
 workplace_output = 0.05
