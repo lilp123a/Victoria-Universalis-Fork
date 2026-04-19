@@ -8,12 +8,12 @@ GHO = {
 	truce_until="1937.1.1"
 }
 
-#Sphere of Influence
-#EIC = {
-#	value = 200
-#	level = 5
-#	influence_value = 99
-#}
+Sphere of Influence
+EIC = {
+	value = 200
+	level = 5
+	influence_value = 100
+}
 
 CAN = {
 	value = 200
