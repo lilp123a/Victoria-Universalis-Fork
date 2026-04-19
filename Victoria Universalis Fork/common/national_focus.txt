@@ -727,7 +727,7 @@ party_loyalty_focus = {
 		}
 		
 		ideology = fascist
-		loyalty_value = 0.005
+		loyalty_value = 0.0075
 	}
 	
 	reactionary_focus = {
@@ -738,7 +738,7 @@ party_loyalty_focus = {
 		}
 		
 		ideology = reactionary
-		loyalty_value = 0.005
+		loyalty_value = 0.0075
 	}
 	
 	conservative_focus = {
@@ -749,7 +749,7 @@ party_loyalty_focus = {
 		}
 		
 		ideology = conservative
-		loyalty_value = 0.005
+		loyalty_value = 0.0075
 	}
 	
 	socialist_focus = {
@@ -760,7 +760,7 @@ party_loyalty_focus = {
 		}
 		
 		ideology = socialist
-		loyalty_value = 0.005
+		loyalty_value = 0.0075
 	}
 	
 	communist_focus = {
@@ -771,7 +771,7 @@ party_loyalty_focus = {
 		}
 		
 		ideology = communist
-		loyalty_value = 0.005
+		loyalty_value = 0.0075
 	}
 	
 	liberal_focus = {
@@ -782,7 +782,7 @@ party_loyalty_focus = {
 		}
 		
 		ideology = liberal
-		loyalty_value = 0.005
+		loyalty_value = 0.0075
 	}
 	
 	anarcho_liberal_focus = {
@@ -793,6 +793,6 @@ party_loyalty_focus = {
 		}
 		
 		ideology = anarcho_liberal
-		loyalty_value = 0.005
+		loyalty_value = 0.0075
 	}
 }
