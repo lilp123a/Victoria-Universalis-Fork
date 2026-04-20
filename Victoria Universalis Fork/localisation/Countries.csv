@@ -663,8 +663,6 @@ MOS_tribal_society;Volta-Bani;x
 MRN;Maranhao;x
 MRN_ADJ;Maranhao;x
 MST;§YMedium State CB Flag\n§WThis flag enables the Acquire Small State CB to be used against this state and is automatically added to all states with less than 300K population before 1860, less than 400k between 1860-1885, less than 600k between 1885-1910, and less than 900k after 1910. When this state's population rises above the small state threshold this flag will be removed at the start of the following year. §RMedium State CB cannot be used on capital states or uncivilised Sub-Saharan African nations;x
-MTC;Metis Confederacy;x
-MTC_ADJ;Metis;x
 MUG;Mughalistan;x
 MUG_absolute_monarchy;Mughal Empire;x
 MUG_ADJ;Mughal;x

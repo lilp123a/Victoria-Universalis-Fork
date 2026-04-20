@@ -265,7 +265,6 @@ WAR_GAIN_GW_STATUS_1;$WAR$;x
 gtfo_SIC_title;Grant Two Sicilies Independence;x
 ASKMILITARYACCESS_THEY_ACCEPT_HEADER;The Foreign Minister reports;x
 convert_artisans_desc;This decision converts one artisan POP into a labourer POP in a province with no unemployment. Most mining provinces start with 10,000 labourers with the rest of the POPs having been converted to artisans. When you expand a mine, use this decision to quickly fill the new jobs.;x
-metis_twilight_desc; The Second Riel Rebellion has ended in the worst possible way, and the Metis are now a marginalized people in Canada.;x
 not_AI;Not AI;x
 COREINFO;$COUNTRY$ considers this to be one of her core provinces. ;x
 SENDEXPEDNEWDESC;Do you wish to send an expeditionary force to $RECIPIENT$ to use as they see fit?;x
@@ -1198,7 +1197,6 @@ EVTDESC36960;War has erupted in our crown colony of India.;x
 FE_TRIALS;Trials;x
 EVTNAME90104;Longing for Trade Unions;x
 PAN_anarcho_liberal;The Radical Faction;x
-gtfo_MTC_title;Grant Metis Confederacy Independence;x
 REMOVE_RULING_PARTY_ORG_EFFECT;$NAME$ loses §Y$VALUE$§W organisation.\n;x
 NQL_fascist_dictatorship_ADJ;Capricornian;x
 MLW_socialist;Alliance for Democracy;x
@@ -3172,7 +3170,6 @@ gtfo_CIR_desc;We've had a good run, but it's time to end our rulership of Circas
 EVTNAME16120;Abolitionist Pamphlets;x
 EVTDESC90814;With most of China under our control, the other warlords have no choice but to recognize our might and submit to our authority.;x
 EVTDESC37204;The body of Napoléon Bonaparte, who died in 1821 on St. Helena, was returned to France in December 1840. During the first days after his funeral in the Dôme des Invalides in Paris, hundreds of thousands paid him their respects.;x
-metis_twilight;The Twilight of the Metis;x
 EVTOPTA17140;I suggest that the local authorities force feed that hysterical woman;x
 CRISIS_BACK_DOWN_THEY_ACCEPT_SETUP;When a nation accepts your offer of solving a crisis;x
 EVTOPTB15030;Keep them ignorant;x
@@ -3487,7 +3484,6 @@ CRISIS_OFFER_OTHER_ACCEPT_3;It seems that $RECIPIENT$;x
 LBA_ADJ;Luba;x
 LBA;Luba;x
 zremove_cores_desc;Country modifier §RCore Integration in Progress§b and province modifier §WRemoving Cores§b will be added to this country and the selected state. When §RCore Integration in Progress§b runs out, all provinces with §WRemoving Cores§b modifier will have all other nations' cores removed. §WRemoving Cores§b will be removed from a province if it changes owners or gets occupied before the §RCore Integration in Progress§b timer runs out.;x
-EVTDESC44301;The Métis people were a group of small communities of French-Indian blood in the Manitoba region who had hopes of self-government. Unfortunately their dreams were shattered when the Hudson's Bay land, which they were a part of, were given to Canada without their consent. In protest the Métis people, led by Louis Riel, revolted. Louis Riel was a highly religious man, who had studied for the clergy in his earlier life. He fought for the Métis people and became a hero in the eyes of Manitobans. Louis bargained with the Canadian government for Manitoba's entry into Confederation. Canadian delegates guaranteed the rights of the people would be respected. Thus, Manitoba, the postage-stamp province, was born.;x
 DISCREDITTITLE;Discredit Great Power;x
 CRISIS_OFFER_OTHER_ACCEPT_SETUP;When someone joins the side of a crisis;x
 EXPELADVISORS_THEY_ACCEPT_5;§Y$RECIPIENT$§W is now free of all of their influence!;x
@@ -3708,7 +3704,6 @@ mandatory_service_china;Mandatory Service;x
 GIVEMILITARYACCESS_THEY_ACCEPT_BTN2;OK;x
 MLW_absolute_monarchy;Nyasaland;x
 cancel_trade_agreements_3_desc;By cancelling our current trade agreement, we are free to enter into a new a trade agreement with another country.;x
-EVTDESC44302;Although the Canadian government promised to respect the rights of the Métis, it did not appear to do so. Métis petitions for recognition of their land-holdings and institutions went unheeded. The Métis also became increasingly upset with the growing numbers of settlers from the east, invading their territories. In early 1885, the situation came to a head when the Métis once again took up arms in revolt. Adopting the Revolutionary Bill of Rights, the Métis established their own government and independence from Canada. Canadian troops came and crushed the rebellion. Louis Riel was tried and executed. The Métis would not be recognized officially as a people until a hundred years later.;x
 EVTOPTA17700;Declare the union illegal;x
 cultural_resurgence;Cultural Resurgence;x
 EVTDESC17610;The emerging fascist party in one of our states has formed a paramilitary corps, organized with a military command chain, ideologically coherent and ready to do the bidding of the fascist party leaders. The group is colloquially referred to as the 'Blackshirts' from the iconic militaresque shirts that they have taken to wearing. This trend is new to $COUNTRY_ADJ$ politics, and some fear that it might lead to a chain-reaction, with other parties forming military organizations of their own.;x
@@ -5935,7 +5930,6 @@ EVTNAME14650;Big Game Hunting;x
 DECREASERELATIONTITLE;Decrease Relations;x
 PEACESELF;They are negotiating for themselves.;x
 INCREASERELATION_THEY_ACCEPT_SETUP;When we increase our relations with a nation;x
-metis_twilight_title; The Twilight of the Metis;x
 PEACENEWALLY;They are negotiating for their allies.;x
 EVTNAME33403;Richard Wagner;x
 blockade;Blockade;x
@@ -6597,15 +6591,10 @@ EVTOPTA19046;Glorious!;x
 ALS_liberal;Liberaldem. Partei;x
 EVTOPTB45000;We shall stay independent!;x
 EVTNAME45000;Dominican Republic to Join the United States?;x
-EVTOPTA44302;The Métis are up in arms;x
-EVTNAME44302;The Northwest Rebellion;x
-EVTOPTB44301;Ignore the Métis demands;x
 EVTOPTA120;These saloons are becoming a problem;x
-EVTOPTA44301;Listen to the Métis demands;x
 UNIT_ENABLE_REBEL_HUNT;Hunt Rebels;x
 CRISIS_OFFER_OTHER_ACCEPT_HEADER;The Foreign Minister reports;x
 gtfo_ALS_title;Grant Elsass Independence;x
-EVTNAME44301;Louis Riel and the 1st Métis Rebellion;x
 EVTOPTB44300;No, Macdonald will continue as Prime Minister!;x
 caucasian_truce_local;Caucasian War - Truce;x
 MESSAGECAT_ALL;All Messages;x
@@ -14316,7 +14305,6 @@ cancel_trade_agreements_4_desc;By cancelling our current trade agreement, we are
 EVTDESC91883;The victorious Central Powers have enforced their demands on the vanquished Allied nations. Bulgaria united the lands of Greater Bulgaria from its neighbors in the Balkans. The newly indepedent Austrian Republic was granted lands of the former Habsburg monarchy in northern Italy and Slovenia. The Kingdom of Hungary has regained the territories it lost from the dissolution of the Austro-Hungarian Empire. The Ottoman Empire reclaimed Kars and Cyprus. Germany annexed territories along the French and Belgian border and seized most of the colonies belonging to the Allies in the rest of the world.;x
 REMOVE_EVTOPTA14810;Let us try that.;x
 acquire_core_state_short;Acquire $STATE$;x
-gtfo_MTC_desc;We've had a good run, but it's time to end our rulership of Metis Confederacy: if you love something, let it go!;x
 gtfo_MEX_desc;We've had a good run, but it's time to end our rulership of Mexico: if you love something, let it go!;x
 EVTDESC16250;Talk of secession from the Union can be heard on the streets of $PROVINCENAME$. In fact, all over $STATENAME$ there is talk of secession, as fewer and fewer feel that a meaningful compromise, protecting that 'peculiar institution' -- i.e. Slavery -- of the South, can be reached in a climate where Congress moves increasingly toward a position of favoring political reform.;x
 CREATE_REBELS;§R$SIZE$§Y $TYPE$§W brigade(s) rise up in revolt in §Y$WHERE$§W.\n;x

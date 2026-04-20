@@ -539,44 +539,44 @@ economic_boom = {
 
 
 ######CB generation######
- CB_gen_plus = {
+CB_gen_plus = {
 	cb_generation_speed_modifier = 0.25
- }
- 
-  CB_gen_minus = {
+}
+
+CB_gen_minus = {
 	cb_generation_speed_modifier = -0.25
- }
- 
- ##more event modifiers
- recent_safari = {
+}
+
+##more event modifiers
+recent_safari = {
 	prestige = 0.001
- }
- recent_safari2 = {
+}
+recent_safari2 = {
 	prestige = 0.001
- }
- 
- free_press_promised = {
-	prestige = 0.001
-	icon = 17
- }
- 
- yes_meeting_promised = {
+}
+
+free_press_promised = {
 	prestige = 0.001
 	icon = 17
- }
- 
- trade_unions_promised = {
+}
+
+yes_meeting_promised = {
 	prestige = 0.001
 	icon = 17
- }
- 
- ##
- meiji_restoration_boost = {
+}
+
+trade_unions_promised = {
+	prestige = 0.001
+	icon = 17
+}
+
+##
+meiji_restoration_boost = {
 	research_points_modifier = 0.3
 	icon = 5
 }
 
- dar_al_funun = {
+dar_al_funun = {
 	research_points_modifier = 0.3
 	icon = 5
 }
@@ -592,7 +592,7 @@ nationalist_agitation = {
 	icon = 4
 }
 
-apache_raiders	= {
+apache_raiders = {
 	population_growth = -0.002	
 	pop_militancy_modifier = 0.2
 	icon = 18
