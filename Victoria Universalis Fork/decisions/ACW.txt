@@ -83,64 +83,7 @@ political_decisions = {
 		}
 	}
 	
-# USA	
-	trail_of_tears = {
-		potential = {
-			tag = USA
-			NOT = {
-				has_global_flag = marching_on_the_trail_of_tears
-			}
-		}
-		
-		allow = {
-			owns = 129
-			owns = 130
-			owns = 131
-			average_consciousness = 3
-		}
-		
-		effect = {
-			any_pop = {
-				limit = {
-					has_pop_culture = cherokee
-					NOT = {
-						location = {
-							OR = {
-								province_id = 130
-								province_id = 131
-								province_id = 129
-							}
-						}
-					}
-				}
-				reduce_pop = 0.80
-				consciousness = 2
-				militancy = -1
-				move_pop = 130
-			}
-			130 = {
-				add_core = CHE
-			}
-			131 = {
-				add_core = CHE
-			}
-			129 = {
-				add_core = CHE
-			}
-			145 = {
-				remove_core = CHE
-			}
-			143 = {
-				remove_core = CHE
-			}
-			add_accepted_culture = cherokee
-			set_global_flag = marching_on_the_trail_of_tears
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
+	# USA
 	
 	custers_expedition = {
 		potential = {
@@ -366,7 +309,7 @@ political_decisions = {
 			}
 		}
 	}
-			
+	
 	#bixby_letter = {
 	#	potential = {
 	#		tag = USA

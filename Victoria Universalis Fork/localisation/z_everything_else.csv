@@ -137,7 +137,6 @@ gtfo_BYZ_title;Grant Byzantine Empire Independence;x
 EVTNAME60160;Change of Government;x
 EVTNAME91880;Allied Victory!;x
 URA_conservative;Slavophile;x
-EVTOPTA16440;They will submit, sooner or later.;x
 OUR_RULER;Our Ruler;x
 GNE_socialist;Socialist Democracy of Guinea;x
 EVTNAMEfunctionalism;Functionalism Tech Flag;x
@@ -280,7 +279,6 @@ gtfo_SXI_title;Grant Shanxi Independence;x
 WETARGET_EXPELADVISORS_LOG;$ACTOR$ convinced $RECIPIENT$ to expel all our advisors!;x
 PLAYER_KICKED;$NAME$ was kicked by the host.;x
 EIC_independent_liberal;Responsible Rule Party;x
-sioux_nation_name;Sioux Nation;x
 earthquake_devastation;Earthquake Devastation;x
 tonghak_reforms_desc;The peasant class of Korea has suffered as of late under the corrupt officials of the current system. In response to this, the government has instituted a number of social, economic and military reforms based on the Japanese bureaucratic system in order to placate the peasantry.\n\n§RCivilisation Progress must be 70% in order to enact this decision.;x
 gtfo_TAR_title;Grant Tatarstan Independence;x
@@ -2096,7 +2094,6 @@ PAN;Panjab;x
 AGRESSION_WAR_CONCESSION_NAME;$ORDER$ War of The $STATE$ Concession;x
 NORMAL_WAR_CONCESSION_NAME;$ORDER$ War of The $STATE$ Concession;x
 DECREASERELATION_THEY_ACCEPT_6;Our relation changed by §R$CHANGE$§W to §Y$RELATION$§W.;x
-trail_of_tears_desc;The 'Trail of Tears' is the English rendition of the Cherokee name for the forced relocation of the greater Cherokee nation from its homelands in the south-eastern United States - Georgia, Tennessee, Alabama, etc. - to the newly established Indian territories in Oklahoma. By the Indian Removal Act of 1830, enacting this decision lies within our prerogative.;x
 DECREASERELATION_WE_ACCEPT_5;Our relation changed by §R$CHANGE$§W to §Y$RELATION$§W.;x
 EVTOPTA10170;We shall consider it;x
 EVTNAME12280;Moldy Clothing;x
@@ -2493,7 +2490,6 @@ UNM;The Pueblo Republic;x
 GW_DISCOVERED_3;at least two great countries;x
 EVTDESC36980;The Shah of Iran has occupied the Emirate of Herat. This is a grave violation of a previous Anglo-Persian treaty that prohibited them from interfering in the interal affairs of Herat. What shall we do?;x
 EVTDESC20105;With the $CRISISTAKER_ADJ$ rebels struggling to break free from our nation and $CRISISATTACKER$ supporting them, we must hope that the arms of $CRISISDEFENDER$ will be able to support our cause. Should our Ambassador to $CRISISDEFENDER$ ask them to press our case strongly, or hint that we are open to a negotiated settlement?;x
-gtfo_CHE_desc;We've had a good run, but it's time to end our rulership of Cherokee: if you love something, let it go!;x
 ATTACKUSREBEL_2;$MONARCHTITLE$, we have been attacked in;x
 EXPELADVISORS_WE_ACCEPT_4;§Y$TARGET$§W;x
 EVTOPTA44467;We will make the fools submit.;x
@@ -2525,7 +2521,6 @@ no_research_reform_l;No Universities;x
 the_big_army_desc;General Urquiza is gathering a huge army, compromised of volunteers from Uruguay and all over the country, to defeat Rosas.;x
 EVTNAME20103;The destiny of $CRISISTAKER$;x
 GIVEMILITARYACCESS_OTHER_ACCEPT_SETUP;When a nation grants another nation military access rights to their country;x
-EVTOPTA16420;Let us hope that this is their last stand.;x
 EVTOPTB20102;Don't listen to him!;x
 SAV_ADJ;Vincentian;x
 SAS_conservative_1;Conservative Party;x
@@ -3470,7 +3465,6 @@ March;March;x
 EVTDESC44645;The caudillo Juan José Flores has served two terms as President of Ecuador, and is trying to rewrite the constitution to allow himself to become dictator for life. A rebellion led by Vicente Rocafuerte seeks to depose him and return Ecuador to nominal democratic rule.;x
 EVTOPTA160002;The Qing shall prevail!;x
 PEACE_THEY_ACCEPT_LOG;$RECIPIENT$ accepted our peace offer.;x
-EVTNAME16420;The Sioux Wars;x
 gtfo_CAT_title;Grant Catalonia Independence;x
 CRISIS_OFFER_OTHER_ACCEPT_BTN2;OK;x
 EVTOPTA91004;Got it.;x
@@ -3567,18 +3561,13 @@ signed_the_geneva_convention;The Geneva Convention;x
 EVTNAME160502;Anti-Manchu feeling;x
 UNIT_REBEL_HUNT_IS_BUSY;§RArmy is currently busy, and will not hunt any rebels right now.§!;x
 WARGOAL_COST_DESC;$BADBOY$ Infamy, $PRESTIGE$ Prestige and $COST$ Peace cost;x
-apache_army;Apache War Party;x
-apache_desc;The Apache rise to defend their ancestral lands from the encroachment of American settlers and soldiers. They are angered by broken promises from Washington, and will fight fiercely to halt the colonization of the West.;x
 EVTOPTB14530;Very concerning... but oh, my, it's almost teatime. Cricket later, anyone?;x
 declare_republic_of_neuchatel_desc;In 1707 Neuchâtel became a possession of Frederick the Great of Prussia by virtue of his maternal ties to the House of Orange-Nassau, and the principality thus effectively entered a personal union with the Kingdom of Prussia and the Hohenzollern family. During the Napoleonic wars, Prussia ceded Neuchâtel after the country's defeat at the hands of Napoleon. After the Napoleonic wars, Neuchâtel was joined with Switzerland as the 21st canton thereof, at the suggestion of Frederick William III of Prussia, while at the same time also remaining a Prussian principality pro forma. In 1848, the province shook off its monarchical past, and was declared a republic within the Swiss Confederation. The Prussian claims were equitably relinquished in 1857.;x
 EVTDESC21030;The 'Spanish' Flu was an influenza pandemic that killed somewhere between 50-100 million people worldwide between the years 1918 to 1920. Due to increased trade, colonial contacts, commerce and other myriads of global connections that had all increasingly made the world a smaller place throughout the 19th century, the Spanish flu was able to spread quickly across the world in a mere few years. Further aggravated by the on-going first world war, and the cramped living conditions in the trenches, the Spanish flu is one of the first and most terrifying examples of a truly global pandemic. And... come to think of it... haven't you been feeling a bit feverish, lately?;x
 WE_MOBILIZE_4;*;x
-sioux_nation_army;Sioux War Party;x
 EVTDESC29903;Mother! Mother! They've opened a new store in town!'\n\nThe nineteenth century saw the development of vastly improved channels for the distribution of goods to broader groups of customers. The opening of new, specialized and industrialized retailers was essential in bringing new industrial goods, produced in factories, to consumers. The new store in $COUNTRY$ will increase the efficiency of the local farms, as farmers have to spend less time in travel to and from markets.;x
 gtfo_KRN_desc;We've had a good run, but it's time to end our rulership of Karnatak: if you love something, let it go!;x
 gtfo_JOD_title;Grant Jodhpur Independence;x
-sioux_nation_desc;The Sioux Nation rises to defend their ancestral lands from the encroachment of American settlers and soldiers. They are angered by broken promises from Washington, and will fight fiercely to halt the colonization of the West.;x
-sioux_nation_title;Sioux Nation;x
 telephone_switchboard;Telephone Switchboard;x
 INCREASERELATION_OTHER_ACCEPT_2;$MONARCHTITLE$, we heard;x
 taxation_1890;Midgame Taxation Cap;x
@@ -3867,7 +3856,6 @@ ACW_DESC;Civil war rages in North America as the Conferate States attempt to sec
 MSG_FILTER_TOOLTIP_HEADER;In message filter settings window, you can select countries that you are interested in. All the messages and alerts will be shown only for those important countries.;x
 sphere_eic_desc;When India is in your sphere they have access to your goods and will be able to better reinforce their armies. However, having India in your sphere also lowers your tariff income. It is best sphere India while at war or if you need access to a specific good that India produces and unsphere them during times of peace.;x
 NAVAL_COMBAT_STACK_PENALTY_DESC;§YCoordination penalty §R$PEN$%§Y caused by poor communication in the fleet, it makes it more difficult for our ships to find targets. Affected by amount of our ships and potential targets.§!;x
-trail_of_tears_title;The Trail of Tears;x
 UNDER_SIEGE;Province is under occupation!;x
 small_immigration_boom;Immigration Boom;x
 voyage_to_america_title;Voyage to the United States;x
@@ -4263,7 +4251,6 @@ troupes_de_marine_desc;The colonial expansion of the 19th century saw the extens
 WE_MOBILIZE_6;*;x
 CHY_liberal;Reformist Faction;x
 canton_system;The Cohong;x
-apache_title;Apache;x
 WE_MOBILIZE_3;*;x
 WE_MOBILIZE_1;MOBILIZE;x
 EVTOPTA44614;We should surrender.;x
@@ -6412,7 +6399,6 @@ ADD_BUILDING_EFFECT;Gain a §Y$BUILDING$§W with level §Y$VALUE$§W in §Y$PROVINCE$
 embrace_slovene_minority_desc;It is time to grant equal rights to Slovenes;x
 DECREASERELATION_WE_ACCEPT_LOG;$ACTOR$ has decreased their relations with us.;x
 REMOVE_EVTDESC2050;It's been five years since the first immigrants came to this country. After these five years, immigrants can apply for membership in the country, become real citizens and not have to be called aliens any more.;x
-EVTNAME16450;Apprehending Geronimo;x
 BUILDING_MUST_HAVE;Must have $OTHER$;x
 the_lambert_charter_desc;The Lambert Charter was a document used by France to justify its many attempts at making inroads into, and eventually annex, the independent country and island of Madagascar. The document was signed by crown prince Radama II, who had grown up under the influence of French expatriates on Madagascar, and purported to give France the right to extract minerals and other natural resources from the country, in return for a 10% royalty payable to the Royal House of Madagascar.;x
 DECREASERELATION_WE_ACCEPT_HEADER;The Foreign Minister reports;x
@@ -8042,17 +8028,12 @@ EVTDESC19043;Egyptian officials in Alexandria have refused our Egyptian Expediti
 WES_conservative_3;Christsoz. Arbeiterpartei;x
 suppression;Martial Law;x
 EVTOPTB17680;Outlaw paramilitary organizations;x
-EVTOPTA16450;Hail to the Chief!;x
-EVTDESC16450;The renowned Apache outlaw Geronimo has surrendered today, to Captain Henry Lawton of The Army, with his small, tattered band of Apache men, women and children. With Geronimo's surrender, the last shred of Apache resistance in the West has died out, and this once proud Indian nation can now be considered pacified. Geronimo will, many years from now, on his deathbed, confess to a nephew that he always regretted the decision to surrender.;x
 slave_revolution;Slave Revolution;x
 COLONIZE_PHASE_COLONIZATION_DESC;Winner of previous phases has $MONTHS$ months to convert to a colony or lose investments.;x
 NOV_liberal;Liberal Party;x
 EVTNAME44122;Destiny Manifested;x
 EVTOPTB17530;But.. the plight of the workers? Exploitation by the ruling classes?;x
 ADDTOSPHERETITLE;Add to Sphere of Influence;x
-EVTOPTA16430;R.I.P.;x
-EVTDESC16430;Sitting Bull and his braves have surrendered, and the Sioux have been defeated. While there will be future battles between the tribes and ourselves, the sharp edge of the Sioux nation has now dulled. Never again will the Sioux be able to muster a force of even comparable size, and the Sioux nation's future will be resigned to the reservations. It is with some sense of mourning that we see the passing of this once great nation into the history books of our young republic.;x
-EVTNAME16430;End of the Sioux Wars;x
 ALLIANCE_OTHER_DECLINE_5;Military Alliance;x
 EVTOPTA16410;Rejoice!;x
 EVTOPTA14100;That's rubbish!;x
@@ -8514,7 +8495,6 @@ accept_trade_deal_23_desc;If we enter into a trade deal with the chosen country,
 EVTOPTB14550;Long live the captains of industry and technology!;x
 EVTNAME22570;Flagship Company Bankrupt;x
 EVTNAME14540;Exotic Fauna!;x
-apache_name;Apache;x
 EVTDESC44461;The Egyptian government has sent diplomats all over the civilised world seeking funding for their modernization projects. They are asking for 500k pounds, which will be repaid in full plus an additional 250k interest in 30 years. §RTo give the loan, enact the §G"Lend to Egypt"§R decision. When this decision is enacted, a 30 year timer will be started and a new decision will appear for Egypt that allows them to pay back the loan. If they do not pay it back before the timer runs out, you will get an event to puppet them and a decision to annex them later.§b;x
 EVTDESC14530;... and I argue that this present resurgence of native unrest in the colony is due only to the continued, repeated and wanton mismanagement that our own officials have imposed on the locals. For if the purpose of our presence in our far flung colonies is to uplift and educate, our failure is all the worse when we accomplish the exact opposite.'\n\nNative militancy is rising in one of our colonies, and reports are reaching $CAPITAL$ that the reason for this surge in violence is several incidents of colonial mismanagement. We can seek to redress the problem by finding scapegoats in the Colonial Office, but happy bureaucrats might be more important than happy natives in some god-forsaken colony.;x
 restore_portugal_brazil_desc;Independence movements in Brazil have been sufficiently pacified enough for us to consider elevating Brazil to equal status with Portugal.;x
@@ -9989,7 +9969,6 @@ desc_silk_famine;A local outbreak of Pébrine prevents local silk farms from oper
 silk_famine;Silk Famine;x
 desc_national_tragedy;Our nation mourns another young girl lost to the coal fields.;x
 WAR_EFFECT;Declare War on §Y$WHO$§W.\n;x
-EVTNAME16440;The Apache Wars;x
 BACK_CRISIS_WE_ACCEPT_3;*;x
 global_population_nerf_1930;Global Population Normalization;x
 gtfo_MEI_title;Grant Saxe-Meiningen Independence;x
@@ -10702,7 +10681,6 @@ no_position_set;No Official Policy;x
 INCREASEOPINION_OTHER_ACCEPT_5;The opinion towards them is now §Y$OPINION$§W.;x
 unrecognized_country;Unrecognized Country;x
 INCREASEOPINION_OTHER_ACCEPT_2;$MONARCHTITLE$;x
-custers_expedition_desc;The Black Hills, Dakota Territory, has been recognized by our Government as belonging to the Sioux. The area has, however, not been prospected for minerals yet, and reports have recently been surfacing that the Indians have been extracting enormous amounts of gold from the hill range. An able young Lieutenant Colonel, one George Armstrong Custer, stands ready to be dispatched to the Black Hills to investigate the matter.;x
 EVTOPTA12150;Reimburse the widows with pensions.;x
 INCREASEOPINION_OTHER_ACCEPT_HEADER;The Foreign Minister reports;x
 INCREASEOPINION_WE_ACCEPT_BTN3;Go to;x
@@ -11157,7 +11135,6 @@ FE_NATION_TO_PLAY;Click the nation you wish to play...;x
 REORGANISE_UNITS;Reorganise these two units;x
 EVTNAME15310;The Flying University;x
 EVTNAME12110;In Them Old Cotton Fields;x
-EVTDESC16440;The New Mexico Apache, led by a man calling himself Victorio, have risen up and massacred several settlers in the state. Provoked by the ever increasing incursions by the white man into territory traditionally considered a part of the Apache homeland, Victorio and his band refuse to submit to United States' authority.;x
 CANCELALLIANCE_THEY_ACCEPT_6;*;x
 PEACE_WE_ACCEPT_BTN2;Fine!;x
 gtfo_KAZ_title;Grant Kazakhstan Independence;x
@@ -11165,7 +11142,6 @@ EZO_liberal;Shishi;x
 install_communist_gov_sov;Install communism;x
 MLY;Malaysia;x
 ALLIANCE_OTHER_DECLINE_6;*;x
-EVTDESC16420;With the influx of settlers into the Black Hills area, conflicts with the local Sioux have escalated. Today, news reached us from the frontier that a massive War Party, led by an indian whose name reports give only as 'Sitting Bull', has risen up in the Dakota territory.;x
 ALLIANCE_WE_DECLINE_BTN2;OK;x
 ALLIANCE_WE_DECLINE_BTN1;OK;x
 ALLIANCE_WE_DECLINE_6;*;x
@@ -11317,7 +11293,6 @@ ems_dispatch_desc;Originally sent as an internal memo of King Wilhelm I of Pruss
 EVTNAME35813;Treaty of Ganghwa - Korea Signs;x
 CAR_ADJ;Central African;x
 EVT91502OPTA;Who needs a place in the sun anyways?;x
-custers_expedition_title;Expedition to The Black Hills;x
 orthodoxy_autocracy_nationality_desc;The Official Nationality policy entered into effect and it's speeding up the assimilation of other cultures at the cost of some unrest.;x
 TORPEDO_ATTACK_DESC;Torpedo attacks do extra damage against larger ships.;x
 ALT_communist;The Communists;x
@@ -12508,7 +12483,7 @@ AKH_anarcho_liberal;The Libertains;x
 CEASECOLONIZATION_OTHER_DECLINE_BTN1;OK;x
 SET_SOCIAL_REFORM_EFFECT;Social reform selected: §Y$NAME$§W.\n;x
 EVTNAME13330;Developing Trade;x
-UW_UNITS_ATTACHED;The following units are attached.;x
+UW_UNITS_ATTACHED;The following units are attached;x
 EVTDESC37712;An incident recently took place at the Talambó hacienda, in Lambayeque, Peru. The details are fragmentary, but the episode involved a fight that broke out between two Spanish residents and 40 local citizens in which one Spaniard died. The Spaniards have used this as a pretext for an intervention in Peru.;x
 ASR_socialist;Hizb al-Baath al-Ishtiraki al-Urduni;x
 Give_1800_Steamer_Convoys;Give them 1800.;x
@@ -13928,7 +13903,6 @@ liberal_focus_short;§YLiberal§! loyalty;x
 DAK_liberal;Republican Faction;x
 UNIT_CONSTRUCTION_TOOLTIP;Currently building §Y$NAME$§W, which will be finished earliest §Y$DATE$§W.;x
 DIPLOMACY_PRESTIGE2;Prestige: $VALUE$;x
-gtfo_CHE_title;Grant Cherokee Independence;x
 tutorial_end_of_chapter;End of Tutorial Chapter;x
 GAB_fascist;People's Unity Party;x
 BA_WORK_FORCE;Work Force;x

@@ -592,12 +592,6 @@ nationalist_agitation = {
 	icon = 4
 }
 
-apache_raiders = {
-	population_growth = -0.002	
-	pop_militancy_modifier = 0.2
-	icon = 18
-}
-
 liberian_research_boost = {
 	research_points_modifier = 0.15
 	icon = 5

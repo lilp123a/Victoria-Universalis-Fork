@@ -1165,31 +1165,31 @@
     }
 
     aristocrats = {
-        culture = pueblo
+        culture = native_american_minor
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = pueblo
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = pueblo
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = pueblo
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     zbankers = {
-        culture = pueblo
+        culture = native_american_minor
         religion = protestant
         size = 900
     }
@@ -1304,31 +1304,31 @@
     }
 
     aristocrats = {
-        culture = pueblo
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = pueblo
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = pueblo
+        culture = native_american_minor
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = pueblo
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     zbankers = {
-        culture = pueblo
+        culture = native_american_minor
         religion = protestant
         size = 1800
     }
@@ -1366,31 +1366,31 @@
 #Albuquerque (20000/5000 POPS)
 104 = {
     aristocrats = {
-        culture = pueblo
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = pueblo
+        culture = native_american_minor
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = pueblo
+        culture = native_american_minor
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = pueblo
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     zbankers = {
-        culture = pueblo
+        culture = native_american_minor
         religion = protestant
         size = 2700
     }
@@ -2422,31 +2422,31 @@
 #Oklahoma City (12000/3000 POPS)
 129 = {
     aristocrats = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     zbankers = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 800
     }
@@ -2490,31 +2490,31 @@
 #Tahlequah (12000/3000 POPS)
 130 = {
     aristocrats = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     zbankers = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 1600
     }
@@ -3321,43 +3321,43 @@
     }
 
     aristocrats = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     bureaucrats = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 37
     }
 
     officers = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 15
     }
 
     artisans = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 75
     }
 
     zbankers = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 5000
     }
@@ -3439,25 +3439,25 @@
     }
 
     clergymen = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 35
     }
 
     artisans = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     zbankers = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 2000
     }
@@ -6053,25 +6053,25 @@
     }
 
     aristocrats = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 1700
     }
 
     soldiers = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
@@ -6729,31 +6729,31 @@
     }
 
     aristocrats = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 150
     }
 
     soldiers = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 25
     }
 
     zbankers = {
-        culture = cherokee
+        culture = native_american_minor
         religion = protestant
         size = 2775
     }
