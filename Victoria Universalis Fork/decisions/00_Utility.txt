@@ -237,42 +237,16 @@ political_decisions = {
 		allow = {}
 		
 		effect = {
-			# No Healthcare -> Trinket Healthcare
+			# Good Healthcare -> Universal Healthcare
 			random_owned = {
 				limit = {
 					owner = {
-						health_care = no_health_care
+						health_care = good_health_care
 					}
 				}
 				
 				owner = {
-					social_reform = trinket_health_care
-				}
-			}
-			
-			# Trinket Healthcare -> Low Healthcare
-			random_owned = {
-				limit = {
-					owner = {
-						health_care = trinket_health_care
-					}
-				}
-				
-				owner = {
-					social_reform = low_health_care
-				}
-			}
-			
-			# Low Healthcare -> Acceptable Healthcare
-			random_owned = {
-				limit = {
-					owner = {
-						health_care = low_health_care
-					}
-				}
-				
-				owner = {
-					social_reform = acceptable_health_care
+					social_reform = universal_health_care
 				}
 			}
 			
@@ -289,16 +263,42 @@ political_decisions = {
 				}
 			}
 			
-			# Good Healthcare -> Universal Healthcare
+			# Low Healthcare -> Acceptable Healthcare
 			random_owned = {
 				limit = {
 					owner = {
-						health_care = good_health_care
+						health_care = low_health_care
 					}
 				}
 				
 				owner = {
-					social_reform = universal_health_care
+					social_reform = acceptable_health_care
+				}
+			}
+			
+			# Trinket Healthcare -> Low Healthcare
+			random_owned = {
+				limit = {
+					owner = {
+						health_care = trinket_health_care
+					}
+				}
+				
+				owner = {
+					social_reform = low_health_care
+				}
+			}
+			
+			# No Healthcare -> Trinket Healthcare
+			random_owned = {
+				limit = {
+					owner = {
+						health_care = no_health_care
+					}
+				}
+				
+				owner = {
+					social_reform = trinket_health_care
 				}
 			}
 		}
