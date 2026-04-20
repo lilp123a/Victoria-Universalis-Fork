@@ -2592,31 +2592,31 @@
 #Houston (16000/4000 POPS)
 132 = {
     aristocrats = {
-        culture = texan
+        culture = dixie
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = texan
+        culture = dixie
         religion = protestant
         size = 105
     }
 
     artisans = {
-        culture = texan
+        culture = dixie
         religion = protestant
         size = 120
     }
 
     soldiers = {
-        culture = texan
+        culture = dixie
         religion = protestant
         size = 1100
     }
 
     zbankers = {
-        culture = texan
+        culture = dixie
         religion = protestant
         size = 2900
     }
@@ -2630,81 +2630,51 @@
 #Austin (14000/3500 POPS)
 133 = {
     aristocrats = {
-        culture = texan
+        culture = dixie
         religion = protestant
-        size = 25
+        size = 27
     }
 
     bureaucrats = {
-        culture = texan
+        culture = dixie
         religion = protestant
         size = 225
     }
 
     officers = {
-        culture = texan
+        culture = dixie
         religion = protestant
         size = 20
     }
 
     clergymen = {
-        culture = texan
+        culture = dixie
         religion = protestant
-        size = 50
+        size = 53
     }
 
     artisans = {
-        culture = texan
+        culture = dixie
         religion = protestant
-        size = 125
+        size = 140
     }
 
     soldiers = {
-        culture = texan
+        culture = dixie
         religion = protestant
-        size = 1100
+        size = 1105
     }
 
     zbankers = {
-        culture = texan
+        culture = dixie
         religion = protestant
-        size = 2220
+        size = 2445
     }
 
     slaves = {
         culture = afro_american
         religion = protestant
         size = 500
-    }
-
-    aristocrats = {
-        culture = yankee
-        religion = protestant
-        size = 2
-    }
-
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 3
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 15
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 5
-    }
-
-    zbankers = {
-        culture = yankee
-        religion = protestant
-        size = 225
     }
 
     aristocrats = {
@@ -2740,69 +2710,39 @@
 #San Antonio (10000/2500 POPS)
 137 = {
     aristocrats = {
-        culture = texan
+        culture = dixie
         religion = protestant
-        size = 25
+        size = 27
     }
 
     clergymen = {
-        culture = texan
+        culture = dixie
         religion = protestant
-        size = 25
+        size = 28
     }
 
     artisans = {
-        culture = texan
+        culture = dixie
         religion = protestant
-        size = 100
+        size = 115
     }
 
     soldiers = {
-        culture = texan
+        culture = dixie
         religion = protestant
-        size = 1100
+        size = 1105
     }
 
     zbankers = {
-        culture = texan
+        culture = dixie
         religion = protestant
-        size = 1575
+        size = 1800
     }
 
     slaves = {
         culture = afro_american
         religion = protestant
         size = 250
-    }
-
-    aristocrats = {
-        culture = yankee
-        religion = protestant
-        size = 2
-    }
-
-    clergymen = {
-        culture = yankee
-        religion = protestant
-        size = 3
-    }
-
-    artisans = {
-        culture = yankee
-        religion = protestant
-        size = 15
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = protestant
-        size = 5
-    }
-
-    zbankers = {
-        culture = yankee
-        religion = protestant
-        size = 225
     }
 
     aristocrats = {
@@ -2838,31 +2778,31 @@
 #Laredo (6000/1500 POPS)
 138 = {
     aristocrats = {
-        culture = yankee
+        culture = dixie
         religion = protestant
         size = 10
     }
 
     clergymen = {
-        culture = yankee
+        culture = dixie
         religion = protestant
         size = 25
     }
 
     artisans = {
-        culture = yankee
+        culture = dixie
         religion = protestant
         size = 50
     }
 
     soldiers = {
-        culture = yankee
+        culture = dixie
         religion = protestant
         size = 15
     }
 
     zbankers = {
-        culture = yankee
+        culture = dixie
         religion = protestant
         size = 900
     }
@@ -2901,25 +2841,25 @@
 #Dallas (4400/1100 POPS)
 134 = {
     clergymen = {
-        culture = texan
+        culture = dixie
         religion = protestant
         size = 40
     }
 
     artisans = {
-        culture = texan
+        culture = dixie
         religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = texan
+        culture = dixie
         religion = protestant
         size = 20
     }
 
     zbankers = {
-        culture = texan
+        culture = dixie
         religion = protestant
         size = 1025
     }
@@ -2933,31 +2873,31 @@
 #Lubbock (8000/2000 POPS)
 135 = {
     aristocrats = {
-        culture = texan
+        culture = dixie
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = texan
+        culture = dixie
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = texan
+        culture = dixie
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = texan
+        culture = dixie
         religion = protestant
         size = 25
     }
 
     zbankers = {
-        culture = texan
+        culture = dixie
         religion = protestant
         size = 1800
     }
@@ -2965,31 +2905,31 @@
 #El Paso (9000/2250 POPS)
 136 = {
     aristocrats = {
-        culture = yankee
+        culture = dixie
         religion = protestant
         size = 25
     }
 
     clergymen = {
-        culture = yankee
+        culture = dixie
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = yankee
+        culture = dixie
         religion = protestant
         size = 100
     }
 
     soldiers = {
-        culture = yankee
+        culture = dixie
         religion = protestant
         size = 25
     }
 
     zbankers = {
-        culture = yankee
+        culture = dixie
         religion = protestant
         size = 1800
     }
