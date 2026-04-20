@@ -33,19 +33,6 @@ province_event = {
 		
 		add_core = JAN
 		
-		# Remove modifier
-		owner = {
-			random_owned = {
-				limit = {
-					is_core = JAN
-					
-					has_province_modifier = province_attract_immigrants
-				}
-				
-				remove_province_modifier = province_attract_immigrants
-			}
-		}
-		
 		# Add modifier
 		owner = {
 			random_owned = {
@@ -60,6 +47,19 @@ province_event = {
 					name = province_attract_immigrants
 					duration = -1
 				}
+			}
+		}
+		
+		# Remove modifier
+		owner = {
+			random_owned = {
+				limit = {
+					is_core = JAN
+					
+					has_province_modifier = province_attract_immigrants
+				}
+				
+				remove_province_modifier = province_attract_immigrants
 			}
 		}
 		
