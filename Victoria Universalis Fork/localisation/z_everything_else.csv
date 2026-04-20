@@ -6485,7 +6485,6 @@ REMOVE_EVTDESC14770;The missionaries' interference in the colony's religion is n
 EVTDESC44616;Influenced by the liberal revolutions taking place in Europe, the people of Pernambuco province have revolted against our rule.;x
 ever_victorious_army_desc;The Ever Victorious Army consisted of Chinese soldiers trained and led by an American and European officer corps.  It was the first Chinese army which was trained in European techniques, tactics, and strategy. As such, it became a model for later Chinese armies.;x
 MILITARYREFORM_1;Military Reforms in $COUNTRY$;x
-EVTDESC19200;His Majesty the King thereupon refused to receive the Ambassador again and had the latter informed by the Adjutant of the day that His Majesty had no further communication to make to the Ambassador.'\n\nA diplomatic conflict has erupted between France and Germany, following a perceived snubbing of the French ambassador, by the Prussian King, at the Monarch's vacation resort at Bad Ems, Hesse-Nassau, Prussia. Rumors claim that the dispatch might have been purposely engineered by German officials to provoke a war.;x
 gtfo_D01_title;Grant Dynamic Country 01 Independence;x
 WAREXHAUSTION_EFFECT;$DIRECTION$ $VALUE$ war exhaustion.\n;x
 gtfo_NET_title;Grant Netherlands Independence;x
@@ -7812,7 +7811,6 @@ EVTDESC19020;The flora of $PROVINCENAME$ is spectacular, unique and mostly unkno
 KHZ_parliamentary_republic;Arabistan;x
 EVTNAME19020;$PROVINCENAME$ Botanical Expedition?;x
 EVTNAME3752;Brick St. Gentlemen's Club;x
-EVTNAME19200;The Ems Dispatch;x
 EVTOPTB10320;Certainly, this is only propaganda designed to exploit the working classes.;x
 gtfo_TKS_desc;We've had a good run, but it's time to end our rulership of Turkestan: if you love something, let it go!;x
 EVTNAME3302;Pension Debate;x
@@ -10577,7 +10575,6 @@ IS_OVERSEAS;Is overseas;x
 REMOVE_EVTNAME10110;The Watch on $PROVINCENAME$;x
 WARSUBSIDIES_THEY_ACCEPT_BTN3;Go to;x
 AGRESSION_WAR_ADD_SPHERE_NAME;$ORDER$War of $SECOND$ Subjugation;x
-ems_dispatch_title;The Ems Dispatch;x
 WARSUBSIDIES_THEY_ACCEPT_BTN2;OK;x
 mild_climate;Mild Climate;x
 gtfo_TEX_desc;We've had a good run, but it's time to end our rulership of Texas: if you love something, let it go!;x
@@ -11288,7 +11285,6 @@ construct_germania_werft_title;Friedrich Krupp Germaniawerft;x
 EVTDESC44407;Defeat at the hands of the Boers have pushed our people to seek the protection of the British in Cape Colony.;x
 liberty_enlightening_the_world_title;Liberty Enlightening The World;x
 KML_anarcho_liberal;Kumul Libertarians;x
-ems_dispatch_desc;Originally sent as an internal memo of King Wilhelm I of Prussia to the Prussian Chancellor Otto von Bismarck, concerning demands made by the French Ambassador during an informal meeting between him and the Monarch at the Spa resort Bad Ems in Prussian Hesse-Nassau, the Ems dispatch was perhaps the most important triggering factor that led to France's declaration of what would later be known as the Franco-Prussian war. By sending the Ems dispatch, we will risk provoking a war with France.;x
 EVTNAME35813;Treaty of Ganghwa - Korea Signs;x
 CAR_ADJ;Central African;x
 EVT91502OPTA;Who needs a place in the sun anyways?;x
@@ -13637,7 +13633,6 @@ MLW_prussian_constitutionalism;Nyasaland;x
 gtfo_VNZ_desc;We've had a good run, but it's time to end our rulership of Venezuela: if you love something, let it go!;x
 hegemon_desc;Our hegemony will persist as long as we remain the 1st ranked great power.;x
 EVTNAME91339;End of Great War;x
-EVTOPTA19200;This reeks of foul play...;x
 EVTOPTA13290;Major reform!;x
 EVTOPTB36980;Do not interfere.;x
 CHP_liberal;Partido Liberal;x
