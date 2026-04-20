@@ -1085,25 +1085,7 @@
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 425
-    }
-
-    artisans = {
-        culture = mexican
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = mexican
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = mexican
-        religion = catholic
-        size = 8000
+        size = 625
     }
 
     soldiers = {
@@ -1118,34 +1100,46 @@
         size = 10000
     }
 
-    clergymen = {
-        culture = nahua
-        religion = catholic
-        size = 200
-    }
-
     artisans = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = nahua
+        culture = mexican
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = nahua
+        culture = mexican
         religion = catholic
-        size = 9350
+        size = 10000
+    }
+
+    artisans = {
+        culture = mexican
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = mexican
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = mexican
+        religion = catholic
+        size = 7350
     }
 }
 #Aguascalientes (152000/38000 POPS)
@@ -1249,13 +1243,13 @@
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 475
+        size = 650
     }
 
     artisans = {
         culture = mexican
         religion = catholic
-        size = 2400
+        size = 4050
     }
 
     soldiers = {
@@ -1267,25 +1261,7 @@
     zbankers = {
         culture = mexican
         religion = catholic
-        size = 48500
-    }
-
-    clergymen = {
-        culture = nahua
-        religion = catholic
-        size = 175
-    }
-
-    artisans = {
-        culture = nahua
-        religion = catholic
-        size = 1650
-    }
-
-    zbankers = {
-        culture = nahua
-        religion = catholic
-        size = 27375
+        size = 75875
     }
 }
 #Guanajuato (672000/168000 POPS)
@@ -1311,49 +1287,25 @@
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 625
+        size = 1125
     }
 
     artisans = {
         culture = mexican
         religion = catholic
-        size = 3150
+        size = 8400
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 3500
+        size = 8550
     }
 
     zbankers = {
         culture = mexican
         religion = catholic
-        size = 51750
-    }
-
-    clergymen = {
-        culture = nahua
-        religion = catholic
-        size = 500
-    }
-
-    artisans = {
-        culture = nahua
-        religion = catholic
-        size = 5250
-    }
-
-    soldiers = {
-        culture = nahua
-        religion = catholic
-        size = 5050
-    }
-
-    zbankers = {
-        culture = nahua
-        religion = catholic
-        size = 94300
+        size = 146050
     }
 }
 #Queretaro (360000/90000 POPS)
@@ -1367,13 +1319,13 @@
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 250
+        size = 500
     }
 
     artisans = {
         culture = mexican
         religion = catholic
-        size = 2500
+        size = 5000
     }
 
     soldiers = {
@@ -1385,25 +1337,7 @@
     zbankers = {
         culture = mexican
         religion = catholic
-        size = 22700
-    }
-
-    clergymen = {
-        culture = nahua
-        religion = catholic
-        size = 250
-    }
-
-    artisans = {
-        culture = nahua
-        religion = catholic
-        size = 2500
-    }
-
-    zbankers = {
-        culture = nahua
-        religion = catholic
-        size = 55650
+        size = 78350
     }
 }
 #Veracruz-Tabasco Region (328000)
@@ -1431,13 +1365,13 @@
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 500
+        size = 600
     }
 
     artisans = {
         culture = mexican
         religion = catholic
-        size = 800
+        size = 7150
     }
 
     soldiers = {
@@ -1449,25 +1383,7 @@
     zbankers = {
         culture = mexican
         religion = catholic
-        size = 1000
-    }
-
-    clergymen = {
-        culture = nahua
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = nahua
-        religion = catholic
-        size = 6350
-    }
-
-    zbankers = {
-        culture = nahua
-        religion = catholic
-        size = 14000
+        size = 15000
     }
 
     clergymen = {
@@ -1549,7 +1465,7 @@
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 75
+        size = 125
     }
 
     soldiers = {
@@ -1561,19 +1477,7 @@
     zbankers = {
         culture = mexican
         religion = catholic
-        size = 650
-    }
-
-    clergymen = {
-        culture = nahua
-        religion = catholic
-        size = 50
-    }
-
-    zbankers = {
-        culture = nahua
-        religion = catholic
-        size = 10825
+        size = 11475
     }
 }
 #Villahermosa (60000/15000 POPS)
@@ -1827,49 +1731,25 @@
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 500
+        size = 675
     }
 
     artisans = {
         culture = mexican
         religion = catholic
-        size = 2550
+        size = 4050
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 525
+        size = 900
     }
 
     zbankers = {
         culture = mexican
         religion = catholic
-        size = 45300
-    }
-
-    clergymen = {
-        culture = tarascan
-        religion = catholic
-        size = 175
-    }
-
-    artisans = {
-        culture = tarascan
-        religion = catholic
-        size = 1800
-    }
-
-    soldiers = {
-        culture = tarascan
-        religion = catholic
-        size = 375
-    }
-
-    zbankers = {
-        culture = tarascan
-        religion = catholic
-        size = 33650
+        size = 78950
     }
 }
 #Los Alaniles (112000/28000 POPS)
@@ -1883,49 +1763,25 @@
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 200
+        size = 275
     }
 
     artisans = {
         culture = mexican
         religion = catholic
-        size = 1100
+        size = 1500
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 200
+        size = 300
     }
 
     zbankers = {
         culture = mexican
         religion = catholic
-        size = 18025
-    }
-
-    clergymen = {
-        culture = tarascan
-        religion = catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = tarascan
-        religion = catholic
-        size = 400
-    }
-
-    soldiers = {
-        culture = tarascan
-        religion = catholic
-        size = 100
-    }
-
-    zbankers = {
-        culture = tarascan
-        religion = catholic
-        size = 7425
+        size = 25450
     }
 }
 #Mexico Region (720000)
@@ -1953,49 +1809,25 @@
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 775
+        size = 1025
     }
 
     artisans = {
         culture = mexican
         religion = catholic
-        size = 5000
+        size = 10000
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 4000
+        size = 4500
     }
 
     zbankers = {
         culture = mexican
         religion = catholic
-        size = 66050
-    }
-
-    clergymen = {
-        culture = nahua
-        religion = catholic
-        size = 250
-    }
-
-    artisans = {
-        culture = nahua
-        religion = catholic
-        size = 5000
-    }
-
-    soldiers = {
-        culture = nahua
-        religion = catholic
-        size = 500
-    }
-
-    zbankers = {
-        culture = nahua
-        religion = catholic
-        size = 43250
+        size = 109300
     }
 }
 #Toluca (212000/53000 POPS)
@@ -2009,61 +1841,43 @@
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 200
-    }
-
-    artisans = {
-        culture = mexican
-        religion = catholic
-        size = 10000
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 2750
-    }
-
-    zbankers = {
-        culture = mexican
-        religion = catholic
-        size = 5000
-    }
-
-    clergymen = {
-        culture = nahua
-        religion = catholic
-        size = 150
-    }
-
-    artisans = {
-        culture = nahua
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = nahua
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = nahua
-        religion = catholic
-        size = 8500
-    }
-
-    soldiers = {
-        culture = nahua
-        religion = catholic
         size = 350
     }
 
-    zbankers = {
-        culture = nahua
+    artisans = {
+        culture = mexican
         religion = catholic
-        size = 5000
+        size = 10000
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 3100
+    }
+
+    zbankers = {
+        culture = mexican
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = mexican
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = mexican
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = mexican
+        religion = catholic
+        size = 8500
     }
 }
 #Puebla-Hidalgo Region (692000)
@@ -2079,49 +1893,25 @@
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 200
+        size = 325
     }
 
     artisans = {
         culture = mexican
         religion = catholic
-        size = 950
+        size = 2350
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1000
+        size = 1300
     }
 
     zbankers = {
         culture = mexican
         religion = catholic
-        size = 15900
-    }
-
-    clergymen = {
-        culture = nahua
-        religion = catholic
-        size = 125
-    }
-
-    artisans = {
-        culture = nahua
-        religion = catholic
-        size = 1400
-    }
-
-    soldiers = {
-        culture = nahua
-        religion = catholic
-        size = 300
-    }
-
-    zbankers = {
-        culture = nahua
-        religion = catholic
-        size = 26175
+        size = 42075
     }
 }
 #Puebla (504000/126000 POPS)
@@ -2147,49 +1937,31 @@
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 900
+        size = 1275
     }
 
     artisans = {
         culture = mexican
         religion = catholic
-        size = 8500
+        size = 10000
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 7000
+        size = 7750
     }
 
     zbankers = {
         culture = mexican
         religion = catholic
-        size = 33550
-    }
-
-    clergymen = {
-        culture = nahua
-        religion = catholic
-        size = 375
+        size = 98925
     }
 
     artisans = {
-        culture = nahua
+        culture = mexican
         religion = catholic
-        size = 6500
-    }
-
-    soldiers = {
-        culture = nahua
-        religion = catholic
-        size = 750
-    }
-
-    zbankers = {
-        culture = nahua
-        religion = catholic
-        size = 65375
+        size = 5000
     }
 }
 #Oaxaca Region (452000)
@@ -2217,49 +1989,25 @@
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 475
+        size = 825
     }
 
     artisans = {
         culture = mexican
         religion = catholic
-        size = 1750
+        size = 6250
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 7000
+        size = 7700
     }
 
     zbankers = {
         culture = mexican
         religion = catholic
-        size = 15875
-    }
-
-    clergymen = {
-        culture = zapotec
-        religion = catholic
-        size = 350
-    }
-
-    artisans = {
-        culture = zapotec
-        religion = catholic
-        size = 4500
-    }
-
-    soldiers = {
-        culture = zapotec
-        religion = catholic
-        size = 700
-    }
-
-    zbankers = {
-        culture = zapotec
-        religion = catholic
-        size = 65450
+        size = 81325
     }
 }
 #Collataro (100000/25000 POPS)
@@ -2273,49 +2021,25 @@
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 150
+        size = 250
     }
 
     artisans = {
+        culture = mexican
+        religion = catholic
+        size = 1350
+    }
+
+    soldiers = {
         culture = mexican
         religion = catholic
         size = 250
     }
 
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 50
-    }
-
     zbankers = {
         culture = mexican
         religion = catholic
-        size = 4055
-    }
-
-    clergymen = {
-        culture = zapotec
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = zapotec
-        religion = catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = zapotec
-        religion = catholic
-        size = 200
-    }
-
-    zbankers = {
-        culture = zapotec
-        religion = catholic
-        size = 18700
+        size = 22755
     }
 }
 #Guerrero Region (246000)
@@ -2343,49 +2067,25 @@
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 325
+        size = 425
     }
 
     artisans = {
         culture = mexican
         religion = catholic
-        size = 1000
+        size = 2000
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 250
+        size = 475
     }
 
     zbankers = {
         culture = mexican
         religion = catholic
-        size = 24400
-    }
-
-    clergymen = {
-        culture = tarascan
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = tarascan
-        religion = catholic
-        size = 1000
-    }
-
-    soldiers = {
-        culture = tarascan
-        religion = catholic
-        size = 225
-    }
-
-    zbankers = {
-        culture = tarascan
-        religion = catholic
-        size = 19675
+        size = 44075
     }
 }
 #Chilpancingo (80000/20000 POPS)
@@ -2399,49 +2099,25 @@
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 150
+        size = 200
     }
 
     artisans = {
         culture = mexican
         religion = catholic
-        size = 450
+        size = 1000
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 100
+        size = 225
     }
 
     zbankers = {
         culture = mexican
         religion = catholic
-        size = 7850
-    }
-
-    clergymen = {
-        culture = tarascan
-        religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = tarascan
-        religion = catholic
-        size = 550
-    }
-
-    soldiers = {
-        culture = tarascan
-        religion = catholic
-        size = 125
-    }
-
-    zbankers = {
-        culture = tarascan
-        religion = catholic
-        size = 10275
+        size = 18125
     }
 }
 #Chiapas Region (124000)
