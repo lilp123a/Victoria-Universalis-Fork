@@ -1502,7 +1502,6 @@ SNG_socialist;Senegalese Progressive Union;x
 EVTOPTA37704;No, Cuba will forever be our Pearl of the Antilles;x
 EVTNAME44621;The Platine War;x
 REMOVE_no_diaspora;No Diaspora;x
-gtfo_SPC_desc;We've had a good run, but it's time to end our rulership of Spain: if you love something, let it go!;x
 FRO_anarcho_liberal;Vinnuflokkurin;x
 EVTDESC18130;A red wind seems to have taken a tour-de-force through the Upper House lately, as more and more members of parliament express their willingness to cooperate with, and support the ruling socialist party. If we do not wish to see the socialists achieving a single majority in the chamber, now is the time to act.;x
 EVTDESC4300;The mob assembled outside the national legislative assembly is frustrated and angry, and the anger is directed directly at us. Our population is up in ire over the issue of charter reform. They want the vote, and some hot-heads in the crowd are even hinting at taking it by force if they don't get it. Despite certain radicals, the movement for charter reform is still largely keeping itself within the bounds of peaceful protest. The options our government finds itself faced with are to either support the charter reform movement, or to oppose it, and the choice really shouldn't be too hard.;x
@@ -9240,7 +9239,6 @@ EVTNAME4402;Guns Cross The Border;x
 COLONY_ABORT_1;Colonization Aborted!;x
 EVTOPTB4401;Bide the time;x
 EVTOPTA4401;Reshuffle the Cabinet;x
-gtfo_SPC_title;Grant Spain Independence;x
 EVTNAME16230;Quantrill's Raiders Strike!;x
 LIFERATING_EFFECT;$DIRECTION$ $VALUE$ Life rating\n;x
 gtfo_WLL_desc;We've had a good run, but it's time to end our rulership of Wallonia: if you love something, let it go!;x
