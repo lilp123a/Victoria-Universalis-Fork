@@ -501,5 +501,59 @@ country_event = {
 			}
 			owner = { set_country_flag = mixed_economy_invented }
 		}
+		random_owned = {
+			limit = {
+				owner = {
+					battleship_column_doctrine = 1
+					NOT = { has_country_flag = battleship_column_doctrine_invented }
+				}
+			}
+			owner = { set_country_flag = battleship_column_doctrine_invented }
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					raider_group_doctrine = 1
+					NOT = { has_country_flag = raider_group_doctrine_invented }
+				}
+			}
+			owner = { set_country_flag = raider_group_doctrine_invented }
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					blue_and_brown_water_schools = 1
+					NOT = { has_country_flag = blue_and_brown_water_schools_invented }
+				}
+			}
+			owner = { set_country_flag = blue_and_brown_water_schools_invented }
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					high_sea_battle_fleet = 1
+					NOT = { has_country_flag = high_sea_battle_fleet_invented }
+				}
+			}
+			owner = { set_country_flag = high_sea_battle_fleet_invented }
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					early_modern_naval_doctrine = 1
+					NOT = { has_country_flag = early_modern_naval_doctrine_invented }
+				}
+			}
+			owner = { set_country_flag = early_modern_naval_doctrine_invented }
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					modern_naval_doctrine = 1
+					NOT = { has_country_flag = modern_naval_doctrine_invented }
+				}
+			}
+			owner = { set_country_flag = modern_naval_doctrine_invented }
+		}
 	}
 }
