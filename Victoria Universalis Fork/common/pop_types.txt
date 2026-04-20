@@ -1083,17 +1083,12 @@ emigration_chance =
 assimilation_chance = 
 {
 	factor = 1
-
+	
 	modifier = {
 		factor = -30
 		state_scope = { is_colonial = yes }
 	}
 	
-	modifier = {
-		factor = -30
-		strata = middle
-	}
-
 	###LITERACY###
 	group = {
 		modifier = {
