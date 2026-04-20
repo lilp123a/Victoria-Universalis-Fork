@@ -20,7 +20,6 @@ EVENTHAPPENUS_MAP;*;x
 uninstall_communist_gov_cb_desc;Uninstall the communist government.;x
 POP_PRODUCER_MARKET;This Producer;x
 ECONOMICREFORM_2;$MONARCHTITLE$, we have now enacted;x
-EVTOPTA18100;Stall the issue until the next election;x
 NAVALATTACKTHEM_4;An enemy fleet consisting of ships from $DEFENDER$ will be destroyed by;x
 BKF_ADJ;Voltaic;x
 NAVALATTACKTHEM_BTN3;Goto;x
@@ -7738,7 +7737,6 @@ MCD_ADJ;Macedonian;x
 EVTDESC4421;With our campaign-workers harassed, our party headquarters closed and our officials disturbed in their work at every turn of the road, it comes as surprise to me that we still garner any votes at all! These policies of open political harassment are a shame. A blot of shame on our national conscience, a disgrace to our nation and an insult to what I, had it been that democratic elections were actually being held in $COUNTRY$, would refer to as our electorate.'\n\nLeading liberal politicians in one of our states have protested in fierce language against the harassment policies of our election system. The politicians are up in ire about this, and call upon the national government to react.;x
 EVTOPTA19047;Orphans Rejoice!;x
 PROV_TRADE_VALUE;Value contributed to the centre of trade.;x
-EVTNAME18100;House Commission on Health & Hygiene;x
 civ_nation;Civilised Nation;x
 gtfo_SOK_desc;We've had a good run, but it's time to end our rulership of Sokoto: if you love something, let it go!;x
 establish_small_protectorate_casus_belli_desc;Annex an uncivilised nation with less than 150k POPs.;x
@@ -7954,8 +7952,6 @@ EVTNAME13320;Foreign School;x
 desc_protector_of_eastern_christendom;We have claimed the title of Protector of Eastern Christendom within the Ottoman Empire. Our prestige rises, but beware of losing a war: We might lose the title;x
 EVTNAME18110;Temporary House Majority;x
 CHO;Chugoku;x
-EVTOPTB18100;Force through the reform;x
-EVTDESC18100;...it seems to me, therefore, a defect in our much lauded system that the lowliest workers can not even afford for themselves and their next of kin the bare minimums of sanitary living. The grimy, soot-ridden hovels, huddling under the shadows of the soot-stacks springing up like mushrooms after a rain storm, are damp and dark breeding grounds for cholera, tuberculosis and immorality. A limited health reform, dear colleagues, would go far in amending these problems.'\n\nThe Upper House is in turmoil over it's apparent inability to pass social reform, despite mounting public demands.;x
 EVTDESC19046;...opening the inner granite lid leading into the tomb, I was met by a breath of air that had been left undisturbed for some three thousand years. To the best of my knowledge, I was the first to disturb the Pharaoh's sleep since he was laid to rest all those thousand years ago. There, standing in the ancient air of the crypt, I felt the smells of wheat growing on the Nile, perfume in alabaster vases, and a hint of dying papyrus.'\n\nThe most marvellous discovery of the century has been made by $COUNTRY_ADJ$ archeologists working in The Valley of The Kings: The previously undiscovered tomb of the 19 year old Pharaoh, Tutankhamun.;x
 small_nation_large_colonies;Colonial Administration;x
 ALLYTAKEOVERWE_SETUP;When we take over leadership in a war;x

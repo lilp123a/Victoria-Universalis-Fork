@@ -496,36 +496,6 @@ country_event = {
 			}	
 			owner = { social_reform = child_labor_illegal }
 		}
-		random_owned = {
-			limit = {
-				owner = { health_care = good_health_care }
-			}	
-			owner = { social_reform = universal_health_care }
-		}
-		random_owned = {
-			limit = {
-				owner = { health_care = acceptable_health_care } 
-			}	
-			owner = { social_reform = good_health_care }
-		}
-		random_owned = {
-			limit = {
-				owner = { health_care = low_health_care }
-			}	
-			owner = { social_reform = acceptable_health_care }
-		}
-		random_owned = {
-			limit = {
-				owner = { health_care = trinket_health_care }
-			}	
-			owner = { social_reform = low_health_care }
-		}
-		random_owned = {
-			limit = {
-				owner = { health_care = no_health_care }
-			}	
-			owner = { social_reform = trinket_health_care }
-		}
 	}
 
 	option = {
