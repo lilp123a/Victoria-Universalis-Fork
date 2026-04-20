@@ -98,45 +98,44 @@ political_decisions = {
 
 	create_yugoslavia = {
 		picture = yugoslavia
+		alert = yes
+		
 		potential = {
-			is_culture_group  = south_slavic
-			NOT = { has_country_flag = yugoslavia_formed }
+			is_culture_group = south_slavic
+			
 			YUG = { exists = no }
 		}
+		
 		allow = {
-			AUS_768 = {
-				owned_by = THIS
-			}
-			AUS_771 = {
-				owned_by = THIS
-			}
-			AUS_777 = {
-				owned_by = THIS
-			}
-			AUS_780 = {
-				owned_by = THIS
-			}
-			TUR_788 = {
-				owned_by = THIS
-			}
-			MON_2582 = {
-				owned_by = THIS
-			}
-			SER_794 = {
-				owned_by = THIS
-			}
-			TUR_803 = {
-				owned_by = THIS
-			}
-			TUR_806 = {
-				owned_by = THIS
+			nationalism_n_imperialism = 1
+			
+			YUG = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+						
+						# Istria not required
+						province_id = 736
+						province_id = 737
+						province_id = 769
+						province_id = 770
+						province_id = 778
+					}
+				}
 			}
 		}
+		
 		effect = {
-			set_country_flag = yugoslavia_formed
 			change_tag = YUG
-			add_accepted_culture = union
 			prestige = 50
+			
+			add_accepted_culture = serb
+			add_accepted_culture = croat
+			add_accepted_culture = slovene
+			add_accepted_culture = bosniak
 		}
 	}
 
