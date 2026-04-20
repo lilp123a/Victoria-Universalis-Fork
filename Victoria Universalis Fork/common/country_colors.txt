@@ -475,13 +475,6 @@ ITA = {
     color3= { 80 79 88  }
 }
 
-# Manhattan Commune
-MAN = {
-    color1= { 191 83 101  }
-    color2= { 126 203 120  }
-    color3= { 99 137 153  }
-}
-
 # Modena
 MOD = {
     color1= { 241 252 151  }

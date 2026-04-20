@@ -1403,13 +1403,6 @@ MAK_fascist;The Fascist Faction;x
 MAK_liberal;The Liberal Faction;x
 MAK_reactionary;The Nationalist Faction;x
 MAK_socialist;The Socialist Faction;x
-MAN_anarcho_liberal;Radical;x
-MAN_communist;Communist;x
-MAN_conservative;Reunionist;x
-MAN_fascist;Fascist;x
-MAN_liberal;Tammany Hall;x
-MAN_reactionary;Nationalist;x
-MAN_socialist;Independent Communist;x
 MAS_anarcho_liberal;Radical Faction;x
 MAS_communist;Communist Faction;x
 MAS_conservative;Royal Faction;x
