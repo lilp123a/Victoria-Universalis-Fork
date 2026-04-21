@@ -881,7 +881,6 @@ TICKING_WARSCORE_HEAD;§YScore over time§! bonus §Y$VAL$§!:;x
 early_factory_boost;Early Game Factory Boost;x
 EVTNAME10110;The Watch on $CAPITAL$;x
 EVTOPTA2130;Pasta!;x
-EVTNAME23302;Professor Arronax Washes Ashore!;x
 EVTOPTA18200;Push for laissez faire;x
 BANEMBASSY_OTHER_ACCEPT_3;managed to ban the ambassadors of §Y$TARGET$§W;x
 BRM_ADJ;Baguirmi;x
@@ -2304,7 +2303,6 @@ ALLIANCE_INVALID_GPS_IN_CRISIS;The Alliance between §Ytwo Great Powers§! can't b
 SOIS_HAS_REBELS_WARNING;Rebels have risen against our Sphere members: §Y$LIST$§!;x
 gtfo_YZW_title;Grant Yonezawa Independence;x
 unite_moldavia_wallachia_desc;The nations of Moldavia and Wallachia have come together to form Romania!;x
-EVTOPTA23302;Nemo me impune lacessit!;x
 REMOVE_EVTOPTA11100;Hurrah!;x
 EVTOPTA91316;OK.;x
 col_liferate_techs;Researching the following will help deal with the local life rating:;x
@@ -4323,7 +4321,6 @@ REB_TYPE_POWER;§YRebel Power§W;x
 NAVALATTACKUS_1;Our Navy is under attack!;x
 EVTDESC2581;All colonies will be transferred to the victor and any nations with claims on our lands will take them.;x
 REMOVE_NAVALATTACKUS_HEADER;$chief_of_navy$ reports;x
-EVTOPTB23300;This sounds like something out of a children's book, and I will have none of it.;x
 NAVALATTACKUS_SETUP;When one of our navies is attacked by the enemy;x
 NAVALATTACKTHEM_BTN2;OK;x
 ADD_WARGOAL_FAILURE;If we fail to achieve this war goal, we will gain:;x
@@ -4380,7 +4377,6 @@ EVTNAME91314;Upper House Reconciled;x
 EVTOPTA33802;Ahoy!;x
 EVTNAME23407;Attend The Second Olympic Games?;x
 EVTOPTA17000;There will be no suffrage at this junction;x
-EVTOPTA23301;This nefarious threat to the peace on the high seas must end!;x
 CRISIS_BACK_DOWN_THEY_ACCEPT_LOG;$RECIPIENT$ accepted our peace offer.;x
 gtfo_CGO_desc;We've had a good run, but it's time to end our rulership of Congo: if you love something, let it go!;x
 ATTACKTHEM_6;*;x
@@ -4776,7 +4772,6 @@ TRADENEWDESC;We offer §Y$COUNTRY$§W to trade $SELL$ per day for $BUY$ per day.;x
 desc_foreign_trading_post;A separate class of our citizens, kept apart from the general populace, administer a trading post for foreigners in this province.;x
 EVTOPTA12230;We have none to spare;x
 EVTNAME18130;Red Winds;x
-EVTDESC23301;THE YEAR $YEAR$ was marked by a bizarre development [...] In essence, over a period of time several ships had encountered 'an enormous thing' at sea, a long spindle-shaped object, sometimes giving off a phosphorescent glow, infinitely bigger and faster than any whale.'\n\nSeveral ships of the Merchant marine have been lost at sea over the past year to a strange phenomenon, believed by many to be a large and as of yet undiscovered species of whale. Rumor has it that several countries are already investigating this phenomenon, but perhaps we should send an expedition of our own?;x
 EVTDESC44466;§R$FROMCOUNTRY$§b has agreed to come under our protection.;x
 EVTNAME4417;Moralists Support The War Effort;x
 gtfo_D26_title;Grant Dynamic Country 26 Independence;x
@@ -8849,7 +8844,6 @@ TRIGGER_CB_PROGRESS_ATLEAST;War justification progress below: §Y$PERCENTAGE$§W;x
 EVTOPTB12030;Suggest they work overtime;x
 EVTOPTA12030;Cover their losses;x
 POLITICS_CIVILIZE;Westernise;x
-EVTNAME23300;Mysterious Whale Sinks Ship!;x
 EVTNAME12030;Production Shortfalls;x
 strait_crossing;§GStrait Crossing Tile\n§WDuring wartime, nations that are hostile to the controller of this province will not be able to pass through it's adjacent strait unless they occupy this province.;x
 dismantle_cb_setup;Take all colonies from a Great Power and force them to release all non-core territory.;x
@@ -11710,14 +11704,10 @@ gtfo_BIM_desc;We've had a good run, but it's time to end our rulership of Bima: 
 unite_moldavia_wallachia_title;Union of Moldavia and Wallachia!;x
 POP_DETAILS_UNEMPLOYED;Unemployed:;x
 tewodros_reforms_desc;While our current ruler Kassa Hailu might be one of the finest strategists in recent history, he was also a shifta, an outlaw, and this lowers our nation in the eyes of others.;x
-EVTDESC23302;The renowned French marine biologist Pierre Arronax was found washed up on the shores of $COUNTRY$ today. The professor has been gone for quite some time since joining an expedition sent out to discover the truth behind a mysterious whale said to sink and devour ships on the high seas. The professor is shocked by the profound experience he has had, and his story is indeed remarkable. Arronax claims that he was washed overboard during a close encounter between his ship and the creature, and that the creature is in fact a human ship, capable of under water travel. Arronax maintains that the ship is, or was, commanded by a freedom-loving vigilante who has sworn off all contact with terra firma in favor of a free life on the world's oceans aboard his ship. Whatever the truth, Professor Arronax's many detailed accounts of many strange new life forms -- supposedly encountered during his voyage as a guest aboard this strange vessel -- will be a boon for our scientific efforts for years to come.;x
-EVTOPTB23301;This sounds like something out of a children's book, and I will have none of it.;x
 acquire_all_cores_setup;Acquires all core territory;x
 TRIGMOD_BTN3;Details;x
 gtfo_ABU_desc;We've had a good run, but it's time to end our rulership of ABU: if you love something, let it go!;x
 TTB;Trinidad;x
-EVTOPTA23300;This nefarious threat to the peace on the high seas must end!;x
-EVTDESC23300;THE YEAR $YEAR$ was marked by a bizarre development [...] In essence, over a period of time several ships had encountered 'an enormous thing' at sea, a long spindle-shaped object, sometimes giving off a phosphorescent glow, infinitely bigger and faster than any whale.'\n\nSeveral ships of the merchant marine have been lost at sea over the past year to a strange phenomenon, believed by many to be a large and as of yet undiscovered species of whale. The renowned French professor of Marine Biology, the legendary Pierre Arronax, has offered to join a scientific expedition to investigate this strange beast that has taken to haunting the oceans of the world, and rumor has it that several countries are planning expeditions of their own to get to the bottom of this mystery.;x
 RHI_ADJ;Rhinelander;x
 EVTNAMEgiveartillery;$FROMCOUNTRY$ Requests Artillery;x
 PHI_ADJ;Philippine;x
@@ -14447,7 +14437,6 @@ GMJ_reactionary;Beiyang Faction;x
 EVTDESC44820;We have finally fulfilled our destiny as masters of North America.;x
 RECRUITED_PERCENTAGE_MORE_THAN;At least §Y$VAL$§W% of possible soldiers recruited.\n;x
 SUPPLY_OWNER;Owner:;x
-EVTNAME23301;Mysterious Whale Sinks Ship!;x
 turkish_population_exchange_desc;Greeks are being transferred from our country to Greece and Turks from all over the Balkans are coming to Turkey.;x
 SNZ_reactionary;Nationalist Party;x
 gtfo_NIG_title;Grant Niger Independence;x
