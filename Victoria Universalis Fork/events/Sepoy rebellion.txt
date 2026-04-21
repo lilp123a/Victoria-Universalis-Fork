@@ -812,19 +812,13 @@ country_event = {
 }
 
 country_event = {
-
 	id = 90040 # Sepoy Rebellion
-
+	
 	title = "EVTNAME90040"
 	desc = "EVTDESC90040"
-	news = yes
-	news_desc_long = "EVTDESC90040_NEWS_LONG"
-	news_desc_medium = "EVTDESC90040_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC90040_NEWS_SHORT"
 	picture = sepoy_rebellion
-	
 	major = yes
-
+	
 	trigger = {
 		NOT = { has_country_flag = sepoy_rebellion }
 		tag = EIC

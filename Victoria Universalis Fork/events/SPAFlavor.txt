@@ -2,13 +2,8 @@
 # Audax Validator "!" Ignore_1009
 
 country_event = {
-
 	id = 37700
-	news = yes
-	news_desc_long = "EVTDESC37700_NEWS_LONG"
-	news_desc_medium = "EVTDESC37700_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC37700_NEWS_SHORT"
-
+	
 	trigger = {
 		tag = SPA
 		year = 1837
@@ -119,13 +114,8 @@ country_event = {
 }
 
 country_event = {
-
 	id = 37701
-	news = yes
-	news_desc_long = "EVTDESC37701_NEWS_LONG"
-	news_desc_medium = "EVTDESC37701_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC37701_NEWS_SHORT"
-
+	
 	trigger = {
 		tag = SPA
 		year = 1851
@@ -235,10 +225,9 @@ country_event = {
     title = "EVTNAME37703" #The Carlist War
     desc = "EVTDESC37703"
     picture = "carlists"
-    news = yes
-
+    
     is_triggered_only = yes
-
+    
     option = {
         name = "EVTOPTA37703"
         ai_chance = {
@@ -285,13 +274,8 @@ country_event = {
 }
 
 country_event = {
-
 	id = 37706
-	news = yes
-	news_desc_long = "EVTDESC37706_NEWS_LONG"
-	news_desc_medium = "EVTDESC37706_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC37706_NEWS_SHORT"
-
+	
 	trigger = {
 		tag = SPA
 		year = 1907

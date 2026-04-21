@@ -4,10 +4,6 @@ country_event = {
 	id = 13355
 	title = "EVTNAME13355"
 	desc = "EVTDESC13355"
-	news = yes
-	news_desc_long = "EVTDESC13355_NEWS_LONG"
-	news_desc_medium = "EVTDESC13355_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC13355_NEWS_SHORT"
 	major = yes
 	picture = "cityfire"
 
@@ -25,10 +21,6 @@ country_event = {
 	id = 13356
 	title = "EVTNAME13356"
 	desc = "EVTDESC13356"
-	news = yes
-	news_desc_long = "EVTDESC13356_NEWS_LONG"
-	news_desc_medium = "EVTDESC13356_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC13356_NEWS_SHORT"
 	picture = "Rebellion"
 
 	is_triggered_only = yes
@@ -72,10 +64,6 @@ country_event = {
 	id = 13358
 	title = "EVTNAME13358"
 	desc = "EVTDESC13358"
-	news = yes
-	news_desc_long = "EVTDESC13358_NEWS_LONG"
-	news_desc_medium = "EVTDESC13358_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC13358_NEWS_SHORT"
 
 	picture = "Rebellion"
 
@@ -107,10 +95,6 @@ country_event = {
 country_event = {
 	title = "westernize_nation_title"
 	desc = "westernize_nation_desc"
-	news = yes
-	news_desc_long = "westernize_nation_desc_NEWS_LONG"
-	news_desc_medium = "westernize_nation_desc_NEWS_MEDIUM"
-	news_desc_short = "westernize_nation_desc_NEWS_SHORT"
 	picture = "Prosper"
 
 	id = 90910
