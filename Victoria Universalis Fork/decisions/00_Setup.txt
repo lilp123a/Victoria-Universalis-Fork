@@ -1,7 +1,7 @@
-# *######################################*
-# *###### CAMPAIGN SETUP DECISIONS ######*
-# *######################################*
-# These decisions are force-taken by JAN in their history file
+# *#####################################*
+# *###### CAMPAIGN SETUP DECISION ######*
+# *#####################################*
+# This decision is taken by the World Bank at the start of the campaign, firing an event to set everything up
 
 political_decisions = {
 	campaign_setup = {
@@ -16,7 +16,6 @@ political_decisions = {
 		effect = {
 			set_global_flag = campaign_setup_done
 			
-			# Fire the setup event to take care of everything
 			country_event = {
 				id = 92200
 				days = 0
