@@ -442,39 +442,6 @@ witwatersrand_gold_rush = {
 	icon = 11
 }
 
-##### RGO Spread Events #####
-local_tractors = {
-	farm_RGO_eff = 0.5
-	icon = 13
-}
-
-local_electricity = {
-	mine_RGO_eff = 0.5
-	local_factory_throughput = 0.05
-	icon = 13
-}
-
-local_nitroglycerin = {
-	mine_RGO_eff = 0.5
-	icon = 13
-}
-
-local_distribution_channels = {
-	farm_RGO_eff = 0.5
-	icon = 11
-}
-
-local_machine_tools = {
-	mine_RGO_eff = 0.5
-	local_factory_throughput = 0.05
-	icon = 13
-}
-
-artificial_nitrogen_fixation = {
-	farm_RGO_eff = 0.5
-	icon = 9
-}
-
 end_goldrush = {
 	icon = 12
 }
@@ -875,6 +842,10 @@ world_bank_timer = {
 
 monthly_pulse_cooldown = {}
 
+yearly_pulse_cooldown = {}
+
+decade_pulse_cooldown = {}
+
 recently_requested_trade = {
 	icon = 9
 }
@@ -913,71 +884,6 @@ settlement = {
 }
 
 colonial_nerf_counter = {
-	icon = 14
-}
-
-colonial_railroad_nerf1 = {
-	local_RGO_throughput = -0.08
-	icon = 14
-}
-
-colonial_railroad_nerf2 = {
-	local_RGO_throughput = -0.16
-	icon = 14
-}
-
-colonial_railroad_nerf3 = {
-	local_RGO_throughput = -0.24
-	icon = 14
-}
-
-colonial_railroad_nerf4 = {
-	local_RGO_throughput = -0.32
-	icon = 14
-}
-
-colonial_railroad_nerf5 = {
-	local_RGO_throughput = -0.4
-	icon = 14
-}
-
-colonial_railroad_nerf6 = {
-	local_RGO_throughput = -0.48
-	icon = 14
-}
-
-colonial_railroad_nerf7 = {
-	local_RGO_throughput = -0.56
-	icon = 14
-}
-
-colonial_farm_nerf1 = {
-	farm_rgo_eff = -0.2
-	icon = 14
-}
-
-colonial_farm_nerf2 = {
-	farm_rgo_eff = -0.4
-	icon = 14
-}
-
-colonial_farm_nerf3 = {
-	farm_rgo_eff = -0.6
-	icon = 14
-}
-
-colonial_mine_nerf1 = {
-	mine_rgo_eff = -0.2
-	icon = 14
-}
-
-colonial_mine_nerf2 = {
-	mine_rgo_eff = -0.4
-	icon = 14
-}
-
-colonial_mine_nerf3 = {
-	mine_rgo_eff = -0.6
 	icon = 14
 }
 
@@ -1456,13 +1362,6 @@ cultuurstelsel = {
 
 liberal_period = {
 	icon = 7
-}
-
-### AST - AUSTRALIA ###
-outback = {
-	farm_rgo_size = -0.75
-	mine_rgo_size = -0.75
-	icon = 14
 }
 
 ### MEX - MEXICO ###

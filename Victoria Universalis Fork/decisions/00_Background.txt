@@ -334,6 +334,81 @@ political_decisions = {
 		}
 	}
 	
+	####################
+	### YEARLY PULSE ###
+	####################
+	# Fired once per year
+	
+	yearly_pulse = {
+		potential = {
+			tag = JAN
+			
+			NOT = { has_country_flag = yearly_pulse_cooldown }
+		}
+		
+		allow = {}
+		
+		effect = {
+			add_country_modifier = {
+				name = yearly_pulse_cooldown
+				duration = 365
+			}
+			
+			
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	####################
+	### DECADE PULSE ###
+	####################
+	
+	decade_pulse = {
+		potential = {
+			tag = JAN
+			
+			NOT = { has_country_flag = decade_pulse_cooldown }
+			year = 1837
+		}
+		
+		allow = {}
+		
+		effect = {
+			add_country_modifier = {
+				name = decade_pulse_cooldown
+				duration = 3650
+			}
+			
+			##########################
+			### FARMLAND EXPANSION ###
+			##########################
+			
+			any_country = {
+				limit = {
+					ai = yes
+				}
+				
+				any_owned = {
+					limit = {
+						unemployment_by_type = {
+							type = farmers
+							value = 0.01
+						}
+					}
+					
+					farmland = 1
+				}
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
 	####################################
 	### FIRE PROVINCE SELECTOR EVENT ###
 	####################################

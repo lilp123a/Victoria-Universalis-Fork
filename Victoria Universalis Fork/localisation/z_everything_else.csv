@@ -2,7 +2,6 @@ EVTOPTA91302;Great!;x
 CRS_anarcho_liberal;Fazzione Anarchistu;x
 EVTOPTA31100;Fascinating!;x
 RYU_liberal;Liberal Party;x
-colonial_railroad_nerf4;Colonial Railroad Nerf;x
 POP_IMPACT_UNITVIEW;Due to losses in the reserves, this unit reinforces at §Y$VAL$%§W speed.;x
 EVTNAME4410;God is Dead;x
 CRISIS_OFFER_WE_ACCEPT_2;We have joined $ACTOR$ in the current crisis with the following offer:;x
@@ -472,7 +471,6 @@ EVTDESC19030;With the Ottoman Empire fading as a Great Power, people have instea
 gtfo_MGL_desc;We've had a good run, but it's time to end our rulership of MGL: if you love something, let it go!;x
 EVTNAME14010_sub;Economic policy debated in $COUNTRY$;x
 EVTNAME15120;The $PROVINCECULTURE$ Congress;x
-colonial_mine_nerf3;Colonial Tech Nerf;x
 zprovince_rgo_change_agriculture_title;§GChange Agricultural RGO;x
 UZB_socialist;The Socialist Faction;x
 kiel_canal_construction;Kiel Canal Under Construction;x
@@ -714,7 +712,6 @@ EVTDESC3754;A group of known radicals have been assembling at a central townhous
 rhine_crisis_desc;Following the statesments made by the French Prime Minister Adolphe Thiers, a diplomatic crisis has occurred;x
 EVTNAME19030;The Eastern Question;x
 telephone_switchboard_desc;The telephone switchboard is a system of electrical components used to connect telephone calls. The first telephone switchboard was invented by Hungarian Tivadar Puskás in 1877 while working for Thomas Edison. Primitive Telephone exchanges were in place for commercial applications by 1881 in the eastern US and western Europe. Telephone exchanges consisted of hundreds of 'plug boards' where a staff of operators manually 'plugged in' calls to route them. Almon Brown Strowger patented the first stepping switch in 1891, which led to automated telephone switching.;x
-desc_local_distribution_channels;New and efficient modes and structures for the selling and reselling of goods have been implemented in this province, leaving farmers free to tend their fields.;x
 MONTHS;Months;x
 annex_krakow_title;End the Free City of Kraków;x
 small_but_efficient_desc;Our country might be small, but that just means we can run it better.;x
@@ -3552,7 +3549,6 @@ EVTOPTB14530;Very concerning... but oh, my, it's almost teatime. Cricket later, 
 declare_republic_of_neuchatel_desc;In 1707 Neuchâtel became a possession of Frederick the Great of Prussia by virtue of his maternal ties to the House of Orange-Nassau, and the principality thus effectively entered a personal union with the Kingdom of Prussia and the Hohenzollern family. During the Napoleonic wars, Prussia ceded Neuchâtel after the country's defeat at the hands of Napoleon. After the Napoleonic wars, Neuchâtel was joined with Switzerland as the 21st canton thereof, at the suggestion of Frederick William III of Prussia, while at the same time also remaining a Prussian principality pro forma. In 1848, the province shook off its monarchical past, and was declared a republic within the Swiss Confederation. The Prussian claims were equitably relinquished in 1857.;x
 EVTDESC21030;The 'Spanish' Flu was an influenza pandemic that killed somewhere between 50-100 million people worldwide between the years 1918 to 1920. Due to increased trade, colonial contacts, commerce and other myriads of global connections that had all increasingly made the world a smaller place throughout the 19th century, the Spanish flu was able to spread quickly across the world in a mere few years. Further aggravated by the on-going first world war, and the cramped living conditions in the trenches, the Spanish flu is one of the first and most terrifying examples of a truly global pandemic. And... come to think of it... haven't you been feeling a bit feverish, lately?;x
 WE_MOBILIZE_4;*;x
-EVTDESC29903;Mother! Mother! They've opened a new store in town!'\n\nThe nineteenth century saw the development of vastly improved channels for the distribution of goods to broader groups of customers. The opening of new, specialized and industrialized retailers was essential in bringing new industrial goods, produced in factories, to consumers. The new store in $COUNTRY$ will increase the efficiency of the local farms, as farmers have to spend less time in travel to and from markets.;x
 gtfo_KRN_desc;We've had a good run, but it's time to end our rulership of Karnatak: if you love something, let it go!;x
 gtfo_JOD_title;Grant Jodhpur Independence;x
 telephone_switchboard;Telephone Switchboard;x
@@ -4837,7 +4833,6 @@ BUILDING_ANOTHER;Another building construction is in progress;x
 SIEGEUSREBEL_4;is beginning to be occupied. Fear not! The forces of;x
 EVTDESC10240;One minute he's walking and talking normally, and the next he clutches his stomach, dashing in the general direction of the outhouse. There's really only one explanation.;x
 HDU;Hindustan;x
-colonial_mine_nerf2;Colonial Tech Nerf;x
 establish_protectorate_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;x
 EVTDESC90046;The British have requested that Baluchistan come under the organization of a new British Indian Agency. What do we say to them?;x
 LIV_liberal_2;Blodnieka Partija;x
@@ -5402,7 +5397,6 @@ PW_GROWTH;Growth;x
 REMOVE_EVTNAME14760;Rebelling Slaves;x
 EVTDESC160002;The war to decide the fate of China has begun.;x
 SMI_communist;Communist Party;x
-colonial_railroad_nerf6;Colonial Railroad Nerf;x
 M_HOME_BUTTON;Goto Capital Province;x
 DIPCHANCE_LIKELY;Likely;x
 EVTNAME14740;Model Colony;x
@@ -5476,7 +5470,6 @@ gtfo_XIN_desc;We've had a good run, but it's time to end our rulership of Xinjia
 pandemic_influenza_immunity;Influenza Free;x
 gtfo_BUK_title;Grant Bukkhara Independence;x
 gtfo_TOU_desc;We've had a good run, but it's time to end our rulership of Toucouleur Empire: if you love something, let it go!;x
-desc_local_nitroglycerin_and_machine_tools;The mining process in this province is carried out with new and mechanized tools as well as new explosives, increasing the efficiency of local mining operations and the size of mines.;x
 EVTNAME44664;Freedom!;x
 GLOBAL_TRADE_INCOME_MODIFIER;National Trade Income Modifier;x
 EVTOPTB44806;We fight for the independence of Yucatán.;x
@@ -5738,7 +5731,6 @@ BAR;Barbados;x
 CAR;Central African Republic;x
 UW_SELECT_AIR;Select all CAG's attached to this fleet.;x
 LBG;Limburg;x
-EVTNAME29902;Exploding $COUNTRY$;x
 explore_the_outback_title;Explore the Outback;x
 NQL_liberal_1;Liberal Party;x
 EVTDESC12230;A local radio station in $PROVINCENAME$ is facing a shortage of radio components for their transmitters, and have been forced to cease brodcasts until the situation is resolved. Local authorities have suggested lending some of the government's radio components to the station, as it fears that the local populace will be alarmed by a lack of news from the front.;x
@@ -5885,7 +5877,6 @@ PAN_prussian_constitutionalism;Sikh Empire;x
 TRADENO_PORTS;You cannot initiate overseas trading without both partners having a port to ship it through.;x
 PEACETO;to §Y$REC$§W;x
 PEACENEWPROVTHEM;§Y$NATION$§W will cede §G;x
-colonial_railroad_nerf1;Colonial Railroad Nerf;x
 EVTOPTA3101;This scandalous slander ends!;x
 EVTNAME90035;The Rise of India;x
 badboy4;40 Infamy Penalty;x
@@ -6366,7 +6357,6 @@ railroad_build_desc;Capitalists §Y$VAL$§W% more likely to build railroads.;x
 CRS_liberal;Fazzione Liberale;x
 EVTOPTA18500;Restore the calm;x
 suez_canal_construction;Suez Canal Under Construction;x
-desc_local_tractors;Mechanized farming has arrived in this province in the form of tractors, increasing the efficiency, and reducing the labour intensity, of local farming.;x
 armaments_focus;Encourage Armaments Industry ;x
 basic_industry_focus;Encourage Basic Industry ;x
 indian_nationalists_name;Indian Nationalists;x
@@ -6500,7 +6490,6 @@ desc_small_immigration_boom;Due to favorable socio-economical conditions, this p
 REMOVE_massive_naturalization;Massive Naturalizations;x
 ALT_reactionary;The Khanate Faction;x
 EVTOPTA46600;His Ideas Have Merit;x
-local_nitroglycerin_and_machine_tools;Mechanized Mining;x
 EVTNAME46600;Juan Bautista Alberdi;x
 establish_small_protectorate_casus_belli_short;Establish Small Protectorate;x
 SLS_liberal;Liberaldem. Partei;x
@@ -6718,7 +6707,6 @@ EVTOPTA36907;A scandal!;x
 EVTNAME36907;Vanity Fair;x
 COUNT_10; ;x
 gtfo_DES_desc;We've had a good run, but it's time to end our rulership of Deseret: if you love something, let it go!;x
-colonial_railroad_nerf5;Colonial Railroad Nerf;x
 EVTNAME90004;Protecting the $CB_TARGET_NAME_ADJ$;x
 acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;x
 EVTDESC44114;In a thirty-second gun fight in Tombstone, Arizona, Wyatt, Morgan and Virgil Earp along with Doc Holliday, killed Billy Clanton and Tom and Bob McLaury - three members of their political rivals, the Cowboys.;x
@@ -7982,7 +7970,6 @@ CIVILIZED_EFFECT;Become a §YCivilised Nation§W\n;x
 EVTDESC36212;The Castle of Christiansborg, rebuilt after a fire in 1794, caught fire once again in 1884. The main part burned to the ground, and was not rebuilt before 1907 because of the political climate.;x
 EVTNAME16220;$STATENAME$ Emigrant Aid Co.;x
 CB_TOWARDS_US_DETECTED_MAP;*;x
-EVTDESC29904;Mother! Mother! Father says that they've got new tools in the mine!'\n\nWith the invention of machine tools, mines are slowly being fitted with new and efficient tools to aid the excavation of the slumbering riches below the surface. Mine efficiency and size has been increased in $COUNTRY$ on account of this.;x
 EVTOPTA17010;Use the secret police to contain these dangerous revolutionaries;x
 EVTDESC91502;Now that $COUNTRY$ is no longer a colonial power, it is time to reform the bureaucracy centered on the $COUNTRY_ADJ$ homeland.;x
 EVTDESC35710;The Sultan has died without heir and his realm is being divided amongst his sons. The third son of the late Sultan, Thuwaini bin Said, has established his rule over Oman. The sixth son, Majid bin Said, has declared a new independent Zanzibar Sultanate.;x
@@ -8116,14 +8103,12 @@ EVTNAME1001;The Communism Agenda;x
 EVTDESC16030;Clad in her white dress, strolling down the streets of $PROVINCENAME$, her radiance, nobility, and simple beauty turns heads. Speaking, her gentleness, kindness, hospitality and accent -- all draped in the flavors of magnolias, soft cotton and southern verandahs -- do the same. Virtue, honor, and dignity in manifest form, such are the women of the South. A toast, to Dixie!;x
 INCREASERELATION_DI;Increase Relation;x
 SIEGETHEM_2;$MONARCHTITLE$, we have started to occupy;x
-EVTOPTA29905;Huzzah!;x
 EVTDESC16020;Dred Scott, having been a slave, remains a slave' -- Dred Scott v. Sandford\n\nDred Scott, born a slave in Virginia, has, with the help of abolitionist legal advisers, sued his 'owner', claiming that his present residency in a free state requires his emancipation. The United States Supreme Court has ruled that this is, in fact, not the case, and, effectively, that the property rights of slave-owners are protected regardless of where in the Union the slave resides. The case has caused enormous alarm among northern abolitionists, who see it as the first step to a full extension of the institution of slavery to the whole Union.;x
 EVTDESC2110;The newly arrived immigrants in $PROVINCENAME$ have brought with them the collected experiences of their home country, and their songs now blend with ours in the ever-changing symphony that is $COUNTRY$. Their customs have enriched our own, and created interesting new blends of cultural expression in the fields of art, science and architecture.;x
 gentry_desc;The gentry of the country has the most sayings in the state's bureaucracy. Bureaucracy is extremely small or severely limited.;x
 no_pre_indust;Stick to the Old Ways;x
 WAR_LEADER;§YWar leader§W;x
 gtfo_BHO_desc;We've had a good run, but it's time to end our rulership of Bhopal: if you love something, let it go!;x
-EVTOPTA29900;Truly, 'tis.;x
 pan_french_nationalism;Pan-French-Nationalism;x
 PGG_reactionary;Jahriyya Menhuan;x
 allied_great_war_demands_short;Dismantle Central Powers;x
@@ -8140,7 +8125,6 @@ EVTDESC15300;Originally founded in 1862 as a Czech gymnastics movement in Prague
 ASKMILITARYACCESS_WE_DECLINE_3;§Y$ACTOR$§W;x
 RHI_anarcho_liberal;Radical Arbeiterpartei;x
 EVTNAME15300;Sokol Movement;x
-colonial_farm_nerf3;Colonial Tech Nerf;x
 EVTNAME13065;The Governor Sends a Letter;x
 EVTOPTB15290;Verb forms, sweetie. They are the keys to success.;x
 EVTOPTA15290;Reform the curricula;x
@@ -8338,7 +8322,6 @@ EVTNAME4421;Liberals Protest Harassment;x
 yes_pre_indust_desc;Construct some basic water wheel based mills.;x
 gentry;Gentry;x
 REMOVE_EVTOPTA14770;Okay;x
-colonial_farm_nerf2;Colonial Tech Nerf;x
 ECONOMICREFORM_HEADER;Political News in $COUNTRY$;x
 embrace_estonians_desc;Estonians have always had close cultural and historical ties with us, and now that they are once again part of our nation it is time we embraced them as our Nordic bretheren.;x
 promote_clergymen;Encourage Intellectuals;x
@@ -8629,7 +8612,6 @@ aden_settlement_desc;Aden had been an entrepôt and a way-station for seamen in t
 EVTDESC18520;As the soldiers depart from lodgings and barracks to go off, as young men are want to do, to fight and bleed in the great war, their closed marching columns are saluted on their ways by women and children of all ages, standing along roadsides and on railway stations, sending them off with kisses and smiles, and decorating their weapons with flowers.;x
 CANCELALLIANCE_THEY_ACCEPT_HEADER;The Foreign Minister reports;x
 EVTDESC23451;One of our illustrious scientists has been awarded this year's Nobel Prize in Physics.;x
-EVTOPTA29902;Kaboom!;x
 EVTNAME13100;Anti-foreign revolt;x
 NOV_reactionary;Nationalist Party;x
 EVTOPTA14210;Peace always prevails!;x
@@ -8691,7 +8673,6 @@ IS_NOT_EMPTY; has an owner;x
 social_reformed_nation_desc;Our country social reforms match every socialist demand, having some scholars call us an welfare state.;x
 EVTOPTC12270;The designer's head on a plate!;x
 CB_ALLOWED_ADD_TO_SPHERE;Add to Sphere;x
-EVTNAME29900;The First Tractor in $COUNTRY$;x
 gtfo_CHD_desc;We've had a good run, but it's time to end our rulership of Chad: if you love something, let it go!;x
 GW_DISCOVERED_1;Great Wars discovered!;x
 EVTOPTA12270;We can still wear them, though...;x
@@ -9231,7 +9212,6 @@ negotiated_transfer_setup;Transfer $STATE$ from our country to $RECIPIENT$;x
 JNG_anarcho_liberal;Anarchist Faction;x
 MNG_anarcho_liberal;Radical Faction;x
 PEACE_WE_ACCEPT_1;$ACTOR$;x
-colonial_mine_nerf1;Colonial Tech Nerf;x
 EVTOPTA4101;This is all nonsense;x
 EVTDESC4101;Discontent has been brewing in broad stratas of the population for some time over the issue of our appointed upper house. Many people are disappointed with the poor representation afforded to them by the present representational system, and a long period of agitation has begun to form public opinion on the issue. Violent state wide protests have erupted in one of our states, and we need to decide what the government's position on the issue should be. Writing the question off completely will anger the population, and strengthen the local opinion against the appointed house. Making compromises will mean a strengthening of the liberal position in the Upper House, and will also anger conservatives.;x
 free_peoples;Free people;x
@@ -9609,7 +9589,6 @@ REMOVE_EVTOPTB2020;I'm shocked!;x
 REMOVE_EVTOPTA2020;I wish them good luck.;x
 WARGOAL_DEMAND;§Y$COUNTRY$§W demands this from §Y$ENEMY$§W;x
 EVTOPTA15190;Do not intervene;x
-EVTDESC29902;Mother, Mother! Have you heard the sounds and booms echoing from the mine? They say it's a new type of explosive!'\n\nThe introduction of nitroglycerin, and with it the ability to dig deeper into the mine shafts than ever before, in $COUNTRY$ means that the local mining industry has increased its output several times over.;x
 EVTOPTB36949;Heligoland is rightful British territory!;x
 REMOVE_desc_suffragette_movements;;x
 FIU_bourgeois_dictatorship;Carnaro;x
@@ -10083,13 +10062,11 @@ ammunition_production_desc;The design and production of basic munitions saw much
 EVTDESC15220;Their movements are sluggish. Often times, they can be seen milling about the barracks with little regard for military decorum. When called to attention, their hands draw toward their foreheads with just the right amount of delay. Not slow enough to deserve punishment, not fast enough to be a believable display of loyalty. These soldiers are $PROVINCECULTURE$, not $COUNTRY_ADJ$.;x
 reform_usca_desc;We have completed the task of uniting the breakaway provinces into the United States of Central America.;x
 desc_witwatersrand_gold_rush;A Gold Rush in the Witwatersrand is making us known internationally.;x
-local_electricity;Electrical Lighting;x
 requested_grant_desc;We have recently requested a grant and must wait awhile before asking for another one.;x
 ADDTOSPHERE_OTHER_ACCEPT_SETUP;When a nation is added to another nation's Sphere of Influence;x
 WAR_THEY_ACCEPT_4;*;x
 EVTOPTB91008;I would like to know more.;x
 acceptable_schools_fully_funded;Fully Funded Education;x
-local_nitroglycerin;Nitroglycerin;x
 REVOLTALLIANCE_HEADER;The Foreign Minister reports;x
 support_schaumburgs_title;Support The Schaumburg-Lippes;x
 ADDTOSPHERE_THEY_ACCEPT_1;§Y$RECIPIENT$§W;x
@@ -10097,7 +10074,6 @@ NOV_fascist;Fascist Party;x
 badboy;Infamy;x
 SAS_communist;Communist Party;x
 TAS_communist;Communist Party;x
-local_tractors;Tractors;x
 EXPELADVISORS_OTHER_ACCEPT_1;§Y$RECIPIENT$§W;x
 bad_debter;Bad debter;x
 gtfo_BEL_title;Grant Belgium Independence;x
@@ -10119,7 +10095,6 @@ MRT_ADJ;Marathi;x
 EVTDESC16010;John Brown's body lies a-mouldering in the grave, but his soul is marching on.'--John Brown's Body, Union Marching song\n\nThe famed hero of the abolitionist movement, the late John Brown, was hanged in Charles Town, Virginia, today after a failed raid on a military armory. Supposedly, Brown had planned to use the arsenal's weapons to arm slaves and incite an open slave rebellion across the entire south. The raid, and John Brown's death, have furthered escalated southern tension over the slavery issue, and in some slave-states there is now even talk of secession from the Union.;x
 WILL_GET;will\n;x
 GW_DISCOVERED_4;on each side, will get the status of;x
-desc_local_distribution_channels_und_electricity;New and efficient modes and structures for the selling and reselling of goods have been implemented in this province, leaving farmers free to tend their fields and electrical lights have been put up on the streets in this province, increasing the efficiency of all local production, as workers work in new and well lit environs.;x
 EVTDESC14110;Some of the Faithful in $COUNTRY$ feel that the state has failed in giving them due recognition for their hard work since the last election. For years, they argue, they have assisted the local community in many ways: caring for the sick, taking care of the orphans and helping the needy. They feel that they deserve some form of support so they can continue to help people, and the issue has become a topic of much discussion in the local election campaign.;x
 WAS_communist;Communist Party;x
 ALL_POPS_IN;All pops in $LOC$;x
@@ -10135,7 +10110,6 @@ global_population_nerf_1900;Global Population Normalization;x
 EVTNAME14020_sub;Religious policy debated in $COUNTRY$;x
 SET_POLITICAL_REFORM_EFFECT;Political reform selected: §Y$NAME$§W.\n;x
 gtfo_CGO_title;Grant Congo Independence;x
-EVTOPTA29903;Excellent!;x
 ADD_ACCEPTED_CULTURE;§Y$CULTURE$§W added as accepted culture.\n;x
 build_panama_canal_desc;Proposals for a Canal across the Panama Isthmus probably date back to the first discovery of the area. Nowhere is the strip of land that unites the North and South American continents thinner than here, and, with the aid of modern engineering, we could shorten the travel time between the Atlantic and The Pacific by several days by building it.;x
 BRT_ADJ;Breton;x
@@ -10255,7 +10229,6 @@ make_puppet_free_desc;Become a puppet;x
 POP_DETAILS_MONEY;Cash:;x
 BE_INVENT;Inventions:;x
 MSG_FILTER_TOOLTIP_CONTINENT;Select countries that owns any province on the continent.;x
-local_distribution_channels;Commercial Retailers;x
 ANNEX_4;which now is part of their country.;x
 ANNEX_2;$MONARCHTITLE$,;x
 EVTNAME3305;An Old, Tired Soldier;x
@@ -10388,7 +10361,6 @@ EVTOPTB16120;Aye!;x
 EVTNAME5000;First FA Cup Played;x
 PEACE_OTHER_ACCEPT_6;Terms: $TERMS$;x
 the_boshin_war_desc;The Boshin War was a civil war in Japan, fought between forces of the Tokugawa shogunate and those seeking to return political power to the Imperial Court.\n\n§RCivilisation Progress must be 50% in order to enact this decision.;x
-EVTNAME29905;Artificial Fertilizers;x
 PEACE_OTHER_ACCEPT_5;*;x
 EVTDESCcommonarmy;The new equal status conferred to one of our minorities allows them to establish their own national army independent of the Common Army.;x
 call_geneva_convention_desc;Having seen the brutality and horror of the aftermath of the battle of Solferino, Jean Henri Dunant, in 1862, published a witness account of the battle called 'Un Souvenir de Solferino' (A Memory of Solferino), printed at his own expense. Drawing on his experiences, Dunant began formulating ideas about setting up an international organization dedicated to the treating of war wounded, and also toured Switzerland extensively to lecture. Against the backdrop of such ideas, the Swiss parliament, in 1864, called an international convention at Geneva to establish international laws for the conduct of war.;x
@@ -10749,7 +10721,6 @@ STOPINFLNEWDESC;Do you wish to stop exerting influence on $RECIPIENT$?;x
 conquest_short;Annex $RECIPIENT$;x
 CEASECOLONIZATION_WE_ACCEPT_4;§Y$ACTOR$§W agreed to cease colonizing;x
 REMOVEFROMSPHERE_THEY_ACCEPT_BTN2;OK;x
-colonial_railroad_nerf2;Colonial Railroad Nerf;x
 new_zealand_proclamation_desc;In response to increased petitioning for self-governance from a growing number of British settlers in New Zealand, a proposal has been made to British Parliament that would set up a central government with an elected General Assembly and six provincial governments.;x
 CYR_theocracy;Senussi Order;x
 REMOVEFROMSPHERE_THEY_ACCEPT_BTN1;OK;x
@@ -11429,7 +11400,6 @@ EVTOPTB44800;Diaz steps down.;x
 BE_NAVY;Warships:;x
 BE_LITERACY;Literacy:;x
 EVTOPTD14120;Secularization must always be tempered;x
-local_machine_tools;Mechanized Mining;x
 BP_TOOL_BORDER_3;Border type 3;x
 homestead_enacted;The Homestead Act;x
 the_terror;The Terror;x
@@ -11798,7 +11768,6 @@ WETARGET_DISCREDIT_HEADER;The Foreign Minister reports;x
 EVTOPTA30005;A grand display of the power and wealth of our empire!;x
 EVTDESC44465;We have run out of time to repay our debts to §R$FROMCOUNTRY$§b, and they are threatening our sovereignty over our failure to pay. What shall we do?;x
 CRISIS_DESCRIPTION_RECLAIM;Crisis over the return of $COUNTRY$'s rightful territories.;x
-desc_local_nitroglycerin;Knowledge of the use of modern explosives has spread to this province, aiding local mining ventures.;x
 NOV_anarcho_liberal;Radical Party;x
 DECISIONOTHER_1;$ACTOR$;x
 CALLALLY_OTHER_ACCEPT_BTN3;Go to;x
@@ -12315,7 +12284,6 @@ gtfo_TTB_desc;We've had a good run, but it's time to end our rulership of Trinid
 CRISIS_STARTED_6;*;x
 CB_ALLOWED_UNINSTALL_COMMUNIST_GOV_TYPE;Uninstall communist government;x
 gtfo_SIK_title;Grant Sikkim Independence;x
-colonial_farm_nerf1;Colonial Tech Nerf;x
 EVTOPTB17690;Send in military troops to squash the rebellion;x
 UNM_anarcho_liberal;Libertarian Party;x
 BP_TOOL_BORDER_5;Border type 5;x
@@ -12669,7 +12637,6 @@ solano_lopez_industrialization_desc;Following his rise to power, Carlos Solano L
 WETARGET_REMOVEFROMSPHERE_BTN1;OK;x
 UNITVIEW_POP_INFO_FACTION;Part of §Y$FACTION$§W.;x
 EVTOPTB17630;Neat black flags they have! I have a white one!;x
-EVTDESC29900;Mother, mother! Old man Johnson has bought a new machine! It can plough, pull, tear, move, and you can ride on it! He says it's called a 'tractor'!'\n\nThe advent of the tractor in $COUNTRY$ has led to a revolution in local agriculture, with farm output increasing on a scale unfathomable a mere generation ago. Truly, the boons of industry are good unto $COUNTRY$.;x
 IS_CIVILIZED;is civilised.;x
 CRISIS_BECAME_WAR_5;*;x
 WAS;Western Australia;x
@@ -12677,7 +12644,6 @@ EVTNAME11100;The $FROMCOUNTRY_ADJ$ Parliament;x
 extra_decay;Extra Infamy Decay;x
 TAS;Tasmania;x
 SAS;South Australia;x
-desc_local_electricity;Electrical Lights have been put up on the streets in this province, increasing the efficiency of all local production, as workers work in new and well lit environs.;x
 central_great_war_demands_short;Dismantle Allied Powers;x
 SNZ_anarcho_liberal;Radical Party;x
 EVTOPTE14200;We need to upgrade their weapons.;x
@@ -12769,7 +12735,6 @@ LBG_ADJ;Limburgian;x
 SOV_communists_2;Trotsky's Faction;x
 EVTOPTC14120;Some measure of secularization is essential;x
 NAVAL_COMBAT_STATUS_SEEKING;Seeking target;x
-desc_local_machine_tools;The mining process in this province is carried out with new and mechanized tools, increasing the efficiency of local mining operations.;x
 EVTNAME46400;Jose Batlle y Ordonez;x
 EVTDESC44629;Recent governmental reforms have finally allowed the Blancos and Colorados to settle their differences politically rather than militariliy.;x
 EVTNAME23200;Where is the Source of the Nile?;x
@@ -12778,7 +12743,6 @@ form_kellys_irish_brigade_desc;Did those cowardly lincolnites tremble, when they
 MLW_hms_government_ADJ;Nyasa;x
 cancel_trade_agreements_15_desc;By cancelling our current trade agreement, we are free to enter into a new a trade agreement with another country.;x
 EVTOPTB44403;Let them be.;x
-EVTOPTA29901;Brilliant!;x
 EVTDESC22570;One of the major companies in one of our states has gone bankrupt recently, following a long period of running at a deficit. Local politicians have petitioned the government to step in in support of the company, claiming that the downturn is only temporary, and that the company can get back on its feet if allowed some time to reconstruct and consolidate. While we could support the business, vocal members of parliament have lambasted the idea, calling it an absurd abridgment of the fundamental freedoms of trade and government non-interventionism.;x
 EVTOPTB14110;Charity is good, but no.;x
 EQG;Equatorial Guinea;x
@@ -12793,7 +12757,6 @@ WES_liberal_2;Nationalliberale ;x
 EVTNAME91521;Choosing a Colonial Policy;x
 flores_purchase_desc;Our East India Company is looking to expand their holdings in the Sunda Islands by purchasing Flores.;x
 YZW_absolute_monarchy_ADJ;Uesugi;x
-EVTDESC29901;Mother, Mother! Have you seen the lights on Main Street? They're putting new lights in the lamp posts! They say that they're powered by 'electricity'!'\n\nElectricity, in the form of street lights, have arrived in $COUNTRY$. This new type of lighting illuminates our cities in ways that have hereto only been dreamt of, increasing the efficiency and productivity of local industry, as well as the local quality of life.;x
 EVTOPTA37230;Sign the treaty.;x
 EVTOPTA31303;The vox populi has spoken.;x
 EVTDESC13305;The foreigners tell many stories. Many of them tell the story of a man who rode into a city on the back of a donkey. Perhaps this was the man who rode into $PROVINCENAME$ today? We do not know yet why this strange foreigner has come to $PROVINCENAME$, but he has been contacting local officials, and seems intent on staying.;x
@@ -12917,7 +12880,6 @@ EVTOPTB10140;Pass a local ordnance against it;x
 BUYLICENCE_MPCOST;We lack the $COST$ necessary manpower;x
 EVTOPTB10130;Suppress the society;x
 OAX_anarcho_liberal;Radical Party;x
-EVTNAME29903;New Store in $COUNTRY$;x
 MODIFIER_LOCAL_REPAIR;Ship Repair Speed;x
 EVTNAME160002;Taiping Civil War;x
 gtfo_UWV_title;Grant West Virginia Independence;x
@@ -13298,7 +13260,6 @@ sicilian_mafia;Sicilian Mafia;x
 EVTNAME44811;Congo Conference Successful;x
 EXPELADVISORS_WE_ACCEPT_BTN2;OK;x
 gtfo_SEG_desc;We've had a good run, but it's time to end our rulership of Ségou: if you love something, let it go!;x
-EVTOPTA29904;Let us not dig too deep and greedily, though.;x
 EVTNAME31527;The First Italian War of Independence;x
 EVTOPTC91001;I would like to know more.;x
 EVTNAME15270;Dryzymala's Wagon;x
@@ -13322,7 +13283,6 @@ FSM_reactionary;Nationalist Party;x
 CIVILIZE_DESC;Fully embrace western ideas. This will give us access to the technological advances of our sphere leader;x
 gtfo_KUT_desc;We've had a good run, but it's time to end our rulership of Kutch: if you love something, let it go!;x
 MODIFIER_CIVILIZATION_PROGRESS;Civilisation Progress;x
-local_distribution_channels_und_electricity;Commercial Retailers and Electrical Lighting;x
 ZOOM_IN;Zoom in;x
 EVTNAME91341;The $FROMCOUNTRY_ADJ$ Overlords;x
 MILITARYREFORM_BAD_5;*;x
@@ -13533,7 +13493,6 @@ requesting_cease_fire;Requesting Cease Fire;x
 EVTNAME90002;The tyrany of $CB_TARGET_NAME$;x
 KRY_fascist;The Nationalists;x
 EVTDESC91504;The current war is draining your treasury at an alarming rate. Your §RColonial Migration§b, §RHealthcare§b, and §RResearch & Development§b reform levels have been automatically set to none and you will not be able to raise them until either you are at peace or your treasury exceeds 50,000.;x
-EVTNAME29904;Mechanized Mining;x
 accept_trade_deal_7_title;§YAccept Trade Deal;x
 ZBW_ADJ;Zimbabwean;x
 acquire_siberian_state_desc;Take a siberian state for half the warscore of a normal state.;x
@@ -13676,7 +13635,6 @@ NTA_socialist_1;Labour Party;x
 ALLYTAKEOVER_6;From now on they will handle all negotiations.;x
 balkan_war_title;The Balkan War;x
 GAB_ADJ;Gabonese;x
-colonial_railroad_nerf3;Colonial Railroad Nerf;x
 CB_JUSTIFY_NO_LONGER_VALID_HEADER;$MONARCHTITLE$;x
 WARTAX_TIP;Raise War Taxes;x
 refute_manifest_destiny_title;Refute Manifest Destiny;x
@@ -14205,7 +14163,6 @@ form_north_italy_desc;By establishing a dominant position on the Italian peninsu
 SAT;Kyushu;x
 economic_nationalism;Economic Nationalism;x
 INDEPENDANCE_HEADER;The Foreign Minister reports;x
-EVTNAME29901;$COUNTRY$ Electrified!;x
 gtfo_MGH_desc;We've had a good run, but it's time to end our rulership of Maghreb: if you love something, let it go!;x
 exile_house_of_rashid_desc;We are victorious over the House of Rashid. We must send them into exile, so that Arabia stands united under a single flag: our own.;x
 gtfo_ASH_title;Grant Ashanti Independence;x
@@ -14590,7 +14547,6 @@ CANCELGIVEMILITARYACCESS_THEY_ACCEPT_2;$MONARCHTITLE$, we have grown tired of th
 liberal_period_province;Liberal Period;x
 EVTOPTA17080;... and the stock-market report?;x
 czech_tech_school;Skoda Works;x
-EVTDESC29905;Mother! Mother! Father says that they've got fertilizer for the field!'\n\nWith the invention of the Haber-Bosch Process, farmlands are slowly being fixed with vast amounts of fertilizer. Farm efficiency has been vastly increased in $COUNTRY$ on account of this.;x
 zcountry_communist_change_ideology_title;§YSpread Ideology;x
 gtfo_CHI_title;Grant China Independence;x
 BREAKCOUNTRYOTHER_SETUP;When a rebel faction enforces its demands in another nation;x
