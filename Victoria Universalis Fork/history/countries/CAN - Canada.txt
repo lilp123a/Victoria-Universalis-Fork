@@ -12,7 +12,6 @@ plurality = 25
 nationalvalue = nv_liberty
 literacy = 0.5
 civilized = yes
-set_country_flag = mob1_invented
 
 oob = "CAN_oob.txt"
 

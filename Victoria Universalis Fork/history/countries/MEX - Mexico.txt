@@ -15,7 +15,6 @@ non_state_culture_literacy = 0.09
 civilized = yes
 prestige = 5
 set_country_flag = mexican
-set_country_flag = mob1_invented
 
 # Political reforms
 slavery = no_slavery

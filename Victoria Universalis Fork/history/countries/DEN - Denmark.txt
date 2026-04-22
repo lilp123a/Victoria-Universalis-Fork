@@ -8,7 +8,6 @@ literacy = 0.8
 non_state_culture_literacy = 0.6 #Germans
 civilized = yes
 prestige = 5
-set_country_flag = mob1_invented
 
 # Political reforms
 slavery = yes_slavery

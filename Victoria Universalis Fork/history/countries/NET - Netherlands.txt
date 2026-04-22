@@ -9,7 +9,6 @@ literacy = 0.60
 civilized = yes
 prestige = 10
 schools = commerce_tech_school
-set_country_flag = mob1_invented
 
 # Political reforms
 slavery = yes_slavery

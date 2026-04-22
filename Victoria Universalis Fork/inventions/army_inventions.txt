@@ -987,12 +987,51 @@ mob1 = {
 	}
 	
 	effect = {
+		mobilisation_size = 0.02
 	}
 }
 
 ######################
 ### MILITARY PLANS ###
 ######################
+
+mob2 = {
+	limit = { military_plans = 1 }
+	
+	chance = {
+		base = 2
+		
+		modifier = {
+			factor = 2
+			invention = telegraph_coordination
+		}
+		modifier = {
+			factor = 2
+			strategic_mobility = 1
+		}	
+	}
+	
+	effect = {
+		mobilisation_size = 0.01
+	}
+}
+
+mob3 = {
+	limit = { military_plans = 1 }
+	
+	chance = {
+		base = 2
+		
+		modifier = {
+			factor = 4
+			invention = mob2
+		}	
+	}
+	
+	effect = {
+		mobilisation_size = 0.01
+	}
+}
 
 telegraph_coordination = {
 	limit = { military_plans = 1 }
@@ -1018,42 +1057,6 @@ telegraph_coordination = {
 	}
 }
 
-mob2 = {
-	limit = { military_plans = 1 }
-	
-	chance = {
-		base = 2
-		
-		modifier = {
-			factor = 2
-			invention = telegraph_coordination
-		}
-		modifier = {
-			factor = 2
-			strategic_mobility = 1
-		}	
-	}
-	
-	effect = {
-	}
-}
-
-mob3 = {
-	limit = { military_plans = 1 }
-	
-	chance = {
-		base = 2
-		
-		modifier = {
-			factor = 4
-			invention = mob2
-		}	
-	}
-	
-	effect = {
-	}
-}
-
 ###########################
 ### MILITARY STATISTICS ###
 ###########################
@@ -1075,6 +1078,7 @@ mob4 = {
 	}
 	
 	effect = {
+		mobilisation_size = 0.01
 	}	
 }
 
@@ -1147,6 +1151,7 @@ mob5 = {
 	}
 	
 	effect = {
+		mobilisation_size = 0.02
 	}
 }
 

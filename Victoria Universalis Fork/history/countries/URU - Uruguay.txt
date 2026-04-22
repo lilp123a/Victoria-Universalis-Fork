@@ -8,7 +8,6 @@ literacy = 0.1
 civilized = yes
 prestige = 1
 set_country_flag = uruguay
-set_country_flag = mob1_invented
 
 # Political reforms
 slavery = yes_slavery

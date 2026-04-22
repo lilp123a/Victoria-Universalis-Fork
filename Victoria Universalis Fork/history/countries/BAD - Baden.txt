@@ -8,7 +8,6 @@ literacy = 0.7
 civilized = yes
 prestige = 5
 south_country_flag = south_german
-set_country_flag = mob1_invented
 
 # Political reforms
 slavery = no_slavery

@@ -9,7 +9,6 @@ nationalvalue = nv_industry
 literacy = 0.8
 civilized = yes
 prestige = 15
-set_country_flag = mob1_invented
 
 # Political reforms
 slavery = no_slavery

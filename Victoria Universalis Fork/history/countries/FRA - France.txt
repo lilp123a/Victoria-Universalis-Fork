@@ -12,7 +12,6 @@ plurality = 25
 nationalvalue = nv_equality
 literacy = 0.55
 civilized = yes
-set_country_flag = mob1_invented
 
 #GreaterPowers = prestige
 prestige = 90

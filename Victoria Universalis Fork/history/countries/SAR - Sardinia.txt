@@ -8,7 +8,6 @@ literacy = 0.45
 non_state_culture_literacy = 0.18
 civilized = yes
 prestige = 10
-set_country_flag = mob1_invented
 
 # Political reforms
 slavery = no_slavery

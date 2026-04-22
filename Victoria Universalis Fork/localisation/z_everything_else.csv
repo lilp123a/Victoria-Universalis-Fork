@@ -38,7 +38,7 @@ EVTDESC3402;And with this years budget, our payments to the unemployment program
 DECREASEOPINION_WE_ACCEPT_6;*;x
 EVTDESC91880;The victorious Allies have enforced their demands on the vanquished nations of the Central Powers. Austria-Hungary is to be dismantled along ethnic lines, Bulgaria cedes its territories in Macedonia, and the Ottoman Empire is no more. Germany surrenders East Prussia to Russia, Alsace-Lorraine to France, and its colonial Empire to Britain.;x
 LUN_reactionary;Empire Faction;x
-general_mobilization;General Mobilization;x
+general_mobilization;General Mobilisation;x
 CB_ALLOWED_CONCESSION;Concede Defeat;x
 EVTOPTA36209;A Sell!;x
 ECONOMICREFORM_BAD_3;$CATEGORY$;x
@@ -283,13 +283,12 @@ earthquake_devastation;Earthquake Devastation;x
 tonghak_reforms_desc;The peasant class of Korea has suffered as of late under the corrupt officials of the current system. In response to this, the government has instituted a number of social, economic and military reforms based on the Japanese bureaucratic system in order to placate the peasantry.\n\n§RCivilisation Progress must be 70% in order to enact this decision.;x
 gtfo_TAR_title;Grant Tatarstan Independence;x
 PARTY_UNAVAIL_HEADER;Political party defunct;x
-EVTDESC37707;In 1855, needing cash for the state, the Minister of Public Wealth, Pascual Madoz, ordered the desamortisation of all communal and public lands, and this led to a greater degree of centralization of state power and fostered unhappiness among farmers who now had no public lands to use.;x
+EVTDESC37707;In 1855, needing cash for the state, the Minister of Public Wealth, Pascual Madoz, ordered the desamortisation of all communal and public lands, and this led to a greater degree of centralisation of state power and fostered unhappiness among farmers who now had no public lands to use.;x
 apply_for_USA_statehood_desc;Our position on the North American continent, and our traditional cultural ties to the USA, make it likely that the USA would accept a petition of statehood from us. Doing this means our country will be annexed by the United States;x
 EVTOPTA13400;Let's have a seat!;x
 EVTOPTA10260;Excellent!;x
 PW_SLAVE_STATE;Slave State;x
 DIPLOMACY_PRESTIGE;Pres.;x
-mob4_china_trigger;Staff Command Support;x
 EVTDESC20104;Dispute over $CRISISAREA$ has now escalated into an international crisis. With Great Powers taking sides on the matter the stakes are suddenly a lot higher, should we attempt to press our claims strongly or try to calm the situation?;x
 GNE_fascist;National Union for the Prosperity;x
 cancel_trade_agreements_25_title;§YCancel Trade Agreement;x
@@ -314,7 +313,6 @@ CRISIS_AI_WANTS_TO_BACK_3;is strongly inclined to support;x
 FIU_liberal;Partito Liberale;x
 rama_v_desc;King Chulalongkorn, was the fifth monarch of Siam under the House of Chakri, ascending to the throne in 1868. His reign was characterized by the modernization of Siam, governmental and social reforms, and territorial concessions to the British and French. As Siam was threatened by Western expansionism, Chulalongkorn, through his policies and acts, managed to save Siam from colonisation. \n\nAll his reforms were dedicated to ensuring Siam's survival in the face of Western colonialism, so that Chulalongkorn earned the epithet Phra Piya Maharat (the Great Beloved King).;x
 EVTOPTG90810;Play as Sichuan Clique;x
-military_logistics_invented;Military Logistics Invented.;x
 gtfo_RWA_desc;We've had a good run, but it's time to end our rulership of Rwanda: if you love something, let it go!;x
 gtfo_CNG_desc;We've had a good run, but it's time to end our rulership of Zaire: if you love something, let it go!;x
 KMK_communist;The Communists;x
@@ -438,7 +436,6 @@ EVTOPTB15070;Carry a big stick;x
 EVTOPTB91004;I would like to know more.;x
 CHANGE_RELIGION_EFFECT;Change religion to §Y$NAME$§W.\n;x
 TRIGMOD_3;*;x
-EVTNAMEsetgovernment;Set Government Flag;x
 EVTDESC12190;The $PROVINCENAME$ refinery has been doing well lately, with production exceeding expected quotas by several thousand gallons. Due to storage problems, the refinery owner has approached the government with a deal to buy the fuel at a steep discount. We could either buy the fuel ourselves, or turn him down and wait for him to float the cheap fuel on the market. The local impact of cheap fuel should make the locals fairly happy, but we could probably use the fuel ourselves.;x
 BHR_anarcho_liberal;Al Anarkiliberali;x
 EVTNAME23411;Attend The Third Olympic Games?;x
@@ -479,7 +476,6 @@ colonial_mine_nerf3;Colonial Tech Nerf;x
 zprovince_rgo_change_agriculture_title;§GChange Agricultural RGO;x
 UZB_socialist;The Socialist Faction;x
 kiel_canal_construction;Kiel Canal Under Construction;x
-mob3_trigger;Personnel Category Tables;x
 REMOVEFROMSPHERE_WE_ACCEPT_MAP;Removed from sphere;x
 SHO_fascist;Fascist Faction;x
 MILITARYREFORM_LOG;We enacted $ISSUE$ in $CATEGORY$.;x
@@ -728,7 +724,7 @@ EVTOPTA37233;Jihad against the invaders!;x
 EVTNAME32515;The Ottoman Empire Surrenders;x
 introduce_the_presbyteries_title;Introduce the Presbyteries;x
 EVTOPTA90006;Good call.;x
-EVTDESC90819;Yong Ying were a type of regional army that emerged in the 19th century in the Qing dynasty army, which fought in most of China's wars after numerous rebellions exposed the ineffectiveness of the regular Qing armies. The new rule "Soldiers followed the general, soldiers belonged to the general", led to decentralization of power and a rise of regional warlords within China.;x
+EVTDESC90819;Yong Ying were a type of regional army that emerged in the 19th century in the Qing dynasty army, which fought in most of China's wars after numerous rebellions exposed the ineffectiveness of the regular Qing armies. The new rule "Soldiers followed the general, soldiers belonged to the general", led to decentralisation of power and a rise of regional warlords within China.;x
 gtfo_AWA_title;Grant Awadh Independence;x
 protect_minor;Protect minor;x
 gtfo_ARC_title;Grant Argentine Confederation Independence;x
@@ -993,7 +989,7 @@ IN_POLITICAL_MOVEMENT;in political movement\n;x
 treaty_port4_desc;Our POPs gain +0.005 militancy per month and our max tariffs are reduced by 1% for each unequal treaty we have been forced to sign. We gain an unequal treaty whenever we lose a treaty port. This malus will be removed after westernization.;x
 EVTNAME3003;The Workhouse Scandal;x
 EVTNAME23440;The Games of The Tenth Olympiad;x
-peacetime_mobilization;Peace Time Mobilization;x
+peacetime_mobilization;Peace Time Mobilisation;x
 EVTNAME12130;Cottage Industry;x
 french_military_mission_to_japan_desc;In 1867, at the behest of the Japanese Shogunate at Edo, France sent a military mission to Japan to help train Shogunate troops in the arts of western warfare. The mission was led by, then Captain, Charles Chanoine, who would later go on to become France's Minister of War during the Brisson government of 1898. Send a military mission to Japan, and our relations with them are sure to improve.;x
 war_minister_boulanger;Georges Ernest Boulanger;x
@@ -1255,14 +1251,13 @@ gtfo_SHK_title;Grant Shilluk Independence;x
 SLE_communist;All People's Congress;x
 EVTDESC90840;A massacre of Muslims organized by a Qing Manchu official in Kunming has sparked a province-wide multi-ethnic insurgency. In Dali City in western Yunnan, an independent Muslim kingdom has been established by Du Wenxiu, who has styled himself the "Sultan of Dali".;x
 INTERVENTION_OUR_SIDE_BTN2;Yay!;x
-colonial_negotiations_invented;Colonial Negotiations Invented;x
 DAN_anarcho_liberal;Radikale-Venstre;x
 EVTOPTA90812;China will be ours!;x
 inhospitable_climate_large_mine;Large Ore Deposits;x
 EVTOPTA36215;Mmmm...beer!;x
 EVTOPTA4406;Fan the flames of public opinion;x
 EVTOPTA22500;Regulate! Tax! Ban! Panic!;x
-likin_tax_desc;The Lijin tax was first introduced by censor Lei Yixian in the area around Yangzhou as a way of raising funds in the campaigns against local rebels. As the central government was short of revenue, the imperial court sanctioned the tax and it quickly became an important source of funds for the campaign against the Taiping and Nian rebellions. \n\nAfter the Taipings were suppressed in 1864, the likin became a permanent feature of the Chinese tax system and it became an important source of revenue for local government, as China had lost its external tariff autonomy after the conclusion of the Treaty of Nanking. In many ways, the tax signified the decentralization of state authority in the wake of the Taiping rebellion.;x
+likin_tax_desc;The Lijin tax was first introduced by censor Lei Yixian in the area around Yangzhou as a way of raising funds in the campaigns against local rebels. As the central government was short of revenue, the imperial court sanctioned the tax and it quickly became an important source of funds for the campaign against the Taiping and Nian rebellions. \n\nAfter the Taipings were suppressed in 1864, the likin became a permanent feature of the Chinese tax system and it became an important source of revenue for local government, as China had lost its external tariff autonomy after the conclusion of the Treaty of Nanking. In many ways, the tax signified the decentralisation of state authority in the wake of the Taiping rebellion.;x
 EVTDESC14150;The current inflow of immigrants has created a demand for more jobs. Advocates of immigrant rights demand that newly naturalized citizens be accorded the same rights as residents by birth. The situation has become a topic of debate in the local election.;x
 MODIFY_RELATION_EFFECT;§Y$SOURCE$§W's relation with §Y$TARGET$§W changed with a value of $VALUE$.\n;x
 SUBUNIT_POP;§Y$CULTURE$§W $TYPE$ from §Y$LOCATION$§W.;x
@@ -1517,7 +1512,6 @@ missionary_activity_desc;Foreign missionaries are active in our country.;x
 annex_india_title;Annex the East India Company;x
 ANNEX_1;$ACTOR$;x
 DECREASEOPINION_OTHER_ACCEPT_6;the opinion of them to §Y$OPINION$§W.;x
-EVTNAME91102;Technology Flag Unlocked;x
 MILITARY_REFORM_COST_DESC;Cost modifier for military reforms: ;x
 enact_anaconda_plan_desc;Originally devised by General-in-chief Winfield Scott, the Anaconda plan was a plan for subduing the Confederacy by means of a massive naval blockade, and a military advance along the Mississippi river. By initiating blockades of CSA ports, we can increase their war exhaustion by denying them essential goods.;x
 EVTNAME14050_sub;Tariff Policies Debated in $COUNTRY$;x
@@ -1602,7 +1596,7 @@ EVTOPTA34603;Exotic animals! ;x
 UNB_liberal;New Republican Party;x
 EVTDESC36612;In 1900 the Swedish parliament decided to build an extensive fortification system in Boden near the Finnish border. Built on top of a mountain rock strategically located near the Luleå river with an incredible field of view, its purpose was to guard the northern flank and the natural riches of the area against any Russian aggression.;x
 gtfo_HOL_desc;We've had a good run, but it's time to end our rulership of Holstein: if you love something, let it go!;x
-taiping_mobilization;Taiping Mobilization;x
+taiping_mobilization;Taiping Mobilisation;x
 MLT_liberal;Constitutional Party;x
 gtfo_KBO_desc;We've had a good run, but it's time to end our rulership of Kanem-Bornu: if you love something, let it go!;x
 ALT_liberal;The Liberals;x
@@ -1669,7 +1663,6 @@ DISBAND_SETUP;When a unit is disbanded;x
 move_capital_to_moscow_title;Return to the Third Rome;x
 GHN;Ghana;x
 USE_LEADER;Use leader;x
-EVTDESCmob3;This invention increases your mobilization size by 1%.;x
 EVTOPTA70002;OK;x
 EVTDESC70002;$FROMCOUNTRY$ has gone bankrupt and claims that they owe us nothing! We must use our military might to safeguard our investors.;x
 GMB_reactionary;Muslim Congress Party;x
@@ -2131,7 +2124,6 @@ DISCREDIT_OTHER_ACCEPT_SETUP;When a nation discredits another nation;x
 LNN_fascist;The Fascist Faction;x
 EVTNAME23423;Attend The Sixth Olympic Games?;x
 EVTNAME160;Licensing Act;x
-mob1_invented;Levée en Masse Invented;x
 ALLIANCE_THEY_DECLINE_BTN3;Go to;x
 CRISIS_OFFER_THEY_DECLINE_1;$MONARCHTITLE$;x
 EVTNAME2560;The $PROVINCENAME$ Patrimony;x
@@ -2392,7 +2384,6 @@ MOR_1683;Taza;x
 become_guatemala_desc;The dream of a united Central America has died. The other provinces were too concerned about being dominated by Guatemala to realise the sacrifices we had made to keep the union alive. Well no more. We are done with them. Guatemala will find its own destiny.;x
 global_liberal_agitation;Liberal Agitation;x
 become_guatemala_title;Become Guatemala;x
-mob4_trigger;Staff Command Support;x
 DIPRELCH_DEPENDENCY;Puppet-Master Relationship;x
 EVTOPTA60140;Otherwise people would exploit the situation;x
 gtfo_MCD_desc;We've had a good run, but it's time to end our rulership of Macedonia: if you love something, let it go!;x
@@ -2847,7 +2838,6 @@ NQL_socialist;Labour Faction;x
 BP_TOOL_ICON_INVASION;Invasion icon;x
 BP_TOOL_ICON_NAVAL;Naval base icon;x
 EVTOPTA90824;Damnit!;x
-EVTOPTAsetgovernment;OK;x
 gtfo_MRT_title;Grant Marathas Independence;x
 OTHER_DEMOBILIZE_3;*;x
 BP_TOOL_ICON_COMBAT;Battle icon;x
@@ -3061,7 +3051,7 @@ let_the_chips_fall;Not Following Elections;x
 EVTDESC32507;The first official Russo-Japanese agreement, called the 'Treaty on Friendship, Trade, and Borders',  was signed by Russian Vice-Admiral Putyatin on February 7th 1855 in Shimoda. The northern Kuril Islands became part of Russia, while Sakhalin remained under the 'joint' jurisdiction of the two countries. Japan agreed as well to open three of its ports to Russian traders.;x
 NQL_conservative;Conservative Faction;x
 CRISIS_BACK_DOWN_THEY_DECLINE_BTN1;Fine!;x
-kiwi_constitution_setup;Following the independence of Australia, and the historic ties between Australia and New Zealand, a Kiwi movement has finally materialized, asking for a decentralized independence.;x
+kiwi_constitution_setup;Following the independence of Australia, and the historic ties between Australia and New Zealand, a Kiwi movement has finally materialized, asking for a decentralised independence.;x
 EVTOPTB10110;The old order must be defended!;x
 CRISIS_BACK_DOWN_THEY_DECLINE_LOG;$RECIPIENT$ rejected our crisis solution offer.;x
 ALLIANCE_THEY_DECLINE_5;Military Alliance;x
@@ -3356,7 +3346,7 @@ LOCAL_MANPOWER;Local Manpower Modifier;x
 BACK_CRISIS_THEY_ACCEPT_SETUP;When someone accepts backing our side in a crisis;x
 paraguayan_war_desc;This cb will liberate the territoties the Río de la Plata basin.;x
 IN_FRONT_PROV_ONLY_10;In a front province you take 10% of the attrition you would in hostile territory.\n;x
-yong_ying_desc;Yong Ying were a type of regional army that emerged in the 19th century in the Qing dynasty army, which fought in most of China's wars after numerous rebellions exposed the ineffectiveness of the regular Qing armies. The new rule "Soldiers followed the general, soldiers belonged to the general", led to decentralization of power and a rise of regional warlords within China.;x
+yong_ying_desc;Yong Ying were a type of regional army that emerged in the 19th century in the Qing dynasty army, which fought in most of China's wars after numerous rebellions exposed the ineffectiveness of the regular Qing armies. The new rule "Soldiers followed the general, soldiers belonged to the general", led to decentralisation of power and a rise of regional warlords within China.;x
 COLONIAL_EDUCATION;Colony: $VAL$;x
 DECREASEOPINION_WE_ACCEPT_BTN3;Go to;x
 EVTDESC14140;The renovation of a local church, using public money, has become a hot topic in the local election of $COUNTRY$. Supporters of the project argue that some government support for religion will help preserve not only faith among the people, and thus a local vanguard against the forces of revolution, while opponents argue that the state must not intervene in matters of private religiosity.;x
@@ -3672,7 +3662,7 @@ EVTNAME4000;Abolitionism;x
 PAN_fascist_dictatorship_ADJ;Khalistani;x
 accept_trade_deal_11_desc;If we enter into a trade deal with the chosen country, we will get a decision that allows us to send goods from our stockpile to our trading partner.;x
 EVTNAME90903;Xinhai Revolution;x
-canadian_confederation_setup;The arrayed provinces of the Dominion of Canada have been asking for independence. The movement, headed by Sir John A. Macdonald, may end up providing the British Empire with a steadfast and decentralized ally in North America.;x
+canadian_confederation_setup;The arrayed provinces of the Dominion of Canada have been asking for independence. The movement, headed by Sir John A. Macdonald, may end up providing the British Empire with a steadfast and decentralised ally in North America.;x
 EVTOPTA36607;Terrible!;x
 empire;Empire;x
 QLD_reactionary;Radical Nationalists;x
@@ -3728,7 +3718,6 @@ CREATE_REVOLT;§R$SIZE$§W brigade(s) rises up in revolt in §Y$WHERE$§W.\n;x
 WARNING;Warning $LIST$.;x
 EVTDESC3902;A so-called 'Friendly Society' has been established in one of our provinces. The Friendly Society is a loose association of people, often working in the same or similar trades as each other, dedicated to providing members with mutual economic assistance in the forms of unemployment insurance, loans and cooperative banking. The Friendly Society claims that it isn't a trade union, but rather a cooperative or a bank, but some hawks within the cabinet fear that the organization is merely a front for socialist union activities, and should be shut down.;x
 COMBAT_LEADER_MOD_ATTACK;Leader attack;x
-mob1_trigger;Levée en Masse;x
 gtfo_BRG_title;Grant Borgu Independence;x
 EVTOPTB44614;We will never surrender!;x
 EVTNAME3903;Union Busting;x
@@ -3784,7 +3773,7 @@ BP_TOOLTIP_SAVE_PLAN;Save currently selected plan to file.;x
 BP_TOOLTIP_SHARE_PLAN;Toggle §Ysharing§! currently selected plan with your §Gally members§!.;x
 disgruntled_rabble_desc;These are dissatisfied citizens that have formed a big mob focused merely on looting and pillaging.;x
 WHA;Wales;x
-qing_mobilization;Qing Mobilization;x
+qing_mobilization;Qing Mobilisation;x
 serial_killer;Serial Killer On The Loose;x
 INVESTED_IN_US_6;*;x
 BP_TOOLTIP_TAB_SAVED;List of your saved battle plans.\nClick §YImport§! to add the selected one to your current plans.;x
@@ -3845,7 +3834,6 @@ scorched_earth_10;Scorched Earth;x
 LNA;Lan Na;x
 embrace_bosniak_minority_desc;It is time to grant equal rights to the Bosniaks;x
 BP_TOOL_COLOR_RED;Red;x
-EVTNAMEmob1;Levée en Masse Tech Flag;x
 liberate_country_free_short;$THIRD$ acquires $STATE$;x
 UV_BACKGROUND_LABEL;Support Traits;x
 BP_TAB_CURRENT;Current Plans;x
@@ -3979,7 +3967,6 @@ ANT;Antigua;x
 EVTOPTA23491;A great honor for the study of chemistry in our nation.;x
 EVTOPTB14690;A fantastic idea that we should spare no effort in implementing;x
 ALS_ADJ;Alsatian ;x
-EVTDESCsetgovernment;A communist or fascist government flag has been set that allows closed border and totalitarian reforms to be enacted.;x
 TAI_liberal;Liberal Party;x
 hunger_riots;Hunger Riots;x
 EVTOPTB37700;We need the money!;x
@@ -4098,7 +4085,6 @@ BACK_CRISIS_WE_ACCEPT_BTN2;OK;x
 MOZ_ADJ;Mozambican;x
 EVTDESC34607;The Krupp company in Essen introduced a health insurance fund for their 970 workers. Membership was mandatory.;x
 LEADERDIED_HEADER;$MESSENGER$;x
-mob4_invented;Staff Command Support Invented;x
 LEADERDIED_SETUP;When one of our leaders died;x
 own_kiel_canal;The Kiel Canal;x
 NORMAL_WAR_UNIFICATION_NAME_PRU_FRA;$ORDER$Franco-Prussian War;x
@@ -4280,7 +4266,6 @@ EVTOPTB32514;We will not surrender one inch!;x
 NAVALBATTLEOVER_SETUP;When a naval battle is over;x
 WE;we;x
 GIVEMILITARYACCESS_THEY_ACCEPT_BTN3;Go to;x
-medicine_invented;Medicine Invented.;x
 EVTDESC3204;A major instance of voting fraud has occurred in an election for a local assembly in one of our states. We have every reason to believe that the vote was actually a major victory for local conservatives, but the liberal party has nevertheless claimed victory. Stepping in from a national level to correct these frauds is what is expected of us, and securing the conservative victory would reduce overall militancy in the area, but then again... maybe the liberals would be better to have in power?;x
 EVTNAME13310;Missionary Station;x
 EVTNAME33005;Baghdad Railroad;x
@@ -4310,7 +4295,7 @@ EVTNAME15240;Patriotic Society;x
 EVTOPTB14800;This will teach future generations about the common heritage of mankind;x
 gtfo_MEX_title;Grant Mexico Independence;x
 commerce_raider_short;CR;x
-centralization_desc;A centralized government is one in which power or legal authority is exerted or coordinated by a de facto political executive to which federal states, local authorities, and smaller units are considered subject. On the opposite, decentralization is the process of redistributing or dispersing functions, powers, people or things away from a central location or authority.;x
+centralisation_desc;A centralised government is one in which power or legal authority is exerted or coordinated by a de facto political executive to which federal states, local authorities, and smaller units are considered subject. On the opposite, decentralisation is the process of redistributing or dispersing functions, powers, people or things away from a central location or authority.;x
 NAVALATTACKUS_5;$ATTUNIT$\nis attacking our\n$DEFUNIT$;x
 no_foreign_weapons_desc;Traditional weapons are used in our armies.;x
 national_idea4_desc;This invention unlocks another national idea.;x
@@ -4587,7 +4572,7 @@ PROVINCEVIEW_CURRENT_ARMY;Current brigades: §Y$CURRENT$§W\nAllowed brigades: §Y$
 PROVINCEVIEW_CURRENT_SHIPS;Current ships: §Y$CURRENT$§W;x
 gtfo_ION_title;Grant Ionian Islands Independence;x
 EVTDESC3750;Three men standing on a street-corner, arguing the twists and turns of life, fate and providence, were arrested today by local police, charged with violating the ban on public meetings, the street curfew, and a few other city ordinances thrown in for good measure. Locals, of course, view the incident as a case of police harassment, and have started speaking up against the ban on public meetings. The incident has, for all its absurdity, shown the sweeping extent to which the government can control everyday life in $COUNTRY$;x
-EVTDESC16001;Confederate forces have opened fire on federal forces at Fort Sumter, and in response president Lincoln has ordered a full mobilization of the army. The American Civil War has officially begun.;x
+EVTDESC16001;Confederate forces have opened fire on federal forces at Fort Sumter, and in response president Lincoln has ordered a full mobilisation of the army. The American Civil War has officially begun.;x
 IVC_reactionary;Democratic Party;x
 african_deserts_title;Organize African Expedition;x
 PROVINCEVIEW_TERRAIN;Terrain: §Y$TERRAIN$§W;x
@@ -4670,7 +4655,6 @@ communist_rebels_name;$COUNTRY$ Communists;x
 cut_down_to_size_boxer_desc;Force another §Ycountry§W to disarm and pay reparations to us;x
 PV_ASSIMILATION;Cultural Assimilation: ;x
 PV_NEW_JOBS;Seeking new employment: ;x
-mob5_trigger;Railroad Transport Groups;x
 GUNBOAT_THEY_ACCEPT_1;Gunboat Diplomacy!;x
 DIPLOICON_TIP;$TYPE$ from §Y$NATION$§W. \n If we do not respond before §Y$DATE$§W we will autodecline.;x
 PV_COLONIAL_EMIGRATION;Colonial Emigration: ;x
@@ -4823,7 +4807,6 @@ THEYDEFECT_4;They have wisely decided to embrace our enlightened rule;x
 REMOVE_rebel_workers;Rebelling Workers;x
 THEYDEFECT_3;defected to us.;x
 integrate_annazah_desc;With our recent victory over Egypt, some within our government have their eyes on the Arabian peninsula as a natural continuation to our expansion. As a first step, we should demand the integration of the Anazzah.;x
-EVTNAMEmob2;Mobilization Time Tables Tech Flag;x
 THEYDEFECT_2;$PROV$;x
 EVTDESCexpansionism;This tech grants you -0.05 monthly infamy decay.;x
 EVTOPTA13015;Our options are limited, and force of arms must be considered;x
@@ -4857,7 +4840,6 @@ HDU;Hindustan;x
 colonial_mine_nerf2;Colonial Tech Nerf;x
 establish_protectorate_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;x
 EVTDESC90046;The British have requested that Baluchistan come under the organization of a new British Indian Agency. What do we say to them?;x
-EVTDESC91102;You have researched a new technology that gives a bonus or allows you to enact certain reforms and decisions.;x
 LIV_liberal_2;Blodnieka Partija;x
 zadd_cores_desc;§RCore Integration in Progress§b and §WIntegrating Cores§b modifiers will be added to this country and the selected state. When §RCore Integration in Progress§b runs out, this country's cores will be added to all provinces with the §WIntegrating Cores§b modifier and all other countries' cores will be removed. §WIntegrating Cores§b will be removed from a province if it changes owners or gets occupied before the §RCore Integration in Progress§b runs out.;x
 EVTDESC37200;An outspoken critic of our regime, the current head of the Bonapartes has been granted asylum in Switzerland and from there is encouraging our subjects to challenge our legitimacy. Should we demand the Swiss extradite him?;x
@@ -5701,7 +5683,7 @@ claim_greater_serbia_desc;Now that we have freed our bretheren from the Turks, w
 Owned by $owner$, but currently occupied by $control$;Owned by $owner$, but currently occupied by $control$;x
 NO_COMMANDER;(No Commander);x
 GAIN;Gain;x
-full_mobilization;Full Mobilization;x
+full_mobilization;Full Mobilisation;x
 MLY_hms_government;Malay Federation;x
 SID_reactionary;Traditionalist faction;x
 EVTDESC44811;Our diplomats have managed to convince the majority of the Great Powers to give us control over the entire Congo basin.;x
@@ -6399,7 +6381,6 @@ DECREASERELATION_WE_ACCEPT_HEADER;The Foreign Minister reports;x
 NEW_UNIT_DRO;Creating a new unit will create an empty unit and allow you to assign parts from the current unit to it.;x
 chemical_focus;Encourage Chemical Industry ;x
 electrical_focus;Encourage Electrical Industry ;x
-mob5_china_trigger;Railroad Transport Groups;x
 REMOVE_EVTNAME14780;Contagious Diseases;x
 tanzimat_land_reform;Ottoman Land Code;x
 EVTDESC36923;Charles Darwin, drawing upon observations made on his famous voyage aboard the Beagle, and synthesizing the observations of many of his contemporaries, published The Origin of Species ,in which he claimed that all life forms on earth had evolved over time through a process of natural selection and not through an act of creation. His views were hotly contested at the time and remain so today.;x
@@ -6593,7 +6574,6 @@ EVTOPTA44117;Faith and reason can be reconciled to improve humanity.;x
 EVTNAME44120;Moral Crusaders;x
 EVTNAME13000;Wind of Westernization;x
 WETARGET_REMOVEFROMSPHERE_5;*;x
-mob2_invented;Mobilization Time Tables Invented;x
 philippines_n_cuba_title;Retake Spanish Colonies;x
 REMOVEFROMSPHERE_WE_ACCEPT_4;*;x
 EVTOPTA36980;Liberate Herat.;x
@@ -6988,7 +6968,7 @@ chinese_treaty_port;Chinese Treaty Port;x
 gtfo_PAR_desc;We've had a good run, but it's time to end our rulership of Parma: if you love something, let it go!;x
 EVTDESC44802;Emiliano Zapata led a revolt of peasants in the province of Oaxaca.;x
 GIVEMILITARYACCESS_OTHER_DECLINE_6;The more disharmony there is between the nations, the better.;x
-HAVE_LESS_SUBSTATES_THEN;Have less substates than ;x
+HAVE_LESS_SUBSTATES_THEN;Have fewer substates than ;x
 EVTOPTA33801;A tragedy!;x
 EVTDESC23206;The Second Expedition to reach the North Pole has disappeared without a trace, and are now presumed lost? Should we make a third attempt in this quest?;x
 PARTISANS_SETUP;When a rebellion springs up in your country.;x
@@ -7055,7 +7035,6 @@ BANEMBASSY_THEY_ACCEPT_BTN2;OK;x
 EVTOPTA23432;We declare open the Games celebrating the Eight Olympiad of the modern era.;x
 PEACE_THEY_ACCEPT_1;$RECIPIENT$;x
 form_plc_title;Reform the Polish-Lithuanian Commonwealth;x
-mob5_desc;At this point specialists formed certain groups that serviced specialized railroad units. These could quickly load and reload trains and service the full movement of army units.;x
 MLW_hms_government;Nyasaland;x
 AVG_MIL_ON_MAP;Average Militancy: §Y$VALUE$§W;x
 UYG_fascist;The Fascist Faction;x
@@ -7134,7 +7113,6 @@ EVTOPTA37702;We must restore order in Cuba!;x
 EVTDESC37702;To counter the ravages of Cuban insurgents, the Governor-General instituted a policy of forced removal of all citizens in the countryside to camps in the cities. This denied sources of supply and places of refuge to the insurgent forces.;x
 EVTOPTA37218;The affair is closed;x
 ARMY_ENGINEER_TOOLTIP;Siege Efficiency: §Y$VAL$§!%;x
-EVTDESCmob4;This invention increases your mobilization size by 1%.;x
 EVTOPTA37701;Cuba remains Spanish!;x
 EVTDESC37701;Native Venezuelan General Narciso López was executed by the Spanish colonial authorities in Cuba. He had landed with a small group of men, trying to incite a revolt that would turn Cuba over the U.S.A., but failed due to lack of support from the population.;x
 EVTNAME37701;General Narciso López;x
@@ -7580,7 +7558,6 @@ EVTDESC44603;Victory over the Chileans has caused a surge in popular support for
 the_meiji_restoration_title;The Meiji Restoration;x
 EVTNAME31302;Telegram!;x
 NO_RAIL_YET;We can not encourage railroad building when we do not know how to build them yet.;x
-mob4_desc;The introduction of working staffs at lower echelon units was a spin off from having an effective and functional General Staff. Soon all units had staffs that supported their leaders.;x
 ANNEX_SETUP;When a nation Annexes another nation;x
 north_america;North America;x
 SEN_hms_government_ADJ;Date;x
@@ -8130,7 +8107,6 @@ EVTNAME16060;Yankee Doodle;x
 liberate_country_free_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;x
 EVTOPTB16050;Plebian songs;x
 lagos_cession_desc;We outlawed the $COUNTRY_ADJ$ slave trade many years ago, but it continues in many African nations -- and the coastal city of Lagos in particular. Lagos has been a haven for slavers, providing unwilling natives to the trade on markets in defiance of all decent conventions. The notion has arisen that we should consider sending our ships in to liberate the natives there and establish a colony where they can receive civilised government.;x
-mob1_desc;A French term used for a policy of mass national conscription, often in the face of invasion. The concept originated during the French Revolutionary Wars where it formed an integral part of the creation of national identity, making it distinct from forms of conscription which had existed before this date.;x
 NORMAL_VASSAL_TAX_WAR_NAME;$SECOND_COUNTRY$ Pays Tribute to the $FIRST$;x
 anarcho_liberal_focus_short;§YAnarcho-liberal§! loyalty;x
 invest_in_korea_title;Invest in Korea;x
@@ -8210,7 +8186,6 @@ gtfo_D05_desc;We've had a good run, but it's time to end our rulership of D05: i
 EVTOPTD14210;The military needs guns, not idle gossip;x
 EVTOPTB15210;This man is clearly dangerous. Execute him;x
 gtfo_ARU_desc;We've had a good run, but it's time to end our rulership of Arab Union: if you love something, let it go!;x
-mob3_invented;Personnel Category Tables Invented;x
 pollution;Pollution Control;x
 EVTNAME37228;The Third Republic;x
 assyrian;Assyrian;x
@@ -8891,7 +8866,6 @@ EVTDESC5001;Uruguay have just hosted the first World Cup of Football, which was 
 EVTOPTB10200;Negotiate with the leaders;x
 NORMAL_WAR_TAKE_CORE_NAME_RUS_DAG;$ORDER$ Caucasian War;x
 EVTOPTA10200;Send in the troops;x
-synthetic_polymers_invented;Synthetic Polymers Invented;x
 an_elephant_for_america_desc;In 1861 King Rama IV, also known as King Mongkut, the fourth Siamese monarch of the house of Chakri, expressed in a letter to president James Buchanan of the United States, upon having heard from an American captain visiting Siam that there were no elephants in America, his desire to gift one to the United States. By offering to send an Elephant to the Americans, our relations will surely improve!;x
 PEACE_THEY_DECLINE_MAP;Declined!;x
 IOM_communist;Communist Party;x
@@ -9101,7 +9075,6 @@ gtfo_SHO_desc;We've had a good run, but it's time to end our rulership of Shona:
 REMOVE_EVTNAME14810;Stopping the Contagious Disease;x
 gtfo_D19_title;Grant Dynamic Country 19 Independence;x
 EVTOPTB4420;Tonight we dine in hell;x
-electricity_invented;Electricity Invented;x
 coastal_desert;Coastal Desert;x
 CRISIS_DAYS_UNTIL_WAR;War will break out in §Y$DAYS$§! days if a diplomatic solution is not found.;x
 EVTOPTA4422;Outlaw socialist unions;x
@@ -9113,7 +9086,6 @@ EVTNAME4420;Politburo Discusses War;x
 gtfo_MLW_title;Grant Malawi Independence;x
 indian_sepoys_title;Sepoy Rebels;x
 SHIPSUNK_4;while traversing the hazardous waters of;x
-mob2_trigger;Mobilization Time Tables;x
 kiwi_constitution;The Dominion of New Zealand;x
 gtfo_RGR_title;Grant Rio Grande Independence;x
 EVTOPTA4419;Insist that there is no problem;x
@@ -9439,7 +9411,7 @@ EVTNAME4201;Political Reform Club;x
 SLS_liberal_2;Nationalliberale ;x
 gtfo_DAK_title;Grant Dakota Republic Independence;x
 form_scandinavia_title;För Brödrafolkens Väl!;x
-the_xiang_army_desc;The Xiang Army was a standing army organized by Zeng Guofan from existing regional and village militia forces called tuanlian to contain the Taiping rebellion. The Army was financed through local nobles and gentry, as opposed to the centralized Manchu-led Qing dynasty. \n\nAlthough it was raised specifically to address problems in Hunan, the Army formed the core of the new Qing military establishment, and as such, forever weakened the Manchu influence within the military. This devolution of centralized command is commonly pointed to as a major reason for the eventual downfall of the Qing and the emergence of regional warlordism in China during the first half of the twentieth century.;x
+the_xiang_army_desc;The Xiang Army was a standing army organized by Zeng Guofan from existing regional and village militia forces called tuanlian to contain the Taiping rebellion. The Army was financed through local nobles and gentry, as opposed to the centralised Manchu-led Qing dynasty. \n\nAlthough it was raised specifically to address problems in Hunan, the Army formed the core of the new Qing military establishment, and as such, forever weakened the Manchu influence within the military. This devolution of centralised command is commonly pointed to as a major reason for the eventual downfall of the Qing and the emergence of regional warlordism in China during the first half of the twentieth century.;x
 RGR_communist;Partido Communist;x
 THE_MONTH_IS_AFTER;It is at least ;x
 EVTDESC3401;We want jobs! We need jobs!'\n\nPrevailing economic theory holds that our government needs to maintain an active economic policy in order to create more jobs in our industries, however, with unemployment figures climbing over the five percent line, some of the ideologues within the party have now suggested an increase in the unemployment subsidies in order to mollify the masses while we wait for our economy to recover.;x
@@ -9565,7 +9537,7 @@ DM_MAX;With maximum;x
 EVTDESC3002;He lives in a house, a very big house, in the country.'\n\nWith our urban centers growing every day from a constant stream of people flowing in from the country side and into the cities, it is no surprise to find at least a small trickle going in the other direction. With living and health conditions in the cities worsening on account of overcrowding, pollution and poor housing, some people, predominantly from the middle classes, have come to yearn again for the peace and quiet of country life, and, with living standards and wages increasing, more and more people can also afford the occasional trip out of town for some rest and recreation in the fresh open air of a $COUNTRY_ADJ$ country side.;x
 EVTOPTC3001;Ignore the matter completely;x
 REMOVE_desc_nswrv_women_education;Women in your province have gotten the opportunity to train at colleges;x
-HAVE_LESS_VASSALS_THAN;Have less vassals than ;x
+HAVE_LESS_VASSALS_THAN;Have fewer vassals than ;x
 EVTOPTA3001;Fold completely and revoke the reform;x
 REMOVEFROMSPHERE_THEY_ACCEPT_3;§Y$RECIPIENT$§W from the Sphere of Influence of §Y$TARGET$§W.;x
 gtfo_D24_title;Grant Dynamic Country 24 Independence;x
@@ -9573,7 +9545,6 @@ REMOVE_desc_nuwss_women_education;Women in your province have gotten the opportu
 EVTNAME3000;Squalid Slum;x
 transvaal_capital_desc;Pretoria would make a suitable location for the capital of our new republic.;x
 the_short_declaration_title;The Short Declaration;x
-EVTNAMEmob5;Railroad Transport Groups Tech Flag;x
 CANCELASKMILITARYACCESS_THEY_ACCEPT_BTN1;OK;x
 CALLALLY_THEY_ACCEPT_1;§Y$RECIPIENT$§W;x
 KML_liberal;Kumul Reformers;x
@@ -9717,7 +9688,7 @@ UIL_liberal;New Republican Party;x
 EVTNAME1201;Citizen Guards;x
 INCREASERELATION_THEY_ACCEPT_6;*;x
 EVTDESC44113;A fire that began in the barn at the residence of Patrick O'Leary on DeKoven Street spread throughout the business district, destroying 17,450 buildings, killing 300 people and leaving over 98,000 homeless.;x
-EVTDESC91007;Every 5 points of revanchism now increases both your mobilization pool and maximum solder cap in cored states by 0.5%, capped up to 5% each. Your country gains revanchism by losing core territory, and it is calculated by number of provinces lost not by population lost. You can view your current revanchism by looking in the political tab next to your government type.;x
+EVTDESC91007;Every 5 points of revanchism now increases both your mobilisation pool and maximum solder cap in cored states by 0.5%, capped up to 5% each. Your country gains revanchism by losing core territory, and it is calculated by number of provinces lost not by population lost. You can view your current revanchism by looking in the political tab next to your government type.;x
 desc_terrorist_cells;With less security personnel around in the province, terrorists have an easier time hiding and waiting for opportunities to strike.;x
 EVTNAME19361;Hegemony Continues;x
 desc_rotten_boroughs;The system of rotten boroughs was a system to create such small voting districts that a certain victory could be won through plain bribery.;x
@@ -9782,7 +9753,6 @@ EVTOPTC91501;Low Colonial Migration: §R-1% tax efficiency.;x
 EVTDESC60010;The power of the presidential office has grown to the extent where it is no longer meaningful to keep up the illusions of democracy. Our nation is a presidential dictatorship, and the president, is you. Viva El Presidente!;x
 boxer_attacked;Boxer Rebellion;x
 germania_werft;The Germaniawerft;x
-mob5_invented;Railroad Transport Groups Invented;x
 remove_cores;Remove Cores;x
 EVTOPTB13060;Order local officials to destroy opium shipments;x
 EVTNAME190;Viticultural Association;x
@@ -9817,7 +9787,6 @@ ASR_communist;Al-Hizb al-Shuyui al-Urduni;x
 UNB_conservative;New Democratic Party;x
 EVTNAME14190;A Soldier's Stomach;x
 POP_DETAILS_DEMOTIONS;Demotions:;x
-EVTNAMEcentralizedeconomicplanning;Centralized Economic Planning Tech Flag;x
 NOLONGER;no longer be;x
 EVTDESC14600;It is unclear if there was, perhaps, something in the air that year. Some theorized that it might have been due to unusual solar activity, others maintained it was nothing but a series of unfortunate coincidences -- a convergence of catastrophes, if you will -- but, whatever had caused it, $YEAR$ saw a wave of unrest spreading through the $COUNTRY_ADJ$ colonies like wildfire through a dry brushland.'\n\nA wave of unrest shakes our colonies, and we must decide on how to handle it. Concessions to the natives will come at the price of a serious loss of international face, but can we handle not giving them?;x
 SAS_conservative_3;Liberal and Country League;x
@@ -10145,7 +10114,6 @@ MDV;Moldova;x
 EVTNAME90822;Unequal Chinese Treaty;x
 PRESTIGE_EFFECT;$DIRECTION$ $VALUE$ prestige.\n;x
 REFORM_RESEARCH_COST;Research Cost: §Y$COST$§!;x
-EVTNAMEmob4;Staff Command Support Tech Flag;x
 EVTDESC90820;The use of opium has spread throughout the land. Farmers and labourers fail to turn up for work, and entire fields fall fallow, as the people slip further and further down into the mists of consuming dependence.;x
 MRT_ADJ;Marathi;x
 EVTDESC16010;John Brown's body lies a-mouldering in the grave, but his soul is marching on.'--John Brown's Body, Union Marching song\n\nThe famed hero of the abolitionist movement, the late John Brown, was hanged in Charles Town, Virginia, today after a failed raid on a military armory. Supposedly, Brown had planned to use the arsenal's weapons to arm slaves and incite an open slave rebellion across the entire south. The raid, and John Brown's death, have furthered escalated southern tension over the slavery issue, and in some slave-states there is now even talk of secession from the Union.;x
@@ -10347,7 +10315,6 @@ EVTOPTB22040;Excellent! Next order of business!;x
 AIREASON_STRATEGIC_INTERESTS;Strategic Interests;x
 WE_INTERVENED_HEADER;$MESSENGER$;x
 conquest_setup;Annex $RECIPIENT$;x
-mob3_desc;These tables categorized tasks, position, etc. so that it was easy in peace time to place personnel into combat formations. During mobilization the process was sped up as it was easy to know which soldier was to go to what company.;x
 WEDEFECT_MAP;Defection!;x
 negotiated_transfer_short;$RECIPIENT$ receives $STATE$ from us;x
 INTERVENTION_OTHER_SIDE_5;*;x
@@ -10488,7 +10455,7 @@ RAJ_proletarian_dictatorship;Rajasthan;x
 WETARGET_BANEMBASSY_5;*;x
 WETARGET_BANEMBASSY_3;§Y$RECIPIENT$§W gave us no reason why they acted the way they did.;x
 gtfo_JAM_desc;We've had a good run, but it's time to end our rulership of Jamaica: if you love something, let it go!;x
-kiwi_constitution_desc;Following the independence of Australia, and the historic ties between Australia and New Zealand, a Kiwi movement has finally materialized, asking for a decentralized independence.;x
+kiwi_constitution_desc;Following the independence of Australia, and the historic ties between Australia and New Zealand, a Kiwi movement has finally materialized, asking for a decentralised independence.;x
 WETARGET_DECREASEOPINION_HEADER;The Foreign Minister reports;x
 EVTOPTA17150;Use the pressure of the central government to end the legislation;x
 CALLALLY_WE_ACCEPT_6;*;x
@@ -10605,7 +10572,6 @@ DECREASERELATION_THEY_ACCEPT_4;They seemed shocked by the news,;x
 TRADE_SUPPLY_NEED_N;$VAL$ to supply navy each day.\n;x
 ironclad_commision;Iron Clad Commissions;x
 CREATE_GENERAL_EFFECT;Gain new §Ygeneral§W.\n;x
-revolution_n_counterrevolution_invented;Revolution & Counterrevolution Invented;x
 DECREASERELATION_THEY_ACCEPT_1;§Y$RECIPIENT$§W;x
 INDEPENDANCE_1;$ACTOR$;x
 INCREASERELATION_OTHER_ACCEPT_BTN2;OK;x
@@ -10694,7 +10660,6 @@ SIEGEOVER_6;to gain control of the province.;x
 PV_POP_RR;RR;x
 desc_haussmanns_renovations;The Haussmann's renovations, envisioned by Georges-Eugene Haussmann, included the demolition of crowded and unhealthy medieval neighborhoods, the building of wide avenues, parks and squares, the annexation of the suburbs surrounding Paris, and the construction of new sewers, fountains and aqueducts.;x
 INCREASEOPINION_THEY_ACCEPT_3;the opinion of us in;x
-mob1_china_trigger;Levée en Masse;x
 ALLIANCE_THEY_ACCEPT_3;accepted;x
 CEASECOLONIZATION_OTHER_DECLINE_BTN3;Go to;x
 SLS_communist;Communist Arbeiterpartei;x
@@ -10794,7 +10759,6 @@ EVENTHAPPENOTHEROPTION_4;among the possible options, they went with;x
 EVTOPTC3000;I, frankly, do not see the problem.;x
 EVTOPTA90035;Great!;x
 REMOVEFROMSPHERE_THEY_ACCEPT_1;§Y$RECIPIENT$§W;x
-EVTDESCmob5;This invention increases your mobilization size by 2%.;x
 ADDTOSPHERE_OTHER_ACCEPT_BTN3;Go to;x
 ADDTOSPHERE_OTHER_ACCEPT_BTN2;OK;x
 WAR_WE_ACCEPT_4;upon us! Prepare for battle...;x
@@ -11476,7 +11440,6 @@ WAR_THEY_ACCEPT_3;*;x
 CONFIRM_DISBAND_DESC;This will remove the unit completely from the game, and you will no longer have to pay any maintenance costs for it. Any manpower remaining in the unit will be returned to the pool.;x
 BUG_socialist;Uganda People's Congress;x
 EVTOPTC3402;Form coalitions in favor of unemployment benefits;x
-EVTDESCcentralizedeconomicplanning;This invention gives you +5% tariff efficiency;x
 yes_finance_reform;Enact Financial Reform;x
 CPL;Congress Poland;x
 gtfo_PAK_desc;We've had a good run, but it's time to end our rulership of Pakistan: if you love something, let it go!;x
@@ -12032,7 +11995,7 @@ expand_indian_army_desc;Ruling over such a huge population with our current forc
 EVTOPTA44632;We will restore order.;x
 dominion;Dominion;x
 colorado_rebels_title;Colorados;x
-EVTDESC16415;The Ku Klux Klan, abbreviated 'The KKK', was a decentralized organization primarily composed of white southerners, formed in 1865 by Confederate war veterans from Tennessee. A secret vigilante group, known for its iconic symbolism of burning crosses and white hoods and robes, the KKK was formed in opposition to the tenets of Republican Reconstruction, dedicated to preserving white supremacy in the former Confederate states. The Klan shunned few means in accomplishing its goal, and violence directed at southern republicans and blacks was rule rather than exception. The Klan was suppressed by the Federal Government by the passing of the Force Acts of 1871, during the first term of Ulyssess S. Grant. Today we received news that burning crosses have been seen, blazing against the warm, dark night skies of the South.;x
+EVTDESC16415;The Ku Klux Klan, abbreviated 'The KKK', was a decentralised organization primarily composed of white southerners, formed in 1865 by Confederate war veterans from Tennessee. A secret vigilante group, known for its iconic symbolism of burning crosses and white hoods and robes, the KKK was formed in opposition to the tenets of Republican Reconstruction, dedicated to preserving white supremacy in the former Confederate states. The Klan shunned few means in accomplishing its goal, and violence directed at southern republicans and blacks was rule rather than exception. The Klan was suppressed by the Federal Government by the passing of the Force Acts of 1871, during the first term of Ulyssess S. Grant. Today we received news that burning crosses have been seen, blazing against the warm, dark night skies of the South.;x
 reconstruction;Reconstruction Policies;x
 REMOVE_wrong_vote;Wrong Vote;x
 enact_radical_reconstruction_desc;Reconstruction is the collective term used to described the policies, laws, decrees, constitutional amendments and presidential orders enacted, after the American Civil War, with the goal of reintegrating the former Confederate states back into the Union. The policies centered chiefly around issues like the ending of 'Slave Power', the suppression of Southern nationalism and revanchism, and the recognition of the 13th amendment by the Southern states. Reconstruction ended with the compromise 1877, when federal troops where finally withdrawn from the South. The Confederate banners lie trampled in the ashes of Savannah and Richmond, and it's time to start the reconstruction.;x
@@ -12092,7 +12055,6 @@ EXPELADVISORS_THEY_ACCEPT_2;$MONARCHTITLE$, we managed to convince;x
 SAA_communist;Communist Arbeiterpartei;x
 EVTOPTA90044;The sun sets on the British Empire.;x
 TICKING_WARSCORE_DESC_SCORE_MAX_SHORT;$VAL$ (Max).;x
-mass_politics_invented;Mass Politics Invented.;x
 RDL;Ardalan;x
 RWA_socialist;Social Democratic Party;x
 INCREASEOPINION_WE_ACCEPT_MAP;Opinion increased;x
@@ -12583,7 +12545,6 @@ integrate_cambodia_desc;We can incorporate Cambodia as an province of $COUNTRY$.
 EVTNAME17040;I Thought The Major Was A Lady Suffragette;x
 RETRIEVEEXPEDDESC;Demand that an expeditionary force return home to you.;x
 EVTOPTA17030;Naturally the war-effort demands every available hand;x
-mob3_china_trigger;Personnel Category Tables;x
 EVTOPTA15240;Leave it be;x
 TOS_prussian_constitutionalism_ADJ;Yamauchi;x
 gtfo_NEW_title;Grant Newfoundland Independence;x
@@ -12622,7 +12583,6 @@ enact_female_suffrage_title;Enact Woman's Suffrage;x
 MSG_FILTER_TOOLTIP_BESTGUESS;Select countries by using best guess method.;x
 IS_MOB;Is Mobilised;x
 gtfo_BEL_desc;We've had a good run, but it's time to end our rulership of Belgium: if you love something, let it go!;x
-EVTOPTA91102;Eureka!;x
 PTG_liberal;The Liberal Faction;x
 SELL;SELL;x
 SID_fascist;Fascist Faction;x
@@ -12733,7 +12693,6 @@ spoil_system;Spoils System;x
 SIEGETHEMREBEL_MAP;*;x
 ASY_fascist_dictatorship;Aramaea;x
 WAR_THEY_ACCEPT_6;*;x
-mob2_china_trigger;Mobilization Time Tables;x
 EVTNAME14200;Too Stale for War?;x
 EVTOPTD14190;This is not something we should prioritize.;x
 MOVE_POP_EFFECT;Pop moved to §Y$WHERE$§W.\n;x
@@ -12994,7 +12953,6 @@ EVTNAME4430;Pressure for Reform;x
 SIEGETHEM_3;$PROV$.;x
 LAG_DECREASE_SPEED;$PLAYER$ is lagging behind, decreasing speed.;x
 WARSUBSIDIES_WE_ACCEPT_5;as long as we're in war.;x
-EVTNAMEmob3;Personnel Category Tables Tech Flag;x
 annex_bosnia_title;Annex Bosnia;x
 KNY_ADJ;Kenyan;x
 CAR_hms_government;Ubangi-Shari;x
@@ -13100,7 +13058,6 @@ PEACE_OTHER_DECLINE_HEADER;$MESSENGER$;x
 REMOVE_DECREASERELATION_WE_ACCEPT_5;*;x
 CHY_anarcho_liberal;Radical Party;x
 european_african_conquest_short;Scramble for Africa Conquest;x
-EVTDESCmob2;This invention increases your mobilization size by 1%.;x
 PARTISANS_LOG;$FACTION$ have started a rising in $PROV$.;x
 stock_market_crash_desc;Our country is feeling the effects of a stock market crash.;x
 good_health_care_fully_funded;Fully Funded Good Healthcare;x
@@ -13204,7 +13161,6 @@ BREAKCOUNTRY_BTN1;Horror!;x
 gtfo_KTI_desc;We've had a good run, but it's time to end our rulership of Kutai: if you love something, let it go!;x
 status_quo_short;Status Quo;x
 EVTDESC44403;We have the opportunity to claim the newly formed Natalia Republic as a protectorate of Cape Colony.;x
-inorganic_chemistry_invented;Inorganic Chemistry Invented;x
 socialist_group;Socialist & Communist parties;x
 argentianian_constitution_desc;The current Argentinian constitution was drafted in $YEAR$ and approved by all provincial governments despite a rebellion from Buenos Aires.  It was closely inspired by the juridical and political doctrines of the United States Federal Constitution, establishing for instance a Republican division of powers, a high level of independence for the provinces, and a federal power controlled by a strong executive government yet limited by a bicameral national congress.;x
 OAX_fascist;Fascist Party;x
@@ -13521,7 +13477,6 @@ EVTNAME17050;The Mud March;x
 OTHERS_CB_DETECTED_1;War Justification;x
 NSW_socialist_1;Labour Party;x
 genocide;Systematic Extermination;x
-EVTDESCmob1;This invention increases your mobilization size by 2%.;x
 gtfo_DOM_desc;We've had a good run, but it's time to end our rulership of Dominican Republic: if you love something, let it go!;x
 INCREASEOPINION_WE_ACCEPT_2;$MONARCHTITLE$, our opinion;x
 CB_TOWARDS_US_DETECTED_LOG;A war justification process against us by $COUNTRY$ was detected;x
@@ -14052,7 +14007,6 @@ EVTDESC44401;War has erupted in our crown colony of South Africa.;x
 EVTNAME44408;Fall of the Basotho;x
 ASKMILITARYACCESS_THEY_ACCEPT_BTN1;OK;x
 no_foreign_naval_officers;Local Naval Officers;x
-organic_chemistry_invented;Organic Chemistry Invented;x
 no_army_schools_desc;We learn on the field of battle.;x
 EVTNAME19025;Botanical Expedition Reports Back;x
 imperial_decay7;Seven Lost Substates;x
@@ -14481,7 +14435,6 @@ blockaded_modifier_desc;Immigrants are unable to reach our shores due to the ong
 chinese_treaty_port_desc;This decision will turn any colonial treaty ports into states and change the trade goods of that province to market goods.;x
 EVTNAME1000;Socialists;x
 SPHERE_OF_INFL_IS_IN_SPHERE;§Y$COUNTRY1$§W is in the sphere of §Y$COUNTRY2$§W.;x
-mob2_desc;By pre-planning mobilization, all reserve units had set mobilization areas and time tables for getting equipment, boarding trains, and frontal marching routes. This sped up the mobilization vastly.;x
 gtfo_UYG_title;Grant Uyghurstan Independence;x
 gtfo_TKM_title;Grant Turkmenistan Independence;x
 EVTNAME32514;Defeat in the Balkans;x
@@ -14563,7 +14516,7 @@ Give_600_Small_Arms;Give them 600.;x
 taras_shevchenko_local_title;Taras Shevchenko;x
 EVTOPTA44616;Crush the rebels.;x
 1857_constitution_title;Adopt the Constitution of 1857;x
-canadian_confederation_desc;The arrayed provinces of the Dominion of Canada have been asking for independence. The movement, headed by Sir John A. Macdonald, may end up providing the British Empire with a steadfast and decentralized ally in North America.;x
+canadian_confederation_desc;The arrayed provinces of the Dominion of Canada have been asking for independence. The movement, headed by Sir John A. Macdonald, may end up providing the British Empire with a steadfast and decentralised ally in North America.;x
 MERGE_UNITS;Merge the selected units;x
 EVTDESC22510;A major crash on the $CAPITAL$ stock market has devolved into something much worse entirely, following massive bank runs triggered by plummeting saver's confidence in the banking sector. As people scramble to secure their life savings, more and more banks and credit institutions fail, triggering domino effects affecting the entire $COUNTRY_ADJ$ financial sector. The ripples from the crash soon spread to other sectors of private industry, as loans are defaulted and savings vanish seemingly into thin air. Widespread unemployment, caused by entire sectors of industry failing almost overnight, soon follow. With the intertwining of the economies of the western world, the crisis quickly spreads to other countries, and the effects of the crash now reverberate around the world, in what will be known to posterity as: The $YEAR$ Great Depression.;x
 ALLIANCE_OTHER_DECLINE_BTN2;OK;x

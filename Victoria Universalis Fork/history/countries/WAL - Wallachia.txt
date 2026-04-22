@@ -8,7 +8,6 @@ literacy = 0.1
 civilized = yes
 prestige = 5
 set_country_flag = romanian
-set_country_flag = mob1_invented
 
 # Political reforms
 slavery = no_slavery

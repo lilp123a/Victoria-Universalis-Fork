@@ -25,14 +25,14 @@ low_echelon_fire_support;Low-echelon Fire Support;x
 counter_battery_fire;Counter-battery Fire;x
 creeping_barrage;Creeping Barrage;x
 grand_battle_plan_vs_superior_firepower;Grand Battle Plan vs. Superior Firepower;x
-mob1;Levée en Masse / §G+2 Mob. Size§!;x
+mob1;Levée en Masse;x
+mob2;Mobilisation Time Tables;x
+mob3;Personnel Category Tables;x
 telegraph_coordination;Telegraph Coordination;x
-mob2;Mobilisation Time Tables / §G+1 Mob. Size§!;x
-mob3;Personnel Category Tables / §G+1 Mob. Size§!;x
-mob4;Staff Command Support / §G+1 Mob. Size§!;x
+mob4;Staff Command Support;x
 empirical_combat_efficiency_matrix;Empirical Combat Efficiency Matrix;x
 combat_loss_evaluation_schemata;Combat Loss Evaluation Schemata;x
-mob5;Railroad Transport Groups / §G+2 Mob. Size§!;x
+mob5;Railroad Transport Groups;x
 pre_planned_depot_systems;Pre-planned Depot Systems;x
 logistical_calculations;Logistical Calculations;x
 military_aviation;Military Aviation;x

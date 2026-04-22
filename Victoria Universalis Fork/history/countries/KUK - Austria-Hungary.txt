@@ -13,7 +13,6 @@ literacy = 0.25
 civilized = yes
 is_releasable_vassal = no
 set_country_flag = austria
-set_country_flag = mob1_invented
 
 # Political reforms
 slavery = no_slavery

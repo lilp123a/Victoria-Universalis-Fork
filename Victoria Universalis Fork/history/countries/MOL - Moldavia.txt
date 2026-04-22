@@ -8,7 +8,6 @@ civilized = yes
 prestige = 5
 religion = orthodox
 set_country_flag = romanian
-set_country_flag = mob1_invented
 
 # Political reforms
 slavery = no_slavery

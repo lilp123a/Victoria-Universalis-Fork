@@ -7,7 +7,6 @@ nationalvalue = nv_industry
 literacy = 0.55
 non_state_culture_literacy = 0.05
 civilized = yes
-set_country_flag = mob1_invented
 
 #GreaterPowers = prestige
 prestige = 550

@@ -8,7 +8,6 @@ literacy = 0.70
 non_state_culture_literacy = 0.2
 civilized = yes
 set_country_flag = prussia
-set_country_flag = mob1_invented
 
 #GreaterPowers = prestige
 prestige = 50

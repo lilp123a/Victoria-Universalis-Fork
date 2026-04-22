@@ -873,6 +873,8 @@ jan_mayen_isolationism = {
 world_bank_timer = {
 }
 
+monthly_pulse_cooldown = {}
+
 recently_requested_trade = {
 	icon = 9
 }

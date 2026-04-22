@@ -13,7 +13,6 @@ nationalvalue = nv_order
 literacy = 0.5
 non_state_culture_literacy = 0.01
 civilized = yes
-set_country_flag = mob1_invented
 
 oob = "SAF_oob.txt"
 

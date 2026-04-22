@@ -956,7 +956,7 @@ DAYS;Days;x
 TORPEDO_ATTACK;Torpedo Attack;x
 SIEGE;Siege;x
 DO_NOT_HAVE_TECH_TRI;Have NOT invented §Y$TECH$§W\n;x
-HAVE_TECH_TRI;Have invented §Y$TECH$§W\n;x
+HAVE_TECH_TRI; Have researched §Y$TECH$§W\n;x
 ANY_GP_STARTS;Any Great Power;x
 IS_NOT_RELIGION;The state religion is not;x
 IS_RELIGION;The state religion is;x
@@ -1460,7 +1460,7 @@ HAVE_LESS_ALLIES_THAN;Have fewer allies than ;x
 HAVE_MORE_ALLIES_THAN;Number of allies at least ;x
 IS_ENABLED; is enabled;x
 IS_DISABLED; is disabled;x
-HAVE;Have ;x
+HAVE; Have invented;x
 HAVE_NOT;Do NOT have ;x
 HAS;Has ;x
 HAS_NOT;Has NOT ;x

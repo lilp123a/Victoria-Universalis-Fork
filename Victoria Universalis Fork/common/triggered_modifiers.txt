@@ -106,7 +106,6 @@ expansionism_modifier = {
 		has_country_flag = expansionism_invented	
 	}
 	badboy = -0.05
-	icon = 5
 }
 
 ########## TARIFF EFFICIENCY ##########
@@ -585,35 +584,6 @@ sphereling_tax_bonus = {
 	icon = 9
 }
 
-########## CHINA NERFS ##########
-china_tax_n_score_nerf = {
-	trigger = {
-		has_country_flag = chinese
-	}
-	tax_efficiency = -0.05
-	land_attack_modifier = -8	#is bugged and doesn't affect combat but still lowers military score
-	mobilisation_economy_impact = 4
-	icon = 16
-}
-
-chinese_pop_nerf1 = {
-	trigger = {
-		has_country_flag = chinese
-		has_country_flag = medicine_invented
-	}
-	global_population_growth = -0.001
-	icon = 16
-}
-
-chinese_pop_nerf2 = {
-	trigger = {
-		has_country_flag = chinese
-		has_country_flag = organic_chemistry_invented
-	}
-	global_population_growth = -0.001
-	icon = 16
-}
-
 ########## EIC MODIFIERS ##########
 milscore_debuff = {
 	trigger = {
@@ -675,96 +645,81 @@ new_zealand_immigration = {
 	icon = 7
 }
 
-########## MOBILIZATION TECHS ##########
+#####################
+### CHINESE NERFS ###
+#####################
 
-mob1_trigger = {
+china_tax_n_score_nerf = {
 	trigger = {
-		NOT = { has_country_flag = chinese }
-		has_country_flag = mob1_invented
+		has_country_flag = chinese
 	}
-	mobilisation_size = 0.02
-	icon = 15		
+	
+	tax_efficiency = -0.05
+	land_attack_modifier = -8 # Is bugged and doesn't affect combat but still lowers military score
+	mobilisation_economy_impact = 4
 }
 
-mob2_trigger = {
+chinese_pop_nerf1 = {
 	trigger = {
-		NOT = { has_country_flag = chinese }
-		has_country_flag = mob2_invented
+		has_country_flag = chinese
+		has_country_flag = medicine_invented
 	}
-	mobilisation_size = 0.01
-	icon = 15		
+	
+	global_population_growth = -0.001
 }
 
-mob3_trigger = {
+chinese_pop_nerf2 = {
 	trigger = {
-		NOT = { has_country_flag = chinese }
-		has_country_flag = mob3_invented
+		has_country_flag = chinese
+		has_country_flag = organic_chemistry_invented
 	}
-	mobilisation_size = 0.01
-	icon = 15		
+	
+	global_population_growth = -0.001
 }
 
-mob4_trigger = {
-	trigger = {
-		NOT = { has_country_flag = chinese }
-		has_country_flag = mob4_invented
-	}
-	mobilisation_size = 0.01
-	icon = 15		
-}
-
-mob5_trigger = {
-	trigger = {
-		NOT = { has_country_flag = chinese }
-		has_country_flag = mob5_invented
-	}
-	mobilisation_size = 0.02
-	icon = 15		
-}
-
-mob1_china_trigger = {
+china_mobilisation_nerf_1 = {
 	trigger = {
 		has_country_flag = chinese
 		has_country_flag = mob1_invented
 	}
-	mobilisation_size = 0.004
-	icon = 15		
+	
+	mobilisation_size = -0.016
 }
 
-mob2_china_trigger = {
+china_mobilisation_nerf_2 = {
 	trigger = {
 		has_country_flag = chinese
 		has_country_flag = mob2_invented
 	}
-	mobilisation_size = 0.002
-	icon = 15		
+	
+	mobilisation_size = -0.008
 }
 
-mob3_china_trigger = {
+china_mobilisation_nerf_3 = {
 	trigger = {
 		has_country_flag = chinese
 		has_country_flag = mob3_invented
 	}
-	mobilisation_size = 0.002
-	icon = 15		
+	
+	mobilisation_size = -0.008
 }
 
-mob4_china_trigger = {
+china_mobilisation_nerf_4 = {
 	trigger = {
 		has_country_flag = chinese
 		has_country_flag = mob4_invented
 	}
-	mobilisation_size = 0.002
-	icon = 15		
+	
+	mobilisation_size = -0.008
 }
 
-mob5_china_trigger = {
+china_mobilisation_nerf_5 = {
 	trigger = {
 		has_country_flag = chinese
 		has_country_flag = mob5_invented
 	}
-	mobilisation_size = 0.004
-	icon = 15		
+	
+	mobilisation_size = -0.016
 }
 
 ########## Jan Mayen ##########

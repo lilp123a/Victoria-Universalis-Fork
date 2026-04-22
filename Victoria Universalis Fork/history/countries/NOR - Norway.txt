@@ -8,7 +8,6 @@ nationalvalue = nv_equality
 literacy = 0.8
 non_state_culture_literacy = 0.8
 civilized = yes
-set_country_flag = mob1_invented
 
 # Political reforms
 slavery = no_slavery
