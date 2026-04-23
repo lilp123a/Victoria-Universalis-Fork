@@ -852,11 +852,12 @@ political_decisions = {
 			ai = no
 			has_country_flag = utility_decisions_shown
 			
-			revolution_n_counterrevolution = 1
 			NOT = { has_country_modifier = national_confusion }
 		}
 		
-		allow = {}
+		allow = {
+			revolution_n_counterrevolution = 1
+		}
 		
 		effect = {
 			add_country_modifier = {
