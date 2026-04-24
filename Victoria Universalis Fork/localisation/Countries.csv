@@ -105,8 +105,6 @@ BHO;Bhopal;x
 BHO_ADJ;Bhopali;x
 BHP;Bahawalpur;x
 BHP_ADJ;Punjabi;x
-BHT;Bohtan;x
-BHT_ADJ;Bohtani;x
 BHU;Bhutan;x
 BHU_ADJ;Bhutanese;x
 BIH;Bihar;x
@@ -147,8 +145,6 @@ BRZ_prussian_constitutionalism;The Empire of Brazil;x
 BSH;Lesotho;x
 BSH_absolute_monarchy;Basotho;x
 BSH_ADJ;Basotho;x
-BSR;al-Mazkur Sheikhdom;x
-BSR_ADJ;Mazkuri;x
 BUK;Bukkhara;x
 BUK_absolute_monarchy;Bukhara;x
 BUK_ADJ;Bukkharan;x
@@ -404,8 +400,6 @@ HAR;Harar;x
 HAR_ADJ;Harari;x
 HAW;Hawaii;x
 HAW_ADJ;Hawaiian;x
-HAZ;Hazaristan;x
-HAZ_ADJ;Hazara;x
 HDJ;Hedjaz;x
 HDJ_ADJ;Hedjazi;x
 HEK;Hesse-Kassel;x
@@ -494,30 +488,6 @@ KDS_ADJ;Kurdish;x
 KHI;Khiva;x
 KHI_absolute_monarchy;Khiva;x
 KHI_ADJ;Khivan;x
-KHR;Khorasan;x
-KHR_absolute_monarchy;Khorasan;x
-KHR_ADJ;Khorasani;x
-KHR_colonial_company;Shadlu;x
-KHR_colonial_company_ADJ;Shadluyi;x
-KHR_democracy;Khorasan;x
-KHR_fascist_dictatorship;Khorasani State;x
-KHR_hms_government;Khorasan;x
-KHR_presidential_dictatorship;Khorasan Republic;x
-KHR_proletarian_dictatorship;Khorasan Republic;x
-KHR_prussian_constitutionalism;Khorasan;x
-KHT;Qa'inat;x
-KHT_ADJ;Qa'inati;x
-KHT_colonial_company;Khozeimeh Amirdom;x
-KHT_colonial_company_ADJ;Khozeimegi;x
-KHZ;Arabistan;x
-KHZ_absolute_monarchy;Arabistan;x
-KHZ_ADJ;Arab;x
-KHZ_democracy;Arabistan;x
-KHZ_fascist_dictatorship;Arabistan;x
-KHZ_hms_government;Arabistan;x
-KHZ_presidential_dictatorship;Arabistan;x
-KHZ_proletarian_dictatorship;Arabistan;x
-KHZ_prussian_constitutionalism;Arabistan;x
 KLM;Kalimantan;x
 KLM_absolute_monarchy;Bandjar;x
 KLM_absolute_monarchy_ADJ;Bandjaran;x
@@ -528,8 +498,6 @@ KLM_prussian_constitutionalism_ADJ;Bandjaran;x
 KMT;Nationalist China;x
 KMT_ADJ;Chinese;x
 KMT_proletarian_dictatorship;Socialist Republic of China;x
-KND;Kandahar;x
-KND_ADJ;Kandahari;x
 KNG;Kong;x
 KNG_ADJ;Kongan;x
 KOK;Kokand;x
@@ -627,8 +595,6 @@ MEX_hms_government;Empire of Mexico;x
 MEX_prussian_constitutionalism;Empire of Mexico;x
 MGL;Mongolia;x
 MGL_ADJ;Mongolian;x
-MKN;Mukriyan;x
-MKN_ADJ;Mukriyani;x
 MLI;Mali;x
 MLI_absolute_monarchy;Mali;x
 MLI_ADJ;Malian;x

@@ -1,8 +1,7 @@
-owner = MKN
-controller = MKN
+owner = PER
+controller = PER
 add_core = PER
 add_core = AZB
-add_core = MKN
 add_core = KDS
 trade_goods = cattle
 life_rating = 35

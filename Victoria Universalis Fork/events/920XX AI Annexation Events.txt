@@ -100,7 +100,6 @@ country_event = {
 					region = KOK_1190
 				}
 			}
-			tag = HAZ
 			tag = HRT
 		}
 	}

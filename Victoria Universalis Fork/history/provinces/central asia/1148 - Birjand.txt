@@ -1,6 +1,5 @@
-owner = KHT
-controller = KHT
+owner = PER
+controller = PER
 add_core = PER
-add_core = KHT
 trade_goods = wool
 life_rating = 35

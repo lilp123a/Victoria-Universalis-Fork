@@ -998,15 +998,6 @@ country_event = {
 					war = yes
 				}
 			}
-			BHT = {
-				is_greater_power = no
-				exists = no
-				OR = {
-					total_amount_of_divisions = 1
-					is_mobilised = yes
-					war = yes
-				}
-			}
 			BHU = {
 				is_greater_power = no
 				exists = no
@@ -1116,15 +1107,6 @@ country_event = {
 				}
 			}
 			BSH = {
-				is_greater_power = no
-				exists = no
-				OR = {
-					total_amount_of_divisions = 1
-					is_mobilised = yes
-					war = yes
-				}
-			}
-			BSR = {
 				is_greater_power = no
 				exists = no
 				OR = {
@@ -1979,15 +1961,6 @@ country_event = {
 					war = yes
 				}
 			}
-			HAZ = {
-				is_greater_power = no
-				exists = no
-				OR = {
-					total_amount_of_divisions = 1
-					is_mobilised = yes
-					war = yes
-				}
-			}
 			HDJ = {
 				is_greater_power = no
 				exists = no
@@ -2303,33 +2276,6 @@ country_event = {
 					war = yes
 				}
 			}
-			KHR = {
-				is_greater_power = no
-				exists = no
-				OR = {
-					total_amount_of_divisions = 1
-					is_mobilised = yes
-					war = yes
-				}
-			}
-			KHT = {
-				is_greater_power = no
-				exists = no
-				OR = {
-					total_amount_of_divisions = 1
-					is_mobilised = yes
-					war = yes
-				}
-			}
-			KHZ = {
-				is_greater_power = no
-				exists = no
-				OR = {
-					total_amount_of_divisions = 1
-					is_mobilised = yes
-					war = yes
-				}
-			}
 			KLM = {
 				is_greater_power = no
 				exists = no
@@ -2340,15 +2286,6 @@ country_event = {
 				}
 			}
 			KMT = {
-				is_greater_power = no
-				exists = no
-				OR = {
-					total_amount_of_divisions = 1
-					is_mobilised = yes
-					war = yes
-				}
-			}
-			KND = {
 				is_greater_power = no
 				exists = no
 				OR = {
@@ -2673,15 +2610,6 @@ country_event = {
 				}
 			}
 			MGL = {
-				is_greater_power = no
-				exists = no
-				OR = {
-					total_amount_of_divisions = 1
-					is_mobilised = yes
-					war = yes
-				}
-			}
-			MKN = {
 				is_greater_power = no
 				exists = no
 				OR = {

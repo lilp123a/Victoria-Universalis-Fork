@@ -298,7 +298,6 @@ marsh;Marsh;x
 RETRIEVEEXPEDNEWDESC;Do you wish a unit to be returned home to §Y$RECIPIENT$§W?\nIf you do so, the unit will revert to the original owner on §Y$DATE$§W;x
 NORMAL_CIVIL_WAR_NAME_USA_CSA_USA;$ORDER$War of the Rebellion;x
 EVTNAME3301;The Familiar Institution;x
-EVTDESC31111;Bedir Khan of Bohtan had allied himself with Han Mahmoud of Müküs and Nurallah Bey of Hakkari in 1840 to a triple alliance. As the Ottomans decided to detach Cizre from Diyarbakir and have it joined to the Mosul Eyalet, Bedr Khan opposed the decision and would not submit to the authority of Mosul. The triple alliance entered in conflict with the local Assyrian population, and perpetrated massacres amongst them in 1843 and 1846. After Nurullah Bey unsuccessfully attempted to subdue the Nestorians, he called for the assistance by Bedir Khan Beg. In 1843, Bedir Khan broke their resistance and also in 1844, Yazidis were again massacred by Bedir Khan Beg. The Great Powers are outraged by his treatment of the Christian populations and are demanding that we intervene immediately.;x
 ASKMILITARYACCESS_WE_DECLINE_SETUP;When we decline a nation's military access request;x
 CANCEL_WARSUBSIDIES_WE_ACCEPT_1;§Y$RECIPIENT$§W;x
 GUNBOAT_OTHER_ACCEPT_1;Gunboat Diplomacy!;x
@@ -317,7 +316,6 @@ KMK_communist;The Communists;x
 local_good_health_care;Good Healthcare;x
 OCC_socialist;Partit Soucialisto;x
 ATWAR;The country is at war;x
-EVTOPTA36004;Damn them!;x
 WETARGET_REMOVEFROMSPHERE_MAP;Removed from sphere!;x
 anglo_egypt_war;$FIRST$-Egyptian War;x
 ASR_liberal;Yasari-d-al-Dimaqrati al-Urduni;x
@@ -689,7 +687,6 @@ EVTDESC36201;In 1871, Louis Pio formed the Danish chapter of the Socialist Inter
 gtfo_MOR_title;Grant Morocco Independence;x
 GMB_anarcho_liberal;National Convention Party;x
 EVTNAME14610;Tensions Dissipate;x
-EVTOPTA36003;Good riddance!;x
 gtfo_DLM_desc;We've had a good run, but it's time to end our rulership of Dalmatia: if you love something, let it go!;x
 TOTAL_POPS_TR;At least §Y$VAL$§W pops in $WHERE$.\n;x
 ATTACKTHEM_SETUP;When one of our land units attacks the enemy ;x
@@ -791,7 +788,6 @@ WES_socialist_2;Sozialdem. Arbeiterpartei ;x
 KER_socialist;Labour Party;x
 RAJ_democracy;Rajasthan;x
 precious_goods_RGO_SIZE;Precious Goods Market Size;x
-EVTDESC31110;Bedir Khan of Bohtan had allied himself with Han Mahmoud of Müküs and Nurallah Bey of Hakkari in 1840 to a triple alliance. As the Ottomans decided to detach Cizre from Diyarbakir and have it joined to the Mosul Eyalet, Bedr Khan opposed the decision and would not submit to the authority of Mosul. The triple alliance entered in conflict with the local Assyrian population, and perpetrated massacres amongst them in 1843 and 1846. After Nurullah Bey unsuccessfully attempted to subdue the Nestorians, he called for the assistance by Bedir Khan Beg. In 1843, Bedir Khan broke their resistance and also in 1844, Yazidis were again raided by Bedir Khan Beg. Pressure from the European Powers to stop the massacres of Christians led to Ottoman forces invading his territories in 1846–7, with Omer Pasha's 12,000 strong Ottoman force, which was supported by Yezidi tribesmen seeking revenge.;x
 free_trade_tariffs_1890;Free Trade Midagme Tariff Cap;x
 CYR_anarcho_liberal;Al-Anarkiliberali;x
 PNP;Pohnpei;x
@@ -1137,7 +1133,6 @@ gtfo_OAX_title;Grant Oaxaca Independence;x
 MESSAGECAT_EVENTS;Event Messages;x
 EVTNAME90813;Move the Capital to Nanjing;x
 CALLALLY_WE_ACCEPT_5;$VERSUS$;x
-EVTOPTA36001;We will monitor this situation closely.;x
 EVTDESC23212;A Comet was sighted in the sky, some believe that this portends fell times ahead. Others believe that they are in fact pixie fairies floating in the sky. There are also those who believe that this comet is most probably a giant ball of ice floating through the sky and the long tail is created due to the energy of the sun. The arguments amongst the three equally viable theories is stimulating the pursuit of knowledge in our country.;x
 YAK_ADJ;Yakut;x
 EVTDESC18560;A moment ago, they marched and shouted, cries of desperation and anger echoing through the streets. Now, a calm settles over the scene, as the anger subsides into stillness, and strife dissolves into peace. Whatever else can be said about the ails of our country, for all it's flaws and warts and barely overgrown scabs on old wounds, all people in our nation take an equal share in the toils and hardships, and people know this.;x
@@ -2310,7 +2305,6 @@ SNZ_presidential_dictatorship;South Island Republic;x
 DIPCHANCE_MAYBE;Maybe;x
 gtfo_HNN_title;Grant Hunan Independence;x
 FE_SETTING_POLITICS;Politics;x
-EVTNAME36004;Administrators Expelled From $FROMCOUNTRY$;x
 gtfo_CHO_desc;We've had a good run, but it's time to end our rulership of Chugoku: if you love something, let it go!;x
 WAR_LOST_GW_STATUS_3;The Great War.;x
 EVTOPTB3304;We are in no hurry;x
@@ -3351,7 +3345,6 @@ BACK_CRISIS_WE_ACCEPT_4;*;x
 gtfo_URU_desc;We've had a good run, but it's time to end our rulership of Uruguay: if you love something, let it go!;x
 exile_house_of_saud_title;Banish the House of Saud;x
 EVTOPTA111011928;Of course!;x
-revoke_kurdish_autonomy_desc;The Kurdish states on the edge of our empire long have enjoyed an autonomy. If we are to compete with the Great Powers of the world, we need to revoke that status, end tribal rule and reform these lands in a central $COUNTRY_ADJ$ administration.\n\n§RCivilisation Progress must be 70% in order to enact this decision.§W;x
 subjugation_of_sulawesi_desc;It is time we brought the rest of Sulawesi under our control.;x
 DEMAND_PEACE;Demand peace terms;x
 BACK_CRISIS_WE_ACCEPT_2;We have decided to back $ACTOR$ in the current crisis.;x
@@ -3487,7 +3480,6 @@ CRISIS_OFFER_WE_ACCEPT_BTN3;Go to;x
 clerk;Clerk;x
 communist_rebels_desc;The Red Guards are communists who have risen in open rebellion against the government, and, more importantly, against all of what they consider to be the reactionary trappings of the bourgeois state, and even society. In opposition to the institutions of religion, tradition, private ownership and family, these revolutionaries seek instead to establish a 'Dictatorship of The Proletariat', the first step on the long, corpse-strewn way to the promised classless utopia of Communism.;x
 gtfo_SHI_title;Grant Shimla Independence;x
-KHR_parliamentary_republic;Khorasan Republic;x
 mormon;Mormon;x
 EVTNAME100;Temperance League;x
 gtfo_PRG_title;Grant Paraguay Independence;x
@@ -4094,7 +4086,6 @@ EVTDESC36616;The archaic Swedish parliament system with its Four Estates, nobili
 RECENT_IMIGRATION_DAYS_LATER_THAN;No immigration for §Y$DAYS$§W days.\n;x
 SHIPSUNK_2;$MONARCHTITLE$, one of our vessels has been;x
 SHIPSUNK_HEADER;The Admiralty reports;x
-become_kurdistan_title;Become Kurdistan;x
 TRANSFEREDSUBUNIT_MAP;*;x
 LEADER_COMMAND_INFO;Led by §Y$NAME$§W (Skill: §Y$SKILL$§W)\n;x
 EVTDESC14780;While the discovery of new lands has always meant the discovery of new diseases and malaises, one of our colonies has recently begun to develop a reputation of being a particularly disease-ridden place. From malaria to colds both common and uncommon, it seems that travelers to and from the colony always catch or bring that little something unsavory extra. According to reports published by a $COUNTRY_ADJ$ doctor established in the colony, a concerted government effort at draining local swamps and marshes, as well as at improving local sanitation, could help the colony, but, of course, such efforts are not free.;x
@@ -4167,7 +4158,6 @@ ruhr_polen;Ruhrpolen;x
 EVTDESC44651;We have secured the Panama Canal for ourselves.;x
 OTHER_MOBILIZE_MAP;*;x
 INTERVENTION_OTHER_SIDE_BTN2;OK;x
-EVTOPTA36002;Crush them!;x
 OTHER_MOBILIZE_BTN3;Details;x
 METASERVER_GAME_INFO;Creator: $CREATOR$ \n Date: $DATE$;x
 OTHER_MOBILIZE_BTN2;OK;x
@@ -4234,7 +4224,6 @@ NAVALBATTLEOVER_6;is $OTHERRESULT$. We lost $SHIPS$ while they lost $THEIRSHIP$ 
 NAVALBATTLEOVER_5;$OTHER$;x
 NAVALBATTLEOVER_4;The fleet from;x
 BP_TOOL_ICON_IRONCLAD;Ironclad icon;x
-EVTNAME36005;The Hazara Uprising;x
 gtfo_DAR_desc;We've had a good run, but it's time to end our rulership of Darfur: if you love something, let it go!;x
 NAVALBATTLEOVER_2;$MONARCHTITLE$, we have $RESULT$;x
 EVTOPTA3801;Bloody reactionaries!;x
@@ -5634,7 +5623,6 @@ KML_democracy;Kumul Republic;x
 form_yugoslavia_desc;Unite our Slavic brethren!;x
 CRISIS_OFFER_WE_ACCEPT_1;$MONARCHTITLE$;x
 CONFIRMBUILDTEXT;Are you sure you wish to build;x
-afg_attack_knd_title;Kandahar Expedition;x
 the_golden_circle_title;Complete The Golden Circle;x
 Give_200_Ammunition;Give them 200.;x
 accept_trade_deal_24_title;§YAccept Trade Deal;x
@@ -5742,7 +5730,6 @@ IBR;Iberia;x
 UW_BASED_FROM;This is the base where this unit is operating from.;x
 DECREASERELATION_WE_ACCEPT_2;$MONARCHTITLE$, we have been informed by;x
 save_the_nation1.5_china;Revanchism;x
-EVTNAME31110;The Massacres of Bedir Khan;x
 EVTNAME36215;United Breweries;x
 FE_BOOKMARK_TITLE;Bookmark Title;x
 EVTOPTB36983;Do not let them take Herat.;x
@@ -6144,7 +6131,6 @@ QUA;Qu'aiti;x
 gtfo_BUN_title;Grant Bundelkhand Independence;x
 CANCELGIVEMILITARYACCESS_THEY_ACCEPT_BTN2;OK;x
 GUNBOAT_DESC;Use naval force to make them pay back their debt;x
-EVTNAME36002;The Revolt of Hasan Khan Salar;x
 COLONY_FAIL_4;has Failed!.;x
 COLONY_FAIL_3;§Y$TARGET$§b.;x
 BANEMBASSY_THEY_ACCEPT_BTN1;OK;x
@@ -6244,7 +6230,6 @@ EVTOPTB90903;Play as the Qing. §RIf you win, the Warlord Era will be avoided.;x
 OTHERS_CB_DETECTED_3;§Y$CASUS$§! Casus Belli;x
 gtfo_UTN_title;Grant Tennessee Independence;x
 LOG_SETTING_ICON;Icon;x
-EVTDESC36004;$FROMCOUNTRY$ took advantage of our recent retreat from their neighboring territory to declare their independence.;x
 yes_military_constructions;Advanced Constructions;x
 UW_NO_GUNBOAT_POSSIBLE;No valid target for gunboat diplomacy;x
 INCREASEOPINION_THEY_ACCEPT_MAP;Opinion increased;x
@@ -7324,7 +7309,6 @@ EVTDESC90902;Our reclamation of some of the European treaty ports in China has r
 EVTOPTA36600;An artistic genius;x
 EVTNAME22500;Stock Market Crash!;x
 gtfo_BRU_desc;We've had a good run, but it's time to end our rulership of Brunei: if you love something, let it go!;x
-revoke_coastal_emirate_autonomy_title;Revoke Coastal Autonomy;x
 EVTOPTA14080;Nonsense. The production quota will remain the same.;x
 EVTOPTA14550;A rousing cheer for the Empire!;x
 EVTNAME36600;The Swedish Nightingale;x
@@ -7752,7 +7736,6 @@ EVTOPTB19020;We have better things to do;x
 gtfo_LSK_title;Grant Alaska Independence;x
 EVTOPTA19020;Send the expedition!;x
 EVTDESC19020;The flora of $PROVINCENAME$ is spectacular, unique and mostly unknown to science. Here, in the vast spaces of uncharted land, an untold affluence of botanical riches awaits the discoverer who dares brave the harsh and unforgiving climate in search of it. The $COUNTRY_ADJ$ Botanical Society is considering sending an expedition to $PROVINCENAME$, but, as is so often the case, funds are lacking. Sending an expedition could further the cause of science, but, beware, we might get competition...;x
-KHZ_parliamentary_republic;Arabistan;x
 EVTNAME19020;$PROVINCENAME$ Botanical Expedition?;x
 EVTNAME3752;Brick St. Gentlemen's Club;x
 EVTOPTB10320;Certainly, this is only propaganda designed to exploit the working classes.;x
@@ -8670,7 +8653,6 @@ sadok_bey_reforms_title;Sadok Bey's Reforms;x
 EVTDESC12250;A fire at a $PROVINCENAME$ Explosives Warehouse has caused a massive blast that some say could be heard all the way to $CAPITAL$. The devastation is massive, and hundreds of lives in the vicinity are reported lost. As the fire spreads through the city, the fire department needs to prioritize: The fire threatens to spread north to the affluent $PROVINCENAME$ neighborhoods, and south to poorer areas. Where to?;x
 gtfo_KOK_title;Grant Kokand Independence;x
 EVTNAME12250;KA-BOOOM!;x
-revoke_kht_autonomy_title;Integrate Qa'inat;x
 EVTOPTA36202;Lock them up!;x
 EVTNAME17150;Cat and Mouse Act;x
 ONGOINGBUILD;A construction is currently in progress.;x
@@ -8800,7 +8782,6 @@ QLD_ADJ;Queenslander;x
 GIVEMILITARYACCESS_WE_ACCEPT_BTN1;OK;x
 KAG_absolute_monarchy;Kaga;x
 MLD_ADJ;Maldive;x
-revoke_kurdish_autonomy_title;Revoke Kurdish Autonomy;x
 EVTNAME15000;$PROVINCECULTURE$ Boy Shot by Police!;x
 india_civil_service;Imperial Civil Service;x
 EVTOPTA10250;Say nothing;x
@@ -9273,7 +9254,6 @@ DIPRELCH_HASACCESS;Military Access;x
 no_foreign_artillery_desc;Artillery is made up of ineffective siege equipment or it's not present at all.;x
 EVTOPTB3751;Let the law slip;x
 EVTOPTA3750;They were probably conspiring;x
-EVTNAME36001;The Rise of Hasan Khan Salar;x
 SATELLITE_OF;§YSatellite§W of;x
 EVTNAME3750;A Meeting Of Three;x
 EVTOPTC3703;Entirely false, we should support our unions;x
@@ -9310,7 +9290,6 @@ EVTOPTC3603;I agree with the workers.;x
 EVTOPTB3603;I agree with the employers.;x
 embrace_swahili_title;Embrace Swahili;x
 EVTOPTC14140;This issue must fundamentally be left to popular sovereignty;x
-become_kurdistan_desc;At long last, we have acheived the dream of an independent Kurdistan.;x
 gtfo_ORA_title;Grant Oranje Independence;x
 puppet_acquire_state_desc;Take a state for a puppet nation.;x
 ECONOMICREFORM_6;*;x
@@ -10291,7 +10270,6 @@ OL_LAND_COMBAT_DEFEND;We are defending against an attack which has progressed §R
 acquire_core_state_setup;Acquire core $STATE$ from $RECIPIENT$;x
 GIVEMILITARYACCESS_WE_DECLINE_4;invitation to host our troops was unworthy;x
 gtfo_KRA_desc;We've had a good run, but it's time to end our rulership of Krakow: if you love something, let it go!;x
-afg_attack_knd_desc;Kandahar has grown ever closer to Persia and ever further from us. The time has come to fully integrate these unruly vassals.\n\n§RCivilisation Progress must be 30% in order to enact this decision.;x
 BACK_CRISIS_OTHER_DECLINE_6;*;x
 INTERVENTION_OUR_SIDE_HEADER;$MESSENGER$;x
 TAJ_fascist;The Fascist Faction;x
@@ -10499,7 +10477,6 @@ WARSUBSIDIES_WE_ACCEPT_SETUP;When a nation start giving us war subsidies;x
 DECREASERELATION_OTHER_ACCEPT_5;*;x
 DECREASERELATION_OTHER_ACCEPT_4;Their relations have taken a turn for the worse.;x
 DECREASERELATION_OTHER_ACCEPT_3;§Y$ACTOR$§W has insulted §Y$RECIPIENT$§W.;x
-EVTOPTB36002;Join them!;x
 DECREASERELATION_WE_ACCEPT_BTN1;OK;x
 EVTNAME36981;Britain Guarantees Herati Independence;x
 EVTOPTA1150;It was good while it lasted.;x
@@ -10862,7 +10839,6 @@ CEASECOLONIZATION_OTHER_ACCEPT_1;§Y$RECIPIENT$§W;x
 rebuilding_city_desc;Our city is rebuilding.;x
 GIVEMILITARYACCESS_THEY_DECLINE_BTN3;Go to;x
 EVTNAME111011928;Form Arabia;x
-revoke_coastal_emirate_autonomy_desc;The Persian Coast for many years has been effectively controlled by Emirs loyal to the Shah only in name, in order to centralize Persian control over the coast, we must revoke the automony of these Emirates.\n\n§RCivilisation Progress must be 55% in order to annex al-Mazkur Sheikhdom and 90% to annex Arabistan.§W;x
 ASKMILITARYACCESS_THEY_ACCEPT_BTN3;Go to;x
 GIVEMILITARYACCESS_THEY_DECLINE_1;§Y$RECIPIENT$§W;x
 EVTDESC19025;... thus, our expedition has now catalogued an additional 20 species of plantlife hereto unknown to science. During the past months two additional men have been claimed by the foul odors of malaria and dysentery, but, despite absent friends, morale among the men continues to be high. With best wishes, and love. Signed, ... '\n\nThe botanical expedition we dispatched has reported back. It is clear that, while they are making progress, they could use some additional support.;x
@@ -11169,7 +11145,6 @@ add_to_sphere;Add to Sphere;x
 REMOVEFROMSPHERE_WE_ACCEPT_HEADER;The Foreign Minister reports;x
 INTERVENTION_OTHER_SIDE_BTN1;OK;x
 conquest;Conquest;x
-EVTNAME31111;The Rise of Bedir Khan;x
 nocasusbelli;No war justification;x
 EVTDESC13310;The foreigners in $PROVINCENAME$ have revealed the purpose of their being here! They have decided to set up a missionary station!;x
 EVTDESC44614;Our armies are destroyed and our capital has been captured by the Brazilians. What hope do we have left to win this war?;x
@@ -11438,7 +11413,6 @@ CHATMESSAGE_HEADER;Chat message;x
 EVTOPTA2582;Excellent!;x
 rebuilding_city;Rebuilding;x
 TOG_communist;Juvento;x
-EVTOPTA31110;The kafirs must pay!;x
 gtfo_MEC_title;Grant Mecklenburg Independence;x
 bad_debter_desc;Due to your countrys history of flaky economy banks will demand a higher interest on your loans;x
 LIV_anarcho_liberal;Latvijas Radikaldemokratu Partija;x
@@ -11581,7 +11555,6 @@ WARINDEMNITIES_INCOME;War indemnities: §G$VAL$§W;x
 SAT_prussian_constitutionalism;Satsuma;x
 REVOLTALLIANCE_BTN3;Go to;x
 OL_NAVAL_BASE;The $PROV$ naval base currently has $NUM$ units assigned;x
-EVTDESC36002;Asif al-Daula managed to convince the Shah to make Hasan Khan Salar the governor of Khorasan and appoint himself as guardian of Mashhad. However, once the Shah fulfilled these requests, Asif al-Daula began to crush those who gave their allegiance directly to the Shah and ordered the execution of the governor of the Nardin district, Mohammad Hasan Khan. This was the last straw, and Asif was ordered to set out for Tehran, which he did, and took 400,000 tuman with him. Mirza Muhammad Khan was sent to rule in Mashhad as a replacement along with a 600-man force as an escort. Mirza Muhammad Khan then defected to Salar and joined him in rebelling against the Shah.;x
 EVTOPTA44653;Jackpot!;x
 negotiating_treaty_desc;Our diplomats are negotiating a treaty with a defeated nation.;x
 EVTOPTA17590;Yes? We have trade, wars, production, and you tell me about organized labour?;x
@@ -12088,7 +12061,6 @@ EVTDESC11105;With the Jewish state gone, Jews have no reason to migrate to Israe
 GREAT_WARS_ENABLED_DESC;Great Wars are discovered.\n;x
 DECREASEOPINION_OTHER_ACCEPT_SETUP;When a nation decreases the opinion of another nation;x
 DAK_absolute_monarchy;Dakota Commonwealth;x
-EVTOPTA36005;Crush them!;x
 WEGAINCB_LOG;We gained the '$CASUS$' Casus Belli against $ENEMY$.;x
 MODIFIER_LAND_ATTACK;Military Score Bonus;x
 TKS_conservative;Royal Faction;x
@@ -12262,7 +12234,6 @@ gtfo_SRD_desc;We've had a good run, but it's time to end our rulership of Sardin
 EVTNAME44407;Fall of the Basotho;x
 WHA_socialist;Plaid Cymru;x
 EVTNAME17690;Beer Hall Putsch;x
-EVTNAME36003;Iranian Retreat;x
 NSW_reactionary_2;Progressive Party;x
 EVTNAME4302;Wealth Based Voting;x
 unciv_reactionary_rebels_name;$COUNTRY$ Reactionaries;x
@@ -13116,7 +13087,6 @@ gtfo_UIA_title;Grant Iowa Independence;x
 EVTOPTA44615;We should surrender.;x
 WAR_THEY_ACCEPT_5;*;x
 schwabing_circles_title;The Schwabing Circles;x
-EVTDESC36005;Discontent among the Hazara against our leadership has spiked, leading them to open revolt.;x
 gtfo_GER_title;Grant Germany Independence;x
 egyptian_protectorate_desc;While we have had control over Egypt's economic and diplomatic matters for some time, the Sultan of Egypt still holds some nominal sway over the country. It is time for us to formally assume total control of Egypt and integrate it into the rest of our empire.;x
 dobrudja_exchange;Albania Exchange;x
@@ -13216,7 +13186,6 @@ EVTOPTA19310;Excellent!;x
 nationalist_balkans;Nationalist Fervour;x
 EVTOPTA15080;We fight them here;x
 WES_liberal_3;Freisinnige Partei;x
-EVTDESC36001;After September 1845, Mohammad Shah Qajar was physically weakened, and rumors spread that Mohammad Shah was dying. This resulted in the Qajar court dissolving into multiple factions that fought with each other. One faction was led by Allah Yar Khan Asif al-Daula, the uncle of Mohammad Shah and governor of Khorasan. He despised the Grand Vizier, Hajji Mirza Aghasi, and wanted to take over his position. He failed and thus, he began to think of revolting. Asif al-Daula's son, Hasan Khan Salar, began to have ideas of his own and planned to seize Khorasan for himself. Mohammed Yusuf mentions that "Hasan Khan Salar, son of Asif al-Daulah, whose mother was the great-great-grandchild of Khaqan, Fath 'Ali Shah, got the idea of revolting, and chanted this verse repeatedly: "I am ashamed of this kind of life;x
 badboy1;25 Infamy Penalty;x
 REB_SIZE_DESC;Number of possible brigades: §Y$VAL$§W;x
 ever_victorious_army;The Ever Victorious Army;x
@@ -13237,7 +13206,6 @@ MODIFIER_UNCIV_ECONOMIC;Economic reform cost;x
 EVTOPTA32513;We will limit our wargoals.;x
 EVTDESC23202;The Second Expedition to find the Source of the Nile has disappeared without a trace, and are now presumed lost? Should we make a third attempt in this quest?;x
 RESEARCH_POINTS_LABEL;Research Points:;x
-EVTOPTA31111;We must put a stop to this.;x
 accept_trade_deal_3_desc;If we enter into a trade deal with the chosen country, we will get a decision that allows us to send goods from our stockpile to our trading partner.;x
 QAT_ADJ;Qatari;x
 EVTNAME33900;The Inheritance of the Duchy of Brunswick;x
@@ -13785,7 +13753,6 @@ KAM_conservative;The Conservatives;x
 gtfo_ELS_title;Grant El Salvador Independence;x
 csa_manifest_destiny_title;Manifest Destiny;x
 professional_civil_servants_l;Professional Civil Service;x
-EVTDESC36003;Waning Persian influence over our neighbors has given us an opportunity to expel them from our country too.;x
 WARSUBSIDIES_WE_ACCEPT_2;$MONARCHTITLE$, we have received;x
 BKF_communist;Voltaic Communist Organization;x
 gtfo_OMA_title;Grant Oman Independence;x
@@ -14244,7 +14211,6 @@ gtfo_PAP_desc;We've had a good run, but it's time to end our rulership of Papal 
 EVTOPTB15260;No, let them build and own houses;x
 GW_DISCOVERED_6;*;x
 gtfo_BSH_title;Grant Lesotho Independence;x
-revoke_kht_autonomy_desc;Qa'inat has had autonomy for too long, central administration would stabilize it and ensure its rulers can never turn against us.\n\n§RCivilisation Progress must be 95% in order to enact this decision.;x
 October;October;x
 demand_chinese_concession_casus_belli;Demand Chinese Concession;x
 gtfo_JOR_desc;We've had a good run, but it's time to end our rulership of Jordan: if you love something, let it go!;x
@@ -14657,7 +14623,6 @@ PGG_anarcho_liberal;Jijin Dang;x
 LBN_socialist;Hizb al-Taqadummi al-Ishtiraki;x
 GW_DISCOVERED_SETUP;When the Great Wars are discovered.;x
 REVOLTALLIANCE_LOG;A revolution! Our alliance is broken!;x
-EVTOPTB31111;We will not be coerced into action.;x
 EVTOPTA44671;Sign the treaty.;x
 CB_EXPIRE_DATE;Expires §Y$DATE$§W;x
 EVTNAME35924;The Jambi Sultanate;x
