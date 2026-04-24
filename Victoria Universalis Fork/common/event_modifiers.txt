@@ -1015,6 +1015,7 @@ america_first_ww1 = {
 
 #### GER - GERMANY, PRU - PRUSSIA ####
 ruhr_boom = {
+	factory_cost = -0.25
 	factory_owner_cost = -0.5
 	global_population_growth = 0.001
 	factory_throughput = 0.05
