@@ -1700,6 +1700,8 @@ country_event = {
 				add_country_modifier = { name = opium_addiction duration = -1 }
 				add_country_modifier = { name = the_eight_banners duration = -1 }
 			}
+			
+		clr_country_flag = wait_for_setup
 	}
 	
 	option = {

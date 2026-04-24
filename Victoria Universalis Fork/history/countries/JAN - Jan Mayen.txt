@@ -8,6 +8,7 @@ literacy = 0
 decision = build_strait_canals
 decision = strait_crossings
 set_country_flag = jan_mayen
+set_country_flag = wait_for_setup
 
 # Political reforms
 slavery = no_slavery

@@ -883,10 +883,6 @@ settlement = {
 	icon = 22
 }
 
-colonial_nerf_counter = {
-	icon = 14
-}
-
 ########## COUNTRY EVENT MODIFIERS ##########
 
 ##### GREAT POWERS #####

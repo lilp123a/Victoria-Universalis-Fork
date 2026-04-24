@@ -2289,12 +2289,10 @@ province_event = {
 
 	title = "EVTNAME1107"
 	desc = "EVTDESC1107"
-	picture = ""
 
 	option = {
 		name = "EVTOPTA1107"
 		trade_goods = rubber
-		# life_rating = 5
 		add_province_modifier = { name = strategic_rgo duration = -1 }
 	}
 }

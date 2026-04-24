@@ -1776,8 +1776,8 @@ country_event = {
 
 	option = {
 		name = "EVTOPTA44653"
+		set_global_flag = atacama_saltpetre_discovered
 		set_country_flag = saltpeter_rush
-		set_global_flag = atacama_saltpeter_discovered
 		add_country_modifier = { name = small_immigration_boom duration = 1825 }
 		any_owned = {
 			limit = {

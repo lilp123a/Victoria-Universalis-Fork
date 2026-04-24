@@ -1,0 +1,522 @@
+# *##############################################*
+# *###### BACKGROUND TIMED PULSE DECISIONS ######*
+# *##############################################*
+
+political_decisions = {
+	#####################
+	### MONTHLY PULSE ###
+	#####################
+	# Fired once per month
+	# Sets technology and invention flags
+	# Sets government flags
+	
+	monthly_pulse = {
+		potential = {
+			tag = JAN
+			
+			NOT = { has_country_modifier = monthly_pulse_cooldown }
+			NOT = { has_country_flag = wait_for_setup }
+		}
+		
+		allow = {}
+		
+		effect = {
+			add_country_modifier = {
+				name = monthly_pulse_cooldown
+				duration = 30
+			}
+			
+			any_country = {
+				####################################
+				### TECHNOLOGY & INVENTION FLAGS ###
+				####################################
+				
+				random_owned = {
+					limit = {
+						owner = {
+							invention = mob1
+							NOT = { has_country_flag = mob1_invented }
+						}
+					}
+					owner = { set_country_flag = mob1_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							invention = mob2
+							NOT = { has_country_flag = mob2_invented }
+						}
+					}
+					owner = { set_country_flag = mob2_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							invention = mob3
+							NOT = { has_country_flag = mob3_invented }
+						}
+					}
+					owner = { set_country_flag = mob3_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							invention = mob4
+							NOT = { has_country_flag = mob4_invented }
+						}
+					}
+					owner = { set_country_flag = mob4_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							invention = mob5
+							NOT = { has_country_flag = mob5_invented }
+						}
+					}
+					owner = { set_country_flag = mob5_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							medicine = 1
+							NOT = { has_country_flag = medicine_invented }
+						}
+					}
+					owner = { set_country_flag = medicine_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							inorganic_chemistry = 1
+							NOT = { has_country_flag = inorganic_chemistry_invented }
+						}
+					}
+					owner = { set_country_flag = inorganic_chemistry_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							organic_chemistry = 1
+							NOT = { has_country_flag = organic_chemistry_invented }
+						}
+					}
+					owner = { set_country_flag = organic_chemistry_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							electricity = 1
+							NOT = { has_country_flag = electricity_invented }
+						}
+					}
+					owner = { set_country_flag = electricity_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							synthetic_polymers = 1
+							NOT = { has_country_flag = synthetic_polymers_invented }
+						}
+					}
+					owner = { set_country_flag = synthetic_polymers_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							revolution_n_counterrevolution = 1
+							NOT = { has_country_flag = revolution_n_counterrevolution_invented }
+						}
+					}
+					owner = { set_country_flag = revolution_n_counterrevolution_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							invention = colonial_negotiations
+							NOT = { has_country_flag = colonial_negotiations_invented }
+						}
+					}
+					owner = { set_country_flag = colonial_negotiations_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							invention = expansionism
+							NOT = { has_country_flag = expansionism_invented }
+						}
+					}
+					owner = { set_country_flag = expansionism_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							military_logistics = 1
+							NOT = { has_country_flag = military_logistics_invented }
+						}
+					}
+					owner = { set_country_flag = military_logistics_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							mass_politics = 1
+							NOT = { has_country_flag = mass_politics_invented }
+						}
+					}
+					owner = { set_country_flag = mass_politics_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							invention = manifest_destiny
+							NOT = { has_country_flag = manifest_destiny_invented }
+							is_greater_power = yes
+							OR = {
+								RUS_1182 = {
+									owner = {
+										civilized = no
+										neighbour = THIS
+									}
+								}
+								RUS_1185 = {
+									owner = {
+										civilized = no
+										neighbour = THIS
+									}
+								}
+								RUS_2611 = {
+									owner = {
+										civilized = no
+										neighbour = THIS
+									}
+								}
+								KHI_1191 = {
+									owner = {
+										civilized = no
+										neighbour = THIS
+									}
+								}
+								RUS_1196 = {
+									owner = {
+										civilized = no
+										neighbour = THIS
+									}
+								}
+								BUK_1207 = {
+									owner = {
+										civilized = no
+										neighbour = THIS
+									}
+								}
+								KOK_1190 = {
+									owner = {
+										civilized = no
+										neighbour = THIS
+									}
+								}
+							}
+						}
+					}
+					owner = { set_country_flag = manifest_destiny_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							positivism = 1
+							NOT = { has_country_flag = positivism_invented }
+						}
+					}
+					owner = { set_country_flag = positivism_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							functionalism = 1
+							NOT = { has_country_flag = functionalism_invented }
+						}
+					}
+					owner = { set_country_flag = functionalism_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							biologism = 1
+							NOT = { has_country_flag = biologism_invented }
+						}
+					}
+					owner = { set_country_flag = biologism_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							social_science = 1
+							NOT = { has_country_flag = social_science_invented }
+						}
+					}
+					owner = { set_country_flag = social_science_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							invention = working_board_of_directors
+							NOT = { has_country_flag = working_board_of_directors_invented }
+						}
+					}
+					owner = { set_country_flag = working_board_of_directors_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							invention = centralized_economic_planning
+							NOT = { has_country_flag = centralized_economic_planning_invented }
+						}
+					}
+					owner = { set_country_flag = centralized_economic_planning_invented }
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							invention = mixed_economy
+							NOT = { has_country_flag = mixed_economy_invented }
+						}
+					}
+					owner = { set_country_flag = mixed_economy_invented }
+				}
+				
+				##################
+				### GOVERNMENT ###
+				##################
+				
+				random_owned = {
+					limit = {
+						owner = {
+							has_country_flag = revolution_n_counterrevolution_invented
+							centralization = regionalism
+						}
+					}
+					owner = { political_reform = unitary }
+				}
+				
+				random_owned = {
+					limit = {
+						owner = {
+							OR = {
+								government = proletarian_dictatorship
+								government = fascist_dictatorship
+							}
+							NOT = { has_country_flag = communist_or_fascist_dictatorship }
+						}
+					}
+					
+					set_country_flag = communist_or_fascist_dictatorship
+				}
+				
+				random_owned = {
+					limit = {
+						owner = {
+							NOT = {
+								OR = {
+									government = proletarian_dictatorship
+									government = fascist_dictatorship
+								}
+								has_country_flag = communist_or_fascist_dictatorship
+							}
+						}
+					}
+					
+					clr_country_flag = communist_or_fascist_dictatorship
+				}
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	####################
+	### YEARLY PULSE ###
+	####################
+	# Fired once per year
+	# Reassigns strategic RGO modifiers to provinces which may have lost them due to being stated
+	
+	yearly_pulse = {
+		potential = {
+			tag = JAN
+			
+			NOT = { has_country_modifier = yearly_pulse_cooldown }
+			NOT = { has_country_flag = wait_for_setup }
+		}
+		
+		allow = {}
+		
+		effect = {
+			add_country_modifier = {
+				name = yearly_pulse_cooldown
+				duration = 365
+			}
+			
+			##################################
+			### STRATEGIC RGO REASSIGNMENT ###
+			##################################
+			
+			any_country = {
+				any_owned = {
+					limit = {
+						OR = {
+							### SULPHUR ###
+							AND = {
+								OR = {
+									AND = {
+										has_global_flag = atacama_saltpetre_discovered
+										
+										OR = {
+											province_id = 2305 # Antofagasta
+											province_id = 2307 # Iquique
+											province_id = 2308 # Arica
+											province_id = 2309 # Calama
+										}
+									}
+									
+									province_id = 763 # Messina
+									province_id = 764 # Catania
+									province_id = 2523 # Nauru
+								}
+								
+								trade_goods = sulphur
+								NOT = { has_province_modifier = strategic_rgo }
+							}
+							
+							### COAL ###
+							AND = {
+								province_id = 227 # Pittsburgh
+								
+								trade_goods = coal
+								NOT = { has_province_modifier = strategic_rgo }
+							}
+							
+							### IRON ###
+							AND = {
+								OR = {
+									province_id = 158 # Duluth
+									province_id = 177 # Marquette
+									province_id = 306 # Bodo
+									province_id = 320 # Umeå
+									province_id = 321 # Lulea
+								}
+								
+								trade_goods = iron
+								NOT = { has_province_modifier = strategic_rgo }
+							}
+							
+							### OIL ###
+							AND = {
+								OR = {
+									province_id = 2264 # Caracas
+									province_id = 2270 # Maracaibo
+								}
+								
+								trade_goods = oil
+								NOT = { has_province_modifier = strategic_rgo }
+							}
+							
+							### RUBBER ###
+							AND = {
+								OR = {
+									province_id = 1385 # Johor Bahru
+									province_id = 1386 # Malacca
+									province_id = 1387 # Kuala Lumpur
+									province_id = 1388 # Penang
+									province_id = 1389 # Alor Setar
+									province_id = 1390 # Kuantan
+									province_id = 1391 # Kota Bahru
+									province_id = 1394 # Kuching
+									province_id = 1395 # Bintulu
+									province_id = 1426 # Pontianak
+									province_id = 2301 # Puerto Maldonado
+									province_id = 2317 # San Ignacio
+									province_id = 2318 # Roboré
+									province_id = 2319 # Santa Ana
+									province_id = 2320 # Riberalta
+									province_id = 2321 # Cobija
+									province_id = 2401 # Marabitanas
+									province_id = 2402 # Manaus
+									province_id = 2403 # Cachoeira
+									province_id = 2404 # Tefe
+									province_id = 2405 # Borba
+									province_id = 2407 # Tabatinga
+									province_id = 2417 # Vila Bela
+									province_id = 2549 # Tarauacá
+									province_id = 2550 # Forte do Príncipe
+									province_id = 2575 # Ipoh
+									province_id = 2600 # Altamira
+									province_id = 2671 # Eirunepé
+								}
+								
+								trade_goods = rubber
+								NOT = { has_province_modifier = strategic_rgo }
+							}
+						}
+					}
+					
+					add_province_modifier = {
+						name = strategic_rgo
+						duration = -1
+					}
+				}
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	####################
+	### DECADE PULSE ###
+	####################
+	
+	decade_pulse = {
+		potential = {
+			tag = JAN
+			
+			NOT = { has_country_modifier = decade_pulse_cooldown }
+			NOT = { has_country_flag = wait_for_setup }
+		}
+		
+		allow = {}
+		
+		effect = {
+			add_country_modifier = {
+				name = decade_pulse_cooldown
+				duration = 3650
+			}
+			
+			##########################
+			### FARMLAND EXPANSION ###
+			##########################
+			
+			any_country = {
+				limit = {
+					ai = yes
+				}
+				
+				any_owned = {
+					limit = {
+						unemployment_by_type = {
+							type = farmers
+							value = 0.01
+						}
+					}
+					
+					farmland = 1
+				}
+			}
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
