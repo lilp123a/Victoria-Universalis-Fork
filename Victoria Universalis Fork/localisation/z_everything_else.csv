@@ -213,7 +213,6 @@ EVTOPTB19022;The province belongs to $FROMCOUNTRY$;x
 owed_steamers;Owed Steamers;x
 EVTOPTA14070;I see no reason to monopolize it.;x
 WES_socialist;Deutscher Arbeiterverein;x
-EVTOPTA91002;Got it.;x
 EVTNAME15150;Kulturkampf;x
 YZW_ADJ;Yonezawan;x
 GIVEMILITARYACCESS_OTHER_DECLINE_5;§Y$ACTOR$§W;x
@@ -432,7 +431,6 @@ CB_TOWARDS_US_DETECTED_SETUP;A war justification process against us is detected;
 east_indies;East Indies;x
 EVTNAME2060;Immigrant Riots;x
 EVTOPTB15070;Carry a big stick;x
-EVTOPTB91004;I would like to know more.;x
 CHANGE_RELIGION_EFFECT;Change religion to §Y$NAME$§W.\n;x
 TRIGMOD_3;*;x
 EVTDESC12190;The $PROVINCENAME$ refinery has been doing well lately, with production exceeding expected quotas by several thousand gallons. Due to storage problems, the refinery owner has approached the government with a deal to buy the fuel at a steep discount. We could either buy the fuel ourselves, or turn him down and wait for him to float the cheap fuel on the market. The local impact of cheap fuel should make the locals fairly happy, but we could probably use the fuel ourselves.;x
@@ -461,7 +459,6 @@ uninstall_communist_gov_cb_short;Uninstall communism.;x
 PAN_absolute_monarchy_ADJ;Sikh;x
 gtfo_GER_desc;We've had a good run, but it's time to end our rulership of Germany: if you love something, let it go!;x
 platine_war_short;Establish control over Platinean breakaway states.;x
-EVTNAME91006;Tutorial: Generals;x
 ADDTOSPHERE_THEY_ACCEPT_2;$MONARCHTITLE$, we have included;x
 CALLALLY_THEY_DECLINE_BTN2;OK;x
 gtfo_HDU_desc;We've had a good run, but it's time to end our rulership of Hindustan: if you love something, let it go!;x
@@ -1491,7 +1488,6 @@ REMOVE_no_diaspora;No Diaspora;x
 FRO_anarcho_liberal;Vinnuflokkurin;x
 EVTDESC18130;A red wind seems to have taken a tour-de-force through the Upper House lately, as more and more members of parliament express their willingness to cooperate with, and support the ruling socialist party. If we do not wish to see the socialists achieving a single majority in the chamber, now is the time to act.;x
 EVTDESC4300;The mob assembled outside the national legislative assembly is frustrated and angry, and the anger is directed directly at us. Our population is up in ire over the issue of charter reform. They want the vote, and some hot-heads in the crowd are even hinting at taking it by force if they don't get it. Despite certain radicals, the movement for charter reform is still largely keeping itself within the bounds of peaceful protest. The options our government finds itself faced with are to either support the charter reform movement, or to oppose it, and the choice really shouldn't be too hard.;x
-EVTDESC91008;POP promotion factors and national focus bonuses has been split up into 4 tiers. Small states below 400k population have roughly 25% faster promotion, large states between 2M and 4M population have roughly 2/3rd the promotion, and massive states over 4M population have roughly 1/3rd the promotion rate as normal states. States have been redrawn such that no state outside of China and India will have over 2M population at the start.;x
 AOT_liberal;Ropu o te Rangatahi;x
 DECISIONUS_HEADER;The Foreign Ministry reports;x
 ISBLOCKED;You may not build this if you have already built;x
@@ -2023,7 +2019,6 @@ BE_ANNEXED;Annexed;x
 local_trinket_health_care;Trinket Healthcare;x
 DIPLO_CALL_ALLIES;Call Allies;x
 EVTOPTA90841;Crush them!;x
-EVTNAME91010;Tutorial: The Economy;x
 EVTOPTA13090;Our research will blossom.;x
 TCP_SERVER_LOST;Server lost while transfering save!;x
 DIPLOMACY_CANNOT_SET_PRIO_MYVASSAL;They are a §Y$TYPE$§W of ours and are always in our §YSphere of Influence§W;x
@@ -2868,7 +2863,6 @@ ALLIANCE_OTHER_ACCEPT_SETUP;When a nation accepts another nation's alliance offe
 EVTOPTA31210;Join the Balkan League.;x
 EVTOPTA70004;Excellent.;x
 CRISIS_NOBODY_BACKED_2;The crisis in;x
-EVTOPTB91005;I would like to know more.;x
 PEACE_WE_ACCEPT_2;We have accepted a peace offer from;x
 OCC_liberal;Partit de lo Nacioun Óucitano;x
 HAVE_NO_UNITS_IN;$COUNTRY$ have NO units in $PROVINCE$.;x
@@ -3442,7 +3436,6 @@ EVTNAME1211;Immoral Businesses - No Longer an Issue;x
 no_industrial_construction_desc;No advanced factories.;x
 CRISIS_OFFER_WE_DECLINE_1;$MONARCHTITLE$;x
 TENSION_FROM_ACTIVE_CRISIS;Active Crisis: §Y$VAL$§!;x
-EVTOPTA91007;Got it.;x
 EXPELADVISORS_THEY_ACCEPT_HEADER;The Foreign Minister reports;x
 CRISIS_OFFER_WE_DECLINE_SETUP;When we decline to join a side in a crisis;x
 March;March;x
@@ -3451,7 +3444,6 @@ EVTOPTA160002;The Qing shall prevail!;x
 PEACE_THEY_ACCEPT_LOG;$RECIPIENT$ accepted our peace offer.;x
 gtfo_CAT_title;Grant Catalonia Independence;x
 CRISIS_OFFER_OTHER_ACCEPT_BTN2;OK;x
-EVTOPTA91004;Got it.;x
 yazidi;Yazidi;x
 CRISIS_OFFER_OTHER_ACCEPT_6;*;x
 SAA_ADJ;Saarlander;x
@@ -3597,7 +3589,6 @@ BAY_liberal_2;Nationalliberale ;x
 ZAM_communist;United National Independence Party;x
 steppe_mine;Steppe;x
 TENSION_LESS_THAN;Lower flashpoint tension than ;x
-EVTDESC91011;Use the pass reform decision to increase school reform if you have low literacy. Max out national admin efficiency by promoting bureaucrats in your largest accepted culture POP states, then promote clergy to 4% in your largest states. Tariff efficiency, building costs, POP promotion, and half the crime fighting rate are based off your national admin efficiency. National admin efficiency does not take into account where the bureaucrats are located, so you can increase bureaucrats in your biggest state with accepted culture POPs above 1% in order to max out national admin efficiency. State admin efficiency is different from national admin efficiency and does not have any affect on POP promotion rates, tariffs, or taxes.;x
 HAS_NO_FLASHPOINT;Has no flashpoint;x
 HAS_FLASHPOINT;Has flashpoint;x
 gtfo_TNT_desc;We've had a good run, but it's time to end our rulership of Tannu Tuva: if you love something, let it go!;x
@@ -4806,7 +4797,6 @@ integrate_annazah_desc;With our recent victory over Egypt, some within our gover
 THEYDEFECT_2;$PROV$;x
 EVTDESCexpansionism;This tech grants you -0.05 monthly infamy decay.;x
 EVTOPTA13015;Our options are limited, and force of arms must be considered;x
-EVTNAME91002;Tutorial: Province Selectors;x
 EVTOPTA13050;It is not our place to intervene;x
 ADD_PROVINCE_CRUDE_OIL_EFFECT;Gain §G$VALUE$§W crude oil in §Y$PROVINCE$§W.\n;x
 SAT_hms_government;Satsuma;x
@@ -5091,7 +5081,6 @@ FE_DIFFICULTY;Difficulty:;x
 BACKERS_LABEL;Backers:;x
 yes_foreign_artillery;Imported Artillery;x
 DAN_liberal;Venstre;x
-EVTNAME91004;Tutorial: Research & Literacy;x
 BAY_anarcho_liberal;Radikale Arbeiterpartei;x
 WARSUBSIDIES_WE_ACCEPT_4;They will pay us §Y$VALUE$§W each day,;x
 BAY_conservative_3;Christsoz. Arbeiterpartei;x
@@ -5658,8 +5647,6 @@ southern_pride;Southern Pride;x
 ALLREADYTHERE;This building is already built.;x
 BACK_TO_MAIN;Return to main interface.;x
 ALLOWED_CAUSE;Possible here, due to the following...;x
-EVTOPTA91009;Got it.;x
-EVTOPTB91011;I would like to know more.;x
 SUPPLY_LIMIT;Supply Limit;x
 gtfo_AFG_title;Grant Afghanistan Independence;x
 BUILD_COST;Build Cost;x
@@ -5777,7 +5764,6 @@ EVTDESC44601;The confederation of Peru and Bolivia represents a threat to our in
 UV_NOT_MOBILE;This unit is not allowed to move;x
 UV_MOVING;This unit is moving;x
 UV_ATTACKING;This unit is attacking;x
-EVTOPTA91005;Got it.;x
 CB_JUSTIFY_NO_LONGER_VALID_SETUP;When our war justification process is no longer valid.;x
 ASKEXPEDITIONREQDESC;§Y$ACTOR$§W is offering us §G$UNIT$§W as an expeditionary force. \n §G$UNIT$§W contains $NUM$ $TYPE$s that may use as we please until they are recalled.\n$UNIT$ is currently located in $PROV$.;x
 EVTOPTA14020;There are no Gods!;x
@@ -6110,7 +6096,6 @@ BUILDING_DONE_4;is completed.;x
 FORT_LEVEL;Fort Level;x
 ADD_PROVINCE_METAL_EFFECT;Gain §G$VALUE$§W metal in §Y$PROVINCE$§W.\n;x
 EVTOPTC3300;Ignore the issue completely;x
-EVTOPTA91008;Got it.;x
 CRISIS_BACK_DOWN_OTHER_DECLINE_2;$RECIPIENT$;x
 manpower;Manpower;x
 EVTDESC44624;The continued existence of two separate Argentine states will soon become permanent if we do not unify the country.;x
@@ -7428,7 +7413,6 @@ EVTOPTA3302;I agree that certain revisions are in order;x
 EVTNAME34601;Deutschlandlied;x
 REMOVE_EVTDESC2130;Liberate the human mind from the dominion of religion, liberate the human body from the dominion of property and liberate us from the shackles and restraint of government! We should be able to enjoy all necessities of life, independent of individual desires, tastes and inclinations! Liberate us, and let anarchism lead us into this free life!'\n\nThe first immigrant anarchist have been deported after the Anarchist Exclusion Act passed.;x
 EVTDESC34600;Adolph Diesterweg, a German educator, laid down principles for the teaching of children that aimed at making them conscious, thinking, responsible citizens. His ideas get him suspended in 1847.;x
-EVTDESC91002;Province Selectors are a new building type that when built will trigger a province event with a list of options. Each choice grants a bonus to either the province or the entire state. Some options are limited by a cooldown, others cost money, and some can only have one active at a time.;x
 EVTNAME34600;Diesterweg Publishes His Guidelines for Teachers;x
 small_promote_soldiers;Encourage Soldiers;x
 EVTDESC34500;When Oldenburg was elevated from a Duchy to a Grand Duchy on June 9th 1815, His Highness Peter II became the first monarch to use officially the title of Grand Duke on his formal accession.;x
@@ -7818,7 +7802,6 @@ EVTOPTA18510;Modesty and justice;x
 EVTDESC30003;Our neighbors have come to our capital to celebrate this Trade Fair, with national pavilions from other nations and several different buildings and marvels highlighting our economic and cultural prowess to the visitors.;x
 EVTNAME17090;Leaflet Campaign;x
 populist_welfare;Paternalistic;x
-EVTDESC91009;Healthcare reforms are time locked, require certain techs to pass, and they have to be funded via the social spending slider in order to get the bonus. You get no pop growth benefit just by passing the reform, in order to receive the benefits of the reform you must have your social spending slider set to the minimum amount listed in the reform. The money spent on healthcare counts as income for POPs and is taxed just like any other income.;x
 EVTNAME18510;Military Parade;x
 ZAM_fascist;Fourth Revolution Party	;x
 krakow_uprising;The Winger Hussars will ride once more.;x
@@ -8271,7 +8254,6 @@ REMOVE_INCREASERELATION_WE_ACCEPT_4;The relation between our countries has incre
 EVTOPTB15050;Shut it down before it gets worse;x
 end_the_merina_monarchy_title;End The Merina Monarchy;x
 EVTOPTA15050;They're $PROVINCECULTURE$! We have nothing to fear;x
-EVTDESC91004;Daily research points from average literacy was reduced and a new category of reforms called Research & Development was added that gives +0.2 RPs and -1% tax efficiency per level. There are 10 levels of R&D reforms and each level requires an additional 10% average literacy to pass. R&D reforms can be raised or lowered instantly and without cost via decision. At the beginning of every year, POPs with over 10% literacy will lose literacy  at a rate of 0.1% for every 10 literacy in order to simulate children having to be taught how to read, so a POP with 50% literacy will lose 0.5% and a POP with 100% literacy will lose 1%. The max base cap for clergymen is 2% and is increased by 0.5% per school reform level, up to a max of 4%.;x
 OTHER_DEMOBILIZE_MAP;*;x
 CANCELGIVEMILITARYACCESS_THEY_ACCEPT_SETUP;When we cancel military access rights to our country;x
 SWH_communist;Communist Arbeiterpartei;x
@@ -8450,7 +8432,6 @@ EVTDESC14530;... and I argue that this present resurgence of native unrest in th
 restore_portugal_brazil_desc;Independence movements in Brazil have been sufficiently pacified enough for us to consider elevating Brazil to equal status with Portugal.;x
 gtfo_PAP_title;Grant Papal States Independence;x
 EVTNAME14530;Colonial Crisis;x
-EVTOPTB91001;Skip everything. In singleplayer this vetoes all events, in multiplayer it skips your vote.;x
 AGRESSION_ORIENTAL_WAR_NAME;2nd Oriental War;x
 EVTOPTB14520;Brutally force people off their land? Not a very $COUNTRY_ADJ$ thing to do!;x
 BUILDING_PORT_PROVINCE;Port province;x
@@ -8873,7 +8854,6 @@ SNZ_bourgeois_dictatorship;South Island Republic;x
 EVTDESC33400;In Donaustauf near Regensburg the Walhalla, a classicist monument fashioned after Greek temples and named after the legendary afterworld of Norse mythology, was opened in 1842. In this hall of fame busts of famous Germans are displayed for the public.;x
 EVTOPTB12130;Work smarter!;x
 WAR_OTHER_ACCEPT_3;declared war;x
-EVTOPTB91010;I would like to know more.;x
 EVTNAME19022;$FROMPROVINCE$ Botanical Expedition?;x
 EVTDESC44467;§R$FROMCOUNTRY$§b has decided to they would rather go to war than give in to our demands.;x
 EVTOPTA10130;Oh great.;x
@@ -8891,7 +8871,6 @@ REMOVE_EVTOPTA10105;Oh bless the Almighty.;x
 GGCOINS_BAD_LOGIN;Wrong username or password;x
 EVTOPTB10100;Spare no effort in relieving the local farmers.;x
 EVTNAME10100;The Blight of $YEAR$;x
-EVTOPTA91003;Got it.;x
 CRISIS_BECAME_WAR_SETUP;A crisis has escalated into war;x
 REMOVE_EVTNAME10000;Spring of Nations;x
 die_wacht_am_rhein_desc;In 1840, France's then prime minister Adolphe Thiers had claimed that the river Rhine constituted the natural eastern border of the French nation, sparking what would later become known as the Rhine Crisis, as this was perceived in Germany as a threat to Prussian possessions on the western bank of the river. In response to these events, the poet and merchant Max Schneckenburger wrote a patriotic poem calling on the 'Fatherland to remain calm', for, as the poem says, 'fast and true stands the watch at the Rhine', implying that the German nation would defend the river against any and all (French) aggression. The poem was put to music in 1854, and became extremely popular in Germany during the Franco-Prussian war of 1870-71.;x
@@ -9667,7 +9646,6 @@ UIL_liberal;New Republican Party;x
 EVTNAME1201;Citizen Guards;x
 INCREASERELATION_THEY_ACCEPT_6;*;x
 EVTDESC44113;A fire that began in the barn at the residence of Patrick O'Leary on DeKoven Street spread throughout the business district, destroying 17,450 buildings, killing 300 people and leaving over 98,000 homeless.;x
-EVTDESC91007;Every 5 points of revanchism now increases both your mobilisation pool and maximum solder cap in cored states by 0.5%, capped up to 5% each. Your country gains revanchism by losing core territory, and it is calculated by number of provinces lost not by population lost. You can view your current revanchism by looking in the political tab next to your government type.;x
 desc_terrorist_cells;With less security personnel around in the province, terrorists have an easier time hiding and waiting for opportunities to strike.;x
 EVTNAME19361;Hegemony Continues;x
 desc_rotten_boroughs;The system of rotten boroughs was a system to create such small voting districts that a certain victory could be won through plain bribery.;x
@@ -10065,7 +10043,6 @@ desc_witwatersrand_gold_rush;A Gold Rush in the Witwatersrand is making us known
 requested_grant_desc;We have recently requested a grant and must wait awhile before asking for another one.;x
 ADDTOSPHERE_OTHER_ACCEPT_SETUP;When a nation is added to another nation's Sphere of Influence;x
 WAR_THEY_ACCEPT_4;*;x
-EVTOPTB91008;I would like to know more.;x
 acceptable_schools_fully_funded;Fully Funded Education;x
 REVOLTALLIANCE_HEADER;The Foreign Minister reports;x
 support_schaumburgs_title;Support The Schaumburg-Lippes;x
@@ -10337,9 +10314,7 @@ EXPELADVISORS_OTHER_ACCEPT_HEADER;The Foreign Minister reports;x
 military_reform;Military Reform;x
 native_rebels_desc;These rebels seek to restore rulership of the country to its proper native culture.;x
 EVTDESCelectricity;This tech allows you to enact good healthcare.;x
-EVTOPTB91002;I would like to know more.;x
 EVTOPTA19025;We support our boys!;x
-EVTNAME91007;Tutorial: Revanchism;x
 REMOVE_desc_prison_break;Prisoners have managed to flee from prison.;x
 EVTNAME1109;Oil Well found in $PROVINCENAME$;x
 PEACE_THEY_DECLINE_2;$RECIPIENT$;x
@@ -10647,7 +10622,6 @@ RGR_fascist;Partido Fascist;x
 EVTDESC18170;A socialist demagogue in the Upper House has launched a long tirade against the government from the speaker's podium, ridiculing the government for what he calls its inability to quell the increasing social unrest in $COUNTRYNAME$. He claims that, under a socialist regime, the leadership, the party and the masses speak as if with one voice.;x
 CEASECOLONIZATION_WE_DECLINE_BTN1;OK;x
 CEASECOLONIZATION_WE_DECLINE_6;if they are going to be worth our time.;x
-EVTOPTA91010;Got it.;x
 CEASECOLONIZATION_WE_DECLINE_5;to cease colonizing $ASTATE$;x
 CRISIS_OFFER_OFFER;$ACTOR$ offer §Y$WARGOAL$§! to join their side in the current crisis.;x
 CEASECOLONIZATION_WE_DECLINE_1;§Y$RECIPIENT$§W;x
@@ -11185,7 +11159,6 @@ ansei_purge_desc;Ansei Purge was a multi-year event in Japanese history of the E
 EVTDESC17110;Although some women try zealously to incarnate this essence, it is hardly patentable. It is frequently described in vague and dazzling terms that seem to have been borrowed from the vocabulary of the seers, and indeed in the times of Saint Thomas it was considered an essence as certainly defined as the somniferous virtue of the poppy.'\n- de Beauvoir, Simone -- The Second Sex\n\nA renowned $COUNTRY_ADJ$ suffragette has published a book on what can best be described as the subject of feminist theory, and the book is gaining a fair amount of attention both nationally and internationally.;x
 pass_folkskolereformen_desc;Folkskolereformen', The 'People School' Reform, was a law passed in Sweden in 1842 that introduced compulsory schooling for all Swedish children in a number of basic subjects, provided for by the state. 'Folkskolan' would remain the basis of Sweden's educational system up until the early 1970's, when it was sadly phased out in favor of ignorance and poor grammar.;x
 EVTOPTB80000;The Czar can go to hell!;x
-EVTDESC91003;Farm base RGO size is 40k and mine base RGO size is 10k. Provinces no longer start with a size multiplier based on population, instead their size can be increased by 100% per each level of their respective expansion building. Artisans will automatically convert to labourers at the beginning of the year if there is available work in a mine expansion.;x
 INCREASEOPINION_WE_ACCEPT_4;We now feel §Y$OPINION$§W towards them.;x
 EVTOPTB60130;By god no, $FROMCOUNTRY_ADJ$ scum;x
 EVTDESC44408;The Basotho have come to offer their loyalty to us in exchange for protection from the Boers.;x
@@ -11394,7 +11367,6 @@ central_great_war_demands;Unconditional Surrender;x
 TNT_communist;Communist Party;x
 KMK_fascist_dictatorship;Kalmyk Khanate;x
 WARSUBSIDIES_OTHER_ACCEPT_4;§Y$RECIPIENT$§W.;x
-EVTDESC91010;A number of small changes have been made in an effort to balance the in-game economy and lessen the frequency of economic crashes. New factory goods have been introduced and POP needs have been rebalanced to make normally useless goods more important. RGO outputs and factory inputs/outputs have all been tweaked for more even distribution of goods. A world bank has been implemented that prevents the prices of RGO goods from crashing by buying some of the unsold resources in the world market. The world bank will always be in last place in the rankings which puts it last on the buy order.;x
 embrace_bedouin_minority_desc;It is time to grant equal rights to the Bedouins;x
 EVTOPTB44800;Diaz steps down.;x
 BE_NAVY;Warships:;x
@@ -12144,7 +12116,6 @@ EVTOPTC14020;Let the people have their faith.;x
 no_education_reform_desc;Our country doesn't have schools and education is largely disorganized.;x
 LOR_fascist_dictatorship_ADJ;Lotharingian;x
 CALLALLY_OTHER_ACCEPT_SETUP;When a nation accepts another nation's call to arms;x
-EVTOPTB91009;I would like to know more.;x
 gtfo_RHO_title;Grant Rhodesia Independence;x
 BREAKNAPNEWDESC;Do you wish to cancel the Non-Aggression Pact we have with $COUNTRY$?;x
 zprovince_blood_and_iron_title;§GBlood and Iron RGO.;x
@@ -12187,7 +12158,6 @@ form_south_italy_title;Avanti Italia!;x
 MLW_fascist;Fascist Party of Malawi;x
 gtfo_MAD_title;Grant Madagascar Independence;x
 ASKMILITARYACCESS_THEY_DECLINE_SETUP;When a nation declines our military access request;x
-EVTOPTB91006;I would like to know more.;x
 NEW_CORE_EFFECT_TAG;$TAG$ will gain §Yall§W as core.\n;x
 ASKMILITARYACCESS_OTHER_ACCEPT_SETUP;When a nation accepts another nation's military access request;x
 ARMY_TECHNOLOGY_LEVELS;Army Tech: $VAL$/$MAX$;x
@@ -12309,7 +12279,6 @@ EVTOPTA17120;I predict that the reform agenda will gain a fair amount of tractio
 EVTOPTA160502;A show of force should deal with this.;x
 NORMAL_WAR_FREE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;x
 EVTDESC17660;Political violence has claimed several lives in one of our states, as fascist paramilitaries stormed the headquarters of the local liberal party yesterday, killing three and wounding several more. The action has been met with reaction during the night, as fascists, socialists and citizen guards engage in street-fighting throughout. The situation has exploded out of a relative calm, and many of the citizens in the state are angry, afraid and concerned about where the country is heading, with several suggesting increased police budgets as a means to ensure state control.;x
-EVTDESC91006;Negative general traits have been removed and the cost of recruiting generals has been increased from 20 to 40. A general's attack and defence stats are now clearly displayed in the general selection boxes and they are colour coded with the following values: +1 is §Ibrown§b, +2 is §Bblue§b, +3 is §Ggreen§b, +4 is §Rred§b, and +5 is §Wwhite§b. Literacy, country size, and national ideas now also factor into leadership point generation.;x
 EXP_SQUADRON;Air wing;x
 EVTOPTA17650;I believe we will see it primarily read by the lower class;x
 gtfo_MNG_title;Grant Mongo Independence;x
@@ -12530,7 +12499,6 @@ URA_liberal;Westerniser;x
 KAG_absolute_monarchy_ADJ;Maeda;x
 po_uninstall_communist_gov_type;Uninstall communist government;x
 SLE_ADJ;Sierra Leonean;x
-EVTDESC91001;Welcome to the tutorial of Victoria Universalis. This mod introduces several new features and game mechanics that give the player more control over their provinces and POPs. Decisions with clear instructions on how to trigger them have replaced most events. If you want to end the tutorial pick the first or second option, if you wish to know more pick the third.;x
 OTHERS_CB_DETECTED_MAP;*;x
 national_idea3_desc;This invention unlocks another national idea.;x
 SAS_socialist;Labour Faction;x
@@ -13175,7 +13143,6 @@ EVTDESC35601;More 'black ships' have appeared off our shores, these ones command
 fake_war_title;§YControl Puppet Armies;x
 WAR_OTHER_ACCEPT_2;$MONARCHTITLE$, $AGRESSOR$;x
 russian_army_education;Dmitry Milyutin's Army Reform;x
-EVTNAME91009;Tutorial: Healthcare;x
 christian_subjugation;Christian Subjugation;x
 VIC_socialist;Labour Faction;x
 WAR_OTHER_ACCEPT_1;$AGRESSOR$;x
@@ -13186,7 +13153,6 @@ LOS_socialist;Partido Socialist;x
 DECREASERELATION_WE_ACCEPT_6;*;x
 corrupt_army_desc;After one defeat, one of our generals blamed the failure on enemy magic, which prompted an angry response from the ruler. It's evident that the organization and logistics of our army are inadequate, officer training is deficient, and corruption is widespread.;x
 SHA_communist;Communist Party;x
-EVTNAME91008;Tutorial: POP promotion;x
 WARGOAL_THEY_ACCEPT_2;We have decided to expand our war by demanding;x
 WHA_communist;Plaid Gomiwnyddol;x
 BACK_CRISIS_OTHER_ACCEPT_SETUP;When someone backs the other side of a crisis;x
@@ -13213,7 +13179,6 @@ taxation_1910;Lategame Taxation Cap;x
 EVTOPTA13305;A matter that merits national attention, I'm sure;x
 EVTNAMErevolutionncounterrevolution;Revolution and Counterrevolution Tech Flag;x
 Maneuver;Maneuver;x
-EVTOPTA91051;Got it.;x
 desc_naval_school;The Merchant Marine operates a Naval School in one of our provinces, providing lessons in leadership and education in the latest naval technologies.;x
 ASKMILITARYACCESS_THEY_ACCEPT_1;§Y$RECIPIENT$§W;x
 EVTOPTB4418;A temporary ban would be in order;x
@@ -13261,7 +13226,6 @@ EVTNAME44811;Congo Conference Successful;x
 EXPELADVISORS_WE_ACCEPT_BTN2;OK;x
 gtfo_SEG_desc;We've had a good run, but it's time to end our rulership of Ségou: if you love something, let it go!;x
 EVTNAME31527;The First Italian War of Independence;x
-EVTOPTC91001;I would like to know more.;x
 EVTNAME15270;Dryzymala's Wagon;x
 accept_trade_deal_9_desc;If we enter into a trade deal with the chosen country, we will get a decision that allows us to send goods from our stockpile to our trading partner.;x
 yes_pre_indust;Pre-Industrialization;x
@@ -13574,7 +13538,6 @@ gtfo_NEJ_desc;We've had a good run, but it's time to end our rulership of Nejd: 
 NO_MIGRATIONS_FOUND2_TOOLTIP;No migration between countries has been noticed.;x
 kinda_bad_badboy;International Sanctions;x
 nv_autocracy;Autocracy;x
-EVTNAME91001;Tutorial;x
 SIEGETHEMREBEL_BTN3;Goto;x
 SIEGETHEMREBEL_LOG;We have begun to occupy $PROV$.;x
 FE_HOST;Host;x
@@ -13666,7 +13629,6 @@ KYR_communist;The Communist Faction;x
 changing_agriculture;Changing Agriculture;x
 EVTNAME60150;The end of female suffrage;x
 gtfo_ARO_title;Grant Aro Independence;x
-EVTOPTB91003;I would like to know more.;x
 treaty_of_ayacucho_desc;We can press the owners of Eirunepé to recognize our claims on the it in exchange for promising not to press for further claims in Tarauacá. If they refuse, we will claim both provinces.;x
 EVTOPTA1142;That could come in handy;x
 CB_ALLOWED_PRESTIGE;Reduction of Prestige;x
@@ -13779,7 +13741,6 @@ YAK_liberal;The Liberals;x
 end_the_javanese_sultanates_title;End the Javanese Sultanates;x
 REMOVE_own_home;Owning a Home;x
 BANKRUPTCY_1;A sad state of affairs!;x
-EVTNAME91011;Tutorial: Protip;x
 no_foreign_naval_officers_desc;Local officers command our ships.;x
 WETARGET_DECREASEOPINION_MAP;Opinion decreased!;x
 SMI;Sapmi;x
@@ -13882,7 +13843,6 @@ WE_BECAME_GREAT_POWER_2;and are now considered a Great Power!;x
 LEADERDIED_5;*;x
 PEACE_THEY_DECLINE_BTN3;Goto;x
 LBN_fascist;Phalanges Libanaises;x
-EVTNAME91051;The Great War;x
 NOT_STRONGER_ARMY_THAN;Does not have a stronger military than ;x
 WAR_LOST_GW_STATUS_BTN1;OK;x
 pashtunwali;Pashtunwali;x
@@ -14247,7 +14207,6 @@ reclaim_transcaucasia_title;Reclaim the Caucasus;x
 gtfo_LIB_desc;We've had a good run, but it's time to end our rulership of Liberia: if you love something, let it go!;x
 cancel_trade_agreements_4_title;§YCancel Trade Agreement;x
 eastern_crisis_dismantle_ottomans;Dismantle the Ottoman Empire;x
-EVTOPTB91007;I would like to know more.;x
 EVTOPTA44701;Support Prince Ang Duong.;x
 EVTNAME31201;Albanian Uprising;x
 MLW_communist;Communist Party of Malawi;x
@@ -14259,7 +14218,6 @@ SAA_liberal_2;Nationalliberale ;x
 EVTOPTB19023;The cause of science demands it;x
 gtfo_BOS_desc;We've had a good run, but it's time to end our rulership of Bosnia-Herzegovina: if you love something, let it go!;x
 EVTOPTA91883;The Pax Britannica ends and the Kaiserreich begins!;x
-EVTNAME91005;Tutorial: Colonial Policy;x
 gtfo_RUT_title;Grant Ruthenia Independence;x
 taiping_mobilization_desc;We call upon the armies of God to smite the Qing devils.;x
 NQL_anarcho_liberal;Radical Liberals;x
@@ -14270,7 +14228,6 @@ opium_addiction_desc;Our people are hopelessly addicted to the "black spice". It
 gtfo_DRA_title;Grant Dravidistan Independence;x
 ALT;Altai Republic;x
 opium_war_setup;Force an unequal treaty.;x
-EVTDESC91005;A POP's chance to migrate to a colony is now calculated based on the new Colonial Migration reform, which can be raised or lowered at any time via decision. POPs migrating to the colonies will not migrate to states with the §RIndirect Rule§b modifier and only move to states with the §GSettlement§b modifier. §GSettlement§b is denoted in the province window by a new settler icon and §RIndirect Rule§b is denoted by a blacked out settler icon. These two province modifiers can be swapped at any time by building a province selector in the target colonial state and choosing §BColonial Policy§b.;x
 chincha_war_setup;Acquire Chincha Islands.;x
 coffee_RGO_SIZE;Coffee plantation size;x
 LOR_fascist_dictatorship;Lotharingia;x
@@ -14607,7 +14564,6 @@ SUA_fascist;Fascist Faction;x
 EVTDESC44663;We have lost our last foothold in Brazilian South America, our dreams of empire are crushed forever. §RWe will no longer receive immigrants from our old Brazilian dependencies.;x
 GMB_fascist;Gambia Congress Party;x
 SIEGETHEMREBEL_BTN1;OK;x
-EVTNAME91003;Tutorial: RGOs;x
 SUA;Suazi;x
 minor_strategic_rgo;Strategic RGO Modifier;x
 AZA_conservative;Royal Faction;x
@@ -14637,7 +14593,6 @@ EVTDESC33007;Worried by the growing popularity of the socialist movement, Bismar
 the_congo_reform_association_desc;An international humanitarian organization is casting a less than favorable light on our colonial policies in the Congo.;x
 EVTDESCgiveartillery;$FROMCOUNTRY$ has asked us for a shipment of artillery. Shall we give it to them?;x
 massive_promote_craftsmen;Encourage Craftsmen;x
-EVTOPTA91001;Skip tutorial and go to voting events.;x
 EVTDESC3404;An unorganized wildcat strike has broken out in one of our states. The workers have barricaded a local workshop and refuse to let anyone in until, as they put it, 'their demands are met'. The problem is that they seem to have fairly limited conceptions of what it is they actually want, except 'more'. A local union boss has offered to mediate the issue, but the best option might be to just ignore them.;x
 EVTDESC44674;The delegation from §R$FROMCOUNTRY$§b has rejected our recent treaty offer.;x
 EVTNAME36985;Britain Refuses;x
@@ -14666,7 +14621,6 @@ OSELECT_UNIT_DRO;If you have multiple units selected, this option makes it possi
 end_gaza_kingdom_title;End the Gaza Kingdom;x
 EVTDESC90048;The leaders of $FROMCOUNTRY$ have rejected our proposal of allowing Baluchistan to join the British Indian Agency.;x
 cancel_trade_agreements_11_title;§YCancel Trade Agreement;x
-EVTOPTA91011;Got it.;x
 RGR_liberal_4;Partido Antireelecionista;x
 MILITARYREFORM_BTN2;OK;x
 communist;Communist;x
