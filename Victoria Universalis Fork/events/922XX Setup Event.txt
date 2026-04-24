@@ -1700,7 +1700,31 @@ country_event = {
 				add_country_modifier = { name = opium_addiction duration = -1 }
 				add_country_modifier = { name = the_eight_banners duration = -1 }
 			}
+		
+		#######################
+		### STARTING EVENTS ###
+		#######################
+		
+		# Colonial Policy Decision
+		any_country = {
+			limit = {
+				colonial_nation = yes
+			}
 			
+			country_event = {
+				id = 91521
+				days = 0
+			}
+		}
+		
+		# Carlist War
+		SPA = {
+			country_event = {
+				id = 37703
+				days = 0
+			}
+		}
+		
 		clr_country_flag = wait_for_setup
 	}
 	
