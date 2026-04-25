@@ -1205,4 +1205,61 @@ political_decisions = {
 			}
 		}
 	}
+	
+	#######################
+	### EXPAND FARMLAND ###
+	#######################
+	# Expand farmland in provinces which have unemployed farmers
+	
+	utility_expand_farmland = {
+		picture = utility_expand_farmland
+		alert = yes
+		
+		potential = {
+			ai = no
+			
+			NOT = { has_country_modifier = expand_farmland_cooldown }
+			
+			META_1 = {
+				owner = {
+					tag = THIS
+					
+					any_owned_province = {
+						unemployment_by_type = {
+							type = farmers
+							value = 0.001
+						}
+					}
+				}
+			}
+		}
+		
+		allow = {}
+		
+		effect = {
+			add_country_modifier = {
+				name = expand_farmland_cooldown
+				duration = 7
+			}
+			
+			any_owned = {
+				limit = {
+					owner = {
+						money = 50000
+					}
+					
+					unemployment_by_type = {
+						type = farmers
+						value = 0.001
+					}
+				}
+				
+				owner = {
+					treasury = -50000
+				}
+				
+				farmland = 1
+			}
+		}
+	}
 }

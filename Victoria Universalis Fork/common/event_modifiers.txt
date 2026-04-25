@@ -1654,3 +1654,8 @@ nv_equality_preview = {
 nv_industry_preview = {
 	icon = 3
 }
+
+###
+expand_farmland_cooldown = {
+	icon = 1
+}

@@ -47,6 +47,10 @@ province_event = {
 					name = province_attract_immigrants
 					duration = -1
 				}
+				
+				owner = {
+					set_country_flag = added_immigration_attraction
+				}
 			}
 		}
 		
@@ -54,6 +58,10 @@ province_event = {
 		owner = {
 			random_owned = {
 				limit = {
+					owner = {
+						NOT = { has_country_flag = added_immigration_attraction }
+					}
+					
 					is_core = JAN
 					
 					has_province_modifier = province_attract_immigrants
@@ -61,6 +69,10 @@ province_event = {
 				
 				remove_province_modifier = province_attract_immigrants
 			}
+		}
+		
+		owner = {
+			clr_country_flag = added_immigration_attraction
 		}
 		
 		remove_core = JAN

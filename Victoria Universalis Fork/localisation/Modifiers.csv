@@ -75,3 +75,5 @@ literacy_researchpoints_80;80% Literacy;x
 literacy_researchpoints_85;85% Literacy;x
 literacy_researchpoints_90;90% Literacy;x
 literacy_researchpoints_95;95% Literacy;x
+expand_farmland_cooldown;Expand Farmland Cooldown;x
+expand_farmland_cooldown_desc;We need to wait before expanding our farmland again.;x
