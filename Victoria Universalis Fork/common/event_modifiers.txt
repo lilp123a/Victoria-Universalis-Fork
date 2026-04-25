@@ -840,12 +840,6 @@ jan_mayen_isolationism = {
 world_bank_timer = {
 }
 
-monthly_pulse_cooldown = {}
-
-yearly_pulse_cooldown = {}
-
-decade_pulse_cooldown = {}
-
 recently_requested_trade = {
 	icon = 9
 }
@@ -1545,4 +1539,24 @@ nv_equality_preview = {
 
 nv_industry_preview = {
 	icon = 3
+}
+
+#################
+### COOLDOWNS ###
+#################
+
+expand_farmland_cooldown = {
+	icon = 1
+}
+
+monthly_pulse_cooldown = {
+	icon = 1
+}
+
+yearly_pulse_cooldown = {
+	icon = 1
+}
+
+decade_pulse_cooldown = {
+	icon = 1
 }

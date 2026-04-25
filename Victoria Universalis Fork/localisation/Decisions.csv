@@ -70,3 +70,5 @@ utility_reset_ai_national_idea_picks_title;§YReset AI National Idea Picks§!;x
 utility_reset_ai_national_idea_picks_desc;Since one or more of your national ideas were picked by AI, you can use this decision to reset all of your national idea picks and make the choices you want.\n\n§RIf you take a new national idea yourself, you will lose this decision.§!;x
 utility_force_reform_title;§YForce Reform§!;x
 utility_force_reform_desc;We can leverage our political capital to force through (or rescind) a reform of our choice. This will upset the public and hurt the ruling party's popularity, and we are only able to do this once every 10 years.;x
+utility_expand_farmland_title;§YExpand Farmland§!;x
+utility_expand_farmland_desc;This decision will expand farmland by one level in provinces which have unemployed farmers, costing ¤50.000 per such province. You will only expand as much farmland as you can afford.\n\n§WIf you want to see provinces where there's not enough farmer jobs, go to Population -> Select only Farmers -> Sort by Unemployment§!;x
