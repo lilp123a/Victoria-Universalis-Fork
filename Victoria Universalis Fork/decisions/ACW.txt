@@ -3,13 +3,9 @@
 political_decisions = {
 # North-American Minors
 	apply_for_USA_statehood = {
-		potential = {	
+		potential = {
+			tag = TEX
 			exists = USA
-			OR = {
-				tag = TEX
-				tag = DES
-				tag = CAL
-			}
 		}
 		allow = {
 			war = no

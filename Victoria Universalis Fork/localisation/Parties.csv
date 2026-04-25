@@ -396,16 +396,6 @@ BYZ_fascist;Kómma ton Eleutherofróvon;x
 BYZ_liberal;Kómma Fileleftheron;x
 BYZ_reactionary;Kómma Paleologós;x
 BYZ_socialist;Sosialistikó Kómma Byzantós;x
-CAL_anarcho_liberal;Democratic;x
-CAL_anarcho_liberal_2;Populist;x
-CAL_communist;Communist;x
-CAL_conservative;Democratic Party;x
-CAL_fascist;Fascist;x
-CAL_liberal;Liberty;x
-CAL_liberal_2;Free Soil;x
-CAL_liberal_3;Progressive;x
-CAL_reactionary;Ursine Imperialist;x
-CAL_socialist;Radical;x
 CAM_anarcho_liberal;The Radical Faction;x
 CAM_communist;The Communist Faction;x
 CAM_conservative;Royal Faction;x
@@ -624,13 +614,6 @@ DAR_fascist;Fascist Faction;x
 DAR_liberal;Reform Faction;x
 DAR_reactionary;Religious Faction;x
 DAR_socialist;Justice and Equality Movement;x
-DES_anarcho_liberal;Radical Party;x
-DES_communist;Communist Party;x
-DES_conservative;Union Party;x
-DES_fascist;Fascist Party;x
-DES_liberal;Liberal Party;x
-DES_reactionary;Mormon People's Party;x
-DES_socialist;Socialist Party;x
 DNB_fascist_dictatorship;Danubian Republic;x
 DND_anarcho_liberal;Freedom Faction;x
 DND_communist;Communist Faction;x

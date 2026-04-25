@@ -1169,15 +1169,6 @@ country_event = {
 					war = yes
 				}
 			}
-			CAL = {
-				is_greater_power = no
-				exists = no
-				OR = {
-					total_amount_of_divisions = 1
-					is_mobilised = yes
-					war = yes
-				}
-			}
 			CAM = {
 				is_greater_power = no
 				exists = no
@@ -1593,15 +1584,6 @@ country_event = {
 				}
 			}
 			DEN = {
-				is_greater_power = no
-				exists = no
-				OR = {
-					total_amount_of_divisions = 1
-					is_mobilised = yes
-					war = yes
-				}
-			}
-			DES = {
 				is_greater_power = no
 				exists = no
 				OR = {

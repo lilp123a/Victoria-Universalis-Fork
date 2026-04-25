@@ -209,13 +209,11 @@ XBI		= "countries/Xibei San Ma.txt"
 XIN		= "countries/Xinjiang.txt"
 
 # North America
-CAL		= "countries/Californian Republic.txt"
 CAN		= "countries/Canada.txt"
 COL		= "countries/Columbia.txt"
 COS		= "countries/Costa Rica.txt"
 CSA		= "countries/CSA.txt"
 CUB		= "countries/Cuba.txt"
-DES		= "countries/Deseret.txt"
 DOM		= "countries/Dominican Republic.txt"
 ELS		= "countries/El Salvador.txt"
 GUA		= "countries/Guatemala.txt"

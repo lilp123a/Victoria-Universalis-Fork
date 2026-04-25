@@ -2747,7 +2747,6 @@ INCREASERELATION_OTHER_ACCEPT_4;The relation between their countries has increas
 Give_0.5M_Grant;Give them 500,000.;x
 cuirassier_activation;Cuirassiers;x
 digin;Dig-In;x
-gtfo_CAL_desc;We've had a good run, but it's time to end our rulership of Californian Republic: if you love something, let it go!;x
 no_army_schools;Ad Hoc;x
 own_suez_canal;The Suez Canal;x
 EVTDESC1139;For a long time, rumors have circulated among natives of a mythical place on the highveld where gold nuggets the size of apples lie scattered openly on the ground. Whether the legend was originally a figment of fact or fiction, it was confirmed today, when prospectors in the Witwatersrand struck a motherlode of gold. News of the gold rush are spreading throughout the world like wildfire, and a new town has been incorporated in the province to deal with this new influx of fortune seekers and Uitlanders. The province will henceforth be known, simply, as 'Johannesburg'.;x
@@ -6629,7 +6628,6 @@ NORMAL_WAR_TAKE_CORE_NAME_RUS_CIR;$ORDER$ Caucasian War;x
 EVTOPTA36907;A scandal!;x
 EVTNAME36907;Vanity Fair;x
 COUNT_10; ;x
-gtfo_DES_desc;We've had a good run, but it's time to end our rulership of Deseret: if you love something, let it go!;x
 EVTNAME90004;Protecting the $CB_TARGET_NAME_ADJ$;x
 acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;x
 EVTDESC44114;In a thirty-second gun fight in Tombstone, Arizona, Wyatt, Morgan and Virgil Earp along with Doc Holliday, killed Billy Clanton and Tom and Bob McLaury - three members of their political rivals, the Cowboys.;x
@@ -7937,7 +7935,6 @@ local_acceptable_health_care;Acceptable Healthcare;x
 LSK_conservative;Democratic Party;x
 CONTROLLED_BY;Controlled by ;x
 EVTNAME16200;Bleeding $STATENAME$;x
-gtfo_CAL_title;Grant Californian Republic Independence;x
 EVTOPTA90822;They will not complain if they know what's good for them.;x
 EVTOPTA20100;Of course not!;x
 CALLALLY_THEY_DECLINE_2;$MONARCHTITLE$;x
@@ -11247,7 +11244,6 @@ TECH_REPEAT_5;*;x
 desc_corruption6;Crime, bribery, and embezzlement run rampant in this province and the local officials either turn a blind eye or are powerless to stop it.;x
 EVTOPTA36704;Feel the vibes!;x
 pancasila_desc;Indonesia must stand united! Under a common leadership, nothing will stop us.;x
-gtfo_DES_title;Grant Deseret Independence;x
 cancel_trade_agreements_27_title;§YCancel Trade Agreement;x
 DECREASEOPINION_OTHER_ACCEPT_BTN1;OK;x
 woods;Woods;x

@@ -163,10 +163,6 @@ BYZ_bourgeois_dictatorship;Greek Federation;x
 BYZ_democracy;Greek Federation;x
 BYZ_presidential_dictatorship;Greek Federation;x
 BYZ_proletarian_dictatorship;Socialist Balkan Union;x
-CAL;Californian Republic;x
-CAL_absolute_monarchy;Kingdom of California;x
-CAL_ADJ;Californian;x
-CAL_hms_government;Kingdom of California;x
 CAM;Cambodia;x
 CAM_ADJ;Cambodian;x
 CAN;Canada;x
@@ -268,8 +264,6 @@ DAR;Darfur;x
 DAR_ADJ;Darfuri;x
 DEN;Denmark;x
 DEN_ADJ;Danish;x
-DES;Deseret;x
-DES_ADJ;Mormon;x
 DJA;Jambi;x
 DJA_ADJ;Jambi;x
 DNB;Danubian Federation;x
