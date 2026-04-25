@@ -1520,6 +1520,48 @@ the_doctrine_of_fascism = {
 	}
 }
 
+#####################
+### PHENOMENALISM ###
+#####################
+
+tier_2_focuses_unlocked = {
+	limit = { phenomenalism = 1 }
+	
+	chance = {
+		base = 100
+	}
+	
+	effect = {}
+}
+
+###############################
+### EXPERIMENTAL PSYCHOLOGY ###
+###############################
+
+tier_3_focuses_unlocked = {
+	limit = { experimental_psychology = 1 }
+	
+	chance = {
+		base = 100
+	}
+	
+	effect = {}
+}
+
+######################
+### PSYCHOANALYSIS ###
+######################
+
+tier_4_focuses_unlocked = {
+	limit = { psychoanalysis = 1 }
+	
+	chance = {
+		base = 100
+	}
+	
+	effect = {}
+}
+
 ####################
 ### BEHAVIOURISM ###
 ####################
@@ -1573,4 +1615,18 @@ the_talkies = {
 	}
 	
 	core_pop_consciousness_modifier = 0.01
+}
+
+#############################
+### HUMANISTIC PSYCHOLOGY ###
+#############################
+
+tier_5_focuses_unlocked = {
+	limit = { humanistic_psychology = 1 }
+	
+	chance = {
+		base = 100
+	}
+	
+	effect = {}
 }

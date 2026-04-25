@@ -420,7 +420,6 @@ gtfo_RGS_desc;We've had a good run, but it's time to end our rulership of Rio Gr
 OTHER_DEMOBILIZE_BTN1;OK;x
 THEY_BANKRUPTCY_5;*;x
 gtfo_URA_desc;We've had a good run, but it's time to end our rulership of Ural Republic: if you love something, let it go!;x
-fascist_focus;Party loyalty towards §Yfascist§! ;x
 EVTDESC10100;Phytophthora infestans, the dreaded potato blight, has struck $PROVINCENAME$. Starving local smallholders, and in some places driving whole families from their homes, the potato blight has caused a localized famine that threatens to spread.;x
 zprovince_migration_new_world_title;§GMigration Attraction;x
 ALLIANCE_OTHER_DECLINE_4;to join their;x
@@ -1039,7 +1038,6 @@ KLM_HMS_ADJ;Bandjaran;x
 WETARGET_REMOVEFROMSPHERE_4;We suspect §Y$ACTOR$§W is behind this!;x
 the_rhine_crisis_desc;During Napoleon's redrawings of the European map, the left bank of the river Rhine had been annexed to France proper. In 1840 France's Prime Minister Adolphe Thiers publicly stated that, in his opinion, the Rhine still remained France's natural eastern border. With the hardships of the Napoleonic wars still in living memory the statement caused uproar in Germany, sparking what would become known as 'The Rhine Crisis';x
 DECREASERELATION_WE_ACCEPT_BTN3;Go to;x
-massive_promote_officers;Encourage Officers;x
 PEACE_WILL_NOT_ACCEPT;They would not accept this offer.;x
 gtfo_XBI_title;Grant XBI Independence;x
 NORMAL_WAR_BOXER_NAME;$ORDER$Boxer Rebellion;x
@@ -1407,7 +1405,6 @@ anarcho_liberal_rebels_desc;The Citizen Guard are militant liberals who have ris
 establish_vietnamese_protectorate_desc;We can manufacture a border dispute and use it as a pretext for an invasion of all of Vietnam.;x
 gtfo_LAD_desc;We've had a good run, but it's time to end our rulership of Ladakh: if you love something, let it go!;x
 PEACE_WE_ACCEPT_SETUP;When we accept a peace offer;x
-promote_clerks;Encourage Clerks ;x
 KAM_socialist;The Socialists;x
 EVTOPTA11103;Long live Il Risorgimento!;x
 communist_faction;Communist Faction;x
@@ -1435,7 +1432,6 @@ no_freedom;Attempted Freedom;x
 trade_city;Trade City;x
 SUA_reactionary;Traditional Faction;x
 EVTOPTA16310;Interesting;x
-automation_focus;Encourage Automotive Industry ;x
 WARGOAL_WE_ACCEPT_LOG;$ACTOR$ expanded their war with us to include $WARGOAL$.;x
 exploiting_the_land;Exploiting the Land;x
 EVTNAME44627;Colorado Rebels;x
@@ -1532,7 +1528,6 @@ EVTDESC14170;Immigration has become a major issue in the local $COUNTRY$ electio
 EVTOPTA31103;We will grant them their independence in exchange for Syria, Palestine, and Hedjaz.;x
 EVTOPTA10001;We can expect increased liberal activity in the coming years;x
 gtfo_MON_desc;We've had a good run, but it's time to end our rulership of Montenegro: if you love something, let it go!;x
-promote_labourers;Encourage Labourers ;x
 GMB_liberal;United Party;x
 FJN;Fujian;x
 GNE_liberal;Union for Progress and Renewal;x
@@ -1761,7 +1756,6 @@ POP_DETAILS_EXTERNAL_MIGRATION;External migration:;x
 EVTOPTA14720;The colonies are of vital importance to the nation;x
 TRADE_AVAILABLE;Available;x
 VIC;Victoria;x
-large_promote_aristocrats;Encourage Landowners;x
 EVTDESC18530;In the workshops and mills of our country, the free $COUNTRY_ADJ$ people make daily discoveries and advances. The advancement of science is intimately tied to the free exchange of ideas, and nowhere is the exchange freer than in $COUNTRY$. Our liberty makes us a power house of technological progress.;x
 RICH_MILITANCY_LESS_THAN;Rich strata militancy less than ;x
 MIDDLE_MILITANCY_LESS_THAN;Middle strata militancy less than ;x
@@ -2309,7 +2303,6 @@ gtfo_CHO_desc;We've had a good run, but it's time to end our rulership of Chugok
 WAR_LOST_GW_STATUS_3;The Great War.;x
 EVTOPTB3304;We are in no hurry;x
 DOMINION;Dominion;x
-large_promote_officers;Encourage Officers;x
 EVTOPTA36231;Great!;x
 EVTOPTD14080;You might be right.;x
 pre_indust;Early Industrialisation;x
@@ -3162,7 +3155,6 @@ gtfo_CHO_title;Grant Chugoku Independence;x
 CGO_communist;Congolese Party of Labour;x
 CRISIS_BACK_DOWN_WE_ACCEPT_1;$ACTOR$;x
 BP_TOOLTIP_TOOL_ARROW;Choose arrow type, and draw it on the map with §YLMB§!.\nHold §YShift§! + §YLMB§! to snap your arrow to another one.;x
-communist_focus;Party loyalty towards §Ycommunist§! ;x
 TECH_MINE_SIZE;Mine Size;x
 URA_fascist;Fascists;x
 EVTNAME15274;Dryzymala gets a visit;x
@@ -3184,7 +3176,6 @@ EVTOPTB20000;This doesn't concern us;x
 EVTOPTA20000;Yes, we are interested in this crisis;x
 EVTDESC1143;The fields in $PROVINCENAME$ have been found favourable to the cultivation of opium. With the rising world demand for pharmaceuticals, local farmers have found it prudent to switch production over to the new cash crop.;x
 EVTNAME23611;The Nobel Peace Prize;x
-production_focus;Production ;x
 LNA_ADJ;Lan Nan;x
 EVTDESC20000;As a great power it is expected of us to assert our position.;x
 BRY_liberal;The Liberal Faction;x
@@ -3568,9 +3559,6 @@ unification_release_puppet_cb_short;$THIRD$ is released;x
 EVTNAME22000;Trustee System;x
 EVTOPTB36202;Let them be;x
 NOT_A_FLASHPOINT;§RNot a flashpoint§!;x
-increase_tension_focus_desc;Increase flashpoint tension by about §Y$VAL$§W% each month.;x
-increase_tension;Increase tension ;x
-diplomatic_focus;Diplomacy;x
 accept_trade_deal_30_desc;If we enter into a trade deal with the chosen country, we will get a decision that allows us to send goods from our stockpile to our trading partner.;x
 FLASHPOINT_TENSION_EFFECT;$DIRECTION$ $VALUE$ flashpoint tension.\n;x
 CRISIS_TEMPERATURE_MORE_THAN;Higher crisis temperature than ;x
@@ -3594,8 +3582,6 @@ EVTNAME15290;School Strike;x
 SHIP_BUILD_LIMIT_PER_BASE_HINT;§RConsider building more naval bases of level at least §G$LVL$§R.§!;x
 KAM_communist;The Communists;x
 gtfo_TRA_desc;We've had a good run, but it's time to end our rulership of Travancore: if you love something, let it go!;x
-communist_focus_short;§YCommunists§! loyalty;x
-massive_promotion_focus;Massive State Promotion;x
 EVTNAME21510;Krakatoa Explodes!;x
 badboy3;35 Infamy Penalty;x
 gtfo_TNT_title;Grant Tannu Tuva Independence;x
@@ -3669,7 +3655,6 @@ NAVAL_BASE_OVERSEAS_LIMIT;§RCapital ships cannot be built in overseas provinces.
 EVTDESC19360;Our place as the #1 ranked Great Power has been usurped. The Hegemon country modifier will be removed if we do not reclaim rank #1 in 2 years.;x
 NO_TRADE_RULE;Only if both parties have the $RULE$ rule could we trade resources for resources.;x
 CB_DESTROY_FORTS;Destroy fortifications;x
-liberal_focus;Party loyalty towards §Yliberal§! ;x
 EVTNAME14000_sub;A Heated Debate in $COUNTRY$;x
 PEACE_OTHER_DECLINE_6;Terms: $TERMS$;x
 FRO_communist;Kommunistiski Flokkur Frroya;x
@@ -3892,38 +3877,24 @@ WAR_GOAL_FAILURE_PRESTIGE_CHANGE;If we fail to achieve this wargoal, we will los
 EVTOPTB3302;I believe we must bide our time;x
 EVTOPTC3903;Red-light the practices;x
 EVTDESC3001;While there has been ample talk in this chamber about the costs of sickness, illness and disease, I have heard only very little being said on the costs of health care, and even less mention of the costs associated with, specifically, public health care. How many private practices are being forced to close each year, due to public competition? How many apothecaries? How much private initiative is every year smothered on the altar of inefficient government bureaucracy, and how much more will it have to be before our government sets our health care free?'\n\nA counter-reform speech in parliament today has gained public interest, and a surprising amount of people are coming out in opposition to the present health-care system. How should the government react?;x
-consumer_focus_short;Consumer Goods;x
-immigration_focus_desc;Migrants §Y$VAL$§W% more likely to choose this state. This focus makes immigrants more likely to settle in this state, it doesn't make more likely for them to choose our country.;x
 gtfo_SZC_title;Grant Sichuan Independence;x
 EVTOPTA36903;A glorious couple!;x
-armaments_focus_short;Armaments Industry;x
 south_african;South African;x
 TNT;Tannu Tuva;x
-basic_industry_focus_short;Basic Industry;x
 blanco_rebels_title;Blancos;x
 yes_admin_reform;Administrative Reform;x
 PNT;Pontus;x
-wood_focus_short;Wood Industry;x
-textile_focus_short;Textile Industry;x
 GUNBOAT_THEY_ACCEPT_BTN1;About time!;x
-shipping_focus_short;Shipping Industry;x
-chemical_focus_short;Chemical Industry;x
-electrical_focus_short;Electrical Industry;x
 SNZ_ADJ;Munsterian;x
-automation_focus_short;Automotive Industry;x
 EVTNAME16050;I Wish I Was In Dixie;x
 gtfo_BIM_title;Grant Bima Independence;x
 yes_research_reform_l;Foreign Universities;x
-socialist_focus_short;§YSocialist§! loyalty;x
-conservative_focus_short;§YConservative§! loyalty;x
 MORALE;Morale;x
 EVTOPTA12100;Only this province is affected;x
 EVTDESC44404;The government of Cape Colony has declared their intent to annex us.;x
-reactionary_focus_short;§YReactionary§! loyalty;x
 ALT_hms_government;Altai Union;x
 WARSUBSIDIES_OTHER_ACCEPT_1;§Y$RECIPIENT$§W;x
 GO_TO_DIPLOMACY;Go to Diplomacy;x
-fascist_focus_short;§YFascist§! loyalty;x
 EVTDESC36949;The newly formed German state is asking us to secede the German populated island of Heligoland to them.;x
 ZBW_reactionary;Patriotic Front;x
 BAY_liberal_3;Freisinnige Partei;x
@@ -4125,7 +4096,6 @@ UOR_reactionary;True American Party;x
 RWA_ADJ;Rwandan;x
 DISBAND_4;No doubt the scum of the earth that make up our armies will squander their more than generous pay in the taverns..;x
 DISBAND_3;$UNIT$;x
-large_promote_soldiers;Encourage Soldiers;x
 EVTDESC37221;The lady with the golden voice, Mlle Sarah Bernhardt, began a world tour performing the roles of Camille, Tosca, Phaedra, Adrienne Lecouvreur and roles in Hernani and L'Aeglet. It was rumored this would be her last tour.;x
 EVTOPTB22530;I think that the government that governs the least governs the best;x
 CANCELMILACCTITLE;Cancel Military Access;x
@@ -4348,7 +4318,7 @@ CEASECOLONIZATION_THEY_DECLINE_3;to stop colonizing $RSTATE$.;x
 EXPELADVISORS_THEY_ACCEPT_SETUP;When we expel the advisers of a nation;x
 drinking_gourd;Drinking Gourd;x
 ATTACKTHEM_3;$PROV$.;x
-FOCUS_OWNED_BY;You can not place national focus in someone else's province unless it is a potential flashpoint for your cores. Encouraging flashpoint tension requires Revolution & Counterrevolution to be researched.;x
+FOCUS_OWNED_BY;You can not place national focus in foreign states unless it is a potential flashpoint for your cores. Encouraging flashpoint tension requires crises to be enabled.;x
 EVTNAME2130;Foreign Cuisine;x
 TRADE_DAY;$VAL$/Day;x
 EVTNAME16080;Follow The Drinkin' Gourd;x
@@ -5248,7 +5218,6 @@ manifesto_on_unshakable_autocracy_title;Manifesto on Unshakable Autocracy;x
 TRIG_IS;is;x
 HAVE_LESS_MONEY_THAN;Monthly income less than ;x
 KRL_ADJ;Karelian;x
-immigration;Attract Immigrants ;x
 GNE_reactionary;Democratic Party of Guinea;x
 EVTNAME4102;Federalism Criticized;x
 gtfo_JOR_title;Grant Jordan Independence;x
@@ -5645,7 +5614,7 @@ THEY_NO_LONGER_GREAT_POWER_LOG;$OLDCOUNTRY$ is no longer a great power.;x
 DISCREDIT_WE_ACCEPT_1;§Y$ACTOR$§W;x
 CATEGORY;($TYPE$)\n;x
 REMOVE_EVTOPTA14760;No.;x
-ATPEACE;At Peace;x
+ATPEACE; At Peace;x
 GAB_anarcho_liberal;Defense of Gabonese Interests;x
 claim_greater_serbia_desc;Now that we have freed our bretheren from the Turks, we can lay claim to the rest of Greater Serbia.;x
 Owned by $owner$, but currently occupied by $control$;Owned by $owner$, but currently occupied by $control$;x
@@ -5723,7 +5692,6 @@ CREATE_ADMIRAL_EFFECT;Gain new §Yadmiral§W.\n;x
 REMOVE_CANCELALLIANCE_THEY_ACCEPT_BTN2;Go to;x
 UW_DUGIN;This unit is dug in, and has been digging in for §Y$CURR$§W days. The maximum preparation possible for our country is §Y$CAP$§W days.;x
 UW_UNLOAD_VALID;Unload this unit from the fleet;x
-massive_promote_bureaucrats;Encourage Bureaucrats;x
 UW_UNLOAD_NOT_VALID;You can only unload if your fleet is located in a port.;x
 UW_SPEED;This is how fast the unit moves on the map. Its speed is the same as that of its slowest subunit.;x
 IBR;Iberia;x
@@ -6318,7 +6286,6 @@ QLD_socialist_1;Labour Party;x
 EVTOPTA15110;Curtail distribution;x
 REMOVE_FOCUS;Remove Focus;x
 lagos_cession_title;The Lagos Cessation;x
-colony_focus_desc;Increase colony level by about §Y$VAL$§W% each month.;x
 embrace_the_baloch_title;Embrace the Baloch;x
 EVTDESC46303;Born on 2 December 1825, Dom Pedro II was groomed to rule at an early age, as his father had fled to Europe and left him the throne of Brazil in 1831. His elevation to the throne led to a troublesome period of endless crises. The regency created to rule on his behalf was plagued from the start by disputes between political factions and rebellions across the nation that threatened to tear Brazil apart. Dom Pedro II would end up overcoming all of these obstacles and establish Brazil as the dominant power in South America.;x
 yes_pre_indust2_desc;Construct some basic factories with the help of foreign advisors. Could this be the beginning of an industrial revolution?;x
@@ -6327,8 +6294,6 @@ railroad_build_desc;Capitalists §Y$VAL$§W% more likely to build railroads.;x
 CRS_liberal;Fazzione Liberale;x
 EVTOPTA18500;Restore the calm;x
 suez_canal_construction;Suez Canal Under Construction;x
-armaments_focus;Encourage Armaments Industry ;x
-basic_industry_focus;Encourage Basic Industry ;x
 indian_nationalists_name;Indian Nationalists;x
 EVTNAME90041;Sepoy Rebellion Spreads;x
 ADD_BUILDING_EFFECT;Gain a §Y$BUILDING$§W with level §Y$VALUE$§W in §Y$PROVINCE$§W.\n;x
@@ -6339,19 +6304,11 @@ BUILDING_MUST_HAVE;Must have $OTHER$;x
 the_lambert_charter_desc;The Lambert Charter was a document used by France to justify its many attempts at making inroads into, and eventually annex, the independent country and island of Madagascar. The document was signed by crown prince Radama II, who had grown up under the influence of French expatriates on Madagascar, and purported to give France the right to extract minerals and other natural resources from the country, in return for a 10% royalty payable to the Royal House of Madagascar.;x
 DECREASERELATION_WE_ACCEPT_HEADER;The Foreign Minister reports;x
 NEW_UNIT_DRO;Creating a new unit will create an empty unit and allow you to assign parts from the current unit to it.;x
-chemical_focus;Encourage Chemical Industry ;x
-electrical_focus;Encourage Electrical Industry ;x
 REMOVE_EVTNAME14780;Contagious Diseases;x
 tanzimat_land_reform;Ottoman Land Code;x
 EVTDESC36923;Charles Darwin, drawing upon observations made on his famous voyage aboard the Beagle, and synthesizing the observations of many of his contemporaries, published The Origin of Species ,in which he claimed that all life forms on earth had evolved over time through a process of natural selection and not through an act of creation. His views were hotly contested at the time and remain so today.;x
 EVTDESC44812;Our diplomats could not convince the majority of Great Powers to recognize our claims over the Congo basin.;x
-promote_farmers;Encourage Farmers ;x
-promote_craftsmen;Encourage Craftsmen ;x
-promote_capitalists;Encourage Capitalists ;x
 sino_portuguese_treaty_of_peking_signataire;Signatory of the Treaty of Peking;x
-promote_bureaucrats;Encourage Bureaucrats ;x
-promote_artisans;Encourage Artesans ;x
-promotion_focus;Promotion;x
 EVTOPTE14110;We will help you.;x
 EVTDESC15080;The writing on the wall has been plain to see for some time, but officials in $PROVINCENAME$ now have definite confirmation that the locals are plotting an insurgency against $COUNTRY_ADJ$ rule. The Secret Police has managed to secure detailed plans for the insurgency through informants and double-agents, and needs to know how to act. Our options are to fight the insurgents in one concentrated battle, or to try to divide them up and dissipate their forces out into the surrounding countryside.;x
 oriental_crisis_desc;Muhammad Ali has declared independence from the Sublime Porte and is threatening our holdings in Syria. We must act now if we are to re-establish Ottoman authority in Egypt and the Levant.;x
@@ -6360,7 +6317,6 @@ CHATMESSAGE_5;*;x
 FLAG_SUBMENU_INTERESTING;Set country as interesting.;x
 desc_discriminatory_school_system;Our school system discriminates against citizens who are not of our national culture.;x
 desc_corruption4;Crime, bribery, and embezzlement run rampant in this province and the local officials either turn a blind eye or are powerless to stop it.;x
-immigration_focus;Immigration;x
 the_short_declaration_desc;The Short Declaration was short and brief because it contrasted with the "long" contracts that were earlier concluded between the Netherlands Indies government and some seventeen so-called self-governing lands. The latter were left under the charge of rulers who were empowered to deal with legislative and administrative matters pertaining to their territories, but they had to ensure that obligations to the Netherlands Indies government were met. The long contracts defined the limits of the competency of both rulers and the Netherlands Indies government. By issuing the Short Declaration, we will declare these contracts null and void and we will bring the Moluccan Islands and the Siak Sultanate under our direct control.;x
 EZO_proletarian_dictatorship;The People's Republic of Ezo;x
 the_french_foreign_legion;La Légion Étrangère;x
@@ -6477,9 +6433,7 @@ WAR_GAIN_GW_STATUS_HEADER;Great War!;x
 EVTNAME13360;Diplomatic Mission;x
 CRISIS_BACK_DOWN_THEY_DECLINE_HEADER;$MESSENGER$;x
 EVTDESC46300;Antonio de Castro Alves published O Navio Negreiro, and soon earned the sobriquet of poet of the slaves. His work was influential for the abolition of slavery in Brazil.;x
-promote_officers;Encourage Officers ;x
 become_greater_serbia_desc;We are now in a dominant enough position in to proclaim the Kingdom of Greater Serbia.;x
-consumer_focus;Encourage Consumer Goods Industry ;x
 REMOVEFROMSPHERE_OTHER_ACCEPT_2;$MONARCHTITLE$, we have been informed that;x
 ADD_THREAT_EFFECT;§Y$COUNTRY$§W gains §R$VALUE$§W threat on §Y$TARGET_COUNTRY$§W.\n;x
 CRISIS_OFFER_OTHER_DECLINE_3;It seems that $RECIPIENT$;x
@@ -6657,7 +6611,6 @@ EVTNAME36912;Gerard Manley Hopkins;x
 EVTDESC36911;William Butler Yeats' second volume of poetry, 'The Rose', was published in 1893. By now his voice had become more than just distinctive and his control over meter and rhyme was the stuff of genius. Yeats was now developing specifically Irish themes and began his long association with Irish Republicanism mixed with an aesthetic mysticism;x
 gtfo_D30_desc;We've had a good run, but it's time to end our rulership of D30: if you love something, let it go!;x
 monument_under_construction_desc;We are building a great project to celebrate our nation greatness.;x
-small_promote_bureaucrats;Encourage Bureaucrats;x
 BP_TOOLTIP_TOOL_COLOR;Choose current colour to draw arrows and icons.\nAlso applies the colour to any currently selected arrow or icon.;x
 SIB_liberal;Westerniser;x
 CEASECOLONIZATION_THEY_DECLINE_BTN3;Go to;x
@@ -6796,7 +6749,6 @@ EVTNAME36213;Ny Carlsberg Glyptoteket;x
 EVTOPTA36212;Oh no, not again!;x
 ASKMILITARYACCESS_THEY_DECLINE_BTN3;Go to;x
 DIP_THREAT;This will generate §Y$AMOUNT$§W threat in §Y$PROV$§W;x
-rail_focus;Colonial Policy;x
 EVTNAME36212;The Christiansborg fire of 1884;x
 GMB;Gambia;x
 ALREADY_SUPPRESSED;Movement is not radical and can't be suppressed;x
@@ -7092,7 +7044,6 @@ IS_CRIME_NOT_HIGHER_THAN_EDU_TR;More is spent on §Yeducation§W than on administr
 ABK_socialist;Socialist Party;x
 BUILDING_CONSTRUCTION_TOOLTIP;Currently building §Y$NAME$§W, which will be finished earliest §Y$DATE$§W.;x
 EVTNAME37223;Tres Grande Vitesse;x
-massive_promote_clerks;Encourage Clerks;x
 gtfo_HAM_title;Grant Hamburg Independence;x
 EVTNAME91883;Central Powers Victory!;x
 EVTOPTA15100;We are not provoked by this drivel;x
@@ -7128,7 +7079,6 @@ total_blockaded;Blockaded Home Ports;x
 EVTOPTA1139;Strike The Earth!;x
 EVTNAME37219;Mount Pelee Erupts in Martinique;x
 EVTDESC37218;As the evidence against Dreyfus was shown to have been faked, his case was referred to the Court of Appeals in 1899. Outrage followed after he was once again found guilty by a military court, the establishment refusing to admit its earlier mistake. Although he was pardoned by the President and later exonerated in 1906, the result of the whole affair increased anticlericalism, antimilitarism, and united the French left.;x
-large_promote_craftsmen;Encourage Craftsmen;x
 official_nationality_desc;Orthodoxy, Autocracy and Nationality, also known as Official Nationality was the dominant ideological doctrine of Russian emperor Nicholas I. The Tsar is currently trying to Russify our country, greatly disrupting our country organization but inciting nationality!;x
 EVTOPTE14100;They might have a point...;x
 EVTNAME37218;Dreyfus is innocent!;x
@@ -7398,7 +7348,6 @@ EVTNAME34601;Deutschlandlied;x
 REMOVE_EVTDESC2130;Liberate the human mind from the dominion of religion, liberate the human body from the dominion of property and liberate us from the shackles and restraint of government! We should be able to enjoy all necessities of life, independent of individual desires, tastes and inclinations! Liberate us, and let anarchism lead us into this free life!'\n\nThe first immigrant anarchist have been deported after the Anarchist Exclusion Act passed.;x
 EVTDESC34600;Adolph Diesterweg, a German educator, laid down principles for the teaching of children that aimed at making them conscious, thinking, responsible citizens. His ideas get him suspended in 1847.;x
 EVTNAME34600;Diesterweg Publishes His Guidelines for Teachers;x
-small_promote_soldiers;Encourage Soldiers;x
 EVTDESC34500;When Oldenburg was elevated from a Duchy to a Grand Duchy on June 9th 1815, His Highness Peter II became the first monarch to use officially the title of Grand Duke on his formal accession.;x
 EVTNAME31213;The Balkan War;x
 ASKMILITARYACCESS_THEY_DECLINE_4;has outrageously refused to grant us Military Access;x
@@ -7790,7 +7739,6 @@ ZAM_fascist;Fourth Revolution Party	;x
 krakow_uprising;The Winger Hussars will ride once more.;x
 EVTOPTB18500;Use the propaganda;x
 EVTDESC3607;Fewer sick days, fewer accidents and many happy workers have made our factories to some of the safest and healthiest in the world. It seems that our healthcare and safety reforms have finally paid off. Our workers are happy, and the production rates are higher than ever.;x
-socialist_focus;Party loyalty towards §Ysocialist§! ;x
 EVTOPTA45006;A tragedy!;x
 EVTOPTB21020;Quarantine the affected state;x
 EVTOPTB18200;Ignore him;x
@@ -7815,7 +7763,6 @@ ZBW_fascist;Fascist Party of Zimbabwe;x
 EVTOPTB13210;The old ways endure;x
 EVTDESC18160;And I believe therefore that freedom, shall it not perish from this realm, needs our constant vigilance on its behalf.\n\nA liberal member of the Upper House has held a rousing speech in parliament, criticising the government for what he claims is its failure to amend the rising tide of social unrest in the country. How should the government respond?;x
 EVTNAME19042;Egypt Refuses Excavation Permit;x
-large_promote_farmers;Encourage Farmers;x
 BREAKCOUNTRY_BTN2;Horror!;x
 compound_steam_engines;Compound Steam Engine;x
 CGO;Congo;x
@@ -8061,7 +8008,6 @@ liberate_country_free_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;x
 EVTOPTB16050;Plebian songs;x
 lagos_cession_desc;We outlawed the $COUNTRY_ADJ$ slave trade many years ago, but it continues in many African nations -- and the coastal city of Lagos in particular. Lagos has been a haven for slavers, providing unwilling natives to the trade on markets in defiance of all decent conventions. The notion has arisen that we should consider sending our ships in to liberate the natives there and establish a colony where they can receive civilised government.;x
 NORMAL_VASSAL_TAX_WAR_NAME;$SECOND_COUNTRY$ Pays Tribute to the $FIRST$;x
-anarcho_liberal_focus_short;§YAnarcho-liberal§! loyalty;x
 invest_in_korea_title;Invest in Korea;x
 ATTR_SHIP_AT_PORT;0% - At Port;x
 ANY_ALL;Any/All;x
@@ -8277,7 +8223,6 @@ REMOVE_EVTNAME14790;Spreading A Contagious Disease;x
 REMOVE_EVTOPTB14780;We must help them!;x
 embrace_bedouin_minority_title;Embrace the Bedouin minority;x
 REMOVE_EVTDESC14780;Natives of $PROVINCENAME$ seem to have caught measles. The coughing, the runny nose, high fever, red eyes and the red, itching rash which covers their whole bodies is a clear indication of measles. The natives accuse the colonists to have brought the disease to them and they are probably right.;x
-promote_soldiers;Encourage Soldiers ;x
 EVTDESC23571;One of our illustrious authors has been awarded this year's Nobel Prize in Literature.;x
 REMOVE_suffragette_movements;Suffragette Movements;x
 HAVE_MORE_NATIONAL_PROVINCES_OCCUPIED_THAN;The percentage of occupied national provinces is greater than: ;x
@@ -8289,7 +8234,6 @@ gentry;Gentry;x
 REMOVE_EVTOPTA14770;Okay;x
 ECONOMICREFORM_HEADER;Political News in $COUNTRY$;x
 embrace_estonians_desc;Estonians have always had close cultural and historical ties with us, and now that they are once again part of our nation it is time we embraced them as our Nordic bretheren.;x
-promote_clergymen;Encourage Intellectuals;x
 YAK_conservative;The Conservatives;x
 EVTDESC16000;A house divided against itself cannot stand. I believe this government cannot endure, permanently, half slave and half free. I do not expect the Union to be dissolved — I do not expect the house to fall — but I do expect it will cease to be divided. It will become all one thing or all the other.' -- Abraham Lincoln\n\nIt is over. All attempts at compromise, the efforts of decades of public discourse on the issue of slavery, have failed. This morning the congressmen from the Southern states resigned their offices, and the slave states declared secession from the perpetual Union. The states of Missouri and Maryland, along with the Western Part of Virginia, have declared themselves for the Union, and Washington D.C. is under the control of Union troops. A southern wind blows hard on our house divided.;x
 adopt_die_stem_desc;Ons sal lewe, ons sal sterwe,\nOns vir jou, Suid-Afrika.'\n\n'Die Stem van Suid-Afrika', or 'The Call of South-Africa' in English, although it gained official status as South Africa's national anthem only in 1957 had, for a long time prior, been unofficially used in that capacity. Originally written as a poem by C.J. Langehoven in 1918, the piece had music composed for it in 1921 by Marthinus Lourens de Villiers. 'Die Stem' saw frequent use in the broadcasts of the African Broadcasting Company, which played it at the end of daily broadcasts, along with God Save the King. Adopt 'Die Stem', and let us give our young country a proper anthem!;x
@@ -9119,7 +9063,6 @@ ACR_communist;Partido Communist;x
 EVTDESC14670;And it was only when I saw how they treated them... that I. There was this one child, I remember him well. Eight... nine, maybe. They all had quotas for how much to pick each day, and that one day. He didn't fulfill his. Don't ask me why. I... his hands...!'\n\n$COUNTRY$ is in shock, as a major European newspaper published a report today on the conditions in one of her colonies. Brutal mistreatment of natives, corporeal punishment and repeated instances of bodily mutilation have all been established means of maintaining the colonial order in the colony, in mines and on plantations, which have all been kept outside the influence of the Colonial Office through an elaborate system of bribes and corruption.;x
 xhosa_war_title;Conquest of the Xhosa;x
 NAVALATTACKUS_3;$PROV$.;x
-large_promote_clergymen;Encourage Intellectuals;x
 FE_HISTORICAL_START;Historical Start;x
 EVTOPTA4304;We shall see what we can do;x
 EVTDESC4304;So, you see, it would be detrimental to the long-term peace and stability of our home state if the government were to announce that it seeks to support the calls for further voting reforms, that have elsewhere been voiced by slovenly revolutionary trash. Their screams are merely those of angry children.'\n\nOur government has been approached by a group of capitalists, aristocrats and other leading tycoons of local public life in one of our states. The group calls itself the Alliance of Concerned Citizens, and has sought the government's ear to inform it that there still are those who oppose any further reform to the political franchise. What should we tell them?;x
@@ -9403,7 +9346,6 @@ EVTOPTA37202;Let us remember the dead!;x
 INCREASERELATION_OTHER_ACCEPT_HEADER;The Foreign Minister reports;x
 EVTDESC3301;As our average life expectancies have increased over the years, more and more families have had to take care of their elderly who are no longer able to provide for themselves. The social makeup of our country is changing, and without much in way of a national plan for the elderly and the disabled, a lot are falling between the cracks in the system. Conservatives have by and large taken the stance that the family is the first and last social support structure for the elderly, and that an increasing role for government in the area threatens to unravel important societal bonds. Liberals, on the other hand, see our pensions as tragically lacking, pointing to the many who, seemingly, go without aid.;x
 terrain;Terrain;x
-wood_focus;Encourage Wood Industry ;x
 KER_communist;Miners' and Fishers' Party;x
 EVTOPTA3300;Force through reform;x
 TAJ_reactionary;The Nationalist Faction;x
@@ -9570,7 +9512,6 @@ INCREASERELATION_THEY_ACCEPT_2;$MONARCHTITLE$, we have successfully;x
 AGRESSION_WAR_DISMANTLE_NAME;$ORDER$$FIRST$ War to Dismantle the $SECOND$ Empire;x
 VIC_conservative_3;United Australia Party;x
 EVTDESC1215;By investing more money in crime fighting we have been able to increase the number of control institutions, and thereby made it harder for politicians to use their power and influence for their personal wealth and glory. The militancy among the people in $PROVINCENAME$ should no longer increase so dramatically;x
-small_promote_labourers;Encourage Labourers;x
 CRISIS_OFFER_OTHER_DECLINE_6;*;x
 EVTOPTA1213;Good;x
 immunity_from_influenza_desc;Prevents Pandemic Influenza from recurring in your country as long as modifier is active.;x
@@ -9748,7 +9689,6 @@ colonial_recruitment;Land! Liberty! Labour!;x
 germania_werft_desc;Ships steam out of the drydock in Kiel at an amazing rate, thanks to the Krupp family's Germaniawerft.;x
 the_statue_of_liberty_desc;The first thing people see as they approach New York harbor, by boat from the Old World, is the gleaming tip of an enormous torch, symbolizing the freedom and liberty of the New. For many of the immigrants to our great nation, this will be the lasting first impression of a country forged and born in liberty, and of a new home.;x
 BANKRUPTCY_4;but this has caused great concern among our population;x
-emigration_focus_desc;Pops will be §Y$VAL$§W% more likely to leave this region.;x
 EVTDESC19350;Several witness reports over the past few years have spoken of the ongoing mistreatment of $COUNTRY_ADJ$ colonial subjects in The Congo Free State. Widespread brutality, mutilation and even massacres have been reported as often used tools of colonial subjugation, and these reports have begun to cast the $COUNTRY_ADJ$ colonial policy in a very poor light. An international organization -- The Congo Reform Association -- has now been founded with the stated goal of restoring human dignity to $COUNTRY$'s colonial subjects, and several well renowned authors and international humanitarians have rallied to the cause.;x
 EVTOPTA44664;Long live the kingdom of $COUNTRY$!;x
 TRIGMOD_1;$NAME$;x
@@ -9772,7 +9712,6 @@ JOINED_CHANNEL;Joined channel $CHAN$.;x
 ansei_purge;Ansei Purge;x
 GMB_conservative;Democratic Party;x
 desc_dryzymalas_wagon;Old man Dryzymala avoids the building ban by living in a wagon;x
-anarcho_liberal_focus;Party loyalty towards §Yanarcho-liberal§! ;x
 NTA_conservative_2;United Australia Party;x
 national_pride;National Pride;x
 dryzymalas_wagon;Dryzymala's Wagon;x
@@ -9910,7 +9849,6 @@ yes_foreign_artillery_desc;Our artillery is imported from western powers.;x
 REMOVE_desc_own_home;To own a house may do wonders for the assimilation of immigrants.;x
 NORMAL_WAR_BLOCKADE_NAME;$ORDER$$FIRST$ Blockade of $SECOND$;x
 BANKRUPTCY_5;and we have lost much prestige in the eyes of the world.;x
-massive_promote_soldiers;Encourage Soldiers;x
 REMOVE_desc_intermarriage;An immigrant and a native has married each other.;x
 ATR_conservative;Partido Moderado;x
 unification_humiliate_cb_desc;Force another Great Power to concede your leadership over your common cultural union. All his influence over countries in the area will be lost.;x
@@ -9968,7 +9906,6 @@ PEACE_THEY_ACCEPT_3;accepted our generous offer of peace;x
 EVTNAME16415;Rise of The KKK;x
 EVTDESC4408;...and it seems to me an outright travesty that, while our people labour under the crushing yokes and fetters of poverty, unsanitary living conditions, and moral degradation, our parliament insists on spending thousands upon thousands upon millions on gunpowder and cannons. Our nation should go to war, gentlemen: A war on the ills that plague our society.'\n\nOne of our cabinet members has addressed parliament with a long speech expounding the government's anti-military policies. How should we leverage this?;x
 KWT_ADJ;Kuwaiti;x
-small_promote_officers;Encourage Officers;x
 EVTDESC3000;The reeking, putrid stench welling out of the old house smells like mould and rotting timber. There isn't a soul about, save an old drunkard who scurries out through a back-door at the first hint of light shining in through a soot-covered window. God alone knows for how long this house has been standing here, but it's dilapidated state paints a clear picture of what our nation has become in the past few decades. Poverty is becoming ever more widespread, and housing like this is standard for far too many of our nation's poor and downtrodden. Infinitely worse: These unsanitary hovels are an ample breeding ground for filth and disease.;x
 REMOVE_nswrv_women_education;Education for Women;x
 EVTOPTB3800;Haha... no.;x
@@ -10038,7 +9975,6 @@ LIMITED_BY;Limited by:\n;x
 DECREASERELATION_THEY_ACCEPT_2;$MONARCHTITLE$, we all know that we really despise;x
 UW_SUPPLY_STATUS;This unit received §Y$VAL$§W% of the supplies needed in the last day. The current daily supply consumption is: $CON$;x
 REDUCE_POP_EFFECT;Population changed by $PERC$.\n;x
-small_promote_clerks;Encourage Clerks;x
 CHD_socialist;Independent Socialist Party;x
 ERT_ADJ;Eritrean;x
 EVTOPTA22580;We must protect our workers at any cost, and this cornered market must be opened.;x
@@ -10390,7 +10326,7 @@ CEASECOLONIZATION_WE_ACCEPT_BTN2;OK;x
 anglo_egypt_war_setup;Puppet Egypt.;x
 EVTOPTA12140;Let us celebrate!;x
 BKF;Upper Volta;x
-MONEY_IS_ATLEAST_TRIGGER;Money is at least §Y$VALUE$§W\n;x
+MONEY_IS_ATLEAST_TRIGGER; Money is at least ¤§Y$VALUE$§W\n;x
 CMS_communist;Democratic Assembly of the Comorian People;x
 EVTNAME44103;The Resolute Returned;x
 TTB_communist;Worker's Party;x
@@ -10444,7 +10380,6 @@ EVTDESC14660;Heia Safari! There is much to see in the $PROVINCENAME$ wilds, and 
 INCREASERELATION_WE_ACCEPT_BTN1;OK;x
 CANCEL_WARSUBSIDIES_THEY_ACCEPT_4;The money is better spent elsewhere.;x
 CANCEL_WARSUBSIDIES_THEY_ACCEPT_3;§Y$RECIPIENT$§W war subsidies.;x
-large_promote_labourers;Encourage Labourers;x
 THIS_IS_SPARTA;This province is part of our glorious nation;x
 WARSUBSIDIES_OTHER_ACCEPT_BTN3;Go to;x
 WARSUBSIDIES_OTHER_ACCEPT_BTN1;OK;x
@@ -10564,7 +10499,6 @@ INCREASEOPINION_OTHER_ACCEPT_2;$MONARCHTITLE$;x
 EVTOPTA12150;Reimburse the widows with pensions.;x
 INCREASEOPINION_OTHER_ACCEPT_HEADER;The Foreign Minister reports;x
 INCREASEOPINION_WE_ACCEPT_BTN3;Go to;x
-colonial_focus;Colonisation;x
 EVTNAME30001;The World's Fair Is Opened;x
 EVTDESC31120;Turkey and its European neighbors have agreed to a compulsory exchange of nationalities to their respective countries.;x
 WETARGET_BANEMBASSY_SETUP;When our embassy has been banned by another nation;x
@@ -11058,7 +10992,6 @@ UIL_anarcho_liberal;Libertarian Party;x
 EVTOPTB15010;Rescind the policy;x
 DIPRELCH_GUARANTEE;Guarantees;x
 gtfo_TIB_title;Grant Tibet Independence;x
-large_promote_clerks;Encourage Clerks;x
 gtfo_D16_title;Grant Dynamic Country 16 Independence;x
 REMOVE_desc_secret_organization;Your colony has a secret organisation which seem to plan a revolt.;x
 PW_RUN_AWAY;Rather not;x
@@ -11105,7 +11038,6 @@ EVTOPTC3902;Shut them down and ban them;x
 gtfo_BRD_title;Grant Burundi Independence;x
 TRS_ADJ;Tarascan;x
 PO_PD_NEG_5;The war is still undecided.;x
-large_promotion_focus;Large State Promotion;x
 desc_minority_building_restrictions;Our country enforces policies that prevent minorities from constructing permanent buildings, even on land they own.;x
 CD_RECEIVINGPARATIONS;Receiving reparation payments from $LIST$.;x
 BRD_reactionary;Union for National Progress;x
@@ -11227,7 +11159,6 @@ EVTOPTB14170;Full citizenship, with only minor qualifications, is the way forwar
 GREAT_WARS_ENABLE_DESC;Wars can get the status of The Great Wars!;x
 SNZ_fascist_dictatorship;Zealandia;x
 concede_finland_title;Abandon Finland;x
-conservative_focus;Party loyalty towards §Yconservative§! ;x
 form_germany_desc;By controlling, directly or indirectly, the manifold principalities, duchies and free cities that make up the German Nation, we can unite our people into one singular nation state. Three Hurrahs for the German Empire!;x
 form_germany_title;Three Hurrahs For Germany!;x
 war_graves;War Graves;x
@@ -11327,7 +11258,6 @@ LANDBATTLEOVER_4;During the struggle $USLOSS$ of our $USNUM$ troops were killed.
 EVTNAME13270;The $COUNTRY_ADJ$ Opium War;x
 MNG_liberal;Reform Faction;x
 BUILDING_NO_RAILWAYS;Economic policy allows building;x
-textile_focus;Encourage Textile Industry ;x
 EVTOPTA14630;Leave it be. Hopefully the situation will resolve itself.;x
 polish_uprising_mobilization_desc;We are mobilising our society so Poland can be free once more.;x
 HLS_conservative_2;Konservative Partei;x
@@ -11364,7 +11294,6 @@ PV_CONTROLLER;Controller:;x
 batavia_reborn_title;Batavia Reborn;x
 gtfo_SRD_title;Grant Sardinia Independence;x
 OSELECT_UNIT;Select this;x
-shipping_focus;Encourage Shipping Industry ;x
 place_in_the_sun_desc;Aquire an enemy §Ycolonial state§W;x
 dragoon_short;Dra;x
 CANCELGIVEMILITARYACCESS_OTHER_ACCEPT_1;§Y$ACTOR$§W;x
@@ -11805,7 +11734,6 @@ annex_hawaii_desc;The Newlands Resolution was a joint resolution of The U.S. Con
 DIPLO_THEY_SATELLITE;They are a satellite of our nation;x
 DIPLO_THEY_DOMINION;They are a dominion of our nation;x
 DIPLO_WE_SATELLITE;We are a satellite of theirs;x
-promote_aristocrats;Encourage Landowners ;x
 KAM_anarcho_liberal;The Libertains;x
 EVTDESC14790;One of our colonies is reporting astounding successes in the development of local commercial ventures and businesses to the Colonial Office. According to the local governor, the primary reason seems to be an ambitious land reform, undertaken in tandem with $COUNTRY_ADJ$ capitalists and industrialists. The colony is reportedly becoming more attractive to immigrants, and the report reflects well on our industrialists as well.;x
 CANCEL_WARSUBSIDIES_THEY_ACCEPT_2;$MONARCHTITLE$, we decided to stop giving;x
@@ -11827,7 +11755,6 @@ SAT_absolute_monarchy;Satsuma;x
 international_zone_modifier;International Zone;x
 the_eight_banners_desc;The Eight Banners were military divisions under the Qing dynasty into which all Manchu households were placed. The bannermen were once considered the elite forces of the Qing military, however by the 1730s, the traditional martial spirit had been lost, as the well-paid Bannerman spent their time gambling and theatergoing. Subsidizing the 1.5 million men, women and children in the system was an expensive proposition, compounded by embezzlement and corruption.;x
 EVTNAME16451;Raiding the garrisons;x
-reactionary_focus;Party loyalty towards §Yreactionary§! ;x
 desc_beer_halls;This province has a Beer Hall, a Saloon or a Bar for every occasion, and the citizens spend a fair amount of their time in them.;x
 partisan_rebels_title;Partisans;x
 EVTOPTB31520;Maintain the status quo.;x
@@ -12209,7 +12136,6 @@ BRY;Buryatia;x
 gtfo_SWK_title;Grant Sarawak Independence;x
 SHIPSUNK_5;$PROV$;x
 EVTNAME44463;§R$FROMCOUNTRY$§b Pays Debt;x
-massive_promote_aristocrats;Encourage Landowners;x
 INCREASERELATION_OTHER_ACCEPT_BTN1;OK;x
 egyptological_excavations_desc;The Valley of the Kings, Egypt, is a potentially endless source of new archeological discoveries. By petitioning the Egyptian government for a monopoly to carry out excavations in The Valley of the Kings, we can ensure that we make these fantastic discoveries, rather than another Great Power.;x
 EVTOPTA11100;Hurrah!;x
@@ -12255,7 +12181,6 @@ EVTOPTA17650;I believe we will see it primarily read by the lower class;x
 gtfo_MNG_title;Grant Mongo Independence;x
 highlander_raids;Highlander Raids;x
 EVTNAME36930;The Great Tea Race;x
-small_promote_capitalists;Encourage Capitalists;x
 SHA_socialist;Progressive Party;x
 orthodox_country;Orthodox Religion;x
 EVTDESC17640;War veterans, disgruntled with what they see as the failures of capitalism and liberal democracy, have formed a Free Corps -- an ideological an paramilitary organization ostensibly existing to protect the state and homeland, while de facto promoting a fascist political agenda -- in one of our states. The corps has already begun flexing its muscles in local politics, threatening several liberal politicians and maintaining a fairly intimidating uniformed presence in the state.;x
@@ -12473,7 +12398,6 @@ SLE_ADJ;Sierra Leonean;x
 OTHERS_CB_DETECTED_MAP;*;x
 national_idea3_desc;This invention unlocks another national idea.;x
 SAS_socialist;Labour Faction;x
-small_promotion_focus;Small State Promotion;x
 global_baby_boom_small_desc;Improvements in life conditions in our country are leading to a country-wide baby boom.;x
 QLD_fascist;Fascist Party;x
 balkan_liberation_war;Nationalist Ferver;x
@@ -12528,7 +12452,6 @@ pandemic_influenza_immunity_desc;A Pandemic of Influenza ravages our country, bu
 gtfo_WHA_desc;We've had a good run, but it's time to end our rulership of Wales: if you love something, let it go!;x
 UOR_ADJ;Oregonian;x
 take_from_sphere_setup;Take $THIRD$ from $RECIPIENT$'s sphere of influence;x
-massive_promote_farmers;Encourage Farmers;x
 po_disarmament2;Prohibited from raising armies and lose §Y$PERCENTAGE$%§W of their forces for §Y$YEARS$§W years;x
 global_baby_boom_desc;Improvements in life conditions in our country are leading to a country-wide baby boom.;x
 protect_minor_desc;Select a §state§W in the list to the right;x
@@ -12757,7 +12680,6 @@ CB_JUSTIFY_NO_LONGER_VALID_2;Our attempt to justify war using;x
 become_independent_short;$ACTOR$ is released from $RECIPIENT$;x
 CHY_fascist;Fascist Party;x
 GMJ_anarcho_liberal;Freedom Party;x
-small_promote_clergymen;Encourage Intellectuals;x
 urban;Urban;x
 boulangisme_desc;Support for the General Georges Boulanger has been rising in the aftermath of his dismissal as Minister of War.;x
 EVTNAME18550;Freedom isn't Free;x
@@ -12874,7 +12796,6 @@ accept_trade_deal_28_title;§YAccept Trade Deal;x
 province_strike;Province Strike;x
 AZA_fascist;Fascist Faction;x
 HED_fascist;NSDP;x
-small_promote_craftsmen;Encourage Craftsmen;x
 sand_river_convention_title;Sand River Convention;x
 zprovince_migration_reset_desc;Removes all current province migration modifiers.;x
 unequal_china_treaty_desc;Our monopoly on the opium trade with China is a great boon to our economy.;x
@@ -13291,7 +13212,6 @@ NORMAL_WAR_TAKE_NAME_USA_MEX_USA;$ORDER$Mexican-American War;x
 movement_settlement;Settlement;x
 POLITICAL_MOVEMENT_STRENGTH_TR;Political movement strength is higher than §Y$VAL$§W.\n;x
 BAY_socialist_2;Sozialdem. Arbeiterpartei ;x
-small_promote_aristocrats;Encourage Landowners;x
 UYG_conservative;Royal Faction;x
 EVTDESC4404;...and here we have the bureau chief for the private sector'\n\nOur state industries have, for quite some time, been plagued by inertia and corruption. The result of these evils is a lack of clothes, soap and in some cases even food. With the everyday needs of our population left unsatisfied, it is a mere question of time until we begin seeing some serious displays of dissatisfaction from our population. What is becoming abundantly clear is that we need to deal with these problems.;x
 rama_v;Rama V;x
@@ -13323,7 +13243,6 @@ ANNEX_6;*;x
 ALS_liberal_2;Nationalliberale ;x
 zcountry_increase_conscription_desc;Raises your draft law by one level and gives the reactionary surge modifier for several years. This modifier gives negative tax efficiency, increased militancy, and pushes your POPs to become more reactionary. If your government type is a fascist or communist dictatorship, or you are currently involved in a great war, the draft law will skip to service by requirement.;x
 TAI_socialist;Socialist Party;x
-large_promote_capitalists;Encourage Capitalists;x
 greater_afghanistan_desc;The Durrani Empire was formed in 1747 and was the founding dynasty of Afghanistan. At it's height it encompassed most of modern day Afghanistan, Pakistan, and parts of Iran. Although the Durranis were overthrown in 1809 by the Barakzai clan, much of the territory of the former Durrani Empire was only recently lost and can still be claimed by us.;x
 torching_of_the_summer_palace_title;Burn The Summer Palace!;x
 transport_improv_l;Transportation System;x
@@ -13407,7 +13326,6 @@ gtfo_BSQ_title;Grant Vasconia Independence;x
 COLONY_ABORT_LOG;Colonization of $TARGET$ has been aborted.;x
 EVTOPTA90008;Good call.;x
 gtfo_PRU_desc;We've had a good run, but it's time to end our rulership of Prussia: if you love something, let it go!;x
-massive_promote_clergymen;Encourage Intellectuals;x
 po_reparations2;Must pay §Y$PERCENTAGE$%§W of tax income for §Y$YEARS$§W years;x
 EVTOPTA44404;We agree.;x
 PROVINCELOST_6;We must reacquire it!;x
@@ -13539,7 +13457,6 @@ EVTDESC44610;Our armies are destroyed and our capital has been captured by the B
 EVTOPTA160003;God is with us!;x
 AIREASON_TOO_MANY_CRISIS_WARGOALS;Added Wargoals;x
 national_idea4_invented;4 National Ideas;x
-large_promote_bureaucrats;Encourage Bureaucrats;x
 install_communist_gov_cb_short;Install communism;x
 install_communist_gov_cb_setup;Install the communist government. If achieved, the country will be automatically added into our sphere.;x
 expedition_to_sicily_desc;The famed revolutionary Giuseppe Garibaldi has offered to sail with a corps of volunteers to Sicily and begin a war of Italian unification on our behalf.;x
@@ -13725,7 +13642,6 @@ gtfo_SSD_desc;We've had a good run, but it's time to end our rulership of South 
 gtfo_XHO_desc;We've had a good run, but it's time to end our rulership of Xhosa: if you love something, let it go!;x
 ansei_purge_title;The Ansei Purge;x
 CRISIS_STARTED_BTN1;Ok;x
-liberal_focus_short;§YLiberal§! loyalty;x
 DAK_liberal;Republican Faction;x
 UNIT_CONSTRUCTION_TOOLTIP;Currently building §Y$NAME$§W, which will be finished earliest §Y$DATE$§W.;x
 DIPLOMACY_PRESTIGE2;Prestige: $VALUE$;x
@@ -13746,7 +13662,6 @@ islamic_fundamentalists_title;Islamic Fundamentalists;x
 integrate_adamawa_title;Centralizing Adamawa;x
 small_but_efficient;Small But Efficient;x
 KER_reactionary;Party Kenethlegek;x
-beverages_focus;Encourage Beverage Industry;x
 empire_tariffs;Empire Tariff Cap;x
 gtfo_NZL_desc;We've had a good run, but it's time to end our rulership of New Zealand: if you love something, let it go!;x
 KAM_conservative;The Conservatives;x
@@ -13848,7 +13763,6 @@ EVTOPTA11102;Hurrah!;x
 EVTDESC44640;The current president, José Manuel Balmaceda, has been clashing heads with the oligarchial families that traditionally ruled Chile. He has attempted to work around them by directly appointing representitives to the upper house outside the bounds of the constitution. In response, Congress has moved to depose Balmaceda and restore oligarchial parliamentary rule to Chile.;x
 gtfo_BKV_desc;We've had a good run, but it's time to end our rulership of Bukovina: if you love something, let it go!;x
 EVTNAME36400;Edvard Munch;x
-encourage_rail;Build Railroads ;x
 chincha_war;Chincha Islands War;x
 cultuurstelsel_abolished;Cultuurstelsel Abolished;x
 NGR_fascist;Dynamic Party;x
@@ -13922,7 +13836,6 @@ EVTOPTB180;Stop the shipment;x
 gtfo_HAM_desc;We've had a good run, but it's time to end our rulership of Hamburg: if you love something, let it go!;x
 CB_JUSTIFY_NO_LONGER_VALID_6;is no longer valid!;x
 gtfo_TUN_desc;We've had a good run, but it's time to end our rulership of Tunis: if you love something, let it go!;x
-emigration_focus;Encourage Emigration;x
 ATC_ADJ;Antillean;x
 gtfo_WLL_title;Grant Wallonia Independence;x
 land_attack_modifier;Land Unit Attack Modifier;x
@@ -14004,7 +13917,6 @@ CW_WARNINSPHERE_SHORT;They are in $COUNTRY$'s Sphere.;x
 HAVE_MORE_TOTAL_PORTS_THAN;Have equal or more ports than: ;x
 gtfo_CZH_desc;We've had a good run, but it's time to end our rulership of CZH: if you love something, let it go!;x
 WE_INTERVENED_SETUP;When we intervene in a war;x
-massive_promote_capitalists;Encourage Capitalists;x
 PRI_fascist;Partido Nacionalista;x
 EVTNAME1100;Gold Rush - $PROVINCENAME$;x
 HED_communist;Kommunistische Arbeiterpartei;x
@@ -14082,7 +13994,6 @@ REVANSCHISM_ATLEAST;Revanchism is at least §Y$VAL$§W.\n;x
 EVTNAME44610;The fall of Grão-Pará;x
 outlaw_opium_title;Outlaw Opium;x
 MOZ;Mozambique;x
-party_loyalty_focus;Party Loyalty;x
 gtfo_CHP_desc;We've had a good run, but it's time to end our rulership of Chiapas: if you love something, let it go!;x
 catholic_growth_desc;The Catholic Church in the North America began in the colonial era, but most of the Spanish and French influences had faded by 1800. The Catholic Church in North America in the 19th Century grew through immigration, especially from Europe. Immigrants mostly came from Germany and Ireland, and later on from Italy and Eastern Europe in towards the start of the 20th Century;x
 the_big_ben;The Big Ben;x
@@ -14340,7 +14251,6 @@ BHR_ADJ;Bahraini;x
 gtfo_ORI_title;Grant Orissa Independence;x
 LXA_conservative;Royal Faction;x
 WORLD_WARS_DISABLED_DESC;World wars are NOT enabled;x
-massive_promote_labourers;Encourage Labourers;x
 MHR_ADJ;Mahrai;x
 CANCELALLIANCE_THEY_ACCEPT_1;Alliance partner is dismissed!;x
 EVTNAME17530;Bloody Strike!;x
@@ -14547,7 +14457,6 @@ desc_corruption3;Crime, bribery, and embezzlement run rampant in this province a
 UNB_fascist;Fascist Party;x
 UYG_communist;The Communist Faction;x
 TRADE_PRICE_TREND_UNCHANGED;Price unchanged since yesterday;x
-small_promote_farmers;Encourage Farmers;x
 TAI_ADJ;Taiwanese;x
 BHR;Bahrain;x
 demand_concession_casus_belli_free_short;Demand $STATE$;x
@@ -14558,7 +14467,6 @@ BKF_fascist;Rejectors Front;x
 EVTDESC33007;Worried by the growing popularity of the socialist movement, Bismarck instituted the Anti-Socialist Laws in 1878. Socialist organizations and meetings were forbidden - except the SPD, which was allowed to take part in the elections - as was the circulation of socialist literature. Despite these efforts, the socialist movement steadily gained supporters and seats in the Reichstag. Bismarck's strategy in the 1880s was to win the workers over for the conservative regime by implementing social benefits. He added accident and old-age insurance as well as a form of socialized medicine.;x
 the_congo_reform_association_desc;An international humanitarian organization is casting a less than favorable light on our colonial policies in the Congo.;x
 EVTDESCgiveartillery;$FROMCOUNTRY$ has asked us for a shipment of artillery. Shall we give it to them?;x
-massive_promote_craftsmen;Encourage Craftsmen;x
 EVTDESC3404;An unorganized wildcat strike has broken out in one of our states. The workers have barricaded a local workshop and refuse to let anyone in until, as they put it, 'their demands are met'. The problem is that they seem to have fairly limited conceptions of what it is they actually want, except 'more'. A local union boss has offered to mediate the issue, but the best option might be to just ignore them.;x
 EVTDESC44674;The delegation from §R$FROMCOUNTRY$§b has rejected our recent treaty offer.;x
 EVTNAME36985;Britain Refuses;x

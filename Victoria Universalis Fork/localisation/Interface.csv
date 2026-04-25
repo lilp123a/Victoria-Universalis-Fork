@@ -945,10 +945,10 @@ INVENTION_5;Effect:;x
 INVENTION_6;$EFFECT$;x
 INVENTION_BTN1;OK;x
 BASE_CHANCE;Base Chance: $CHANCE$%;x
-OR_TRIGGER_STARTS;One of the following must be true;x
+OR_TRIGGER_STARTS; One of the following must be true;x
 AND_TRIGGER_STARTS;All of the following must be true;x
 AND;and ;x
-OR;or;x
+OR;OR;x
 unciv_nation;Uncivilised Nation;x
 UNCIV_CANT_RESEARCH;Westernise to be able to research;x
 COLONIAL_POINTS_TECH;Colonial Power Points;x
@@ -1440,8 +1440,8 @@ LOST;§RLost;x
 YOU_LOST;§RYou Lost;x
 YOU_WON;§GYou Won;x
 OPTION_CHANGED;$FROM$ has changed to: $TO$;x
-THE_YEAR_IS_BEFORE;The year is before ;x
-THE_YEAR_IS_AFTER;The year is after ;x
+THE_YEAR_IS_BEFORE; The year is before ;x
+THE_YEAR_IS_AFTER; The year is after ;x
 HAVE_LESS_THAN;Have less than ;x
 HAVE_MORE_THAN;Have at least ;x
 WAR_EXHAUSTION_MORE_THAN;War Exhaustion at least ;x
@@ -1460,7 +1460,7 @@ HAVE_LESS_ALLIES_THAN;Have fewer allies than ;x
 HAVE_MORE_ALLIES_THAN;Number of allies at least ;x
 IS_ENABLED; is enabled;x
 IS_DISABLED; is disabled;x
-HAVE; Have invented;x
+HAVE; Have ;x
 HAVE_NOT;Do NOT have ;x
 HAS;Has ;x
 HAS_NOT;Has NOT ;x
@@ -1477,7 +1477,7 @@ OWNS;Owns ;x
 DO_NOT_CONTROL;Does NOT control ;x
 CONTROLS;Controls ;x
 HAVE_THE_MODIFIER;Have the modifier ;x
-DONT_HAVE_THE_MODIFIER;Do NOT have the modifier ;x
+DONT_HAVE_THE_MODIFIER; Do NOT have the modifier ;x
 DONT_HAVE_THE_PROVICEN_MODIFIER;Do NOT have the province modifier ;x
 HAVE_THE_PROVINCE_MODIFIER;Have the province modifier ;x
 HAVE_A_PORT_IN;Have a port in ;x
@@ -1498,7 +1498,7 @@ HAVE_LESS_UNITS_IN_THAN;Have less units in $PROVINCE$ than ;x
 HAVE_MORE_UNITS_IN_THAN;Units in $PROVINCE$ at least ;x
 HAVE_MORE_THAN_INFANTRY_IN;Have at least $UNITS$ infantry in $Province$;x
 HAVE_LESS_THAN_INFANTRY_IN;Have less than $UNITS$ infantry in $Province$;x
-IS_AT_PEACE_WITH;Is at peace with ;x
+IS_AT_PEACE_WITH; Is at peace with ;x
 IS_AT_WAR_WITH;Is at war with ;x
 HAS_NO_TRUCE_WITH;Have no truce with ;x
 HAS_TRUCE_WITH;Have truce with ;x
@@ -1528,8 +1528,8 @@ HAVE_NOT_ANY_NEIGHBOR;Have no neighbors;x
 HAVE_ANY_NEIGHBOR;Have at least one neighbor;x
 HAVE_NOT_CASUS_BELLI_AGAINST;Have no claims against ;x
 HAVE_CASUS_BELLI_AGAINST;Have claims against ;x
-IS_NOT_AI;Is NOT AI;x
-IS_AI;Is AI;x
+IS_NOT_AI; Is NOT AI;x
+IS_AI; Is AI;x
 THEN_NUMBER_OF_REVOLTS_ARE_LESS_THAN;Fewer rebel provinces than ;x
 THEN_NUMBER_OF_REVOLTS_ARE_MORE_THAN;Number of rebel provinces at least ;x
 NEIGHBOR_COUNTRY_STARTS;Neighboring country;x

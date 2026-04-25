@@ -283,6 +283,54 @@ political_decisions = {
 					}
 					owner = { set_country_flag = mixed_economy_invented }
 				}
+				random_owned = {
+					limit = {
+						owner = {
+							phenomenalism = 1
+							NOT = { has_country_flag = tier_2_focuses_unlocked_flag }
+						}
+					}
+					
+					owner = {
+						set_country_flag = tier_2_focuses_unlocked_flag
+					}
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							experimental_psychology = 1
+							NOT = { has_country_flag = tier_3_focuses_unlocked_flag }
+						}
+					}
+					
+					owner = {
+						set_country_flag = tier_3_focuses_unlocked_flag
+					}
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							psychoanalysis = 1
+							NOT = { has_country_flag = tier_4_focuses_unlocked_flag }
+						}
+					}
+					
+					owner = {
+						set_country_flag = tier_4_focuses_unlocked_flag
+					}
+				}
+				random_owned = {
+					limit = {
+						owner = {
+							humanistic_psychology = 1
+							NOT = { has_country_flag = tier_5_focuses_unlocked_flag }
+						}
+					}
+					
+					owner = {
+						set_country_flag = tier_5_focuses_unlocked_flag
+					}
+				}
 				
 				##################
 				### GOVERNMENT ###

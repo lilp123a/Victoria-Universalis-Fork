@@ -1,0 +1,68 @@
+tier_1_focuses;Tier I;x
+tier_2_focuses;Tier II;x
+tier_3_focuses;Tier III;x
+tier_4_focuses;Tier IV;x
+tier_5_focuses;Tier V;x
+miscellaneous_focuses;Miscellaneous;x
+party_loyalty_focuses;Party Loyalty;x
+tier_1_promote_capitalists;(I) Promote Capitalists;x
+tier_1_promote_bureaucrats;(I) Promote Bureaucrats;x
+tier_1_promote_clergymen;(I) Promote Intellectuals;x
+tier_1_promote_clerks;(I) Promote Clerks;x
+tier_1_promote_officers;(I) Promote Officers;x
+tier_1_promote_soldiers;(I) Promote Soldiers;x
+tier_1_promote_craftsmen;(I) Promote Craftsmen;x
+tier_1_promote_farmers;(I) Promote Farmers;x
+tier_1_promote_labourers;(I) Promote Labourers;x
+tier_2_promote_capitalists;(II) Promote Capitalists;x
+tier_2_promote_bureaucrats;(II) Promote Bureaucrats;x
+tier_2_promote_clergymen;(II) Promote Intellectuals;x
+tier_2_promote_clerks;(II) Promote Clerks;x
+tier_2_promote_officers;(II) Promote Officers;x
+tier_2_promote_soldiers;(II) Promote Soldiers;x
+tier_2_promote_craftsmen;(II) Promote Craftsmen;x
+tier_2_promote_farmers;(II) Promote Farmers;x
+tier_2_promote_labourers;(II) Promote Labourers;x
+tier_3_promote_capitalists;(III) Promote Capitalists;x
+tier_3_promote_bureaucrats;(III) Promote Bureaucrats;x
+tier_3_promote_clergymen;(III) Promote Intellectuals;x
+tier_3_promote_clerks;(III) Promote Clerks;x
+tier_3_promote_officers;(III) Promote Officers;x
+tier_3_promote_soldiers;(III) Promote Soldiers;x
+tier_3_promote_craftsmen;(III) Promote Craftsmen;x
+tier_3_promote_farmers;(III) Promote Farmers;x
+tier_3_promote_labourers;(III) Promote Labourers;x
+tier_4_promote_capitalists;(IV) Promote Capitalists;x
+tier_4_promote_bureaucrats;(IV) Promote Bureaucrats;x
+tier_4_promote_clergymen;(IV) Promote Intellectuals;x
+tier_4_promote_clerks;(IV) Promote Clerks;x
+tier_4_promote_officers;(IV) Promote Officers;x
+tier_4_promote_soldiers;(IV) Promote Soldiers;x
+tier_4_promote_craftsmen;(IV) Promote Craftsmen;x
+tier_4_promote_farmers;(IV) Promote Farmers;x
+tier_4_promote_labourers;(IV) Promote Labourers;x
+tier_5_promote_capitalists;(V) Promote Capitalists;x
+tier_5_promote_bureaucrats;(V) Promote Bureaucrats;x
+tier_5_promote_clergymen;(V) Promote Intellectuals;x
+tier_5_promote_clerks;(V) Promote Clerks;x
+tier_5_promote_officers;(V) Promote Officers;x
+tier_5_promote_soldiers;(V) Promote Soldiers;x
+tier_5_promote_craftsmen;(V) Promote Craftsmen;x
+tier_5_promote_farmers;(V) Promote Farmers;x
+tier_5_promote_labourers;(V) Promote Labourers;x
+increase_tension;Increase Tension;x
+increase_tension_focus_desc;Increase flashpoint tension by about §Y$VAL$§W% each month.;x
+reactionary_focus;Party loyalty towards §YReactionary§!;x
+conservative_focus;Party loyalty towards §YConservative§!;x
+liberal_focus;Party loyalty towards §YLiberal§!;x
+anarcho_liberal_focus;Party loyalty towards §YAnarcho-Liberal§!;x
+socialist_focus;Party loyalty towards §YSocialist§!;x
+communist_focus;Party loyalty towards §YCommunist§!;x
+fascist_focus;Party loyalty towards §YFascist§!;x
+reactionary_focus_short;§YReactionary§! Loyalty;x
+conservative_focus_short;§YConservative§! Loyalty;x
+liberal_focus_short;§YLiberal§! Loyalty;x
+anarcho_liberal_focus_short;§YAnarcho-Liberal§! Loyalty;x
+socialist_focus_short;§YSocialist§! Loyalty;x
+communist_focus_short;§YCommunists§! Loyalty;x
+fascist_focus_short;§YFascist§! Loyalty;x

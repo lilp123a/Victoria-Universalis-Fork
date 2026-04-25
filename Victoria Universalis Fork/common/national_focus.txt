@@ -1,32 +1,666 @@
+######################
+### TIER I FOCUSES ###
+######################
+
+tier_1_focuses = {
+	tier_1_promote_capitalists = {
+		icon = 8
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				NOT = { has_country_flag = tier_2_focuses_unlocked_flag }
+			}
+		}
+		
+		capitalists = 0.2
+	}
+	
+	tier_1_promote_bureaucrats = {
+		icon = 7
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				NOT = { has_country_flag = tier_2_focuses_unlocked_flag }
+			}
+		}
+		
+		bureaucrats = 0.2
+	}
+	
+	tier_1_promote_clergymen = {
+		icon = 9
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				NOT = { has_country_flag = tier_2_focuses_unlocked_flag }
+			}
+		}
+		
+		clergymen = 0.2
+	}
+	
+	tier_1_promote_officers = {
+		icon = 14
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				NOT = { has_country_flag = tier_2_focuses_unlocked_flag }
+			}
+		}
+		
+		officers = 0.2
+	}
+	
+	tier_1_promote_soldiers = {
+		icon = 15
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				NOT = { has_country_flag = tier_2_focuses_unlocked_flag }
+			}
+		}
+		
+		soldiers = 0.2
+	}
+	
+	tier_1_promote_clerks = {
+		icon = 10
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				NOT = { has_country_flag = tier_2_focuses_unlocked_flag }
+			}
+		}
+		
+		clerks = 0.2
+	}
+	
+	tier_1_promote_craftsmen = {
+		icon = 11
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				NOT = { has_country_flag = tier_2_focuses_unlocked_flag }
+			}
+		}
+		
+		craftsmen = 0.2
+	}
+	
+	tier_1_promote_farmers = {
+		icon = 12
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				NOT = { has_country_flag = tier_2_focuses_unlocked_flag }
+			}
+		}
+		
+		farmers = 0.2
+	}
+	
+	tier_1_promote_labourers = {
+		icon = 13
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				NOT = { has_country_flag = tier_2_focuses_unlocked_flag }
+			}
+		}
+		
+		labourers = 0.2
+	}
+}
+
 #######################
-### COLONIAL POLICY ###
+### TIER II FOCUSES ###
 #######################
 
-rail_focus = {
-	encourage_rail = {
-		icon = 2
+tier_2_focuses = {
+	tier_2_promote_capitalists = {
+		icon = 8
+		outliner_show_as_percent = yes
 		
 		limit = {
-			ai = no
+			THIS = {
+				has_country_flag = tier_2_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_3_focuses_unlocked_flag }
+			}
 		}
 		
-		railroads = 0.5 # Capitalists 50% more likely to choose railroads
+		capitalists = 0.24
 	}
 	
-	immigration = {
-		icon = 3
+	tier_2_promote_bureaucrats = {
+		icon = 7
+		outliner_show_as_percent = yes
 		
 		limit = {
-			ai = no
+			THIS = {
+				has_country_flag = tier_2_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_3_focuses_unlocked_flag }
+			}
 		}
 		
-		immigrant_attract = 2 # Increases attactiveness to immigrants by 200%
+		bureaucrats = 0.24
 	}
 	
+	tier_2_promote_clergymen = {
+		icon = 9
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_2_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_3_focuses_unlocked_flag }
+			}
+		}
+		
+		clergymen = 0.24
+	}
+	
+	tier_2_promote_officers = {
+		icon = 14
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_2_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_3_focuses_unlocked_flag }
+			}
+		}
+		
+		officers = 0.24
+	}
+	
+	tier_2_promote_soldiers = {
+		icon = 15
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_2_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_3_focuses_unlocked_flag }
+			}
+		}
+		
+		soldiers = 0.24
+	}
+	
+	tier_2_promote_clerks = {
+		icon = 10
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_2_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_3_focuses_unlocked_flag }
+			}
+		}
+		
+		clerks = 0.24
+	}
+	
+	tier_2_promote_craftsmen = {
+		icon = 11
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_2_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_3_focuses_unlocked_flag }
+			}
+		}
+		
+		craftsmen = 0.24
+	}
+	
+	tier_2_promote_farmers = {
+		icon = 12
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_2_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_3_focuses_unlocked_flag }
+			}
+		}
+		
+		farmers = 0.24
+	}
+	
+	tier_2_promote_labourers = {
+		icon = 13
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_2_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_3_focuses_unlocked_flag }
+			}
+		}
+		
+		labourers = 0.24
+	}
+}
+
+########################
+### TIER III FOCUSES ###
+########################
+
+tier_3_focuses = {
+	tier_3_promote_capitalists = {
+		icon = 8
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_3_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_4_focuses_unlocked_flag }
+			}
+		}
+		
+		capitalists = 0.28
+	}
+	
+	tier_3_promote_bureaucrats = {
+		icon = 7
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_3_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_4_focuses_unlocked_flag }
+			}
+		}
+		
+		bureaucrats = 0.28
+	}
+	
+	tier_3_promote_clergymen = {
+		icon = 9
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_3_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_4_focuses_unlocked_flag }
+			}
+		}
+		
+		clergymen = 0.28
+	}
+	
+	tier_3_promote_officers = {
+		icon = 14
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_3_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_4_focuses_unlocked_flag }
+			}
+		}
+		
+		officers = 0.28
+	}
+	
+	tier_3_promote_soldiers = {
+		icon = 15
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_3_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_4_focuses_unlocked_flag }
+			}
+		}
+		
+		soldiers = 0.28
+	}
+	
+	tier_3_promote_clerks = {
+		icon = 10
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_3_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_4_focuses_unlocked_flag }
+			}
+		}
+		
+		clerks = 0.28
+	}
+	
+	tier_3_promote_craftsmen = {
+		icon = 11
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_3_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_4_focuses_unlocked_flag }
+			}
+		}
+		
+		craftsmen = 0.28
+	}
+	
+	tier_3_promote_farmers = {
+		icon = 12
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_3_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_4_focuses_unlocked_flag }
+			}
+		}
+		
+		farmers = 0.28
+	}
+	
+	tier_3_promote_labourers = {
+		icon = 13
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_3_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_4_focuses_unlocked_flag }
+			}
+		}
+		
+		labourers = 0.28
+	}
+}
+
+#######################
+### TIER IV FOCUSES ###
+#######################
+
+tier_4_focuses = {
+	tier_4_promote_capitalists = {
+		icon = 8
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_4_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_5_focuses_unlocked_flag }
+			}
+		}
+		
+		capitalists = 0.32
+	}
+	
+	tier_4_promote_bureaucrats = {
+		icon = 7
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_4_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_5_focuses_unlocked_flag }
+			}
+		}
+		
+		bureaucrats = 0.32
+	}
+	
+	tier_4_promote_clergymen = {
+		icon = 9
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_4_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_5_focuses_unlocked_flag }
+			}
+		}
+		
+		clergymen = 0.32
+	}
+	
+	tier_4_promote_officers = {
+		icon = 14
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_4_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_5_focuses_unlocked_flag }
+			}
+		}
+		
+		officers = 0.32
+	}
+	
+	tier_4_promote_soldiers = {
+		icon = 15
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_4_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_5_focuses_unlocked_flag }
+			}
+		}
+		
+		soldiers = 0.32
+	}
+	
+	tier_4_promote_clerks = {
+		icon = 10
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_4_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_5_focuses_unlocked_flag }
+			}
+		}
+		
+		clerks = 0.32
+	}
+	
+	tier_4_promote_craftsmen = {
+		icon = 11
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_4_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_5_focuses_unlocked_flag }
+			}
+		}
+		
+		craftsmen = 0.32
+	}
+	
+	tier_4_promote_farmers = {
+		icon = 12
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_4_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_5_focuses_unlocked_flag }
+			}
+		}
+		
+		farmers = 0.32
+	}
+	
+	tier_4_promote_labourers = {
+		icon = 13
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_4_focuses_unlocked_flag
+				NOT = { has_country_flag = tier_5_focuses_unlocked_flag }
+			}
+		}
+		
+		labourers = 0.32
+	}
+}
+
+######################
+### TIER V FOCUSES ###
+######################
+
+tier_5_focuses = {
+	tier_5_promote_capitalists = {
+		icon = 8
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_5_focuses_unlocked_flag
+			}
+		}
+		
+		capitalists = 0.36
+	}
+	
+	tier_5_promote_bureaucrats = {
+		icon = 7
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_5_focuses_unlocked_flag
+			}
+		}
+		
+		bureaucrats = 0.36
+	}
+	
+	tier_5_promote_clergymen = {
+		icon = 9
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_5_focuses_unlocked_flag
+			}
+		}
+		
+		clergymen = 0.36
+	}
+	
+	tier_5_promote_officers = {
+		icon = 14
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_5_focuses_unlocked_flag
+			}
+		}
+		
+		officers = 0.36
+	}
+	
+	tier_5_promote_soldiers = {
+		icon = 15
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_5_focuses_unlocked_flag
+			}
+		}
+		
+		soldiers = 0.36
+	}
+	
+	tier_5_promote_clerks = {
+		icon = 10
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_5_focuses_unlocked_flag
+			}
+		}
+		
+		clerks = 0.36
+	}
+	
+	tier_5_promote_craftsmen = {
+		icon = 11
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_5_focuses_unlocked_flag
+			}
+		}
+		
+		craftsmen = 0.36
+	}
+	
+	tier_5_promote_farmers = {
+		icon = 12
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_5_focuses_unlocked_flag
+			}
+		}
+		
+		farmers = 0.36
+	}
+	
+	tier_5_promote_labourers = {
+		icon = 13
+		outliner_show_as_percent = yes
+		
+		limit = {
+			THIS = {
+				has_country_flag = tier_5_focuses_unlocked_flag
+			}
+		}
+		
+		labourers = 0.36
+	}
+}
+
+#####################
+### MISCELLANEOUS ###
+#####################
+
+miscellaneous_focuses = {
 	increase_tension = {
 		icon = 4
 		
+		has_flashpoint = yes
+		own_provinces = no
+		
 		limit = {
+			OR = {
+				has_global_flag = immediate_crises_enabled
+				
+				AND = {
+					has_global_flag = delayed_crises_enabled
+					year = 1870
+				}
+			}
+			
 			is_core = THIS
 			
 			THIS = {
@@ -34,683 +668,7 @@ rail_focus = {
 			}
 		}
 		
-		has_flashpoint = yes
-		own_provinces = no
-		
 		flashpoint_tension = 0.15
-	}
-}
-
-#####################
-### POP PROMOTION ###
-#####################
-
-small_promotion_focus = {
-	small_promote_aristocrats = {
-		icon = 5
-		outliner_show_as_percent = yes
-		
-		limit = {
-			NOT = { state_scope = { total_pops = 400000 } }
-		}
-		
-		aristocrats = 0.40
-	}
-	
-	small_promote_bureaucrats = {
-		icon = 7
-		outliner_show_as_percent = yes
-		
-		limit = {
-			NOT = { state_scope = { total_pops = 400000 } }
-		}
-		
-		bureaucrats = 0.40
-	}
-	
-	small_promote_capitalists = {
-		icon = 8
-		outliner_show_as_percent = yes
-		
-		limit = {
-			NOT = { state_scope = { total_pops = 400000 } }
-		}
-		
-		capitalists = 0.40
-	}
-	
-	small_promote_clergymen = {
-		icon = 9
-		outliner_show_as_percent = yes
-		
-		limit = {
-			NOT = { state_scope = { total_pops = 400000 } }
-		}
-		
-		clergymen = 0.40
-	}
-	
-	small_promote_clerks = {
-		icon = 10
-		outliner_show_as_percent = yes
-		
-		limit = {
-			NOT = { state_scope = { total_pops = 400000 } }
-		}
-		
-		clerks = 0.40
-	}
-	
-	small_promote_craftsmen = {
-		icon = 11
-		outliner_show_as_percent = yes
-		
-		limit = {
-			NOT = { state_scope = { total_pops = 400000 } }
-		}
-		
-		craftsmen = 0.2
-	}
-	
-	small_promote_farmers = {
-		icon = 12
-		outliner_show_as_percent = yes
-		
-		limit = {
-			NOT = { state_scope = { total_pops = 400000 } }
-		}
-		
-		farmers = 0.40
-	}
-	
-	small_promote_labourers = {
-		icon = 13
-		outliner_show_as_percent = yes
-		
-		limit = {
-			NOT = { state_scope = { total_pops = 400000 } }
-		}
-		
-		labourers = 0.40
-	}
-	
-	small_promote_officers = {
-		icon = 14
-		outliner_show_as_percent = yes
-		
-		limit = {
-			NOT = { state_scope = { total_pops = 400000 } }
-		}
-		
-		officers = 0.40
-	}
-	
-	small_promote_soldiers = {
-		icon = 15
-		outliner_show_as_percent = yes
-		
-		limit = {
-			NOT = { state_scope = { total_pops = 400000 } }
-		}
-		
-		soldiers = 0.40
-	}
-}
-
-promotion_focus = {
-	promote_aristocrats = {
-		icon = 5
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 400000
-				NOT = { total_pops = 2000000 }
-			}
-		}
-		
-		aristocrats = 0.30
-	}
-	
-	promote_bureaucrats = {
-		icon = 7
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 400000
-				NOT = { total_pops = 2000000 }
-			}
-		}
-		
-		bureaucrats = 0.40
-	}
-	
-	promote_capitalists = {
-		icon = 8
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 400000
-				NOT = { total_pops = 2000000 }
-			}
-		}
-		
-		capitalists = 0.30
-	}
-	
-	promote_clergymen = {
-		icon = 9
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 400000
-				NOT = { total_pops = 2000000 }
-			}
-		}
-		
-		clergymen = 0.30
-	}
-	
-	promote_clerks = {
-		icon = 10
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 400000
-				NOT = { total_pops = 2000000 }
-			}
-		}
-		
-		clerks = 0.30
-	}
-	
-	promote_craftsmen = {
-		icon = 11
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 400000
-				NOT = { total_pops = 2000000 }
-			}
-		}
-		
-		craftsmen = 0.15
-	}
-	
-	promote_farmers = {
-		icon = 12
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 400000
-				NOT = { total_pops = 2000000 }
-			}
-		}
-		
-		farmers = 0.30
-	}
-	
-	promote_labourers = {
-		icon = 13
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 400000
-				NOT = { total_pops = 2000000 }
-			}
-		}
-		
-		labourers = 0.30
-	}
-	
-	promote_officers = {
-		icon = 14
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 400000
-				NOT = { total_pops = 2000000 }
-			}
-		}
-		
-		officers = 0.30
-	}
-	
-	promote_soldiers = {
-		icon = 15
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 400000
-				NOT = { total_pops = 2000000 }
-			}
-		}
-		
-		soldiers = 0.30
-	}
-}
-
-large_promotion_focus = {
-	large_promote_aristocrats = {
-		icon = 5
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 2000000
-				NOT = { total_pops = 4000000 }
-			}
-		}
-		
-		aristocrats = 0.20
-	}
-	
-	large_promote_bureaucrats = {
-		icon = 7
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 2000000
-				NOT = { total_pops = 4000000 }
-			}
-		}
-		
-		bureaucrats = 0.20
-	}
-	
-	large_promote_capitalists = {
-		icon = 8
-		outliner_show_as_percent = yes
-		
-		limit = { 
-			civilized = yes
-			state_scope = {
-				total_pops = 2000000
-				NOT = { total_pops = 4000000 }
-			}
-		}
-		
-		capitalists = 0.20
-	}
-	
-	large_promote_clergymen = {
-		icon = 9
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 2000000
-				NOT = { total_pops = 4000000 }
-			}
-		}
-		
-		clergymen = 0.20
-	}
-	
-	large_promote_clerks = {
-		icon = 10
-		outliner_show_as_percent = yes
-		
-		limit = {
-			civilized = yes
-			state_scope = {
-				total_pops = 2000000
-				NOT = { total_pops = 4000000 }
-			}
-		}
-		
-		clerks = 0.20
-	}
-	
-	large_promote_craftsmen = {
-		icon = 11
-		outliner_show_as_percent = yes
-		
-		limit = {
-			civilized = yes
-			state_scope = {
-				total_pops = 2000000
-				NOT = { total_pops = 4000000 }
-			}
-		}
-		
-		craftsmen = 0.10
-	}
-	
-	large_promote_farmers = {
-		icon = 12
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 2000000
-				NOT = { total_pops = 4000000 }
-			}
-		}
-		
-		farmers = 0.20
-	}
-	
-	large_promote_labourers = {
-		icon = 13
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 2000000
-				NOT = { total_pops = 4000000 }
-			}
-		}
-		
-		labourers = 0.20
-	}
-	
-	large_promote_officers = {
-		icon = 14
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 2000000
-				NOT = { total_pops = 4000000 }
-			}
-		}
-		
-		officers = 0.20
-	}
-	
-	large_promote_soldiers = {
-		icon = 15
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 2000000
-				NOT = { total_pops = 4000000 }
-			}
-		}
-		
-		soldiers = 0.20
-	}
-}
-
-massive_promotion_focus = {
-	massive_promote_aristocrats = {
-		icon = 5
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 4000000
-			}
-		}
-		
-		aristocrats = 0.10
-	}
-	
-	massive_promote_bureaucrats = {
-		icon = 7
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 4000000
-			}
-		}
-		
-		bureaucrats = 0.10
-	}
-	
-	massive_promote_capitalists = {
-		icon = 8
-		outliner_show_as_percent = yes
-		
-		limit = { 
-			civilized = yes
-			state_scope = {
-				total_pops = 4000000
-			}
-		}
-		
-		capitalists = 0.10
-	}
-	
-	massive_promote_clergymen = {
-		icon = 9
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 4000000
-			}
-		}
-		
-		clergymen = 0.10
-	}
-	
-	massive_promote_clerks = {
-		icon = 10
-		outliner_show_as_percent = yes
-		
-		limit = { 
-			civilized = yes
-			state_scope = {
-				total_pops = 4000000
-			}
-		}
-		
-		clerks = 0.10
-	}
-	
-	massive_promote_craftsmen = {
-		icon = 11
-		outliner_show_as_percent = yes
-		
-		limit = {
-			civilized = yes
-			state_scope = {
-				total_pops = 4000000
-			}
-		}
-		
-		craftsmen = 0.05
-	}
-	
-	massive_promote_farmers = {
-		icon = 12
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 4000000
-			}
-		}
-		
-		farmers = 0.10
-	}
-	
-	massive_promote_labourers = {
-		icon = 13
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 4000000
-			}
-		}
-		
-		labourers = 0.10
-	}
-	
-	massive_promote_officers = {
-		icon = 14
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 4000000
-			}
-		}
-		
-		officers = 0.10
-	}
-	
-	massive_promote_soldiers = {
-		icon = 15
-		outliner_show_as_percent = yes
-		
-		limit = {
-			state_scope = {
-				total_pops = 4000000
-			}
-		}
-		
-		soldiers = 0.10
-	}
-}
-
-##################
-### PRODUCTION ###
-##################
-
-production_focus = {
-	automation_focus = {
-		icon = 16
-		
-		limit = {
-			ai = no
-			year = 1880
-		}
-		
-		automobiles = 100
-		aeroplanes = 100
-		tanks = 100
-	}
-	
-	electrical_focus = {
-		icon = 17
-		
-		limit = {
-			ai = no
-			year = 1880
-		}
-		
-		electric_gear = 100
-		radio = 100
-		telephones = 80
-	}
-	
-	chemical_focus = {
-		icon = 18
-		
-		limit = {
-			ai = no
-		}
-		
-		sulphur = 100
-		oil = 100
-		rubber = 100
-		fertilizer = 100
-		fuel = 100
-	}
-	
-	shipping_focus = {
-		icon = 19
-		
-		limit = {
-			ai = no
-			state_scope = { any_owned_province = { port = yes } }
-		}
-		
-		clipper_convoy = 100
-		steamer_convoy = 100
-	}
-	
-	textile_focus = {
-		icon = 20
-		
-		limit = {
-			ai = no
-		}
-		
-		dye = 100
-		fabric = 100
-		regular_clothes = 100
-		luxury_clothes = 50
-	}
-	
-	wood_focus = {
-		icon = 21
-		
-		limit = {
-			ai = no
-		}
-		
-		lumber = 75
-		paper = 75
-		furniture = 100
-		luxury_furniture = 50
-	}
-	
-	basic_industry_focus = {
-		icon = 22
-		
-		limit = {
-			ai = no
-		}
-		
-		steel = 100
-		cement = 75
-		machine_parts = 100
-	}
-	
-	armaments_focus =  {
-		icon = 23
-		
-		limit = {
-			ai = no
-		}
-		
-		artillery = 100
-		small_arms = 100
-		ammunition = 100
-		explosives = 100
-	}
-	
-	consumer_focus =  {
-		icon = 32
-		
-		limit = {
-			ai = no
-		}
-		
-		glass = 75
-		canned_food = 100
-		cigarettes = 75
-		pharmaceuticals = 75
-	}
-	
-	beverages_focus =  {
-		icon = 24
-		
-		limit = {
-			ai = no
-		}
-		
-		liquor = 100
-		wine = 100
-		tea = 75
-		coffee = 75
 	}
 }
 
@@ -718,23 +676,14 @@ production_focus = {
 ### PARTY LOYALTY ###
 #####################
 
-party_loyalty_focus = {
-	fascist_focus = {
-		icon = 25
-		
-		limit = {
-			ai = no
-		}
-		
-		ideology = fascist
-		loyalty_value = 0.0075
-	}
-	
+party_loyalty_focuses = {
 	reactionary_focus = {
 		icon = 26
 		
 		limit = {
-			ai = no
+			THIS = {
+				ai = no
+			}
 		}
 		
 		ideology = reactionary
@@ -745,32 +694,12 @@ party_loyalty_focus = {
 		icon = 27
 		
 		limit = {
-			ai = no
+			THIS = {
+				ai = no
+			}
 		}
 		
 		ideology = conservative
-		loyalty_value = 0.0075
-	}
-	
-	socialist_focus = {
-		icon = 28
-		
-		limit = {
-			ai = no
-		}
-		
-		ideology = socialist
-		loyalty_value = 0.0075
-	}
-	
-	communist_focus = {
-		icon = 29
-		
-		limit = {
-			ai = no
-		}
-		
-		ideology = communist
 		loyalty_value = 0.0075
 	}
 	
@@ -778,7 +707,9 @@ party_loyalty_focus = {
 		icon = 30
 		
 		limit = {
-			ai = no
+			THIS = {
+				ai = no
+			}
 		}
 		
 		ideology = liberal
@@ -789,10 +720,51 @@ party_loyalty_focus = {
 		icon = 31
 		
 		limit = {
-			ai = no
+			THIS = {
+				ai = no
+			}
 		}
 		
 		ideology = anarcho_liberal
+		loyalty_value = 0.0075
+	}
+	
+	socialist_focus = {
+		icon = 28
+		
+		limit = {
+			THIS = {
+				ai = no
+			}
+		}
+		
+		ideology = socialist
+		loyalty_value = 0.0075
+	}
+	
+	communist_focus = {
+		icon = 29
+		
+		limit = {
+			THIS = {
+				ai = no
+			}
+		}
+		
+		ideology = communist
+		loyalty_value = 0.0075
+	}
+	
+	fascist_focus = {
+		icon = 25
+		
+		limit = {
+			THIS = {
+				ai = no
+			}
+		}
+		
+		ideology = fascist
 		loyalty_value = 0.0075
 	}
 }
