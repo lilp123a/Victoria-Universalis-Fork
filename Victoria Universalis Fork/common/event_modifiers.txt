@@ -1546,7 +1546,7 @@ nv_industry_preview = {
 #################
 
 expand_farmland_cooldown = {
-	icon = 1
+	icon = 2
 }
 
 monthly_pulse_cooldown = {
