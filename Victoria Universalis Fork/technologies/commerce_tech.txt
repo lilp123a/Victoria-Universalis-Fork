@@ -5,7 +5,7 @@
 private_banks = {
 	area = financial_institutions
 	year = 1836
-	cost = 3600
+	cost = 4140
 	
 	activate_building = cement_factory 
 	
@@ -27,7 +27,7 @@ private_banks = {
 stock_exchange = {
 	area = financial_institutions
 	year = 1836
-	cost = 7200
+	cost = 8280
 
 	tax_eff = 1
 	
@@ -47,7 +47,7 @@ stock_exchange = {
 business_banks = {
 	area = financial_institutions
 	year = 1850
-	cost = 10800
+	cost = 12420
 
 	tax_eff = 3
 	
@@ -67,7 +67,7 @@ business_banks = {
 investment_banks = {
 	area = financial_institutions
 	year = 1870
-	cost = 14400
+	cost = 16560
 
 	tax_eff = 2
 	
@@ -87,7 +87,7 @@ investment_banks = {
 bank_inspection_board = {
 	area = financial_institutions
 	year = 1890
-	cost = 18000
+	cost = 20700
 
 	tax_eff = 1
 	
@@ -171,7 +171,7 @@ modern_financial_institutions = {
 no_standard = {
 	area = monetary_system
 	year = 1836
-	cost = 3600
+	cost = 4140
 
 	administrative_efficiency = 0.05
 	
@@ -187,7 +187,7 @@ no_standard = {
 ad_hoc_money_bill_printing = {
 	area = monetary_system
 	year = 1836
-	cost = 7200
+	cost = 8280
 	
 	administrative_efficiency = 0.05
 	
@@ -215,7 +215,7 @@ ad_hoc_money_bill_printing = {
 private_bank_money_bill_printing = {
 	area = monetary_system
 	year = 1836
-	cost = 10800
+	cost = 12420
 
 	administrative_efficiency = 0.05
 	
@@ -239,7 +239,7 @@ private_bank_money_bill_printing = {
 central_bank_money_bill_printing = {
 	area = monetary_system
 	year = 1850
-	cost = 14400
+	cost = 16560
 
 	administrative_efficiency = 0.05
 	
@@ -263,7 +263,7 @@ central_bank_money_bill_printing = {
 modern_central_bank_system = {
 	area = monetary_system
 	year = 1870
-	cost = 18000
+	cost = 20700
 
 	administrative_efficiency = 0.05
 	
@@ -359,7 +359,7 @@ early_classical_theory_and_critique = {
 late_classical_theory = {
 	area = economic_thought_and_critique
 	year = 1836
-	cost = 7200
+	cost = 8280
 
 	farm_RGO_eff = 0.1
 	mine_rgo_eff = 0.1
@@ -392,7 +392,7 @@ late_classical_theory = {
 collectivist_theory = {
 	area = economic_thought_and_critique
 	year = 1850
-	cost = 10800
+	cost = 12420
 
 	farm_RGO_eff = 0.1
 	mine_rgo_eff = 0.1
@@ -425,7 +425,7 @@ collectivist_theory = {
 the_historical_theory = {
 	area = economic_thought_and_critique
 	year = 1865
-	cost = 14400
+	cost = 16560
 
 	farm_RGO_eff = 0.1
 	mine_rgo_eff = 0.1
@@ -458,7 +458,7 @@ the_historical_theory = {
 neoclassical_theory = {
 	area = economic_thought_and_critique
 	year = 1880
-	cost = 18000
+	cost = 20700
 
 	farm_RGO_eff = 0.1
 	mine_rgo_eff = 0.1
@@ -561,7 +561,7 @@ neoliberal_theory = {
 freedom_of_trade = {
 	area = market_functionality
 	year = 1836
-	cost = 3600
+	cost = 4140
 	
 	activate_building = luxury_clothes_factory
 	
@@ -585,7 +585,7 @@ freedom_of_trade = {
 market_structure = {
 	area = market_functionality
 	year = 1836
-	cost = 7200
+	cost = 8280
 	
 	influence = 0.1
 	farm_rgo_eff = 0.1
@@ -619,7 +619,7 @@ market_structure = {
 business_regulations = {
 	area = market_functionality
 	year = 1836
-	cost = 10800
+	cost = 12420
 	
 	influence = 0.2
 	farm_rgo_eff = 0.1
@@ -648,7 +648,7 @@ business_regulations = {
 market_regulations = {
 	area = market_functionality
 	year = 1850
-	cost = 14400
+	cost = 16560
 	
 	influence = 0.2
 	
@@ -676,7 +676,7 @@ market_regulations = {
 economic_responsibility = {
 	area = market_functionality
 	year = 1870
-	cost = 18000
+	cost = 20700
 	
 	influence = 0.2
 	
@@ -764,7 +764,7 @@ monetarism = {
 guild_based_production = {
 	area = tech_organization
 	year = 1836
-	cost = 3600
+	cost = 4140
 	
 	activate_building = canned_food_factory 
 	
@@ -802,7 +802,7 @@ guild_based_production = {
 organized_factories = {
 	area = tech_organization
 	year = 1836
-	cost = 7200
+	cost = 8280
 	
 	factory_input = -0.02
 	
@@ -842,7 +842,7 @@ organized_factories = {
 scientific_management = {
 	area = tech_organization
 	year = 1836
-	cost = 10800
+	cost = 12420
 	
 	factory_input = -0.02
 	
@@ -882,7 +882,7 @@ scientific_management = {
 time_saving_measures = {
 	area = tech_organization
 	year = 1850
-	cost = 14400
+	cost = 16560
 	
 	factory_input = -0.02
 	
@@ -910,7 +910,7 @@ time_saving_measures = {
 management_strategy = {
 	area = tech_organization
 	year = 1870
-	cost = 18000
+	cost = 20700
 	
 	factory_input = -0.02
 	

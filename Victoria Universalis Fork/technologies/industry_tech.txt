@@ -5,7 +5,7 @@
 water_wheel_power = {
 	area = tech_power
 	year = 1836
-	cost = 3600
+	cost = 4140
 	
 	mine_rgo_eff = 0.1
 	farm_rgo_eff = 0.1
@@ -52,7 +52,7 @@ water_wheel_power = {
 practical_steam_engine = {
 	area = tech_power
 	year = 1836
-	cost = 7200
+	cost = 8280
 	
 	mine_rgo_eff = 0.1
 	farm_rgo_eff = 0.1
@@ -100,7 +100,7 @@ practical_steam_engine = {
 high_n_low_pressure_steam_engines = {
 	area = tech_power
 	year = 1836
-	cost = 10800
+	cost = 12420
 	
 	mine_rgo_eff = 0.1
 	farm_rgo_eff = 0.1
@@ -148,7 +148,7 @@ high_n_low_pressure_steam_engines = {
 steam_turbine = {
 	area = tech_power
 	year = 1850
-	cost = 14400
+	cost = 16560
 	
 	mine_rgo_eff = 0.1
 	farm_rgo_eff = 0.1
@@ -196,7 +196,7 @@ steam_turbine = {
 combustion_engine = {
 	area = tech_power
 	year = 1880
-	cost = 18000
+	cost = 20700
 	
 	mine_rgo_eff = 0.1
 	farm_rgo_eff = 0.1
@@ -334,7 +334,7 @@ modern_power_generation = {
 industrial_revolution = {
 	area = mechanization
 	year = 1836
-	cost = 3600
+	cost = 4140
 	
 	mine_rgo_eff = 0.2
 	farm_rgo_eff = 0.2
@@ -372,7 +372,7 @@ industrial_revolution = {
 mechanical_production = {
 	area = mechanization
 	year = 1836
-	cost = 7200
+	cost = 8280
 	
 	factory_throughput = 0.05
 	factory_cost = 0.05
@@ -424,7 +424,7 @@ mechanical_production = {
 interchangeable_parts = {
 	area = mechanization
 	year = 1836
-	cost = 10800
+	cost = 12420
 	
 	factory_throughput = 0.05
 	factory_cost = 0.05
@@ -461,7 +461,7 @@ interchangeable_parts = {
 semi_automatization = {
 	area = mechanization
 	year = 1850
-	cost = 14400
+	cost = 16560
 	
 	factory_throughput = 0.05
 	factory_cost = 0.05
@@ -498,7 +498,7 @@ semi_automatization = {
 assembly_line = {
 	area = mechanization
 	year = 1870
-	cost = 18000
+	cost = 20700
 	
 	factory_throughput = 0.1
 	factory_cost = 0.05
@@ -599,7 +599,7 @@ mechanized_manufacturing = {
 mechanized_mining = {
 	area = metallurgy
 	year = 1836
-	cost = 3600
+	cost = 4140
 	
 	activate_building = steel_factory
 	
@@ -658,7 +658,7 @@ mechanized_mining = {
 clean_coal = {
 	area = metallurgy
 	year = 1836
-	cost = 7200
+	cost = 8280
 	
 	activate_building = mines
 	
@@ -710,7 +710,7 @@ clean_coal = {
 cheap_iron = {
 	area = metallurgy
 	year = 1836
-	cost = 10800
+	cost = 12420
 	
 	## Audax Validator "." Ignore_NEXT
 	max_mines = 1
@@ -763,7 +763,7 @@ cheap_iron = {
 cheap_steel = {
 	area = metallurgy
 	year = 1850
-	cost = 14400
+	cost = 16560
 	
 	## Audax Validator "." Ignore_NEXT
 	max_mines = 1
@@ -823,7 +823,7 @@ cheap_steel = {
 advanced_metallurgy = {
 	area = metallurgy
 	year = 1870
-	cost = 18000
+	cost = 20700
 	
 	## Audax Validator "." Ignore_NEXT
 	max_mines = 1
@@ -1007,7 +1007,7 @@ modern_metallurgy = {
 experimental_railroad = {
 	area = tech_infrastructure
 	year = 1836
-	cost = 3600
+	cost = 4140
 	
 	activate_building = railroad
 	
@@ -1032,7 +1032,7 @@ experimental_railroad = {
 early_railroad = {
 	area = tech_infrastructure
 	year = 1840
-	cost = 7200
+	cost = 8280
 	
 	max_railroad = 1
 	
@@ -1057,7 +1057,7 @@ early_railroad = {
 iron_railroad = {
 	area = tech_infrastructure
 	year = 1850
-	cost = 10800
+	cost = 12420
 	
 	max_railroad = 1
 	
@@ -1082,7 +1082,7 @@ iron_railroad = {
 steel_railroad = {
 	area = tech_infrastructure
 	year = 1870
-	cost = 14400
+	cost = 16560
 	
 	max_railroad = 1
 	
@@ -1107,7 +1107,7 @@ steel_railroad = {
 integral_rail_system = {
 	area = tech_infrastructure
 	year = 1890
-	cost = 18000
+	cost = 20700
 	
 	max_railroad = 1
 	
@@ -1184,7 +1184,7 @@ modern_infrastructure = {
 basic_chemistry = {
 	area = chemistry_and_electricity
 	year = 1836
-	cost = 3600
+	cost = 4140
 	
 	activate_building = fertilizer_factory
 	
@@ -1207,7 +1207,7 @@ basic_chemistry = {
 medicine = {
 	area = chemistry_and_electricity
 	year = 1836
-	cost = 7200
+	cost = 8280
 	
 	supply_limit = 0.25
 	
@@ -1223,7 +1223,7 @@ medicine = {
 inorganic_chemistry = {
 	area = chemistry_and_electricity
 	year = 1850
-	cost = 10800
+	cost = 12420
 	
 	supply_limit = 0.25
 	
@@ -1243,7 +1243,7 @@ inorganic_chemistry = {
 organic_chemistry = {
 	area = chemistry_and_electricity
 	year = 1870
-	cost = 14400
+	cost = 16560
 	
 	supply_limit = 0.25
 	
@@ -1263,7 +1263,7 @@ organic_chemistry = {
 electricity = {
 	area = chemistry_and_electricity
 	year = 1875
-	cost = 18000
+	cost = 20700
 	
 	supply_limit = 0.25
 	

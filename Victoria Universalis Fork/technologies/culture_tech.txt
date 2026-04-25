@@ -5,7 +5,7 @@
 classicism_n_early_romanticism = {
 	area = aesthetics
 	year = 1836
-	cost = 3600
+	cost = 4140
 
 	prestige = 0.1
 	
@@ -25,7 +25,7 @@ classicism_n_early_romanticism = {
 romanticism = {
 	area = aesthetics
 	year = 1836
-	cost = 7200
+	cost = 8280
 	
 	prestige = 0.1
 	
@@ -55,7 +55,7 @@ romanticism = {
 realism = {
 	area = aesthetics
 	year = 1836
-	cost = 10800
+	cost = 12420
 	
 	prestige = 0.1
 	
@@ -80,7 +80,7 @@ realism = {
 impressionism = {
 	area = aesthetics
 	year = 1850
-	cost = 14400
+	cost = 16560
 	
 	prestige = 0.1
 	
@@ -105,7 +105,7 @@ impressionism = {
 expressionism = {
 	area = aesthetics
 	year = 1870
-	cost = 18000
+	cost = 20700
 	
 	prestige = 0.1
 	
@@ -184,7 +184,7 @@ modernism = {
 late_enlightenment_philosophy = {
 	area = philosophy
 	year = 1836
-	cost = 3600
+	cost = 4140
 	
 	increase_research = 0.50
 	
@@ -200,7 +200,7 @@ late_enlightenment_philosophy = {
 idealism = {
 	area = philosophy
 	year = 1840
-	cost = 7200
+	cost = 8280
 	
 	increase_research = 0.50
 	
@@ -216,7 +216,7 @@ idealism = {
 empiricism = {
 	area = philosophy
 	year = 1860
-	cost = 10800
+	cost = 12420
 	
 	increase_research = 0.50
 	
@@ -232,7 +232,7 @@ empiricism = {
 analytic_philosophy = {
 	area = philosophy
 	year = 1870
-	cost = 14400
+	cost = 16560
 	
 	increase_research = 1.0
 	
@@ -248,7 +248,7 @@ analytic_philosophy = {
 phenomenology_n_hermeneutic = {
 	area = philosophy
 	year = 1880
-	cost = 18000
+	cost = 20700
 	
 	increase_research = 1.0
 	
@@ -300,7 +300,7 @@ quantum_mechanics = {
 malthusian_thought = {
 	area = social_thought
 	year = 1836
-	cost = 3600
+	cost = 4140
 	
 	education_efficiency = 0.1
 	colonial_migration = 0.05
@@ -317,7 +317,7 @@ malthusian_thought = {
 positivism = {
 	area = social_thought
 	year = 1836
-	cost = 7200
+	cost = 8280
 	
 	education_efficiency = 0.1
 	colonial_migration = 0.05
@@ -334,7 +334,7 @@ positivism = {
 functionalism = {
 	area = social_thought
 	year = 1836
-	cost = 10800
+	cost = 12420
 	
 	education_efficiency = 0.1
 	colonial_migration = 0.05
@@ -351,7 +351,7 @@ functionalism = {
 biologism = {
 	area = social_thought
 	year = 1850
-	cost = 14400
+	cost = 16560
 	
 	education_efficiency = 0.1
 	colonial_migration = 0.05
@@ -368,7 +368,7 @@ biologism = {
 social_science = {
 	area = social_thought
 	year = 1870
-	cost = 18000
+	cost = 20700
 	
 	education_efficiency = 0.2
 	colonial_migration = 0.05
@@ -428,7 +428,7 @@ critical_theory = {
 enlightenment_thought = {
 	area = political_thought
 	year = 1836
-	cost = 3600
+	cost = 4140
 	
 	max_national_focus = 1
 	
@@ -440,7 +440,7 @@ enlightenment_thought = {
 ideological_thought = {
 	area = political_thought
 	year = 1836
-	cost = 7200
+	cost = 8280
 	
 	max_national_focus = 1
 	
@@ -456,7 +456,7 @@ ideological_thought = {
 state_n_government = {
 	area = political_thought
 	year = 1840
-	cost = 10800
+	cost = 12420
 	
 	max_national_focus = 1
 	
@@ -489,7 +489,7 @@ state_n_government = {
 nationalism_n_imperialism = {
 	area = political_thought
 	year = 1850
-	cost = 14400
+	cost = 16560
 	
 	max_national_focus = 1
 	cb_creation_speed = 0.1
@@ -523,7 +523,7 @@ nationalism_n_imperialism = {
 revolution_n_counterrevolution = {
 	area = political_thought
 	year = 1870
-	cost = 18000
+	cost = 20700
 	
 	max_national_focus = 1
 	diplomatic_points = 0.25
@@ -588,7 +588,7 @@ government_mobilization = {
 introspectionism = {
 	area = psychology
 	year = 1836
-	cost = 3600
+	cost = 4140
 	
 	regular_experience_level = 5
 	reinforce_rate = 0.05
@@ -613,7 +613,7 @@ introspectionism = {
 associationism = {
 	area = psychology
 	year = 1836
-	cost = 7200
+	cost = 8280
 	
 	regular_experience_level = 5
 	reinforce_rate = 0.05
@@ -638,7 +638,7 @@ associationism = {
 phenomenalism = {
 	area = psychology
 	year = 1836
-	cost = 10800
+	cost = 12420
 	
 	regular_experience_level = 5
 	reinforce_rate = 0.05
@@ -663,7 +663,7 @@ phenomenalism = {
 experimental_psychology = {
 	area = psychology
 	year = 1850
-	cost = 14400
+	cost = 16560
 	
 	regular_experience_level = 5
 	reinforce_rate = 0.05
@@ -688,7 +688,7 @@ experimental_psychology = {
 psychoanalysis = {
 	area = psychology
 	year = 1870
-	cost = 18000
+	cost = 20700
 	
 	regular_experience_level = 5
 	reinforce_rate = 0.05
