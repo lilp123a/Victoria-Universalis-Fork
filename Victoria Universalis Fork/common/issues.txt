@@ -34,15 +34,14 @@ party_issues = {
 	
 	economic_policy = {
 		laissez_faire = {
-			factory_owner_cost = 0.5
-			factory_output = 0.05
 			max_tax = 0.75
+			factory_owner_cost = 0.5
 			
 			rules = {
 				build_factory = no
 				expand_factory = no
-				open_factory = yes
-				destroy_factory = yes
+				open_factory = no
+				destroy_factory = no
 				build_railway = no
 				factory_priority = no
 				can_subsidise = no
@@ -87,7 +86,6 @@ party_issues = {
 		
 		state_capitalism = {
 			factory_owner_cost = 1
-			factory_maintenance = 0.05
 			
 			rules = {
 				build_factory = yes
@@ -109,10 +107,8 @@ party_issues = {
 		}
 		
 		planned_economy = {
-			factory_throughput = 0.05
-			factory_maintenance = 0.1
-			
 			factory_owner_cost = 1.5	#negative costs, can't build.
+			
 			rules = {
 				build_factory = yes
 				expand_factory = yes
@@ -863,9 +859,9 @@ political_reforms = {
 			rules = {
 				build_factory = yes
 				expand_factory = yes
-				factory_priority = yes
+				open_factory = yes
+				destroy_factory = yes
 				can_subsidise = yes
-				delete_factory_if_no_input = no
 				build_railway = yes
 				can_invest_in_pop_projects = yes
 			}
