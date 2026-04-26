@@ -1087,10 +1087,6 @@ promote_to =
 			}
 		}
 		modifier = {
-			factor = 5
-			country = { nationalvalue = nv_liberty }
-		}
-		modifier = {
 			factor = -40
 			state_scope = {
 				has_factories = no
@@ -1196,10 +1192,6 @@ promote_to =
 				factor = 1
 				literacy = 0.95
 			}
-		}
-		modifier = {
-			factor = 5
-			country = { nationalvalue = nv_liberty }
 		}
 		modifier = {
 			factor = -40
