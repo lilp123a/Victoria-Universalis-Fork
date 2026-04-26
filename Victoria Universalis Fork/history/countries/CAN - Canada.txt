@@ -9,7 +9,7 @@ culture = french_canadian
 religion = protestant
 government = colonial_company
 plurality = 25
-nationalvalue = nv_liberty
+nationalvalue = nv_industry
 literacy = 0.5
 civilized = yes
 
