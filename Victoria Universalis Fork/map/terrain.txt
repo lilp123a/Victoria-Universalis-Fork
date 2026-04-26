@@ -16,7 +16,6 @@ categories =  {
 		mine_rgo_size = 0
 		mine_rgo_eff = 0
 		min_build_railroad = 4
-		min_build_farmland = 50
 		min_build_mines = 6
 	}
 
@@ -280,7 +279,6 @@ categories =  {
 		mine_rgo_size = 0
 		mine_rgo_eff = 0
 		min_build_railroad = 3
-		min_build_farmland = 49
 		min_build_mines = 6
 	}
 	
