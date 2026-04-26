@@ -1234,7 +1234,7 @@ political_decisions = {
 		effect = {
 			add_country_modifier = {
 				name = expand_farmland_cooldown
-				duration = 7
+				duration = 30
 			}
 			
 			any_owned = {
